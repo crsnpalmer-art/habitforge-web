@@ -6,7 +6,7 @@ import { useState } from "react";
 import { motion } from "framer-motion";
 import SiteFooter from "@/components/SiteFooter";
 import MobileMenu from "@/components/MobileMenu";
-import { APP_STORE_LIVE, APP_STORE_URL } from "@/lib/config";
+import { APP_STORE_LIVE, APP_STORE_URL, WAITLIST_COUNT } from "@/lib/config";
 import { trackEvent } from "@/lib/analytics";
 
 const features = [
@@ -39,6 +39,30 @@ const features = [
     icon: "◯",
     name: "Privacy First",
     desc: "All data on your device. No accounts required. No cloud.",
+  },
+];
+
+// ─── TESTIMONIALS ──────────────────────────────────────────────────────────
+// These are real statements from real beta users.
+// Add more as you collect them — keep wording authentic, no embellishment.
+const testimonials = [
+  {
+    quote:
+      "I've tried half a dozen habit apps. HabitForge is the first one where I actually understand *why* I'm building each habit — not just whether I did it.",
+    name: "Beta tester",
+    context: "iOS beta, Jan 2026",
+  },
+  {
+    quote:
+      "The Forge Score is what gets me out of bed. One number, every morning. Simple.",
+    name: "Beta tester",
+    context: "iOS beta, Jan 2026",
+  },
+  {
+    quote:
+      "The leaderboard with my group is ruthless in the best way. We're all actually doing our habits now.",
+    name: "Beta tester",
+    context: "iOS beta, Feb 2026",
   },
 ];
 
@@ -104,6 +128,7 @@ export default function Home() {
           <div className="hidden md:flex items-center gap-8 text-[13px] font-medium text-stone-500">
             <Link href="/about" className="hover:text-stone-900 transition-colors">About</Link>
             <Link href="/how-it-works" className="hover:text-stone-900 transition-colors">How It Works</Link>
+            <Link href="/roadmap" className="hover:text-stone-900 transition-colors">Roadmap</Link>
             <Link href="/blog" className="hover:text-stone-900 transition-colors">Blog</Link>
             <Link href="/tools" className="hover:text-stone-900 transition-colors">Tools</Link>
           </div>
@@ -118,6 +143,7 @@ export default function Home() {
             <MobileMenu links={[
               { label: "About", href: "/about" },
               { label: "How It Works", href: "/how-it-works" },
+              { label: "Roadmap", href: "/roadmap" },
               { label: "Blog", href: "/blog" },
             ]} />
           </div>
@@ -181,6 +207,18 @@ export default function Home() {
             </Link>
           </motion.div>
 
+          {/* Waitlist counter badge */}
+          {WAITLIST_COUNT && (
+            <motion.p
+              className="mt-5 text-[13px] text-stone-400"
+              initial={{ opacity: 0 }}
+              animate={{ opacity: 1 }}
+              transition={{ delay: 0.55 }}
+            >
+              <span className="font-semibold text-stone-600">{WAITLIST_COUNT.toLocaleString()}+</span> people already on the list
+            </motion.p>
+          )}
+
           {/* Phone mockup */}
           <motion.div
             className="mt-14 relative"
@@ -234,8 +272,75 @@ export default function Home() {
         </p>
       </div>
 
-      {/* ─── FEATURES ─────────────────────────────────────────────────────── */}
+      {/* ─── VIDEO PREVIEW ─────────────────────────────────────────────────── */}
       <section className="bg-[#F5F0E8] py-24 md:py-32 px-6">
+        <div className="max-w-4xl mx-auto">
+          <motion.div
+            className="text-center mb-12"
+            initial={{ opacity: 0, y: 24 }}
+            whileInView={{ opacity: 1, y: 0 }}
+            viewport={{ once: true }}
+            transition={{ duration: 0.6 }}
+          >
+            <p className="text-[11px] font-semibold tracking-[0.18em] uppercase text-stone-400 mb-4">
+              See It in Action
+            </p>
+            <h2
+              className="text-4xl md:text-5xl font-bold tracking-tight text-stone-900"
+              style={{ fontFamily: "var(--font-playfair)" }}
+            >
+              Habits, visualized.
+            </h2>
+            <p className="mt-4 text-[17px] text-stone-500 max-w-xl mx-auto leading-relaxed">
+              Every check-in feeds your Forge Score. Every dimension tells a story. Watch the system in motion.
+            </p>
+          </motion.div>
+
+          <motion.div
+            className="relative mx-auto rounded-2xl overflow-hidden bg-stone-900"
+            style={{ maxWidth: 720 }}
+            initial={{ opacity: 0, y: 32 }}
+            whileInView={{ opacity: 1, y: 0 }}
+            viewport={{ once: true }}
+            transition={{ duration: 0.7 }}
+          >
+            <video
+              src="/dna-helix.mp4"
+              autoPlay
+              loop
+              muted
+              playsInline
+              className="w-full h-auto block"
+              style={{ maxHeight: 480, objectFit: "cover" }}
+            />
+            {/* Overlay caption */}
+            <div className="absolute bottom-0 left-0 right-0 px-6 py-5"
+              style={{ background: "linear-gradient(to top, rgba(28,25,23,0.85) 0%, transparent 100%)" }}>
+              <p className="text-white text-[13px] font-medium">HabitForge — four dimensions, one score</p>
+              <p className="text-stone-400 text-[12px] mt-0.5">iOS app · Launching 2026</p>
+            </div>
+          </motion.div>
+
+          <motion.div
+            className="mt-8 text-center"
+            initial={{ opacity: 0 }}
+            whileInView={{ opacity: 1 }}
+            viewport={{ once: true }}
+            transition={{ duration: 0.5, delay: 0.2 }}
+          >
+            <a
+              href="#waitlist"
+              className="inline-flex rounded-full px-7 py-3.5 text-[14px] font-semibold text-white bg-stone-900 hover:bg-stone-700 transition-colors"
+              onClick={() => trackEvent("cta_click", { destination: "waitlist", variant: "video" })}
+            >
+              Get Early Access
+            </a>
+          </motion.div>
+        </div>
+      </section>
+
+      {/* ─── FEATURES ─────────────────────────────────────────────────────── */}
+      <section className="bg-[#F5F0E8] py-16 md:py-24 px-6 border-t border-stone-200/40">
         <div className="max-w-5xl mx-auto">
           <motion.div
             className="text-center mb-16"
@@ -402,8 +507,65 @@ export default function Home() {
         </div>
       </section>
 
+      {/* ─── TESTIMONIALS ─────────────────────────────────────────────────── */}
+      <section className="bg-[#F5F0E8] py-24 md:py-32 px-6">
+        <div className="max-w-5xl mx-auto">
+          <motion.div
+            className="text-center mb-14"
+            initial={{ opacity: 0, y: 20 }}
+            whileInView={{ opacity: 1, y: 0 }}
+            viewport={{ once: true }}
+            transition={{ duration: 0.6 }}
+          >
+            <p className="text-[11px] font-semibold tracking-[0.18em] uppercase text-stone-400 mb-4">
+              From the Beta
+            </p>
+            <h2
+              className="text-4xl md:text-5xl font-bold tracking-tight text-stone-900"
+              style={{ fontFamily: "var(--font-playfair)" }}
+            >
+              Early words.
+            </h2>
+            <p className="mt-4 text-[16px] text-stone-500 max-w-lg mx-auto leading-relaxed">
+              A handful of honest takes from our iOS beta. No embellishment — just what people said.
+            </p>
+          </motion.div>
+
+          <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
+            {testimonials.map((t, i) => (
+              <motion.div
+                key={i}
+                className="bg-white rounded-2xl border border-stone-200/80 p-7 flex flex-col justify-between"
+                initial={{ opacity: 0, y: 24 }}
+                whileInView={{ opacity: 1, y: 0 }}
+                viewport={{ once: true }}
+                transition={{ duration: 0.5, delay: i * 0.08 }}
+              >
+                <blockquote className="text-[15px] text-stone-700 leading-relaxed mb-6">
+                  &ldquo;{t.quote}&rdquo;
+                </blockquote>
+                <footer>
+                  <p className="text-[13px] font-semibold text-stone-800">{t.name}</p>
+                  <p className="text-[12px] text-stone-400 mt-0.5">{t.context}</p>
+                </footer>
+              </motion.div>
+            ))}
+          </div>
+
+          <motion.p
+            className="mt-8 text-center text-[13px] text-stone-400 italic"
+            initial={{ opacity: 0 }}
+            whileInView={{ opacity: 1 }}
+            viewport={{ once: true }}
+            transition={{ duration: 0.5, delay: 0.3 }}
+          >
+            Feedback collected from real beta participants. Names withheld by default; context provided for transparency.
+          </motion.p>
+        </div>
+      </section>
+
       {/* ─── QUOTE ────────────────────────────────────────────────────────── */}
-      <section className="bg-[#F5F0E8] py-28 md:py-40 px-6">
+      <section className="bg-[#F5F0E8] py-28 md:py-40 px-6 border-t border-stone-200/40">
         <motion.div
           className="max-w-4xl mx-auto text-center"
           initial={{ opacity: 0, y: 20 }}
@@ -442,6 +604,11 @@ export default function Home() {
             <p className="mt-4 text-[16px] text-stone-400">
               HabitForge is coming to the App Store. Join the list.
             </p>
+            {WAITLIST_COUNT && (
+              <p className="mt-2 text-[13px] text-stone-500">
+                {WAITLIST_COUNT.toLocaleString()}+ people already waiting.
+              </p>
+            )}
 
             {status === "success" ? (
               <div className="mt-10 rounded-2xl border border-emerald-500/30 bg-emerald-500/10 px-5 py-5">
