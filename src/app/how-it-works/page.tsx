@@ -47,9 +47,9 @@ const steps = [
   },
   {
     num: "06",
-    title: "Full Control",
-    desc: "Configure daily reminders, streak alerts, and group notifications. Lock the app with Face ID or Touch ID. Export your data as JSON anytime.",
-    screenshot: "/screenshots/06-settings.png",
+    title: "Build Your Routine",
+    desc: "Use Routine Wizards to instantly set up Morning Routines, Digital Detox plans, and more — or build custom habits from scratch with difficulty levels and score multipliers.",
+    screenshot: "/screenshots/08-add-habit.png",
   },
 ];
 
