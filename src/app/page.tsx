@@ -159,9 +159,7 @@ export default function Home() {
           <div className="hidden md:flex items-center gap-8 text-[13px] font-medium text-stone-500">
             <Link href="/about" className="hover:text-stone-900 transition-colors">About</Link>
             <Link href="/how-it-works" className="hover:text-stone-900 transition-colors">How It Works</Link>
-            <Link href="/roadmap" className="hover:text-stone-900 transition-colors">Roadmap</Link>
             <Link href="/blog" className="hover:text-stone-900 transition-colors">Blog</Link>
-            <Link href="/tools" className="hover:text-stone-900 transition-colors">Tools</Link>
           </div>
           <a
             href="#waitlist"
@@ -174,7 +172,6 @@ export default function Home() {
             <MobileMenu links={[
               { label: "About", href: "/about" },
               { label: "How It Works", href: "/how-it-works" },
-              { label: "Roadmap", href: "/roadmap" },
               { label: "Blog", href: "/blog" },
             ]} />
           </div>
