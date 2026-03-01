@@ -72,29 +72,6 @@ const features = [
   },
 ];
 
-// ─── TESTIMONIALS ──────────────────────────────────────────────────────────
-// These are real statements from real beta users.
-// Add more as you collect them — keep wording authentic, no embellishment.
-const testimonials = [
-  {
-    quote:
-      "I've tried half a dozen habit apps. HabitForge is the first one where I actually understand *why* I'm building each habit — not just whether I did it.",
-    name: "Beta tester",
-    context: "iOS beta, Jan 2026",
-  },
-  {
-    quote:
-      "The Forge Score is what gets me out of bed. One number, every morning. Simple.",
-    name: "Beta tester",
-    context: "iOS beta, Jan 2026",
-  },
-  {
-    quote:
-      "The leaderboard with my group is ruthless in the best way. We're all actually doing our habits now.",
-    name: "Beta tester",
-    context: "iOS beta, Feb 2026",
-  },
-];
 
 export default function Home() {
   const [email, setEmail] = useState("");
@@ -525,62 +502,7 @@ export default function Home() {
         </div>
       </section>
 
-      {/* ─── TESTIMONIALS ─────────────────────────────────────────────────── */}
-      <section className="bg-[#F5F0E8] py-24 md:py-32 px-6">
-        <div className="max-w-5xl mx-auto">
-          <motion.div
-            className="text-center mb-14"
-            initial={{ opacity: 0, y: 20 }}
-            whileInView={{ opacity: 1, y: 0 }}
-            viewport={{ once: true }}
-            transition={{ duration: 0.6 }}
-          >
-            <p className="text-[11px] font-semibold tracking-[0.18em] uppercase text-stone-400 mb-4">
-              From the Beta
-            </p>
-            <h2
-              className="text-4xl md:text-5xl font-bold tracking-tight text-stone-900"
-              style={{ fontFamily: "var(--font-playfair)" }}
-            >
-              Early words.
-            </h2>
-            <p className="mt-4 text-[16px] text-stone-500 max-w-lg mx-auto leading-relaxed">
-              A handful of honest takes from our iOS beta. No embellishment — just what people said.
-            </p>
-          </motion.div>
-
-          <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
-            {testimonials.map((t, i) => (
-              <motion.div
-                key={i}
-                className="bg-white rounded-2xl border border-stone-200/80 p-7 flex flex-col justify-between"
-                initial={{ opacity: 0, y: 24 }}
-                whileInView={{ opacity: 1, y: 0 }}
-                viewport={{ once: true }}
-                transition={{ duration: 0.5, delay: i * 0.08 }}
-              >
-                <blockquote className="text-[15px] text-stone-700 leading-relaxed mb-6">
-                  &ldquo;{t.quote}&rdquo;
-                </blockquote>
-                <footer>
-                  <p className="text-[13px] font-semibold text-stone-800">{t.name}</p>
-                  <p className="text-[12px] text-stone-400 mt-0.5">{t.context}</p>
-                </footer>
-              </motion.div>
-            ))}
-          </div>
-
-          <motion.p
-            className="mt-8 text-center text-[13px] text-stone-400 italic"
-            initial={{ opacity: 0 }}
-            whileInView={{ opacity: 1 }}
-            viewport={{ once: true }}
-            transition={{ duration: 0.5, delay: 0.3 }}
-          >
-            Feedback collected from real beta participants. Names withheld by default; context provided for transparency.
-          </motion.p>
-        </div>
-      </section>
+      {/* testimonials removed — placeholder for real App Store reviews post-launch */}
 
       {/* ─── QUOTE ────────────────────────────────────────────────────────── */}
       <section className="bg-[#F5F0E8] py-28 md:py-40 px-6 border-t border-stone-200/40">
