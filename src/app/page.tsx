@@ -1,258 +1,487 @@
-import Image from "next/image";
+"use client";
 
-// Replace with your Formspree form ID from https://formspree.io
-// Or remove form action and use mailto: below
-const FORMSPREE_ID = "xqapogjv"; // placeholder — update with real ID
+import Image from "next/image";
+import Link from "next/link";
+import { useState } from "react";
+import { motion } from "framer-motion";
+import SiteFooter from "@/components/SiteFooter";
+import MobileMenu from "@/components/MobileMenu";
+import { APP_STORE_LIVE, APP_STORE_URL } from "@/lib/config";
+import { trackEvent } from "@/lib/analytics";
+
+const features = [
+  {
+    icon: "◈",
+    name: "Four Dimensions",
+    desc: "Mental, Physical, Spiritual, Financial. Every habit mapped to what it builds.",
+  },
+  {
+    icon: "◎",
+    name: "Forge Score",
+    desc: "A daily performance score that reflects your consistency across all dimensions.",
+  },
+  {
+    icon: "⬡",
+    name: "Streak Tracking",
+    desc: "Build momentum. Break a streak, feel it. Build it back, own it.",
+  },
+  {
+    icon: "◻",
+    name: "Progress Analytics",
+    desc: "Weekly and monthly trends. See what's working.",
+  },
+  {
+    icon: "◑",
+    name: "Group Accountability",
+    desc: "Compete with friends. The leaderboard keeps everyone honest.",
+  },
+  {
+    icon: "◯",
+    name: "Privacy First",
+    desc: "All data on your device. No accounts required. No cloud.",
+  },
+];
 
 export default function Home() {
+  const [email, setEmail] = useState("");
+  const [status, setStatus] = useState<"idle" | "loading" | "success" | "error">("idle");
+  const [errorMessage, setErrorMessage] = useState("Something went wrong. Please try again.");
+
+  async function handleSubmit(event: React.FormEvent<HTMLFormElement>) {
+    event.preventDefault();
+    const nextEmail = email.trim();
+    if (!nextEmail) {
+      setStatus("error");
+      setErrorMessage("Please enter an email address.");
+      return;
+    }
+    setStatus("loading");
+    setErrorMessage("Something went wrong. Please try again.");
+    try {
+      const response = await fetch("/api/waitlist", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ email: nextEmail }),
+      });
+      if (response.ok) {
+        setStatus("success");
+        setEmail("");
+        return;
+      }
+      const payload = (await response.json().catch(() => null)) as { error?: string } | null;
+      setStatus("error");
+      setErrorMessage(payload?.error ?? "Could not join the waitlist. Please try again.");
+    } catch {
+      setStatus("error");
+      setErrorMessage("Network issue. Please try again in a moment.");
+    }
+  }
+
   return (
-    <main className="min-h-screen bg-[#F5F0E8] font-sans">
-      {/* ── HERO ── */}
-      <section className="flex flex-col items-center justify-center min-h-screen px-6 text-center relative overflow-hidden">
-        {/* Ambient glow */}
-        <div
-          className="absolute inset-0 pointer-events-none"
+    <main className="min-h-screen overflow-x-hidden text-stone-900 bg-[#F5F0E8]">
+      {/* ─── HERO ─────────────────────────────────────────────────────────── */}
+      <section
+        className="relative flex min-h-screen flex-col items-center justify-center overflow-hidden px-4 sm:px-6 pt-24 pb-12 text-center"
+        style={{
+          background:
+            "radial-gradient(ellipse 70% 60% at 50% 40%, #FDF9F3 0%, #F5F0E8 100%)",
+        }}
+      >
+        {/* Nav */}
+        <nav
+          className="fixed top-0 left-0 right-0 z-50 flex items-center justify-between px-4 sm:px-6 md:px-8 py-4 sm:py-5"
           style={{
-            background:
-              "radial-gradient(ellipse 60% 50% at 50% 30%, rgba(34,197,94,0.08) 0%, rgba(6,182,212,0.06) 40%, transparent 70%)",
-          }}
-        />
-
-        {/* Logo */}
-        <div className="animate-float mb-8">
-          <div
-            className="rounded-3xl overflow-hidden"
-            style={{
-              boxShadow:
-                "0 0 60px rgba(34,197,94,0.25), 0 0 120px rgba(139,92,246,0.15)",
-            }}
-          >
-            <Image
-              src="/logo.jpg"
-              alt="HabitForge Logo"
-              width={140}
-              height={140}
-              className="rounded-3xl"
-              priority
-            />
-          </div>
-        </div>
-
-        {/* Brand */}
-        <h1 className="text-6xl md:text-8xl font-black tracking-tight mb-4">
-          <span className="gradient-text">HabitForge</span>
-        </h1>
-
-        {/* Tagline */}
-        <p className="text-xl md:text-2xl text-stone-600 font-light max-w-xl mb-10 leading-relaxed">
-          Your habits are your DNA.{" "}
-          <span className="text-stone-800 font-medium">
-            Build them intentionally.
-          </span>
-        </p>
-
-        {/* App Store CTA — non-clickable */}
-        <button
-          disabled
-          aria-label="Coming Soon to the App Store"
-          className="inline-flex items-center gap-3 px-8 py-4 rounded-2xl text-white font-semibold text-lg cursor-not-allowed select-none shadow-xl opacity-85"
-          style={{
-            background:
-              "linear-gradient(135deg, #22c55e 0%, #06b6d4 50%, #8b5cf6 100%)",
+            backdropFilter: "blur(16px)",
+            WebkitBackdropFilter: "blur(16px)",
+            background: "rgba(245, 240, 232, 0.85)",
+            borderBottom: "1px solid rgba(0,0,0,0.06)",
           }}
         >
-          {/* Apple icon */}
-          <svg
-            xmlns="http://www.w3.org/2000/svg"
-            className="w-6 h-6 shrink-0"
-            fill="currentColor"
-            viewBox="0 0 24 24"
+          <Link href="/" className="flex items-center gap-2.5">
+            <Image src="/logo.jpg" alt="HabitForge" width={30} height={30} className="rounded-lg" />
+            <span className="text-[13px] font-bold tracking-tight text-stone-800">HabitForge</span>
+          </Link>
+          <div className="hidden md:flex items-center gap-8 text-[13px] font-medium text-stone-500">
+            <Link href="/about" className="hover:text-stone-900 transition-colors">About</Link>
+            <Link href="/how-it-works" className="hover:text-stone-900 transition-colors">How It Works</Link>
+            <Link href="/blog" className="hover:text-stone-900 transition-colors">Blog</Link>
+            <Link href="/tools" className="hover:text-stone-900 transition-colors">Tools</Link>
+          </div>
+          <a
+            href="#waitlist"
+            className="hidden md:inline-flex rounded-full px-4 py-2 text-[13px] font-semibold text-stone-100 bg-stone-900 hover:bg-stone-800 transition-colors"
+            onClick={() => trackEvent("cta_click", { destination: "waitlist", variant: "nav" })}
           >
-            <path d="M18.71 19.5c-.83 1.24-1.71 2.45-3.05 2.47-1.34.03-1.77-.79-3.29-.79-1.53 0-2 .77-3.27.82-1.31.05-2.3-1.32-3.14-2.53C4.25 17 2.94 12.45 4.7 9.39c.87-1.52 2.43-2.48 4.12-2.51 1.28-.02 2.5.87 3.29.87.78 0 2.26-1.07 3.8-.91.65.03 2.47.26 3.64 1.98-.09.06-2.17 1.28-2.15 3.81.03 3.02 2.65 4.03 2.68 4.04-.03.07-.42 1.44-1.38 2.83M13 3.5c.73-.83 1.94-1.46 2.94-1.5.13 1.17-.34 2.35-1.04 3.19-.69.85-1.83 1.51-2.95 1.42-.15-1.15.41-2.35 1.05-3.11z" />
-          </svg>
-          Coming Soon to the App Store
-        </button>
+            Join Waitlist
+          </a>
+          <div className="md:hidden">
+            <MobileMenu links={[
+              { label: "About", href: "/about" },
+              { label: "How It Works", href: "/how-it-works" },
+              { label: "Blog", href: "/blog" },
+            ]} />
+          </div>
+        </nav>
 
-        {/* Scroll hint */}
-        <div className="absolute bottom-8 flex flex-col items-center gap-1 opacity-40">
-          <span className="text-xs text-stone-500 tracking-widest uppercase">
-            Scroll
-          </span>
-          <svg
-            className="w-5 h-5 text-stone-500 animate-bounce"
-            fill="none"
-            stroke="currentColor"
-            viewBox="0 0 24 24"
+        {/* Hero content */}
+        <div className="relative z-10 flex flex-col items-center max-w-4xl">
+          <motion.h1
+            className="mt-4 font-bold leading-[0.95] tracking-tight text-stone-900"
+            style={{
+              fontFamily: "var(--font-playfair)",
+              fontSize: "clamp(40px, 8vw, 96px)",
+            }}
+            initial={{ opacity: 0, y: 28 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ duration: 0.75, ease: [0.16, 1, 0.3, 1] }}
           >
-            <path
-              strokeLinecap="round"
-              strokeLinejoin="round"
-              strokeWidth={2}
-              d="M19 9l-7 7-7-7"
-            />
-          </svg>
+            Forge the person<br />you&apos;re becoming.
+          </motion.h1>
+
+          <motion.p
+            className="mt-6 max-w-xl text-[18px] sm:text-[20px] leading-relaxed text-stone-500"
+            style={{ fontFamily: "var(--font-inter)" }}
+            initial={{ opacity: 0, y: 20 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ duration: 0.7, delay: 0.18, ease: [0.16, 1, 0.3, 1] }}
+          >
+            HabitForge tracks your Mental, Physical, Spiritual, and Financial habits — and shows you the system running underneath.
+          </motion.p>
+
+          <motion.div
+            className="mt-8 flex flex-col sm:flex-row gap-3"
+            initial={{ opacity: 0, y: 16 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ duration: 0.65, delay: 0.3, ease: [0.16, 1, 0.3, 1] }}
+          >
+            {APP_STORE_LIVE ? (
+              <a
+                href={APP_STORE_URL}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="w-full sm:w-auto rounded-full px-7 py-3.5 text-[14px] font-semibold text-white bg-stone-900 hover:bg-stone-700 transition-colors text-center"
+                onClick={() => trackEvent("cta_click", { destination: "app_store", variant: "hero" })}
+              >
+                Download on the App Store
+              </a>
+            ) : (
+              <a
+                href="#waitlist"
+                className="w-full sm:w-auto rounded-full px-7 py-3.5 text-[14px] font-semibold text-white bg-stone-900 hover:bg-stone-700 transition-colors text-center"
+                onClick={() => trackEvent("cta_click", { destination: "waitlist", variant: "hero" })}
+              >
+                Join the Waitlist
+              </a>
+            )}
+            <Link
+              href="/how-it-works"
+              className="w-full sm:w-auto rounded-full px-7 py-3.5 text-[14px] font-semibold text-stone-800 border border-stone-400 hover:border-stone-700 hover:bg-stone-900/5 transition-all"
+            >
+              See How It Works
+            </Link>
+          </motion.div>
+
+          {/* Phone mockup */}
+          <motion.div
+            className="mt-14 relative"
+            initial={{ opacity: 0, y: 40 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ duration: 0.85, delay: 0.45, ease: [0.16, 1, 0.3, 1] }}
+          >
+            <div
+              className="relative mx-auto rounded-[44px] overflow-hidden"
+              style={{
+                width: "min(340px, 86vw)",
+                boxShadow:
+                  "0 0 0 10px #1a1a1a, 0 0 0 11px #333, 0 40px 80px rgba(0,0,0,0.22), 0 8px 24px rgba(0,0,0,0.12)",
+              }}
+            >
+              <Image
+                src="/screenshots/03-dashboard.png"
+                alt="HabitForge dashboard"
+                width={1170}
+                height={2532}
+                className="w-full h-auto block"
+                priority
+              />
+            </div>
+          </motion.div>
         </div>
+
+        {/* Scroll indicator */}
+        <motion.div
+          className="absolute bottom-8 left-1/2 -translate-x-1/2 flex flex-col items-center gap-1.5"
+          initial={{ opacity: 0 }}
+          animate={{ opacity: 1 }}
+          transition={{ delay: 1.2 }}
+        >
+          <span className="text-[10px] tracking-[0.2em] uppercase text-stone-400">scroll</span>
+          <motion.div
+            animate={{ y: [0, 5, 0] }}
+            transition={{ duration: 1.6, repeat: Infinity, ease: "easeInOut" }}
+            className="text-stone-400 text-base"
+          >
+            ↓
+          </motion.div>
+        </motion.div>
       </section>
 
-      {/* ── 4 PILLARS ── */}
-      <section className="py-24 px-6">
-        <div className="max-w-5xl mx-auto">
-          <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-stone-800 mb-4">
-              Four Dimensions of Growth
-            </h2>
-            <p className="text-lg text-stone-500 max-w-xl mx-auto">
-              HabitForge tracks every strand of who you&apos;re becoming.
-            </p>
-          </div>
+      {/* ─── SOCIAL PROOF STRIP ───────────────────────────────────────────── */}
+      <div className="bg-[#F5F0E8] border-y border-stone-200/60 py-4">
+        <p className="text-center text-[11px] font-semibold tracking-[0.18em] uppercase text-stone-400"
+          style={{ fontVariant: "small-caps" }}>
+          Mental · Physical · Spiritual · Financial · Forge Score · Group Accountability · iOS 17+
+        </p>
+      </div>
 
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
-            {[
-              {
-                emoji: "🧠",
-                label: "Mental",
-                gradient: "linear-gradient(135deg, #a78bfa, #7c3aed)",
-                bg: "#f5f3ff",
-                border: "#ede9fe",
-                desc: "Sharpen focus, build discipline, and cultivate the mindset that compounds over time.",
-              },
-              {
-                emoji: "💪",
-                label: "Physical",
-                gradient: "linear-gradient(135deg, #4ade80, #16a34a)",
-                bg: "#f0fdf4",
-                border: "#dcfce7",
-                desc: "Move daily. Train smart. Build a body that performs as well as it looks.",
-              },
-              {
-                emoji: "🙏",
-                label: "Spiritual",
-                gradient: "linear-gradient(135deg, #fbbf24, #ea580c)",
-                bg: "#fffbeb",
-                border: "#fef3c7",
-                desc: "Ground yourself in purpose. Daily practices that connect you to something greater.",
-              },
-              {
-                emoji: "💰",
-                label: "Financial",
-                gradient: "linear-gradient(135deg, #22d3ee, #2563eb)",
-                bg: "#ecfeff",
-                border: "#cffafe",
-                desc: "Build the habits that build wealth — spending, saving, and investing with intention.",
-              },
-            ].map((pillar) => (
-              <div
-                key={pillar.label}
-                className="rounded-3xl p-8 flex flex-col items-start gap-4 hover:shadow-lg transition-all duration-300 hover:-translate-y-1"
-                style={{
-                  backgroundColor: pillar.bg,
-                  border: `1px solid ${pillar.border}`,
-                }}
+      {/* ─── FEATURES ─────────────────────────────────────────────────────── */}
+      <section className="bg-[#F5F0E8] py-24 md:py-32 px-6">
+        <div className="max-w-5xl mx-auto">
+          <motion.div
+            className="text-center mb-16"
+            initial={{ opacity: 0, y: 24 }}
+            whileInView={{ opacity: 1, y: 0 }}
+            viewport={{ once: true }}
+            transition={{ duration: 0.6 }}
+          >
+            <h2
+              className="text-4xl md:text-5xl font-bold tracking-tight text-stone-900"
+              style={{ fontFamily: "var(--font-playfair)" }}
+            >
+              Everything you need.<br />Nothing you don&apos;t.
+            </h2>
+            <p className="mt-5 text-[17px] text-stone-500 max-w-xl mx-auto leading-relaxed">
+              HabitForge is built around one idea: the person you become is the sum of your daily habits.
+            </p>
+          </motion.div>
+
+          <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+            {features.map((f, i) => (
+              <motion.div
+                key={f.name}
+                className="bg-white rounded-2xl border border-stone-200/80 p-6"
+                initial={{ opacity: 0, y: 24 }}
+                whileInView={{ opacity: 1, y: 0 }}
+                viewport={{ once: true }}
+                transition={{ duration: 0.5, delay: i * 0.07 }}
+                whileHover={{ y: -3, transition: { duration: 0.18 } }}
               >
-                <div
-                  className="text-4xl w-16 h-16 flex items-center justify-center rounded-2xl shadow-md"
-                  style={{ background: pillar.gradient }}
-                >
-                  {pillar.emoji}
-                </div>
-                <h3 className="text-2xl font-bold text-stone-800">
-                  {pillar.label}
-                </h3>
-                <p className="text-stone-500 text-sm leading-relaxed">
-                  {pillar.desc}
-                </p>
-              </div>
+                <span className="text-2xl text-stone-400 block mb-4">{f.icon}</span>
+                <h3 className="text-[15px] font-bold text-stone-900 mb-1.5">{f.name}</h3>
+                <p className="text-[13px] text-stone-500 leading-relaxed">{f.desc}</p>
+              </motion.div>
             ))}
           </div>
         </div>
       </section>
 
-      {/* ── WAITLIST ── */}
-      <section className="py-24 px-6">
-        <div className="max-w-xl mx-auto">
-          <div
-            className="rounded-3xl p-10 md:p-14 text-center"
-            style={{
-              background:
-                "linear-gradient(135deg, rgba(34,197,94,0.06), rgba(6,182,212,0.06), rgba(139,92,246,0.06))",
-              border: "1px solid rgba(139,92,246,0.18)",
-            }}
+      {/* ─── APP SHOWCASE ─────────────────────────────────────────────────── */}
+      <section className="bg-[#EDEAE3] py-24 md:py-32 px-6 overflow-hidden">
+        <div className="max-w-5xl mx-auto">
+          <motion.div
+            className="text-center mb-16"
+            initial={{ opacity: 0, y: 20 }}
+            whileInView={{ opacity: 1, y: 0 }}
+            viewport={{ once: true }}
+            transition={{ duration: 0.6 }}
           >
-            <h2 className="text-4xl font-bold text-stone-800 mb-3">
-              Be First in Line
-            </h2>
-            <p className="text-stone-500 mb-8">
-              Join the waitlist and get early access when HabitForge launches.
-            </p>
-
-            <form
-              action={`https://formspree.io/f/${FORMSPREE_ID}`}
-              method="POST"
-              className="flex flex-col sm:flex-row gap-3"
+            <h2
+              className="text-4xl md:text-5xl font-bold tracking-tight text-stone-900"
+              style={{ fontFamily: "var(--font-playfair)" }}
             >
-              <input
-                type="email"
-                name="email"
-                placeholder="your@email.com"
-                required
-                className="flex-1 px-5 py-4 rounded-2xl bg-white border border-stone-200 text-stone-800 placeholder-stone-400 outline-none focus:border-violet-400 focus:ring-2 focus:ring-violet-100 transition-all"
+              Built for the way<br />you actually live.
+            </h2>
+            <p className="mt-5 text-[17px] text-stone-500">
+              Check in daily. Track your streaks. Watch the picture emerge.
+            </p>
+          </motion.div>
+
+          {/* Mobile: single center phone only */}
+          <motion.div
+            className="flex md:hidden justify-center"
+            initial={{ opacity: 0, y: 30 }}
+            whileInView={{ opacity: 1, y: 0 }}
+            viewport={{ once: true }}
+            transition={{ duration: 0.7 }}
+          >
+            <div
+              className="rounded-[44px] overflow-hidden"
+              style={{
+                width: "min(260px, 78vw)",
+                boxShadow: "0 0 0 10px #1a1a1a, 0 0 0 11px #444, 0 40px 80px rgba(0,0,0,0.25)",
+              }}
+            >
+              <Image
+                src="/screenshots/03-dashboard.png"
+                alt="HabitForge dashboard"
+                width={1170}
+                height={2532}
+                className="w-full h-auto block"
               />
-              <button
-                type="submit"
-                className="px-7 py-4 rounded-2xl text-white font-semibold shadow-lg hover:opacity-90 active:scale-95 transition-all whitespace-nowrap"
+            </div>
+          </motion.div>
+
+          {/* Desktop: 3-phone angled showcase */}
+          <div className="hidden md:flex items-end justify-center gap-6">
+            {/* Left */}
+            <motion.div
+              className="relative flex-shrink-0"
+              style={{ width: 200 }}
+              initial={{ opacity: 0, x: -40, rotate: -3 }}
+              whileInView={{ opacity: 1, x: 0, rotate: -3 }}
+              viewport={{ once: true }}
+              transition={{ duration: 0.7, delay: 0.1 }}
+            >
+              <div
+                className="rounded-[36px] overflow-hidden translate-y-6"
                 style={{
-                  background:
-                    "linear-gradient(135deg, #22c55e 0%, #06b6d4 50%, #8b5cf6 100%)",
+                  boxShadow: "0 0 0 8px #1a1a1a, 0 0 0 9px #333, 0 30px 60px rgba(0,0,0,0.2)",
                 }}
               >
-                Get Early Access
-              </button>
-            </form>
+                <Image
+                  src="/screenshots/01-auth.png"
+                  alt="HabitForge sign-in screen"
+                  width={1170}
+                  height={2532}
+                  className="w-full h-auto block"
+                  loading="lazy"
+                />
+              </div>
+            </motion.div>
 
-            <p className="text-xs text-stone-400 mt-5">
-              No spam. Just the launch date — and something special for early
-              believers.
-            </p>
+            {/* Center */}
+            <motion.div
+              className="relative flex-shrink-0 z-10"
+              style={{ width: 260 }}
+              initial={{ opacity: 0, y: 40 }}
+              whileInView={{ opacity: 1, y: 0 }}
+              viewport={{ once: true }}
+              transition={{ duration: 0.75, delay: 0.05 }}
+            >
+              <div
+                className="rounded-[44px] overflow-hidden"
+                style={{
+                  boxShadow: "0 0 0 10px #1a1a1a, 0 0 0 11px #444, 0 50px 100px rgba(0,0,0,0.28), 0 8px 24px rgba(0,0,0,0.15)",
+                }}
+              >
+                <Image
+                  src="/screenshots/03-dashboard.png"
+                  alt="HabitForge dashboard"
+                  width={1170}
+                  height={2532}
+                  className="w-full h-auto block"
+                />
+              </div>
+            </motion.div>
+
+            {/* Right */}
+            <motion.div
+              className="relative flex-shrink-0"
+              style={{ width: 200 }}
+              initial={{ opacity: 0, x: 40, rotate: 3 }}
+              whileInView={{ opacity: 1, x: 0, rotate: 3 }}
+              viewport={{ once: true }}
+              transition={{ duration: 0.7, delay: 0.1 }}
+            >
+              <div
+                className="rounded-[36px] overflow-hidden translate-y-6"
+                style={{
+                  boxShadow: "0 0 0 8px #1a1a1a, 0 0 0 9px #333, 0 30px 60px rgba(0,0,0,0.2)",
+                }}
+              >
+                <Image
+                  src="/screenshots/04-progress.png"
+                  alt="HabitForge progress analytics"
+                  width={1170}
+                  height={2532}
+                  className="w-full h-auto block"
+                />
+              </div>
+            </motion.div>
           </div>
         </div>
       </section>
 
-      {/* ── FOOTER ── */}
-      <footer className="py-10 px-6 border-t border-stone-200">
-        <div className="max-w-5xl mx-auto flex flex-col sm:flex-row items-center justify-between gap-4 text-stone-400 text-sm">
-          <div className="flex items-center gap-2">
-            <Image
-              src="/logo.jpg"
-              alt="HabitForge"
-              width={28}
-              height={28}
-              className="rounded-lg opacity-80"
-            />
-            <span className="font-medium text-stone-600">HabitForge</span>
-            <span className="text-stone-300">·</span>
-            <a
-              href="https://habitforgeai.com"
-              className="hover:text-stone-600 transition-colors"
+      {/* ─── QUOTE ────────────────────────────────────────────────────────── */}
+      <section className="bg-[#F5F0E8] py-28 md:py-40 px-6">
+        <motion.div
+          className="max-w-4xl mx-auto text-center"
+          initial={{ opacity: 0, y: 20 }}
+          whileInView={{ opacity: 1, y: 0 }}
+          viewport={{ once: true }}
+          transition={{ duration: 0.8 }}
+        >
+          <blockquote
+            className="font-bold italic text-stone-800 leading-[1.1]"
+            style={{
+              fontFamily: "var(--font-playfair)",
+              fontSize: "clamp(40px, 6vw, 72px)",
+            }}
+          >
+            &ldquo;Habits are the quiet<br />architecture of life.&rdquo;
+          </blockquote>
+          <p className="mt-8 text-[13px] tracking-widest uppercase text-stone-400">— HabitForge</p>
+        </motion.div>
+      </section>
+
+      {/* ─── WAITLIST CTA ─────────────────────────────────────────────────── */}
+      <section id="waitlist" className="bg-[#1c1917] py-24 md:py-32 px-6">
+        <div className="max-w-lg mx-auto text-center">
+          <motion.div
+            initial={{ opacity: 0, y: 20 }}
+            whileInView={{ opacity: 1, y: 0 }}
+            viewport={{ once: true }}
+            transition={{ duration: 0.65 }}
+          >
+            <h2
+              className="text-5xl md:text-6xl font-bold text-white"
+              style={{ fontFamily: "var(--font-playfair)" }}
             >
-              habitforgeai.com
-            </a>
-          </div>
-          <div className="flex items-center gap-4">
-            <a
-              href="https://twitter.com/HabitForgeAI"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="hover:text-stone-600 transition-colors flex items-center gap-1"
-            >
-              <svg className="w-4 h-4" fill="currentColor" viewBox="0 0 24 24">
-                <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-4.714-6.231-5.401 6.231H2.747l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z" />
-              </svg>
-              @HabitForgeAI
-            </a>
-            <span>© {new Date().getFullYear()} HabitForge</span>
-          </div>
+              Be first.
+            </h2>
+            <p className="mt-4 text-[16px] text-stone-400">
+              HabitForge is coming to the App Store. Join the list.
+            </p>
+
+            {status === "success" ? (
+              <div className="mt-10 rounded-2xl border border-emerald-500/30 bg-emerald-500/10 px-5 py-5">
+                <p className="font-semibold text-emerald-300">You&apos;re on the list.</p>
+                <p className="mt-1 text-sm text-emerald-100/70">We&apos;ll reach out when HabitForge launches.</p>
+              </div>
+            ) : (
+              <form onSubmit={handleSubmit} className="mt-10">
+                <div className="flex gap-2">
+                  <input
+                    type="email"
+                    value={email}
+                    onChange={(e) => setEmail(e.target.value)}
+                    placeholder="you@domain.com"
+                    required
+                    disabled={status === "loading"}
+                    className="flex-1 rounded-full border border-stone-700 bg-stone-800/60 px-5 py-3.5 text-[14px] text-stone-100 placeholder:text-stone-600 outline-none focus:border-stone-500 transition-colors"
+                  />
+                  <motion.button
+                    type="submit"
+                    disabled={status === "loading"}
+                    className="rounded-full px-6 py-3.5 text-[14px] font-semibold text-stone-900 bg-white hover:bg-stone-100 transition-colors disabled:opacity-50"
+                    whileHover={{ scale: 1.03 }}
+                    whileTap={{ scale: 0.97 }}
+                  >
+                    {status === "loading" ? "..." : "Join"}
+                  </motion.button>
+                </div>
+                <p className="mt-3 text-[12px] text-stone-600">No spam. One-click unsubscribe.</p>
+              </form>
+            )}
+
+            <div aria-live="polite" className="min-h-[1.5rem] mt-2">
+              {status === "error" && <p className="text-sm text-rose-400">{errorMessage}</p>}
+            </div>
+          </motion.div>
         </div>
-      </footer>
+      </section>
+
+      <SiteFooter />
     </main>
   );
 }

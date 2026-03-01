@@ -9,9 +9,16 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "framer-motion": "^12.34.3",
+    "gray-matter": "^4.0.3",
     "next": "14.2.3",
+    "next-nprogress-bar": "^2.4.7",
+    "nextjs-toploader": "^3.9.17",
     "react": "^18",
-    "react-dom": "^18"
+    "react-dom": "^18",
+    "remark": "^15.0.1",
+    "remark-html": "^16.0.1",
+    "resend": "^6.9.2"
   },
   "devDependencies": {
     "@types/node": "^20",

@@ -1,30 +1,57 @@
 import type { Metadata } from "next";
-import { Geist } from "next/font/google";
+import { Manrope, Playfair_Display } from "next/font/google";
+import Script from "next/script";
 import "./globals.css";
+import { SITE_URL, SITE_NAME } from "@/lib/config";
 
-const geistSans = Geist({
-  variable: "--font-geist-sans",
+const manrope = Manrope({
+  variable: "--font-sans",
   subsets: ["latin"],
+  weight: ["400", "500", "600", "700", "800"],
+  display: "swap",
+});
+
+const playfair = Playfair_Display({
+  variable: "--font-playfair",
+  subsets: ["latin"],
+  weight: ["400", "700", "900"],
+  display: "swap",
 });
 
 export const metadata: Metadata = {
-  title: "HabitForge — Your habits are your DNA",
+  title: "HabitForge - Habit Operating System",
   description:
-    "Build powerful habits across every dimension of life — Mental, Physical, Spiritual, and Financial. Coming soon to the App Store.",
+    "A focused, private habit operating system for building consistency across mental, physical, spiritual, and financial dimensions.",
+  metadataBase: new URL(SITE_URL),
   openGraph: {
-    title: "HabitForge",
-    description: "Your habits are your DNA. Build them intentionally.",
-    url: "https://habitforgeai.com",
-    siteName: "HabitForge",
+    title: "HabitForge - Habit Operating System",
+    description:
+      "Build high-impact habits across four dimensions with clarity, accountability, and daily momentum.",
+    url: SITE_URL,
+    siteName: SITE_NAME,
     images: [{ url: "/logo.jpg", width: 800, height: 800 }],
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
-    title: "HabitForge",
-    description: "Your habits are your DNA. Build them intentionally.",
+    title: "HabitForge - Habit Operating System",
+    description:
+      "Build high-impact habits across four dimensions with clarity, accountability, and daily momentum.",
     creator: "@HabitForgeAI",
     images: ["/logo.jpg"],
+  },
+};
+
+const websiteSchema = {
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  name: SITE_NAME,
+  url: SITE_URL,
+  description: "A focused, private habit operating system for building consistency across mental, physical, spiritual, and financial dimensions.",
+  potentialAction: {
+    "@type": "SearchAction",
+    target: `${SITE_URL}/blog?q={search_term_string}`,
+    "query-input": "required name=search_term_string",
   },
 };
 
@@ -35,7 +62,17 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={`${geistSans.variable} antialiased`}>{children}</body>
+      <head>
+        <Script
+          id="website-schema"
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteSchema) }}
+          strategy="beforeInteractive"
+        />
+      </head>
+      <body className={`${manrope.variable} ${playfair.variable} antialiased`}>
+        {children}
+      </body>
     </html>
   );
 }
