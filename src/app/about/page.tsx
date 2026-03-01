@@ -282,28 +282,28 @@ export default function AboutPage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
             {[
               {
-                title: "Habit Tracking",
-                desc: "Streaks, reminders, daily check-ins. Build momentum you can see.",
+                title: "Forge Score",
+                desc: "A daily performance score derived from your consistency across all four dimensions. One number. All the signal.",
               },
               {
-                title: "Health Monitoring",
-                desc: "Weight, sleep, nutrition, mood, hydration — your baseline, quantified.",
+                title: "Streaks",
+                desc: "Current and longest streaks tracked per habit. The streak is the feedback loop that keeps you showing up.",
               },
               {
-                title: "Goal Setting",
-                desc: "SMART goals, milestones, progress tracking. Big picture, broken down.",
+                title: "Groups & Leaderboard",
+                desc: "Join groups via code, compete on a live leaderboard, and let shared accountability do the heavy lifting.",
               },
               {
-                title: "Analytics",
-                desc: "Weekly and monthly reports, trend analysis. Your progress, made legible.",
+                title: "Achievement Badges",
+                desc: "Unlock badges as you hit milestones. A simple recognition system that makes progress feel real.",
               },
               {
                 title: "Privacy First",
-                desc: "All data stays on your device. No accounts, no servers, no surveillance.",
+                desc: "AES-256-GCM encryption protects your data at rest and in transit. Biometric lock with Face ID and Touch ID.",
               },
               {
-                title: "Clean Design",
-                desc: "Distraction-free and effortless to use. Tools that get out of your way.",
+                title: "Cloud Sync & Export",
+                desc: "Firebase-backed sync keeps everything current across devices. Export your full history as JSON — no lock-in.",
               },
             ].map((feature) => (
               <div

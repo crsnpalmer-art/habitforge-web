@@ -17,38 +17,38 @@ const NAV_LINKS = [
 const steps = [
   {
     num: "01",
-    title: "Sign In",
-    desc: "Get started with Apple, Google, or Email — quick, secure, and private.",
+    title: "Create Your Account",
+    desc: "Sign in with Apple, Google, or Email — secure authentication in seconds. Your data is encrypted from the first tap.",
     screenshot: "/screenshots/01-auth.png",
   },
   {
     num: "02",
     title: "Personalized Onboarding",
-    desc: "Set your goals and dimensions so HabitForge adapts to your growth priorities from day one.",
+    desc: "Enter your name, pick your first habit, and choose its dimension. HabitForge calibrates to your growth priorities from day one.",
     screenshot: "/screenshots/02-onboarding.png",
   },
   {
     num: "03",
-    title: "Daily Dashboard",
-    desc: "Track completions, streaks, and your daily Forge Score from one command center.",
+    title: "Build Your Daily Habits",
+    desc: "Check off habits across all four dimensions — Mental, Physical, Spiritual, Financial. Every completion counts toward your Forge Score.",
     screenshot: "/screenshots/03-dashboard.png",
   },
   {
     num: "04",
-    title: "Progress Analytics",
-    desc: "Measure consistency over time with visual progress trends and habit-level performance data.",
+    title: "Track Streaks & Forge Score",
+    desc: "Your dashboard shows current streaks, longest streaks, and your daily Forge Score. Watch the analytics tell the story of your consistency.",
     screenshot: "/screenshots/04-progress.png",
   },
   {
     num: "05",
-    title: "Accountability & Groups",
-    desc: "Stay consistent with social accountability and leaderboard-based momentum.",
+    title: "Join Groups & Compete",
+    desc: "Enter a group code to join friends or teammates. The leaderboard tracks rank, score, and rank changes — accountability with teeth.",
     screenshot: "/screenshots/05-leaderboard.png",
   },
   {
     num: "06",
     title: "Full Control",
-    desc: "Manage notifications, security, and account settings your way.",
+    desc: "Configure daily reminders, streak alerts, and group notifications. Lock the app with Face ID or Touch ID. Export your data as JSON anytime.",
     screenshot: "/screenshots/06-settings.png",
   },
 ];

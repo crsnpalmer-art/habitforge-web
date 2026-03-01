@@ -12,33 +12,63 @@ import { trackEvent } from "@/lib/analytics";
 const features = [
   {
     icon: "◈",
-    name: "Four Dimensions",
-    desc: "Mental, Physical, Spiritual, Financial. Every habit mapped to what it builds.",
+    name: "Habit Tracking",
+    desc: "Daily check-ins with streak counters. Build momentum you can see and feel.",
+  },
+  {
+    icon: "⬡",
+    name: "Streaks",
+    desc: "Current and longest streaks tracked per habit. Break one, feel it. Rebuild it, own it.",
   },
   {
     icon: "◎",
     name: "Forge Score",
-    desc: "A daily performance score that reflects your consistency across all dimensions.",
+    desc: "A daily performance score that reflects your consistency across all four dimensions.",
   },
   {
-    icon: "⬡",
-    name: "Streak Tracking",
-    desc: "Build momentum. Break a streak, feel it. Build it back, own it.",
+    icon: "◇",
+    name: "Four Dimensions",
+    desc: "Mental, Physical, Spiritual, Financial. Every habit mapped to what it actually builds.",
+  },
+  {
+    icon: "◑",
+    name: "Groups & Leaderboard",
+    desc: "Join a group with a code, compete on the leaderboard, and hold each other accountable.",
+  },
+  {
+    icon: "★",
+    name: "Achievement Badges",
+    desc: "Unlock badges as you hit milestones. Recognition that keeps the engine running.",
   },
   {
     icon: "◻",
     name: "Progress Analytics",
-    desc: "Weekly and monthly trends. See what's working.",
+    desc: "Weekly trends and category breakdowns. See exactly what's working — and what isn't.",
   },
   {
-    icon: "◑",
-    name: "Group Accountability",
-    desc: "Compete with friends. The leaderboard keeps everyone honest.",
+    icon: "◉",
+    name: "Smart Notifications",
+    desc: "Daily reminders, streak alerts, group activity, and achievement pings — all configurable.",
   },
   {
-    icon: "◯",
+    icon: "⊕",
     name: "Privacy First",
-    desc: "All data on your device. No accounts required. No cloud.",
+    desc: "AES-256-GCM end-to-end encryption. Your habit data is yours — protected at rest and in transit.",
+  },
+  {
+    icon: "⊞",
+    name: "Biometric Lock",
+    desc: "Face ID and Touch ID support. Your data stays locked until you say otherwise.",
+  },
+  {
+    icon: "◌",
+    name: "Cloud Sync",
+    desc: "Firebase-backed sync keeps your habits consistent across devices, always up to date.",
+  },
+  {
+    icon: "⊟",
+    name: "Data Export",
+    desc: "Export your full habit history as JSON anytime. Your data, fully portable.",
   },
 ];
 
@@ -172,7 +202,7 @@ export default function Home() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.7, delay: 0.18, ease: [0.16, 1, 0.3, 1] }}
           >
-            HabitForge tracks your Mental, Physical, Spiritual, and Financial habits — and shows you the system running underneath.
+            Four dimensions. One score. Daily momentum.
           </motion.p>
 
           <motion.div
@@ -270,7 +300,7 @@ export default function Home() {
       <div className="bg-[#F5F0E8] border-y border-stone-200/60 py-4">
         <p className="text-center text-[11px] font-semibold tracking-[0.18em] uppercase text-stone-400"
           style={{ fontVariant: "small-caps" }}>
-          Mental · Physical · Spiritual · Financial · Forge Score · Group Accountability · iOS 17+
+          12 Core Features · Forge Score System · Group Leaderboards · AES-256 Encryption
         </p>
       </div>
 
