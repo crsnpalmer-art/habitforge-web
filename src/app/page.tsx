@@ -68,6 +68,7 @@ const testimonials = [
 
 export default function Home() {
   const [email, setEmail] = useState("");
+  const [goal, setGoal] = useState("");
   const [status, setStatus] = useState<"idle" | "loading" | "success" | "error">("idle");
   const [errorMessage, setErrorMessage] = useState("Something went wrong. Please try again.");
 
@@ -85,7 +86,7 @@ export default function Home() {
       const response = await fetch("/api/waitlist", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ email: nextEmail }),
+        body: JSON.stringify({ email: nextEmail, goal: goal || undefined }),
       });
       if (response.ok) {
         setStatus("success");
@@ -240,6 +241,7 @@ export default function Home() {
                 width={1170}
                 height={2532}
                 className="w-full h-auto block"
+                sizes="(max-width: 640px) 86vw, 340px"
                 priority
               />
             </div>
@@ -422,6 +424,8 @@ export default function Home() {
                 width={1170}
                 height={2532}
                 className="w-full h-auto block"
+                sizes="(max-width: 640px) 78vw, 260px"
+                loading="lazy"
               />
             </div>
           </motion.div>
@@ -449,6 +453,7 @@ export default function Home() {
                   width={1170}
                   height={2532}
                   className="w-full h-auto block"
+                  sizes="200px"
                   loading="lazy"
                 />
               </div>
@@ -475,6 +480,8 @@ export default function Home() {
                   width={1170}
                   height={2532}
                   className="w-full h-auto block"
+                  sizes="260px"
+                  loading="lazy"
                 />
               </div>
             </motion.div>
@@ -500,6 +507,8 @@ export default function Home() {
                   width={1170}
                   height={2532}
                   className="w-full h-auto block"
+                  sizes="200px"
+                  loading="lazy"
                 />
               </div>
             </motion.div>
@@ -636,6 +645,22 @@ export default function Home() {
                   >
                     {status === "loading" ? "..." : "Join"}
                   </motion.button>
+                </div>
+                {/* Optional goal segmentation */}
+                <div className="mt-3">
+                  <select
+                    value={goal}
+                    onChange={(e) => setGoal(e.target.value)}
+                    disabled={status === "loading"}
+                    className="w-full rounded-full border border-stone-700 bg-stone-800/60 px-5 py-3 text-[13px] text-stone-400 outline-none focus:border-stone-500 transition-colors appearance-none"
+                    style={{ color: goal ? "#e7e5e4" : undefined }}
+                  >
+                    <option value="">Primary goal (optional)</option>
+                    <option value="Mental">🧠 Mental</option>
+                    <option value="Physical">💪 Physical</option>
+                    <option value="Spiritual">✨ Spiritual</option>
+                    <option value="Financial">💰 Financial</option>
+                  </select>
                 </div>
                 <p className="mt-3 text-[12px] text-stone-600">No spam. One-click unsubscribe.</p>
               </form>

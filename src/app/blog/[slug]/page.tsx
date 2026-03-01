@@ -8,6 +8,8 @@ import { SITE_URL, SITE_NAME } from "@/lib/config";
 import { CategoryBadge } from "../BlogClientPage";
 import SiteFooter from "@/components/SiteFooter";
 import BlogInlineCapture from "@/components/BlogInlineCapture";
+import BlogTOC from "@/components/BlogTOC";
+import ReadingProgress from "@/components/ReadingProgress";
 
 export async function generateStaticParams() {
   const posts = getAllPosts();
@@ -132,6 +134,8 @@ export default async function BlogPost({ params }: { params: { slug: string } })
         />
       )}
 
+      <ReadingProgress />
+
       {/* Nav */}
       <nav
         className="sticky top-0 z-50 px-4 sm:px-6 py-4"
@@ -157,6 +161,8 @@ export default async function BlogPost({ params }: { params: { slug: string } })
           </Link>
         </div>
       </nav>
+
+      <BlogTOC />
 
       <article className="max-w-2xl mx-auto px-6 py-16">
         {/* Meta */}
@@ -268,12 +274,7 @@ export default async function BlogPost({ params }: { params: { slug: string } })
         {/* Medical Disclaimer */}
         <div className="mt-12 pt-6 border-t border-stone-200">
           <p className="text-xs text-stone-400 leading-relaxed">
-            The information in this article is for educational purposes only and does not constitute
-            medical advice. Always consult a qualified healthcare professional before starting any
-            supplement, peptide, or health protocol.{" "}
-            <Link href="/how-we-research" className="underline hover:text-stone-600 transition-colors">
-              Learn how we research →
-            </Link>
+            This content is educational only and is not medical advice.
           </p>
         </div>
 

@@ -21,15 +21,13 @@ export default function WaitlistCTA({
 }: WaitlistCTAProps) {
   if (APP_STORE_LIVE) {
     return (
-      <a
-        href={APP_STORE_URL}
-        target="_blank"
-        rel="noopener noreferrer"
+      <Link
+        href="/download"
         className={className}
-        onClick={() => trackEvent("cta_click", { destination: "app_store", variant })}
+        onClick={() => trackEvent("cta_click", { destination: "download", variant })}
       >
         {label || "Download on the App Store"}
-      </a>
+      </Link>
     );
   }
 
