@@ -302,70 +302,52 @@ export default function Home() {
       </div>
 
       {/* ─── VIDEO PREVIEW ─────────────────────────────────────────────────── */}
-      <section className="bg-[#F5F0E8] py-24 md:py-32 px-6">
-        <div className="max-w-4xl mx-auto">
-          <motion.div
-            className="text-center mb-12"
-            initial={{ opacity: 0, y: 24 }}
-            whileInView={{ opacity: 1, y: 0 }}
-            viewport={{ once: true }}
-            transition={{ duration: 0.6 }}
-          >
-            <p className="text-[11px] font-semibold tracking-[0.18em] uppercase text-stone-400 mb-4">
-              See It in Action
-            </p>
-            <h2
-              className="text-4xl md:text-5xl font-bold tracking-tight text-stone-900"
-              style={{ fontFamily: "var(--font-playfair)" }}
-            >
-              Habits, visualized.
-            </h2>
-            <p className="mt-4 text-[17px] text-stone-500 max-w-xl mx-auto leading-relaxed">
-              Every check-in feeds your Forge Score. Every dimension tells a story. Watch the system in motion.
-            </p>
-          </motion.div>
+      <section className="relative overflow-hidden" style={{ minHeight: 560 }}>
+        {/* Full-bleed background video */}
+        <video
+          src="/dna-helix.mp4"
+          autoPlay
+          loop
+          muted
+          playsInline
+          className="absolute inset-0 w-full h-full object-cover"
+        />
+        {/* Dark overlay */}
+        <div className="absolute inset-0" style={{ background: "rgba(15, 12, 10, 0.62)" }} />
 
+        {/* Content */}
+        <div className="relative z-10 flex flex-col items-center justify-center text-center px-6 py-28 md:py-36">
           <motion.div
-            className="relative mx-auto rounded-2xl overflow-hidden bg-stone-900"
-            style={{ maxWidth: 720 }}
-            initial={{ opacity: 0, y: 32 }}
+            initial={{ opacity: 0, y: 24 }}
             whileInView={{ opacity: 1, y: 0 }}
             viewport={{ once: true }}
             transition={{ duration: 0.7 }}
           >
-            <video
-              src="/dna-helix.mp4"
-              autoPlay
-              loop
-              muted
-              playsInline
-              className="w-full h-auto block"
-              style={{ maxHeight: 480, objectFit: "cover" }}
-            />
-            {/* Overlay caption */}
-            <div className="absolute bottom-0 left-0 right-0 px-6 py-5"
-              style={{ background: "linear-gradient(to top, rgba(28,25,23,0.85) 0%, transparent 100%)" }}>
-              <p className="text-white text-[13px] font-medium">HabitForge — four dimensions, one score</p>
-              <p className="text-stone-400 text-[12px] mt-0.5">iOS app · Launching 2026</p>
-            </div>
-          </motion.div>
-
-          <motion.div
-            className="mt-8 text-center"
-            initial={{ opacity: 0 }}
-            whileInView={{ opacity: 1 }}
-            viewport={{ once: true }}
-            transition={{ duration: 0.5, delay: 0.2 }}
-          >
+            <p className="text-[11px] font-semibold tracking-[0.22em] uppercase text-stone-400 mb-5">
+              The DNA of discipline
+            </p>
+            <h2
+              className="text-4xl md:text-6xl font-bold tracking-tight text-white mb-6 leading-tight"
+              style={{ fontFamily: "var(--font-playfair)" }}
+            >
+              Habits, visualized.
+            </h2>
+            <p className="text-[17px] text-stone-300 max-w-lg mx-auto leading-relaxed mb-10">
+              Every check-in feeds your Forge Score. Every dimension tells a story.
+            </p>
             <a
               href="#waitlist"
-              className="inline-flex rounded-full px-7 py-3.5 text-[14px] font-semibold text-white bg-stone-900 hover:bg-stone-700 transition-colors"
+              className="inline-flex rounded-full px-8 py-4 text-[14px] font-semibold text-stone-900 bg-white hover:bg-stone-100 transition-colors shadow-lg"
               onClick={() => trackEvent("cta_click", { destination: "waitlist", variant: "video" })}
             >
               Get Early Access
             </a>
           </motion.div>
         </div>
+
+        {/* Bottom fade into next section */}
+        <div className="absolute bottom-0 left-0 right-0 h-24 pointer-events-none"
+          style={{ background: "linear-gradient(to bottom, transparent, #F5F0E8)" }} />
       </section>
 
       {/* ─── FEATURES ─────────────────────────────────────────────────────── */}
