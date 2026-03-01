@@ -157,10 +157,11 @@ export default function Home() {
         {/* Hero content */}
         <div className="relative z-10 flex flex-col items-center max-w-4xl">
           <motion.h1
-            className="mt-4 font-bold leading-[0.95] tracking-tight text-stone-900"
+            className="mt-4 font-bold leading-[0.95] text-stone-900"
             style={{
               fontFamily: "var(--font-playfair)",
-              fontSize: "clamp(40px, 8vw, 96px)",
+              fontSize: "clamp(52px, 9vw, 112px)",
+              letterSpacing: "-0.03em",
             }}
             initial={{ opacity: 0, y: 28 }}
             animate={{ opacity: 1, y: 0 }}
@@ -270,12 +271,26 @@ export default function Home() {
         </motion.div>
       </section>
 
-      {/* ─── SOCIAL PROOF STRIP ───────────────────────────────────────────── */}
-      <div className="bg-[#F5F0E8] border-y border-stone-200/60 py-4">
-        <p className="text-center text-[11px] font-semibold tracking-[0.18em] uppercase text-stone-400"
-          style={{ fontVariant: "small-caps" }}>
-          12 Core Features · Forge Score System · Group Leaderboards · AES-256 Encryption
-        </p>
+      {/* ─── STATS STRIP ──────────────────────────────────────────────────── */}
+      <div className="bg-[#F5F0E8] border-y border-stone-200/60 py-10 px-6">
+        <div className="max-w-4xl mx-auto grid grid-cols-2 md:grid-cols-4 gap-8 text-center">
+          {[
+            { stat: "4", label: "Habit Dimensions" },
+            { stat: "1", label: "Unified Forge Score" },
+            { stat: "∞", label: "Day Streak Potential" },
+            { stat: "0", label: "Compromises on Privacy" },
+          ].map(({ stat, label }) => (
+            <div key={label} className="flex flex-col items-center gap-2">
+              <span
+                className="font-bold text-stone-900 leading-none"
+                style={{ fontFamily: "var(--font-playfair)", fontSize: "clamp(48px, 6vw, 80px)" }}
+              >
+                {stat}
+              </span>
+              <span className="text-[10px] font-semibold tracking-widest uppercase text-stone-400">{label}</span>
+            </div>
+          ))}
+        </div>
       </div>
 
       {/* ─── VIDEO PREVIEW ─────────────────────────────────────────────────── */}
@@ -322,9 +337,83 @@ export default function Home() {
           </motion.div>
         </div>
 
-        {/* Bottom fade into next section */}
-        <div className="absolute bottom-0 left-0 right-0 h-24 pointer-events-none"
-          style={{ background: "linear-gradient(to bottom, transparent, #F5F0E8)" }} />
+      </section>
+
+      {/* ─── BEFORE / AFTER ───────────────────────────────────────────────── */}
+      <section className="py-20 md:py-32 px-6" style={{ background: "#1c1917" }}>
+        <div className="max-w-5xl mx-auto">
+          <motion.h2
+            className="text-center font-bold text-white mb-16 leading-none"
+            style={{
+              fontFamily: "var(--font-playfair)",
+              fontSize: "clamp(40px, 6vw, 80px)",
+            }}
+            initial={{ opacity: 0, y: 20 }}
+            whileInView={{ opacity: 1, y: 0 }}
+            viewport={{ once: true }}
+            transition={{ duration: 0.65 }}
+          >
+            What changes.
+          </motion.h2>
+
+          <div className="grid md:grid-cols-[1fr_auto_1fr] gap-8 md:gap-0 items-start">
+            {/* Before */}
+            <motion.div
+              initial={{ opacity: 0, x: -20 }}
+              whileInView={{ opacity: 1, x: 0 }}
+              viewport={{ once: true }}
+              transition={{ duration: 0.6, delay: 0.1 }}
+            >
+              <p className="text-[10px] font-semibold tracking-widest uppercase text-stone-500 mb-6">Before</p>
+              <ul className="space-y-5">
+                {[
+                  "Scattered across 4 apps",
+                  "Forget why you're building habits",
+                  "No accountability",
+                  "Streaks mean nothing",
+                  "Zero visibility into progress",
+                ].map((item) => (
+                  <li key={item} className="flex items-start gap-3">
+                    <span className="mt-1 text-[#7c4a4a] text-sm flex-shrink-0">✕</span>
+                    <span className="text-[16px] text-[#8a6a6a] leading-snug">{item}</span>
+                  </li>
+                ))}
+              </ul>
+            </motion.div>
+
+            {/* Divider */}
+            <div className="hidden md:flex flex-col items-center justify-center px-8 self-stretch">
+              <div className="w-px flex-1 bg-stone-700" />
+              <span className="my-4 text-stone-500 text-xl">→</span>
+              <div className="w-px flex-1 bg-stone-700" />
+            </div>
+            <div className="md:hidden w-full h-px bg-stone-700" />
+
+            {/* After */}
+            <motion.div
+              initial={{ opacity: 0, x: 20 }}
+              whileInView={{ opacity: 1, x: 0 }}
+              viewport={{ once: true }}
+              transition={{ duration: 0.6, delay: 0.2 }}
+            >
+              <p className="text-[10px] font-semibold tracking-widest uppercase text-stone-500 mb-6">After HabitForge</p>
+              <ul className="space-y-5">
+                {[
+                  "One system, four dimensions",
+                  "Every habit tied to a Forge Score",
+                  "Group leaderboards + accountability",
+                  "Streaks that compound into identity",
+                  "Daily clarity across mind, body, spirit, finances",
+                ].map((item) => (
+                  <li key={item} className="flex items-start gap-3">
+                    <span className="mt-1 text-emerald-600 text-sm flex-shrink-0">✓</span>
+                    <span className="text-[16px] text-stone-300 leading-snug">{item}</span>
+                  </li>
+                ))}
+              </ul>
+            </motion.div>
+          </div>
+        </div>
       </section>
 
       {/* ─── FEATURES ─────────────────────────────────────────────────────── */}
