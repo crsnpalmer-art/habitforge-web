@@ -84,7 +84,7 @@ export default function PrivacyPage() {
 
           <h2>System Requirements</h2>
           <p>
-            HabitForge requires iOS 17 or later. We do not collect any device identifiers.
+            HabitForge requires iOS 26 or later. We do not collect any device identifiers.
           </p>
 
           <h2>Data Retention</h2>

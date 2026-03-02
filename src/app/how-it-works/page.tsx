@@ -59,7 +59,7 @@ const faqs = [
   },
   {
     q: "What iOS version do I need?",
-    a: "HabitForge requires iOS 17.0 or later.",
+    a: "HabitForge requires iOS 26 or later.",
   },
   {
     q: "Is my data private?",
@@ -181,7 +181,7 @@ export default function HowItWorks() {
 
           {/* Trust strip */}
           <div className="flex flex-wrap items-center justify-center gap-6 text-[11px] font-semibold tracking-[0.18em] text-stone-400 uppercase">
-            <span>iOS 17+</span>
+            <span>iOS 26+</span>
             <span className="text-stone-300">·</span>
             <span>Private by Design</span>
             <span className="text-stone-300">·</span>

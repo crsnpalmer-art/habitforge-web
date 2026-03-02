@@ -71,7 +71,7 @@ export default function DownloadPage() {
           Download on the App Store
         </a>
 
-        <p className="mt-4 text-[13px] text-stone-400">iOS 17+ · Free to download</p>
+        <p className="mt-4 text-[13px] text-stone-400">iOS 26+ · Free to download</p>
 
         {/* Screenshots */}
         <div className="mt-20 flex items-end justify-center gap-6">
