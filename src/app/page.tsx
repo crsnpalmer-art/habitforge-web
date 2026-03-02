@@ -12,8 +12,13 @@ import { trackEvent } from "@/lib/analytics";
 const features = [
   {
     icon: "◈",
-    name: "Habit Tracking",
-    desc: "Daily check-ins with streak counters. Build momentum you can see and feel.",
+    name: "Four Dimensions",
+    desc: "Mental, Physical, Spiritual, Financial — every habit is mapped to what it actually builds in your life.",
+  },
+  {
+    icon: "◎",
+    name: "Forge Score",
+    desc: "A single daily score weighted by difficulty and consistency across all four dimensions. Watch it compound.",
   },
   {
     icon: "⬡",
@@ -21,54 +26,49 @@ const features = [
     desc: "Current and longest streaks tracked per habit. Break one, feel it. Rebuild it, own it.",
   },
   {
-    icon: "◎",
-    name: "Forge Score",
-    desc: "A daily performance score that reflects your consistency across all four dimensions.",
-  },
-  {
-    icon: "◇",
-    name: "Four Dimensions",
-    desc: "Mental, Physical, Spiritual, Financial. Every habit mapped to what it actually builds.",
+    icon: "★",
+    name: "Ember AI Coach",
+    desc: "On-device AI coach powered by Apple Intelligence. Personalized insights based on your real habit data — private, fast, no cloud required.",
   },
   {
     icon: "◑",
-    name: "Groups & Leaderboard",
-    desc: "Join a group with a code, compete on the leaderboard, and hold each other accountable.",
-  },
-  {
-    icon: "★",
-    name: "Achievement Badges",
-    desc: "Unlock badges as you hit milestones. Recognition that keeps the engine running.",
+    name: "Forge Shields",
+    desc: "Earn a shield every 14-day streak. Use it to protect a streak after a missed day. Your safety net for hard weeks.",
   },
   {
     icon: "◻",
-    name: "Progress Analytics",
-    desc: "Weekly trends and category breakdowns. See exactly what's working — and what isn't.",
+    name: "Habit Chains",
+    desc: "Link habits into ordered routines. Morning routine, evening wind-down — chain them together and track as one flow.",
   },
   {
     icon: "◉",
-    name: "Smart Notifications",
-    desc: "Daily reminders, streak alerts, group activity, and achievement pings — all configurable.",
+    name: "Focus Timer",
+    desc: "Built-in Pomodoro-style timer tied to your habits. Complete a full session and the habit marks itself done.",
   },
   {
     icon: "⊕",
-    name: "Privacy First",
-    desc: "AES-256-GCM end-to-end encryption. Your habit data is yours — protected at rest and in transit.",
+    name: "Mood & Energy Tracking",
+    desc: "Daily mood and energy check-ins reveal the link between your habits and how you feel. Data-backed self-awareness.",
+  },
+  {
+    icon: "◇",
+    name: "Groups & Leaderboard",
+    desc: "Join a group with a 6-character code, compete on a streak leaderboard, and hold each other accountable.",
   },
   {
     icon: "⊞",
-    name: "Biometric Lock",
-    desc: "Face ID and Touch ID support. Your data stays locked until you say otherwise.",
-  },
-  {
-    icon: "◌",
-    name: "Local-First Storage",
-    desc: "Your data lives on your device — not in the cloud. Private by design, fast by default.",
+    name: "15 Achievement Badges",
+    desc: "Unlock badges from First Step to Year of Iron. Eight Forge Levels from Apprentice to Mythic.",
   },
   {
     icon: "⊟",
-    name: "Data Export",
-    desc: "Export your full habit history as JSON anytime. Your data, fully portable.",
+    name: "Local-First Storage",
+    desc: "Your habit data lives on your device. Face ID and Touch ID keep it locked. Export as JSON anytime.",
+  },
+  {
+    icon: "◌",
+    name: "Home Screen Widget",
+    desc: "Interactive widget lets you check off habits without opening the app. Three sizes, full iOS 26 support.",
   },
 ];
 

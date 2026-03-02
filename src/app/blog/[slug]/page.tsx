@@ -177,8 +177,8 @@ export default async function BlogPost({ params }: { params: { slug: string } })
           <div
             className="rounded-2xl p-8 text-center"
             style={{
-              background: "linear-gradient(135deg, rgba(34,197,94,0.07), rgba(6,182,212,0.07), rgba(139,92,246,0.07))",
-              border: "1px solid rgba(139,92,246,0.15)",
+              background: "linear-gradient(135deg, rgba(217,124,95,0.07), rgba(242,204,143,0.07))",
+              border: "1px solid rgba(217,124,95,0.15)",
             }}
           >
             <p className="font-semibold text-stone-800 text-lg mb-1">Ready to forge your habits?</p>
@@ -186,7 +186,7 @@ export default async function BlogPost({ params }: { params: { slug: string } })
             <Link
               href="/#waitlist"
               className="inline-block px-7 py-3.5 rounded-xl text-white text-sm font-semibold hover:opacity-90 transition-all"
-              style={{ background: "linear-gradient(135deg, #22c55e 0%, #06b6d4 50%, #8b5cf6 100%)" }}
+              style={{ background: "linear-gradient(135deg, #D97C5F 0%, #F2CC8F 100%)" }}
             >
               Join the Waitlist →
             </Link>
