@@ -177,7 +177,7 @@ export default function Home() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.7, delay: 0.18, ease: [0.16, 1, 0.3, 1] }}
           >
-            Four dimensions. One score. Daily momentum.
+            Anvil-forged habits, one day at a time.
           </motion.p>
 
           <motion.div

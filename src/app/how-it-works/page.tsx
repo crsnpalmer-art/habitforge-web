@@ -35,7 +35,7 @@ const steps = [
   {
     num: "04",
     title: "Track Streaks & Forge Score",
-    desc: "Your dashboard shows current streaks, longest streaks, and your daily Forge Score. Watch the analytics tell the story of your consistency.",
+    desc: "Your Forge Score compounds with every check-in: weighted completions + (streak × 5) + (longest streak × 2). Harder habits earn more. Rise from Apprentice through Journeyman, Artisan, Blacksmith, all the way to Mythic.",
     screenshot: "/screenshots/04-progress.png",
   },
   {
@@ -49,6 +49,12 @@ const steps = [
     title: "Build Your Routine",
     desc: "Use Routine Wizards to instantly set up Morning Routines, Digital Detox plans, and more — or build custom habits from scratch with difficulty levels and score multipliers.",
     screenshot: "/screenshots/08-add-habit.png",
+  },
+  {
+    num: "07",
+    title: "Ask Ember",
+    desc: "Ember AI analyzes your habits, streaks, mood trends, and Forge Score to deliver personalized coaching. Runs entirely on-device using Apple Intelligence — your data never leaves your phone.",
+    screenshot: "/screenshots/01-auth.png",
   },
 ];
 

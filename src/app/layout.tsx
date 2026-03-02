@@ -19,14 +19,14 @@ const playfair = Playfair_Display({
 });
 
 export const metadata: Metadata = {
-  title: "HabitForge - Habit Operating System",
+  title: "HabitForge — Anvil-forged habits, one day at a time",
   description:
-    "A focused, private habit operating system for building consistency across mental, physical, spiritual, and financial dimensions.",
+    "Anvil-forged habits, one day at a time. Track Mental, Physical, Spiritual, and Financial habits with Ember AI coaching, Forge Shields, and a score that compounds with every check-in.",
   metadataBase: new URL(SITE_URL),
   openGraph: {
-    title: "HabitForge - Habit Operating System",
+    title: "HabitForge — Anvil-forged habits, one day at a time",
     description:
-      "Build high-impact habits across four dimensions with clarity, accountability, and daily momentum.",
+      "Build high-impact habits across four dimensions. On-device AI coaching, streak protection, and a Forge Score that compounds with consistency.",
     url: SITE_URL,
     siteName: SITE_NAME,
     images: [{ url: "/logo.jpg", width: 800, height: 800 }],
@@ -34,9 +34,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "HabitForge - Habit Operating System",
+    title: "HabitForge — Anvil-forged habits, one day at a time",
     description:
-      "Build high-impact habits across four dimensions with clarity, accountability, and daily momentum.",
+      "Build high-impact habits across four dimensions. On-device AI coaching, streak protection, and a Forge Score that compounds with consistency.",
     creator: "@HabitForgeAI",
     images: ["/logo.jpg"],
   },

@@ -64,7 +64,7 @@ export default function AboutPage() {
           Built on a Simple Belief
         </h1>
         <p className="text-lg md:text-xl text-stone-500 font-light max-w-xl mx-auto leading-relaxed">
-          The person you become is the sum of your daily habits.{" "}
+          Anvil-forged habits, one day at a time.{" "}
           <span className="text-stone-700 font-medium">HabitForge exists to help you build intentionally.</span>
         </p>
       </section>
@@ -213,6 +213,12 @@ export default function AboutPage() {
           >
             Every Piece Matters
           </h2>
+          <blockquote
+            className="text-xl md:text-2xl text-stone-700 leading-[1.7] max-w-2xl mx-auto italic mb-10"
+            style={{ fontFamily: "var(--font-playfair)" }}
+          >
+            &ldquo;Somewhere between the hard days and the ordinary ones, a simple truth kept showing up: we are the sum of what we do repeatedly. Habits are the quiet architecture of a life. They write the lines of our character, shape how we show up for others, and slowly assemble the person we become.&rdquo;
+          </blockquote>
           <p className="text-lg text-stone-600 leading-[1.85] max-w-2xl mx-auto">
             Every experience you&apos;ve had, every setback you&apos;ve overcome, every habit you&apos;ve built — these are
             pieces. Some fit perfectly. Some you&apos;re still figuring out where they go. But none of them are
@@ -287,28 +293,28 @@ export default function AboutPage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
             {[
               {
-                title: "Forge Score",
-                desc: "A daily performance score derived from your consistency across all four dimensions. One number. All the signal.",
+                title: "Ember AI Coach",
+                desc: "On-device AI coaching powered by Apple Intelligence. Ember analyzes your habits, streaks, and mood trends — privately, without sending data to any server.",
               },
               {
-                title: "Streaks",
-                desc: "Current and longest streaks tracked per habit. The streak is the feedback loop that keeps you showing up.",
+                title: "Forge Score",
+                desc: "A daily performance score weighted by difficulty and consistency across all four dimensions. Earn more for harder habits. Watch it compound.",
+              },
+              {
+                title: "Forge Shields",
+                desc: "Earn one shield every 14-day streak. Use it to protect a streak after a missed day — your safety net for hard weeks.",
+              },
+              {
+                title: "Habit Chains",
+                desc: "Link habits into ordered daily routines. Morning ritual, evening wind-down — chain them together and track the whole sequence as one.",
               },
               {
                 title: "Groups & Leaderboard",
-                desc: "Join groups via code, compete on a live leaderboard, and let shared accountability do the heavy lifting.",
-              },
-              {
-                title: "Achievement Badges",
-                desc: "Unlock badges as you hit milestones. A simple recognition system that makes progress feel real.",
-              },
-              {
-                title: "Privacy First",
-                desc: "AES-256-GCM encryption protects your data at rest and in transit. Biometric lock with Face ID and Touch ID.",
+                desc: "Join groups via code, compete on a live streak leaderboard, and let shared accountability do the heavy lifting.",
               },
               {
                 title: "Local-First & Export",
-                desc: "Your data stays on your device — never uploaded to a cloud server. Export your full history as JSON anytime.",
+                desc: "Your data stays on your device — never uploaded to a cloud server. Biometric lock with Face ID and Touch ID. Export as JSON anytime.",
               },
             ].map((feature) => (
               <div
