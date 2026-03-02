@@ -6,7 +6,6 @@ import ScrollAnimator from "@/components/ScrollAnimator";
 
 const NAV_LINKS = [
   { label: "About", href: "/about" },
-  { label: "Features", href: "/#features", isExternal: true },
   { label: "How It Works", href: "/how-it-works" },
   { label: "Blog", href: "/blog" },
 ];
@@ -38,8 +37,7 @@ export default function AboutPage() {
             <span className="font-semibold text-stone-800 tracking-tight text-[15px]">HabitForge</span>
           </Link>
           <div className="hidden sm:flex items-center gap-8 text-sm text-stone-500 font-medium">
-            <Link href="/about" className="text-stone-800 transition-colors">About</Link>
-            <Link href="/#features" className="hover:text-stone-800 transition-colors">Features</Link>
+            <Link href="/about" className="text-stone-800 font-semibold transition-colors">About</Link>
             <Link href="/how-it-works" className="hover:text-stone-800 transition-colors">How It Works</Link>
             <Link href="/blog" className="hover:text-stone-800 transition-colors">Blog</Link>
           </div>
