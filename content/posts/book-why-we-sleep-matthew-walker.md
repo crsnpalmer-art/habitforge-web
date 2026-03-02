@@ -1,6 +1,6 @@
 ---
 title: "Book of the Week: Why We Sleep by Matthew Walker"
-date: "2026-03-01"
+date: "2026-02-23"
 excerpt: "Matthew Walker's Why We Sleep is the most important book you'll read about the one thing you already do every night — and almost certainly aren't doing well enough."
 category: "Books"
 ---
