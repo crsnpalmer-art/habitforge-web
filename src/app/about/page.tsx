@@ -41,6 +41,13 @@ export default function AboutPage() {
             <Link href="/how-it-works" className="hover:text-stone-800 transition-colors">How It Works</Link>
             <Link href="/blog" className="hover:text-stone-800 transition-colors">Blog</Link>
           </div>
+          <Link
+            href="/#waitlist"
+            className="hidden sm:inline-block px-4 py-2 rounded-full text-sm font-semibold text-white transition-opacity hover:opacity-90"
+            style={{ background: "#1c1917" }}
+          >
+            Join Waitlist
+          </Link>
           <MobileMenu links={NAV_LINKS} activeHref="/about" />
         </div>
       </nav>

@@ -100,9 +100,14 @@ export default async function BlogPost({ params }: { params: { slug: string } })
             <Link href="/about" className="hover:text-stone-800 transition-colors">About</Link>
             <Link href="/how-it-works" className="hover:text-stone-800 transition-colors">How It Works</Link>
             <Link href="/blog" className="hover:text-stone-800 transition-colors">Blog</Link>
+            <Link href="/blog" className="hover:text-stone-800 transition-colors">← All Posts</Link>
           </div>
-          <Link href="/blog" className="text-sm font-semibold text-stone-500 hover:text-stone-800 transition-colors">
-            ← All Posts
+          <Link
+            href="/#waitlist"
+            className="hidden sm:inline-block px-4 py-2 rounded-full text-sm font-semibold text-white transition-opacity hover:opacity-90"
+            style={{ background: "#1c1917" }}
+          >
+            Join Waitlist
           </Link>
         </div>
       </nav>
