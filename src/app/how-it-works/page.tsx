@@ -63,7 +63,7 @@ const faqs = [
   },
   {
     q: "Is my data private?",
-    a: "Yes. All data stays on your device. No accounts required, no cloud uploads, no third-party tracking.",
+    a: "Yes. An account is required to use the app, but all your habit data is stored locally on your device — never uploaded to a cloud server. No third-party tracking.",
   },
 
 ];

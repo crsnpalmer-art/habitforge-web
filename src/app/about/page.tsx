@@ -307,8 +307,8 @@ export default function AboutPage() {
                 desc: "AES-256-GCM encryption protects your data at rest and in transit. Biometric lock with Face ID and Touch ID.",
               },
               {
-                title: "Cloud Sync & Export",
-                desc: "Firebase-backed sync keeps everything current across devices. Export your full history as JSON — no lock-in.",
+                title: "Local-First & Export",
+                desc: "Your data stays on your device — never uploaded to a cloud server. Export your full history as JSON anytime.",
               },
             ].map((feature) => (
               <div

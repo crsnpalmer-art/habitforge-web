@@ -64,9 +64,9 @@ export default function PrivacyPage() {
 
           <h3>App data (on-device only)</h3>
           <p>
-            All habit tracking data — including your routines, check-in history, streaks, and Forge Score —
-            is stored locally on your iPhone. HabitForge does not upload this data to any server. We have
-            no access to it.
+            HabitForge requires an account to use the app. However, all habit tracking data — including
+            your routines, check-in history, streaks, and Forge Score — is stored locally on your iPhone.
+            HabitForge does not upload this data to any external server. We have no access to it.
           </p>
 
           <h2>Third-Party Tracking</h2>

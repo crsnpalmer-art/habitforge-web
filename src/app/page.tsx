@@ -62,8 +62,8 @@ const features = [
   },
   {
     icon: "◌",
-    name: "Cloud Sync",
-    desc: "Firebase-backed sync keeps your habits consistent across devices, always up to date.",
+    name: "Local-First Storage",
+    desc: "Your data lives on your device — not in the cloud. Private by design, fast by default.",
   },
   {
     icon: "⊟",
