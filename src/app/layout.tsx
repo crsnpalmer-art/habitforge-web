@@ -19,6 +19,13 @@ const playfair = Playfair_Display({
 });
 
 export const metadata: Metadata = {
+  icons: {
+    icon: [
+      { url: "/favicon-32.png", sizes: "32x32", type: "image/png" },
+      { url: "/icon-192.png", sizes: "192x192", type: "image/png" },
+    ],
+    apple: [{ url: "/apple-touch-icon.png", sizes: "180x180" }],
+  },
   title: "HabitForge — Anvil-forged habits, one day at a time",
   description:
     "Anvil-forged habits, one day at a time. Track Mental, Physical, Spiritual, and Financial habits with Ember AI coaching, Forge Shields, and a score that compounds with every check-in.",

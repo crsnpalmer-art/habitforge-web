@@ -213,17 +213,25 @@ export default function Home() {
             </Link>
           </motion.div>
 
-          {/* Waitlist counter badge */}
-          {WAITLIST_COUNT && (
-            <motion.p
-              className="mt-5 text-[13px] text-stone-400"
-              initial={{ opacity: 0 }}
-              animate={{ opacity: 1 }}
-              transition={{ delay: 0.55 }}
-            >
-              <span className="font-semibold text-stone-600">{WAITLIST_COUNT.toLocaleString()}+</span> people already on the list
-            </motion.p>
-          )}
+          {/* Trust line */}
+          <motion.p
+            className="mt-5 text-[13px] text-stone-400 flex items-center gap-3 justify-center flex-wrap"
+            initial={{ opacity: 0 }}
+            animate={{ opacity: 1 }}
+            transition={{ delay: 0.55 }}
+          >
+            <span>Free to download</span>
+            <span className="text-stone-600">·</span>
+            <span>iOS 26+</span>
+            <span className="text-stone-600">·</span>
+            <span>No subscription required</span>
+            {WAITLIST_COUNT && (
+              <>
+                <span className="text-stone-600">·</span>
+                <span><span className="font-semibold text-stone-600">{WAITLIST_COUNT.toLocaleString()}+</span> on the list</span>
+              </>
+            )}
+          </motion.p>
 
           {/* Phone mockup */}
           <motion.div
@@ -508,12 +516,12 @@ export default function Home() {
             >
               <Image
                 src="/screenshots/03-dashboard.png"
-                alt="HabitForge dashboard"
+                alt="HabitForge habit dashboard"
                 width={1170}
                 height={2532}
                 className="w-full h-auto block"
                 sizes="(max-width: 640px) 78vw, 260px"
-                loading="lazy"
+                priority
               />
             </div>
           </motion.div>
@@ -604,7 +612,34 @@ export default function Home() {
         </div>
       </section>
 
-      {/* testimonials removed — placeholder for real App Store reviews post-launch */}
+      {/* ─── FOUNDER NOTE ─────────────────────────────────────────────────── */}
+      <section className="bg-white py-20 px-6 border-t border-stone-100">
+        <div className="max-w-3xl mx-auto">
+          <motion.div
+            className="flex flex-col md:flex-row items-start gap-8"
+            initial={{ opacity: 0, y: 20 }}
+            whileInView={{ opacity: 1, y: 0 }}
+            viewport={{ once: true }}
+            transition={{ duration: 0.6 }}
+          >
+            <div className="shrink-0">
+              <div className="w-16 h-16 rounded-2xl overflow-hidden border border-stone-200">
+                <img src="/logo.jpg" alt="HabitForge" className="w-full h-full object-cover" />
+              </div>
+            </div>
+            <div>
+              <p className="text-[11px] font-semibold tracking-[0.2em] uppercase text-stone-400 mb-4">From the Founder</p>
+              <blockquote className="text-[18px] md:text-[20px] text-stone-700 leading-[1.75] mb-5">
+                &ldquo;I built HabitForge because every habit app I tried tracked too little, or tracked the wrong things. Life isn&apos;t just physical health — it&apos;s your mind, your finances, your spirit. I wanted one place where all of it counted, and an AI coach that knows your data without shipping it to a server. That&apos;s HabitForge.&rdquo;
+              </blockquote>
+              <p className="text-sm font-semibold text-stone-800">Carson Palmer</p>
+              <p className="text-xs text-stone-400 mt-0.5">Founder, HabitForge</p>
+            </div>
+          </motion.div>
+        </div>
+      </section>
+
+      {/* testimonials — placeholder for real App Store reviews post-launch */}
 
       {/* ─── QUOTE ────────────────────────────────────────────────────────── */}
       <section className="bg-[#F5F0E8] py-28 md:py-40 px-6 border-t border-stone-200/40">
