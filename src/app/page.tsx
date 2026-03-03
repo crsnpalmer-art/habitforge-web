@@ -342,6 +342,64 @@ export default function Home() {
         </div>
       </section>
 
+      {/* ─── DEMO VIDEO ─────────────────────────────────────────────────────── */}
+      <section className="bg-[#1c1917] py-20 px-6">
+        <div className="max-w-4xl mx-auto">
+          <motion.div
+            className="text-center mb-10"
+            initial={{ opacity: 0, y: 20 }}
+            whileInView={{ opacity: 1, y: 0 }}
+            viewport={{ once: true }}
+            transition={{ duration: 0.6 }}
+          >
+            <p className="text-[11px] font-semibold tracking-[0.22em] uppercase text-stone-500 mb-3">
+              See it in action
+            </p>
+            <h2
+              className="text-3xl md:text-4xl font-bold text-white"
+              style={{ fontFamily: "var(--font-playfair)" }}
+            >
+              60 seconds inside the forge.
+            </h2>
+          </motion.div>
+
+          <motion.div
+            initial={{ opacity: 0, y: 24 }}
+            whileInView={{ opacity: 1, y: 0 }}
+            viewport={{ once: true }}
+            transition={{ duration: 0.7 }}
+            className="relative rounded-2xl overflow-hidden mx-auto"
+            style={{ maxWidth: 380, boxShadow: "0 0 0 1px rgba(255,255,255,0.08), 0 40px 80px rgba(0,0,0,0.5)" }}
+          >
+            <video
+              src="/demo-teaser.mp4"
+              controls
+              playsInline
+              preload="metadata"
+              poster="/screenshots/01-Dashboard.png"
+              className="w-full h-auto block"
+              style={{ background: "#0e0d0b" }}
+            />
+          </motion.div>
+
+          <motion.div
+            className="text-center mt-8"
+            initial={{ opacity: 0 }}
+            whileInView={{ opacity: 1 }}
+            viewport={{ once: true }}
+            transition={{ duration: 0.6, delay: 0.2 }}
+          >
+            <a
+              href="#waitlist"
+              className="inline-flex rounded-full px-8 py-4 text-[14px] font-semibold text-stone-900 bg-white hover:bg-stone-100 transition-colors shadow-lg"
+              onClick={() => trackEvent("cta_click", { destination: "waitlist", variant: "video" })}
+            >
+              Get Early Access
+            </a>
+          </motion.div>
+        </div>
+      </section>
+
       {/* ─── LIFESTYLE VIDEOS ──────────────────────────────────────────────── */}
       <section className="bg-[#1c1917] py-4 px-4">
         <div className="max-w-5xl mx-auto grid grid-cols-3 gap-3">
