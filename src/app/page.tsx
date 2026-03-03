@@ -359,7 +359,7 @@ export default function Home() {
               className="text-3xl md:text-4xl font-bold text-white"
               style={{ fontFamily: "var(--font-playfair)" }}
             >
-              60 seconds inside the forge.
+              30 seconds inside the forge.
             </h2>
           </motion.div>
 
