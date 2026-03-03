@@ -628,27 +628,36 @@ export default function Home() {
       </section>
 
       {/* ─── FOUNDER NOTE ─────────────────────────────────────────────────── */}
-      <section className="bg-white py-20 px-6 border-t border-stone-100">
-        <div className="max-w-3xl mx-auto">
+      <section className="bg-white py-24 px-6 border-t border-stone-100">
+        <div className="max-w-2xl mx-auto">
           <motion.div
-            className="flex flex-col md:flex-row items-start gap-8"
             initial={{ opacity: 0, y: 20 }}
             whileInView={{ opacity: 1, y: 0 }}
             viewport={{ once: true }}
             transition={{ duration: 0.6 }}
           >
-            <div className="shrink-0">
-              <div className="w-16 h-16 rounded-2xl overflow-hidden border border-stone-200">
+            <div className="flex items-center gap-4 mb-10">
+              <div className="w-12 h-12 rounded-xl overflow-hidden border border-stone-200 shrink-0">
                 <img src="/logo.jpg" alt="HabitForge" className="w-full h-full object-cover" />
               </div>
+              <div>
+                <p className="text-sm font-semibold text-stone-900">Carson Palmer</p>
+                <p className="text-xs text-stone-400">Founder, HabitForge</p>
+              </div>
             </div>
-            <div>
-              <p className="text-[11px] font-semibold tracking-[0.2em] uppercase text-stone-400 mb-4">From the Founder</p>
-              <blockquote className="text-[18px] md:text-[20px] text-stone-700 leading-[1.75] mb-5">
-                &ldquo;Somewhere between the hard days and the ordinary ones, a simple truth kept showing up: we are the sum of what we do repeatedly. I built HabitForge because every app I tried tracked too little, or tracked the wrong things. Life isn&apos;t just physical health — it&apos;s your mind, your finances, your spirit. I wanted one place where all of it counted, with an AI coach that knows your data without shipping it to a server. Your daily choices are the pieces. Over time, they form your code.&rdquo;
-              </blockquote>
-              <p className="text-sm font-semibold text-stone-800">Carson Palmer</p>
-              <p className="text-xs text-stone-400 mt-0.5">Founder, HabitForge</p>
+            <div className="space-y-6 text-[17px] md:text-[18px] text-stone-600 leading-[1.8]">
+              <p>
+                I kept building habits the wrong way. Apps that only tracked whether I showed up — not what I was actually building. No sense of momentum. No bigger picture.
+              </p>
+              <p>
+                Eventually I realized: the things that matter aren&apos;t just physical. Your mind, your finances, your relationships, your spirit — they all compound the same way a fitness habit does. I wanted one place that treated all of it seriously.
+              </p>
+              <p>
+                HabitForge started as a personal tool. The Forge Score gave me a single number that felt meaningful. Habit Chains let me wire routines together. Ember AI gave me coaching that actually knew my data — without sending it anywhere.
+              </p>
+              <p className="text-stone-800 font-medium">
+                Your daily choices are the pieces. Over time, they form your code.
+              </p>
             </div>
           </motion.div>
         </div>

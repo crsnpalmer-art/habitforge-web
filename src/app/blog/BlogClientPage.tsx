@@ -224,7 +224,7 @@ export default function BlogClientPage({ posts }: { posts: PostMeta[] }) {
               <Link
                 key={post.slug}
                 href={`/blog/${post.slug}`}
-                className="blog-card group block rounded-3xl p-8 bg-white border border-stone-200 hover:border-violet-300 hover:shadow-lg transition-all duration-300 hover:-translate-y-1"
+                className="blog-card group block rounded-3xl p-8 bg-white border border-stone-200 hover:border-[#D97C5F]/50 hover:shadow-lg transition-all duration-300 hover:-translate-y-1"
                 onClick={() => trackEvent("blog_card_click", { slug: post.slug })}
               >
                 <div className="flex items-center gap-3 mb-3">
