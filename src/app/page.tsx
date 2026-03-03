@@ -143,7 +143,7 @@ export default function Home() {
             className="hidden md:inline-flex rounded-full px-4 py-2 text-[13px] font-semibold text-stone-100 bg-stone-900 hover:bg-stone-800 transition-colors"
             onClick={() => trackEvent("cta_click", { destination: "waitlist", variant: "nav" })}
           >
-            Join Waitlist
+            Get Early Access
           </a>
           <div className="md:hidden">
             <MobileMenu links={[
@@ -202,7 +202,7 @@ export default function Home() {
                 className="w-full sm:w-auto rounded-full px-7 py-3.5 text-[14px] font-semibold text-white bg-stone-900 hover:bg-stone-700 transition-colors text-center"
                 onClick={() => trackEvent("cta_click", { destination: "waitlist", variant: "hero" })}
               >
-                Join the Waitlist
+                Get Early Access
               </a>
             )}
             <Link
@@ -293,40 +293,53 @@ export default function Home() {
         </div>
       </div>
 
-      {/* ─── VIDEO PREVIEW ─────────────────────────────────────────────────── */}
-      <section className="relative overflow-hidden" style={{ minHeight: 560 }}>
-        {/* Full-bleed background video */}
-        <video
-          src="/dna-helix.mp4"
-          autoPlay
-          loop
-          muted
-          playsInline
-          className="absolute inset-0 w-full h-full object-cover"
-        />
-        {/* Dark overlay */}
-        <div className="absolute inset-0" style={{ background: "rgba(15, 12, 10, 0.62)" }} />
+      {/* ─── DEMO VIDEO ─────────────────────────────────────────────────────── */}
+      <section className="bg-[#1c1917] py-20 px-6">
+        <div className="max-w-4xl mx-auto">
+          <motion.div
+            className="text-center mb-10"
+            initial={{ opacity: 0, y: 20 }}
+            whileInView={{ opacity: 1, y: 0 }}
+            viewport={{ once: true }}
+            transition={{ duration: 0.6 }}
+          >
+            <p className="text-[11px] font-semibold tracking-[0.22em] uppercase text-stone-500 mb-3">
+              See it in action
+            </p>
+            <h2
+              className="text-3xl md:text-4xl font-bold text-white"
+              style={{ fontFamily: "var(--font-playfair)" }}
+            >
+              30 seconds. That&apos;s all it takes.
+            </h2>
+          </motion.div>
 
-        {/* Content */}
-        <div className="relative z-10 flex flex-col items-center justify-center text-center px-6 py-28 md:py-36">
           <motion.div
             initial={{ opacity: 0, y: 24 }}
             whileInView={{ opacity: 1, y: 0 }}
             viewport={{ once: true }}
             transition={{ duration: 0.7 }}
+            className="relative rounded-2xl overflow-hidden"
+            style={{ boxShadow: "0 0 0 1px rgba(255,255,255,0.08), 0 40px 80px rgba(0,0,0,0.5)" }}
           >
-            <p className="text-[11px] font-semibold tracking-[0.22em] uppercase text-stone-400 mb-5">
-              The DNA of discipline
-            </p>
-            <h2
-              className="text-4xl md:text-6xl font-bold tracking-tight text-white mb-6 leading-tight"
-              style={{ fontFamily: "var(--font-playfair)" }}
-            >
-              Habits, visualized.
-            </h2>
-            <p className="text-[17px] text-stone-300 max-w-lg mx-auto leading-relaxed mb-10">
-              Every check-in feeds your Forge Score. Every dimension tells a story.
-            </p>
+            <video
+              src="/demo-teaser.mp4"
+              controls
+              playsInline
+              preload="metadata"
+              poster="/screenshots/03-dashboard.png"
+              className="w-full h-auto block"
+              style={{ maxHeight: 600, objectFit: "contain", background: "#0e0d0b" }}
+            />
+          </motion.div>
+
+          <motion.div
+            className="text-center mt-8"
+            initial={{ opacity: 0 }}
+            whileInView={{ opacity: 1 }}
+            viewport={{ once: true }}
+            transition={{ duration: 0.6, delay: 0.2 }}
+          >
             <a
               href="#waitlist"
               className="inline-flex rounded-full px-8 py-4 text-[14px] font-semibold text-stone-900 bg-white hover:bg-stone-100 transition-colors shadow-lg"
@@ -367,11 +380,11 @@ export default function Home() {
               <p className="text-[10px] font-semibold tracking-widest uppercase text-stone-500 mb-6">Before</p>
               <ul className="space-y-5">
                 {[
-                  "Scattered across 4 apps",
-                  "Forget why you're building habits",
-                  "No accountability",
-                  "Streaks mean nothing",
-                  "Zero visibility into progress",
+                  "Your AI coach sends your data to the cloud",
+                  "No framework — just a list of todos",
+                  "One missed day and the streak is gone",
+                  "No way to know if habits are working",
+                  "Accountability depends on willpower alone",
                 ].map((item) => (
                   <li key={item} className="flex items-start gap-3">
                     <span className="mt-1 text-[#7c4a4a] text-sm flex-shrink-0">✕</span>
@@ -399,11 +412,11 @@ export default function Home() {
               <p className="text-[10px] font-semibold tracking-widest uppercase text-stone-500 mb-6">After HabitForge</p>
               <ul className="space-y-5">
                 {[
-                  "One system, four dimensions",
-                  "Every habit tied to a Forge Score",
-                  "Group leaderboards + accountability",
-                  "Streaks that compound into identity",
-                  "Daily clarity across mind, body, spirit, finances",
+                  "Ember AI runs on-device — your data never leaves",
+                  "Four dimensions: Mental, Physical, Spiritual, Financial",
+                  "Forge Shields protect your streak when life happens",
+                  "Forge Score compounds with difficulty and consistency",
+                  "Group leaderboard keeps you accountable to people, not apps",
                 ].map((item) => (
                   <li key={item} className="flex items-start gap-3">
                     <span className="mt-1 text-emerald-600 text-sm flex-shrink-0">✓</span>
@@ -523,8 +536,8 @@ export default function Home() {
                 }}
               >
                 <Image
-                  src="/screenshots/01-auth.png"
-                  alt="HabitForge sign-in screen"
+                  src="/screenshots/05-leaderboard.png"
+                  alt="HabitForge group leaderboard"
                   width={1170}
                   height={2532}
                   className="w-full h-auto block"
@@ -609,9 +622,9 @@ export default function Home() {
               fontSize: "clamp(40px, 6vw, 72px)",
             }}
           >
-            &ldquo;Habits are the quiet<br />architecture of life.&rdquo;
+            &ldquo;Every day you step up<br />to the anvil.&rdquo;
           </blockquote>
-          <p className="mt-8 text-[13px] tracking-widest uppercase text-stone-400">— HabitForge</p>
+          <p className="mt-8 text-[13px] tracking-widest uppercase text-stone-400">— Carson Palmer, Founder of HabitForge</p>
         </motion.div>
       </section>
 
@@ -628,10 +641,10 @@ export default function Home() {
               className="text-5xl md:text-6xl font-bold text-white"
               style={{ fontFamily: "var(--font-playfair)" }}
             >
-              Be first.
+              Get notified at launch.
             </h2>
             <p className="mt-4 text-[16px] text-stone-400">
-              HabitForge is coming to the App Store. Join the list.
+              HabitForge is in final App Store review. Leave your email and you'll hear the moment it's live — free to download.
             </p>
             {WAITLIST_COUNT && (
               <p className="mt-2 text-[13px] text-stone-500">
