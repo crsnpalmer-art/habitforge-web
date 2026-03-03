@@ -400,31 +400,7 @@ export default function Home() {
         </div>
       </section>
 
-      {/* ─── LIFESTYLE VIDEOS ──────────────────────────────────────────────── */}
-      <section className="bg-[#1c1917] py-4 px-4">
-        <div className="max-w-5xl mx-auto grid grid-cols-3 gap-3">
-          {[
-            { src: "/videos/morning_ritual.mp4", label: "Daily ritual" },
-            { src: "/videos/anvil_spark.mp4", label: "The forge" },
-            { src: "/videos/four_dimensions.mp4", label: "Four dimensions" },
-          ].map(({ src, label }) => (
-            <div key={src} className="relative rounded-xl overflow-hidden aspect-video">
-              <video
-                src={src}
-                autoPlay
-                loop
-                muted
-                playsInline
-                className="w-full h-full object-cover"
-              />
-              <div className="absolute inset-0" style={{ background: "rgba(0,0,0,0.25)" }} />
-              <p className="absolute bottom-2 left-3 text-[10px] font-semibold tracking-[0.18em] uppercase text-stone-300/80">
-                {label}
-              </p>
-            </div>
-          ))}
-        </div>
-      </section>
+
 
       {/* ─── PHILOSOPHY STRIP ─────────────────────────────────────────────── */}
       <section className="py-20 md:py-28 px-6" style={{ background: "#1c1917" }}>
@@ -733,42 +709,6 @@ export default function Home() {
             &ldquo;Every day you step up<br />to the anvil.&rdquo;
           </blockquote>
           <p className="mt-8 text-[13px] tracking-widest uppercase text-stone-400">— Carson Palmer, Founder of HabitForge</p>
-        </motion.div>
-      </section>
-
-      {/* ─── PRICING STRIP ────────────────────────────────────────────────── */}
-      <section className="bg-[#F5F0E8] py-16 px-6 border-t border-stone-200/60">
-        <motion.div
-          className="max-w-3xl mx-auto text-center"
-          initial={{ opacity: 0, y: 16 }}
-          whileInView={{ opacity: 1, y: 0 }}
-          viewport={{ once: true }}
-          transition={{ duration: 0.6 }}
-        >
-          <p className="text-[11px] font-semibold tracking-[0.2em] uppercase text-stone-400 mb-5">Pricing</p>
-          <h2
-            className="text-4xl md:text-5xl font-bold text-stone-900 mb-6"
-            style={{ fontFamily: "var(--font-playfair)" }}
-          >
-            Free to download.
-          </h2>
-          <p className="text-[17px] text-stone-500 max-w-md mx-auto leading-relaxed mb-8">
-            No subscription. No ads. No paywall hiding the features you actually want.
-            HabitForge is a one-time download — everything included.
-          </p>
-          <div className="flex flex-wrap items-center justify-center gap-4">
-            {[
-              { label: "Free Download", sub: "App Store" },
-              { label: "No Subscription", sub: "Ever" },
-              { label: "No Ads", sub: "Ever" },
-              { label: "All Features", sub: "Included" },
-            ].map(({ label, sub }) => (
-              <div key={label} className="flex flex-col items-center gap-1 px-6 py-3 rounded-2xl bg-white border border-stone-200 min-w-[110px]">
-                <span className="text-[15px] font-semibold text-stone-800">{label}</span>
-                <span className="text-[11px] text-stone-400 uppercase tracking-wide">{sub}</span>
-              </div>
-            ))}
-          </div>
         </motion.div>
       </section>
 
