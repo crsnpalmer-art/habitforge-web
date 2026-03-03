@@ -581,8 +581,8 @@ export default function Home() {
               }}
             >
               <Image
-                src="/screenshots/01-Dashboard.png"
-                alt="HabitForge dashboard — 14-day streak, Forge Score 537"
+                src="/screenshots/05-leaderboard.png"
+                alt="HabitForge Groups leaderboard — compete with friends"
                 width={1170}
                 height={2532}
                 className="w-full h-auto block"
@@ -696,7 +696,7 @@ export default function Home() {
             <div>
               <p className="text-[11px] font-semibold tracking-[0.2em] uppercase text-stone-400 mb-4">From the Founder</p>
               <blockquote className="text-[18px] md:text-[20px] text-stone-700 leading-[1.75] mb-5">
-                &ldquo;I built HabitForge because every habit app I tried tracked too little, or tracked the wrong things. Life isn&apos;t just physical health — it&apos;s your mind, your finances, your spirit. I wanted one place where all of it counted, and an AI coach that knows your data without shipping it to a server. That&apos;s HabitForge.&rdquo;
+                &ldquo;Somewhere between the hard days and the ordinary ones, a simple truth kept showing up: we are the sum of what we do repeatedly. I built HabitForge because every app I tried tracked too little, or tracked the wrong things. Life isn&apos;t just physical health — it&apos;s your mind, your finances, your spirit. I wanted one place where all of it counted, with an AI coach that knows your data without shipping it to a server. Your daily choices are the pieces. Over time, they form your code.&rdquo;
               </blockquote>
               <p className="text-sm font-semibold text-stone-800">Carson Palmer</p>
               <p className="text-xs text-stone-400 mt-0.5">Founder, HabitForge</p>
@@ -760,6 +760,42 @@ export default function Home() {
             &ldquo;Every day you step up<br />to the anvil.&rdquo;
           </blockquote>
           <p className="mt-8 text-[13px] tracking-widest uppercase text-stone-400">— Carson Palmer, Founder of HabitForge</p>
+        </motion.div>
+      </section>
+
+      {/* ─── PRICING STRIP ────────────────────────────────────────────────── */}
+      <section className="bg-[#F5F0E8] py-16 px-6 border-t border-stone-200/60">
+        <motion.div
+          className="max-w-3xl mx-auto text-center"
+          initial={{ opacity: 0, y: 16 }}
+          whileInView={{ opacity: 1, y: 0 }}
+          viewport={{ once: true }}
+          transition={{ duration: 0.6 }}
+        >
+          <p className="text-[11px] font-semibold tracking-[0.2em] uppercase text-stone-400 mb-5">Pricing</p>
+          <h2
+            className="text-4xl md:text-5xl font-bold text-stone-900 mb-6"
+            style={{ fontFamily: "var(--font-playfair)" }}
+          >
+            Free to download.
+          </h2>
+          <p className="text-[17px] text-stone-500 max-w-md mx-auto leading-relaxed mb-8">
+            No subscription. No ads. No paywall hiding the features you actually want.
+            HabitForge is a one-time download — everything included.
+          </p>
+          <div className="flex flex-wrap items-center justify-center gap-4">
+            {[
+              { label: "Free Download", sub: "App Store" },
+              { label: "No Subscription", sub: "Ever" },
+              { label: "No Ads", sub: "Ever" },
+              { label: "All Features", sub: "Included" },
+            ].map(({ label, sub }) => (
+              <div key={label} className="flex flex-col items-center gap-1 px-6 py-3 rounded-2xl bg-white border border-stone-200 min-w-[110px]">
+                <span className="text-[15px] font-semibold text-stone-800">{label}</span>
+                <span className="text-[11px] text-stone-400 uppercase tracking-wide">{sub}</span>
+              </div>
+            ))}
+          </div>
         </motion.div>
       </section>
 
