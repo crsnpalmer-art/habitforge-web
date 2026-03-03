@@ -301,53 +301,37 @@ export default function Home() {
         </div>
       </div>
 
-      {/* ─── DEMO VIDEO ─────────────────────────────────────────────────────── */}
-      <section className="bg-[#1c1917] py-20 px-6">
-        <div className="max-w-4xl mx-auto">
-          <motion.div
-            className="text-center mb-10"
-            initial={{ opacity: 0, y: 20 }}
-            whileInView={{ opacity: 1, y: 0 }}
-            viewport={{ once: true }}
-            transition={{ duration: 0.6 }}
-          >
-            <p className="text-[11px] font-semibold tracking-[0.22em] uppercase text-stone-500 mb-3">
-              See it in action
-            </p>
-            <h2
-              className="text-3xl md:text-4xl font-bold text-white"
-              style={{ fontFamily: "var(--font-playfair)" }}
-            >
-              30 seconds. That&apos;s all it takes.
-            </h2>
-          </motion.div>
-
+      {/* ─── VIDEO PREVIEW ─────────────────────────────────────────────────── */}
+      {/* TODO: replace with re-recorded demo (clean streak/data) when ready */}
+      <section className="relative overflow-hidden" style={{ minHeight: 560 }}>
+        <video
+          src="/dna-helix.mp4"
+          autoPlay
+          loop
+          muted
+          playsInline
+          className="absolute inset-0 w-full h-full object-cover"
+        />
+        <div className="absolute inset-0" style={{ background: "rgba(15, 12, 10, 0.62)" }} />
+        <div className="relative z-10 flex flex-col items-center justify-center text-center px-6 py-28 md:py-36">
           <motion.div
             initial={{ opacity: 0, y: 24 }}
             whileInView={{ opacity: 1, y: 0 }}
             viewport={{ once: true }}
             transition={{ duration: 0.7 }}
-            className="relative rounded-2xl overflow-hidden"
-            style={{ boxShadow: "0 0 0 1px rgba(255,255,255,0.08), 0 40px 80px rgba(0,0,0,0.5)" }}
           >
-            <video
-              src="/demo-teaser.mp4"
-              controls
-              playsInline
-              preload="metadata"
-              poster="/screenshots/03-dashboard.png"
-              className="w-full h-auto block"
-              style={{ maxHeight: 600, objectFit: "contain", background: "#0e0d0b" }}
-            />
-          </motion.div>
-
-          <motion.div
-            className="text-center mt-8"
-            initial={{ opacity: 0 }}
-            whileInView={{ opacity: 1 }}
-            viewport={{ once: true }}
-            transition={{ duration: 0.6, delay: 0.2 }}
-          >
+            <p className="text-[11px] font-semibold tracking-[0.22em] uppercase text-stone-400 mb-5">
+              The forge metaphor
+            </p>
+            <h2
+              className="text-4xl md:text-6xl font-bold tracking-tight text-white mb-6 leading-tight"
+              style={{ fontFamily: "var(--font-playfair)" }}
+            >
+              Habits, visualized.
+            </h2>
+            <p className="text-[17px] text-stone-300 max-w-lg mx-auto leading-relaxed mb-10">
+              Every check-in feeds your Forge Score. Every dimension tells a story.
+            </p>
             <a
               href="#waitlist"
               className="inline-flex rounded-full px-8 py-4 text-[14px] font-semibold text-stone-900 bg-white hover:bg-stone-100 transition-colors shadow-lg"
@@ -357,7 +341,6 @@ export default function Home() {
             </a>
           </motion.div>
         </div>
-
       </section>
 
       {/* ─── BEFORE / AFTER ───────────────────────────────────────────────── */}
