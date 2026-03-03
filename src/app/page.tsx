@@ -143,7 +143,7 @@ export default function Home() {
             className="hidden md:inline-flex rounded-full px-4 py-2 text-[13px] font-semibold text-stone-100 bg-stone-900 hover:bg-stone-800 transition-colors"
             onClick={() => trackEvent("cta_click", { destination: "waitlist", variant: "nav" })}
           >
-            Get Early Access
+            Join the Waitlist
           </a>
           <div className="md:hidden">
             <MobileMenu links={[
@@ -202,7 +202,7 @@ export default function Home() {
                 className="w-full sm:w-auto rounded-full px-7 py-3.5 text-[14px] font-semibold text-white bg-stone-900 hover:bg-stone-700 transition-colors text-center"
                 onClick={() => trackEvent("cta_click", { destination: "waitlist", variant: "hero" })}
               >
-                Get Early Access
+                Join the Waitlist
               </a>
             )}
             <Link
@@ -336,7 +336,7 @@ export default function Home() {
               className="inline-flex rounded-full px-8 py-4 text-[14px] font-semibold text-stone-900 bg-white hover:bg-stone-100 transition-colors shadow-lg"
               onClick={() => trackEvent("cta_click", { destination: "waitlist", variant: "video" })}
             >
-              Get Early Access
+              Join the Waitlist
             </a>
           </motion.div>
         </div>
@@ -394,7 +394,7 @@ export default function Home() {
               className="inline-flex rounded-full px-8 py-4 text-[14px] font-semibold text-stone-900 bg-white hover:bg-stone-100 transition-colors shadow-lg"
               onClick={() => trackEvent("cta_click", { destination: "waitlist", variant: "video" })}
             >
-              Get Early Access
+              Join the Waitlist
             </a>
           </motion.div>
         </div>
@@ -413,9 +413,9 @@ export default function Home() {
             transition={{ duration: 0.7 }}
           >
             {[
-              { stat: "4", label: "Dimensions", sub: "Mental · Physical · Spiritual · Financial" },
-              { stat: "1", label: "Forge Score", sub: "One number that compounds daily" },
-              { stat: "∞", label: "Day streaks", sub: "No ceiling. No reset unless you miss." },
+              { stat: "4", label: "Dimensions", sub: "Mental, Physical, Spiritual, Financial — every habit maps to what it actually builds." },
+              { stat: "1", label: "Forge Score", sub: "One daily number that compounds with consistency and difficulty across all four areas." },
+              { stat: "∞", label: "Day streaks", sub: "No arbitrary ceiling. Forge Shields protect your streak from a single missed day." },
             ].map((item, i) => (
               <motion.div
                 key={item.label}
@@ -708,17 +708,76 @@ export default function Home() {
           viewport={{ once: true }}
           transition={{ duration: 0.8 }}
         >
-          <blockquote
+          <p
             className="font-bold italic text-stone-800 leading-[1.1]"
             style={{
               fontFamily: "var(--font-playfair)",
               fontSize: "clamp(40px, 6vw, 72px)",
             }}
           >
-            &ldquo;Every day you step up<br />to the anvil.&rdquo;
-          </blockquote>
-          <p className="mt-8 text-[13px] tracking-widest uppercase text-stone-400">— Carson Palmer, Founder of HabitForge</p>
+            Every day you step up<br />to the anvil.
+          </p>
+          <p className="mt-8 text-[13px] tracking-widest uppercase text-stone-400">The HabitForge Mission</p>
         </motion.div>
+      </section>
+
+      {/* ─── FAQ ──────────────────────────────────────────────────────────── */}
+      <section className="bg-white py-24 px-6 border-t border-stone-100">
+        <div className="max-w-2xl mx-auto">
+          <motion.div
+            initial={{ opacity: 0, y: 20 }}
+            whileInView={{ opacity: 1, y: 0 }}
+            viewport={{ once: true }}
+            transition={{ duration: 0.6 }}
+          >
+            <h2
+              className="text-3xl md:text-4xl font-bold text-stone-900 mb-12"
+              style={{ fontFamily: "var(--font-playfair)" }}
+            >
+              Common questions.
+            </h2>
+            <div className="divide-y divide-stone-100">
+              {[
+                {
+                  q: "Is HabitForge really free?",
+                  a: "Yes — free to download, no subscription, no ads. All features are included at no cost.",
+                },
+                {
+                  q: "Does it work on Android?",
+                  a: "Not yet. HabitForge is iOS-only at launch, built around Apple Intelligence for the Ember AI coach. Android support is on the roadmap.",
+                },
+                {
+                  q: "Is my data actually private?",
+                  a: "Yes. All habit data is stored locally on your device. Ember AI runs entirely on-device via Apple Intelligence — nothing is sent to a server. Cloud sync via iCloud is optional and end-to-end encrypted.",
+                },
+                {
+                  q: "What happens if I miss a day?",
+                  a: "Your streak resets — but you can earn Forge Shields every 14 days to protect a streak from a single missed day. Life happens; the system accounts for it.",
+                },
+                {
+                  q: "What iOS version do I need?",
+                  a: "iOS 26 or later. Ember AI requires Apple Intelligence, which is available on iPhone 16 and later running iOS 26.",
+                },
+                {
+                  q: "When does the app launch?",
+                  a: "HabitForge is currently in App Store review. Join the waitlist and you'll be the first to know the moment it goes live.",
+                },
+              ].map(({ q, a }, i) => (
+                <motion.div
+                  key={q}
+                  className="py-6"
+                  initial={{ opacity: 0, y: 12 }}
+                  whileInView={{ opacity: 1, y: 0 }}
+                  viewport={{ once: true }}
+                  transition={{ duration: 0.4, delay: i * 0.06 }}
+                >
+                  <p className="text-[16px] font-semibold text-stone-900 mb-2">{q}</p>
+                  <p className="text-[15px] text-stone-500 leading-relaxed">{a}</p>
+                </motion.div>
+              ))}
+            </div>
+          </motion.div>
+        </div>
       </section>
 
       {/* ─── PRICING STRIP ────────────────────────────────────────────────── */}
@@ -745,7 +804,7 @@ export default function Home() {
               className="inline-block rounded-full px-8 py-3.5 text-[14px] font-semibold text-white transition-opacity hover:opacity-90"
               style={{ background: "linear-gradient(135deg, #D97C5F, #F2CC8F)" }}
             >
-              Get Early Access
+              Join the Waitlist
             </Link>
           </div>
         </motion.div>
