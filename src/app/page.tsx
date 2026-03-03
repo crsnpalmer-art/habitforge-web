@@ -249,8 +249,8 @@ export default function Home() {
               }}
             >
               <Image
-                src="/screenshots/03-dashboard.png"
-                alt="HabitForge dashboard"
+                src="/screenshots/01-Dashboard.png"
+                alt="HabitForge dashboard — 14-day streak, Forge Score 537"
                 width={1170}
                 height={2532}
                 className="w-full h-auto block"
@@ -523,8 +523,8 @@ export default function Home() {
               }}
             >
               <Image
-                src="/screenshots/03-dashboard.png"
-                alt="HabitForge habit dashboard"
+                src="/screenshots/01-Dashboard.png"
+                alt="HabitForge dashboard — 14-day streak, Forge Score 537"
                 width={1170}
                 height={2532}
                 className="w-full h-auto block"
@@ -552,8 +552,8 @@ export default function Home() {
                 }}
               >
                 <Image
-                  src="/screenshots/05-leaderboard.png"
-                  alt="HabitForge group leaderboard"
+                  src="/screenshots/03-EmberAI.png"
+                  alt="Ember AI coaching response"
                   width={1170}
                   height={2532}
                   className="w-full h-auto block"
@@ -579,7 +579,7 @@ export default function Home() {
                 }}
               >
                 <Image
-                  src="/screenshots/03-dashboard.png"
+                  src="/screenshots/01-Dashboard.png"
                   alt="HabitForge dashboard"
                   width={1170}
                   height={2532}
@@ -606,8 +606,8 @@ export default function Home() {
                 }}
               >
                 <Image
-                  src="/screenshots/04-progress.png"
-                  alt="HabitForge progress analytics"
+                  src="/screenshots/02-ForgeShields.png"
+                  alt="Forge Shields — streak protection"
                   width={1170}
                   height={2532}
                   className="w-full h-auto block"
