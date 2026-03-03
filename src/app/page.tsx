@@ -760,7 +760,7 @@ export default function Home() {
                 },
                 {
                   q: "When does the app launch?",
-                  a: "HabitForge is currently in App Store review. Join the waitlist and you'll be the first to know the moment it goes live.",
+                  a: "Expected Spring 2026. HabitForge is currently in App Store review — join the waitlist and you'll hear the moment it goes live.",
                 },
               ].map(({ q, a }, i) => (
                 <motion.div
