@@ -83,7 +83,7 @@ export default function AboutPage() {
           className="absolute inset-0 w-full h-full object-cover opacity-20 pointer-events-none"
           style={{ mixBlendMode: "luminosity" }}
         >
-          <source src="/dna-helix.mp4" type="video/mp4" />
+          <source src="/videos/dna_helix_warm.mp4" type="video/mp4" />
         </video>
         <div className="relative max-w-3xl mx-auto">
           <p className="text-[11px] font-semibold tracking-[0.25em] text-stone-500 uppercase mb-12 text-center">

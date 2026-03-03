@@ -301,18 +301,17 @@ export default function Home() {
         </div>
       </div>
 
-      {/* ─── VIDEO PREVIEW ─────────────────────────────────────────────────── */}
-      {/* TODO: replace with re-recorded demo (clean streak/data) when ready */}
+      {/* ─── FORGE EMBER BACKGROUND ─────────────────────────────────────────── */}
       <section className="relative overflow-hidden" style={{ minHeight: 560 }}>
         <video
-          src="/dna-helix.mp4"
+          src="/videos/forge_ember_loop.mp4"
           autoPlay
           loop
           muted
           playsInline
           className="absolute inset-0 w-full h-full object-cover"
         />
-        <div className="absolute inset-0" style={{ background: "rgba(15, 12, 10, 0.62)" }} />
+        <div className="absolute inset-0" style={{ background: "rgba(15, 10, 8, 0.58)" }} />
         <div className="relative z-10 flex flex-col items-center justify-center text-center px-6 py-28 md:py-36">
           <motion.div
             initial={{ opacity: 0, y: 24 }}
@@ -320,14 +319,14 @@ export default function Home() {
             viewport={{ once: true }}
             transition={{ duration: 0.7 }}
           >
-            <p className="text-[11px] font-semibold tracking-[0.22em] uppercase text-stone-400 mb-5">
-              The forge metaphor
+            <p className="text-[11px] font-semibold tracking-[0.22em] uppercase text-amber-500/80 mb-5">
+              Anvil-forged habits
             </p>
             <h2
               className="text-4xl md:text-6xl font-bold tracking-tight text-white mb-6 leading-tight"
               style={{ fontFamily: "var(--font-playfair)" }}
             >
-              Habits, visualized.
+              One day at a time.
             </h2>
             <p className="text-[17px] text-stone-300 max-w-lg mx-auto leading-relaxed mb-10">
               Every check-in feeds your Forge Score. Every dimension tells a story.
@@ -340,6 +339,32 @@ export default function Home() {
               Get Early Access
             </a>
           </motion.div>
+        </div>
+      </section>
+
+      {/* ─── LIFESTYLE VIDEOS ──────────────────────────────────────────────── */}
+      <section className="bg-[#1c1917] py-4 px-4">
+        <div className="max-w-5xl mx-auto grid grid-cols-3 gap-3">
+          {[
+            { src: "/videos/morning_ritual.mp4", label: "Daily ritual" },
+            { src: "/videos/anvil_spark.mp4", label: "The forge" },
+            { src: "/videos/four_dimensions.mp4", label: "Four dimensions" },
+          ].map(({ src, label }) => (
+            <div key={src} className="relative rounded-xl overflow-hidden aspect-video">
+              <video
+                src={src}
+                autoPlay
+                loop
+                muted
+                playsInline
+                className="w-full h-full object-cover"
+              />
+              <div className="absolute inset-0" style={{ background: "rgba(0,0,0,0.25)" }} />
+              <p className="absolute bottom-2 left-3 text-[10px] font-semibold tracking-[0.18em] uppercase text-stone-300/80">
+                {label}
+              </p>
+            </div>
+          ))}
         </div>
       </section>
 
@@ -623,6 +648,40 @@ export default function Home() {
       </section>
 
       {/* testimonials — placeholder for real App Store reviews post-launch */}
+
+      {/* ─── BRAND FILM ────────────────────────────────────────────────────── */}
+      <section className="relative overflow-hidden" style={{ minHeight: 420 }}>
+        <video
+          src="/videos/brand_spot.mp4"
+          autoPlay
+          loop
+          muted
+          playsInline
+          className="absolute inset-0 w-full h-full object-cover"
+        />
+        <div className="absolute inset-0" style={{ background: "rgba(12, 8, 6, 0.55)" }} />
+        <div className="relative z-10 flex flex-col items-center justify-center text-center px-6 py-20">
+          <motion.p
+            className="text-[11px] font-semibold tracking-[0.25em] uppercase text-amber-500/70 mb-4"
+            initial={{ opacity: 0 }}
+            whileInView={{ opacity: 1 }}
+            viewport={{ once: true }}
+            transition={{ duration: 0.8 }}
+          >
+            Anvil-forged habits, one day at a time
+          </motion.p>
+          <motion.h2
+            className="text-4xl md:text-5xl font-bold text-white leading-tight"
+            style={{ fontFamily: "var(--font-playfair)" }}
+            initial={{ opacity: 0, y: 16 }}
+            whileInView={{ opacity: 1, y: 0 }}
+            viewport={{ once: true }}
+            transition={{ duration: 0.7, delay: 0.1 }}
+          >
+            The anvil is waiting.
+          </motion.h2>
+        </div>
+      </section>
 
       {/* ─── QUOTE ────────────────────────────────────────────────────────── */}
       <section className="bg-[#F5F0E8] py-28 md:py-40 px-6 border-t border-stone-200/40">
