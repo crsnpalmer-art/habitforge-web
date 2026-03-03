@@ -426,80 +426,53 @@ export default function Home() {
         </div>
       </section>
 
-      {/* ─── BEFORE / AFTER ───────────────────────────────────────────────── */}
-      <section className="py-20 md:py-32 px-6" style={{ background: "#1c1917" }}>
-        <div className="max-w-5xl mx-auto">
-          <motion.h2
-            className="text-center font-bold text-white mb-16 leading-none"
-            style={{
-              fontFamily: "var(--font-playfair)",
-              fontSize: "clamp(40px, 6vw, 80px)",
-            }}
+      {/* ─── PHILOSOPHY STRIP ─────────────────────────────────────────────── */}
+      <section className="py-20 md:py-28 px-6" style={{ background: "#1c1917" }}>
+        <div className="max-w-3xl mx-auto">
+          <motion.div
+            className="grid md:grid-cols-3 gap-10 md:gap-16 text-center"
             initial={{ opacity: 0, y: 20 }}
             whileInView={{ opacity: 1, y: 0 }}
             viewport={{ once: true }}
-            transition={{ duration: 0.65 }}
+            transition={{ duration: 0.7 }}
           >
-            What changes.
-          </motion.h2>
+            {[
+              { stat: "4", label: "Dimensions", sub: "Mental · Physical · Spiritual · Financial" },
+              { stat: "1", label: "Forge Score", sub: "One number that compounds daily" },
+              { stat: "∞", label: "Day streaks", sub: "No ceiling. No reset unless you miss." },
+            ].map((item, i) => (
+              <motion.div
+                key={item.label}
+                initial={{ opacity: 0, y: 16 }}
+                whileInView={{ opacity: 1, y: 0 }}
+                viewport={{ once: true }}
+                transition={{ duration: 0.55, delay: i * 0.1 }}
+              >
+                <p
+                  className="font-bold leading-none mb-2"
+                  style={{
+                    fontFamily: "var(--font-playfair)",
+                    fontSize: "clamp(52px, 7vw, 80px)",
+                    background: "linear-gradient(135deg, #D97C5F, #F2CC8F)",
+                    WebkitBackgroundClip: "text",
+                    WebkitTextFillColor: "transparent",
+                  }}
+                >{item.stat}</p>
+                <p className="text-white font-semibold text-[17px] mb-1">{item.label}</p>
+                <p className="text-stone-500 text-[13px] leading-snug">{item.sub}</p>
+              </motion.div>
+            ))}
+          </motion.div>
 
-          <div className="grid md:grid-cols-[1fr_auto_1fr] gap-8 md:gap-0 items-start">
-            {/* Before */}
-            <motion.div
-              initial={{ opacity: 0, x: -20 }}
-              whileInView={{ opacity: 1, x: 0 }}
-              viewport={{ once: true }}
-              transition={{ duration: 0.6, delay: 0.1 }}
-            >
-              <p className="text-[10px] font-semibold tracking-widest uppercase text-stone-500 mb-6">Before</p>
-              <ul className="space-y-5">
-                {[
-                  "Your AI coach sends your data to the cloud",
-                  "No framework — just a list of todos",
-                  "One missed day and the streak is gone",
-                  "No way to know if habits are working",
-                  "Accountability depends on willpower alone",
-                ].map((item) => (
-                  <li key={item} className="flex items-start gap-3">
-                    <span className="mt-1 text-[#7c4a4a] text-sm flex-shrink-0">✕</span>
-                    <span className="text-[16px] text-[#8a6a6a] leading-snug">{item}</span>
-                  </li>
-                ))}
-              </ul>
-            </motion.div>
-
-            {/* Divider */}
-            <div className="hidden md:flex flex-col items-center justify-center px-8 self-stretch">
-              <div className="w-px flex-1 bg-stone-700" />
-              <span className="my-4 text-stone-500 text-xl">→</span>
-              <div className="w-px flex-1 bg-stone-700" />
-            </div>
-            <div className="md:hidden w-full h-px bg-stone-700" />
-
-            {/* After */}
-            <motion.div
-              initial={{ opacity: 0, x: 20 }}
-              whileInView={{ opacity: 1, x: 0 }}
-              viewport={{ once: true }}
-              transition={{ duration: 0.6, delay: 0.2 }}
-            >
-              <p className="text-[10px] font-semibold tracking-widest uppercase text-stone-500 mb-6">After HabitForge</p>
-              <ul className="space-y-5">
-                {[
-                  "Ember AI runs on-device — your data never leaves",
-                  "Four dimensions: Mental, Physical, Spiritual, Financial",
-                  "Forge Shields protect your streak when life happens",
-                  "Forge Score compounds with difficulty and consistency",
-                  "Group leaderboard keeps you accountable to people, not apps",
-                ].map((item) => (
-                  <li key={item} className="flex items-start gap-3">
-                    <span className="mt-1 text-emerald-600 text-sm flex-shrink-0">✓</span>
-                    <span className="text-[16px] text-stone-300 leading-snug">{item}</span>
-                  </li>
-                ))}
-              </ul>
-            </motion.div>
-          </div>
+          <motion.p
+            className="mt-16 text-center text-[17px] md:text-[19px] text-stone-400 leading-relaxed max-w-2xl mx-auto"
+            initial={{ opacity: 0 }}
+            whileInView={{ opacity: 1 }}
+            viewport={{ once: true }}
+            transition={{ duration: 0.7, delay: 0.3 }}
+          >
+            Most habit apps track checkboxes. HabitForge tracks the person you&apos;re building — across every dimension that actually matters.
+          </motion.p>
         </div>
       </section>
 
@@ -795,6 +768,36 @@ export default function Home() {
                 <span className="text-[11px] text-stone-400 uppercase tracking-wide">{sub}</span>
               </div>
             ))}
+          </div>
+        </motion.div>
+      </section>
+
+      {/* ─── PRICING STRIP ────────────────────────────────────────────────── */}
+      <section className="bg-[#F5F0E8] border-t border-stone-200/60 py-12 px-6">
+        <motion.div
+          className="max-w-3xl mx-auto flex flex-col md:flex-row items-center justify-between gap-6"
+          initial={{ opacity: 0, y: 12 }}
+          whileInView={{ opacity: 1, y: 0 }}
+          viewport={{ once: true }}
+          transition={{ duration: 0.6 }}
+        >
+          <div>
+            <p
+              className="text-3xl md:text-4xl font-bold text-stone-900 leading-tight"
+              style={{ fontFamily: "var(--font-playfair)" }}
+            >
+              Free to download.
+            </p>
+            <p className="mt-1 text-[15px] text-stone-500">No subscription. No ads. No data sold. iOS 26+.</p>
+          </div>
+          <div className="flex-shrink-0">
+            <Link
+              href="#waitlist"
+              className="inline-block rounded-full px-8 py-3.5 text-[14px] font-semibold text-white transition-opacity hover:opacity-90"
+              style={{ background: "linear-gradient(135deg, #D97C5F, #F2CC8F)" }}
+            >
+              Get Early Access
+            </Link>
           </div>
         </motion.div>
       </section>
