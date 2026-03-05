@@ -5,6 +5,25 @@ excerpt: "Ashwagandha has been used in Ayurvedic medicine for over 3,000 years. 
 category: "Supplements"
 ---
 
+## The Basics
+
+| | |
+|---|---|
+| **What it is** | A standardized root extract of Withania somnifera containing ≥5% withanolides, the most clinically studied adaptogen for stress and hormonal health |
+| **Primary use** | Reducing cortisol and stress while supporting testosterone, recovery, and athletic performance |
+| **Evidence level** | Moderate — backed by over 50 human clinical trials including multiple randomized, double-blind, placebo-controlled studies |
+| **Safety profile** | Generally Safe — well-tolerated in healthy adults with rare GI side effects; avoid during pregnancy |
+| **Best for** | People experiencing chronic stress, elevated cortisol, suboptimal testosterone, or impaired recovery from training |
+
+### Key Facts at a Glance
+- KSM-66 reduced serum cortisol by 27.9% and subjective stress scores by 44% in 60-day clinical trials
+- 300mg twice daily increased testosterone by 17% in resistance-trained men compared to placebo after 8 weeks
+- Significantly improved muscle strength gains (+44 lbs bench press vs. +26 lbs placebo), recovery, and VO2 max
+- Contains triethylene glycol, which improves sleep onset, quality, and morning alertness
+- Typical effective dose: 300–600mg/day KSM-66 extract, with benefits emerging over 4–8 weeks
+
+---
+
 Ashwagandha (*Withania somnifera*) is one of the most clinically validated adaptogens available today. Unlike many herbs that rely on centuries of traditional use without modern evidence, ashwagandha has been the subject of over 50 human clinical trials — many of them randomized, double-blind, and placebo-controlled. The extract that shows up most in the strongest research is KSM-66, a root-only extract standardized to ≥5% withanolides, and it's the benchmark for any serious discussion of this herb.
 
 ## What Is an Adaptogen?
@@ -47,3 +66,29 @@ Ashwagandha contains triethylene glycol, a compound shown in preclinical researc
 Look for products clearly labeled "KSM-66" or "Sensoril" (another validated extract) rather than generic "ashwagandha root powder," which lacks standardized withanolide content and shows far weaker effects in trials.
 
 Ashwagandha is not a magic pill, but for those under chronic stress with suboptimal recovery and testosterone levels, it's one of the few supplements where the clinical evidence genuinely justifies the purchase.
+
+---
+
+## Sources & Further Reading
+
+1. Chandrasekhar K, Kapoor J, Anishetty S. A prospective, randomized double-blind, placebo-controlled study of safety and efficacy of a high-concentration full-spectrum extract of ashwagandha root in reducing stress and anxiety in adults. *Indian J Psychol Med*. 2012;34(3):255-262. https://pubmed.ncbi.nlm.nih.gov/23439798/
+
+2. Salve J, Pate S, Debnath K, Langade D. Adaptogenic and Anxiolytic Effects of Ashwagandha Root Extract in Healthy Adults: A Double-blind, Randomized, Placebo-controlled Clinical Study. *Cureus*. 2019;11(12):e6466. https://pubmed.ncbi.nlm.nih.gov/32021735/
+
+3. Wankhede S, Langade D, Joshi K, Sinha SR, Bhattacharyya S. Examining the effect of Withania somnifera supplementation on muscle strength and recovery: a randomized controlled trial. *J Int Soc Sports Nutr*. 2015;12:43. https://pubmed.ncbi.nlm.nih.gov/26609282/
+
+4. Ahmad MK, Mahdi AA, Shukla KK, et al. Withania somnifera improves semen quality by regulating reproductive hormone levels and oxidative stress in seminal plasma of infertile males. *Fertil Steril*. 2010;94(3):989-996. https://pubmed.ncbi.nlm.nih.gov/19501822/
+
+5. Langade D, Kanchi S, Salve J, Debnath K, Ambegaokar D. Efficacy and Safety of Ashwagandha (Withania somnifera) Root Extract in Insomnia and Anxiety: A Double-blind, Randomized, Placebo-controlled Study. *Cureus*. 2019;11(9):e5797. https://pubmed.ncbi.nlm.nih.gov/31728244/
+
+6. Examine.com — Ashwagandha: Scientific research and clinical evidence summary. https://examine.com/supplements/ashwagandha/
+
+## Where to Buy / Find This
+
+- **Nootropics Depot KSM-66 Ashwagandha** — 300mg capsules, third-party tested, transparent sourcing, widely considered the gold standard — https://nootropicsdepot.com/ksm-66-ashwagandha-capsules/
+
+- **Transparent Labs KSM-66 Ashwagandha** — 600mg per serving, clean label, no fillers, highly rated — https://www.transparentlabs.com/products/vitality
+
+- **Jarrow Formulas KSM-66 Ashwagandha** — Affordable, verified KSM-66 extract, available on Amazon — https://www.amazon.com/Jarrow-Formulas-Ashwagandha-Veggie-Capsules/dp/B01D15LMCK
+
+- **NOW Supplements Ashwagandha (KSM-66)** — Budget-friendly option with solid quality control — https://www.amazon.com/NOW-Ashwagandha-Extract-450-Capsules/dp/B00AM2N86U

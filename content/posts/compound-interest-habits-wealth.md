@@ -5,6 +5,25 @@ excerpt: "Compound interest is called the eighth wonder of the world for a reaso
 category: "Finance"
 ---
 
+## The Basics
+
+| | |
+|---|---|
+| **What it is** | The mathematical principle where money grows exponentially through reinvested returns over time |
+| **Primary use** | Long-term wealth building through consistent investing in index funds, retirement accounts, and dividend-reinvestment strategies |
+| **Evidence level** | Strong — centuries of market data, peer-reviewed economic research, and real-world wealth accumulation patterns |
+| **Safety profile** | Very Safe (when invested in diversified index funds with long time horizons) |
+| **Best for** | Anyone with 10+ year time horizon willing to invest consistently regardless of market conditions |
+
+### Key Facts at a Glance
+- $300/month invested at 10% annual returns becomes ~$1.97M after 40 years (total contributions: only $144K)
+- The S&P 500 has averaged ~10% annual returns over the past century despite multiple crashes and recessions
+- Starting 10 years earlier can result in 3x more wealth at retirement due to compound growth acceleration
+- Time in the market beats timing the market — consistency outperforms attempting to predict market movements
+- The first 10 years feel slow (gains are small), but the final 10 years produce exponential growth where gains dwarf contributions
+
+---
+
 Albert Einstein allegedly called compound interest "the eighth wonder of the world." Whether or not he actually said it, the math backs it up. The ability of money to grow on itself — returns generating more returns, year after year — is one of the most powerful forces in personal finance. But here's what most people miss: compound interest isn't just a financial principle. It's a metaphor for how all meaningful change actually works.
 
 ## The Math That Changes Everything
@@ -66,3 +85,21 @@ Wealth isn't an event. It's not a windfall, a promotion, or a lucky stock pick. 
 The people who build real wealth aren't necessarily smarter, higher-earning, or luckier than everyone else. They're consistent. They started early. They stayed the course. And they let time do the heavy lifting.
 
 The best time to start was yesterday. The second best time is now.
+
+---
+
+## Sources & Further Reading
+
+1. **Stocks for the Long Run** by Jeremy Siegel — Wharton professor's comprehensive analysis of 200+ years of market data proving long-term compound returns — https://www.wiley.com/en-us/Stocks+for+the+Long+Run%2C+6th+Edition-p-9781260473902
+2. **The Power of Compounding Returns** — Research from the Federal Reserve Bank of St. Louis on exponential wealth accumulation — https://www.stlouisfed.org/on-the-economy/2021/october/power-compound-interest
+3. **Historical Returns on Stocks, Bonds and Bills: 1928-2023** — NYU Stern School data on S&P 500 average returns — https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/histretSP.html
+4. **The Rate of Return on Everything, 1870–2015** — Federal Reserve Bank of San Francisco working paper on 145 years of asset return data — https://www.frbsf.org/economic-research/publications/economic-letter/2018/may/rate-of-return-on-everything-1870-2015/
+5. **Compound Interest Calculator** — SEC.gov official calculator demonstrating exponential growth — https://www.investor.gov/financial-tools-calculators/calculators/compound-interest-calculator
+
+## Where to Buy / Find This
+
+- **Vanguard Total Stock Market Index Fund (VTI)** — Low-cost index fund tracking entire U.S. stock market with 0.03% expense ratio — https://investor.vanguard.com/investment-products/etfs/profile/vti
+- **Fidelity Zero Total Market Index Fund (FZROX)** — Zero expense ratio total market index fund, no minimum investment — https://www.fidelity.com/mutual-funds/investing-ideas/index-funds
+- **M1 Finance** — Free automated investing platform with portfolio rebalancing and fractional shares — https://www.m1.com/
+- **Wealthfront** — Robo-advisor with automated tax-loss harvesting and low 0.25% management fee — https://www.wealthfront.com/
+- **A Simple Path to Wealth by JL Collins** — The definitive beginner's guide to index fund investing and financial independence — https://www.amazon.com/Simple-Path-Wealth-financial-independence/dp/1533667926

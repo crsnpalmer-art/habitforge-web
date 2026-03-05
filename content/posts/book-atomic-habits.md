@@ -5,6 +5,25 @@ excerpt: "The definitive guide to building good habits and breaking bad ones. Ja
 category: "Books"
 ---
 
+## The Basics
+
+| | |
+|---|---|
+| **What it is** | A science-backed framework for building good habits and breaking bad ones through 1% daily improvements |
+| **Primary use** | Creating sustainable behavior change through environmental design, habit stacking, and identity-based systems |
+| **Evidence level** | Strong — integrates peer-reviewed research from behavioral psychology, neuroscience, and habit formation studies |
+| **Safety profile** | Very Safe — educational content with no physical interventions |
+| **Best for** | Anyone seeking lasting behavioral change: professionals building routines, athletes optimizing performance, or individuals breaking unwanted patterns |
+
+### Key Facts at a Glance
+- Over 15 million copies sold worldwide since 2018, making it one of the most influential habit books ever published
+- Based on the 4 Laws of Behavior Change: make it obvious, attractive, easy, and satisfying
+- Focuses on identity-based habits rather than outcome-based goals — becoming the type of person who embodies the habit
+- Uses the Two-Minute Rule and habit stacking to reduce friction and anchor new behaviors to existing routines
+- 1% daily improvement compounds to 37x better results over one year through consistent application
+
+---
+
 If there's one book that belongs on every habit-builder's shelf, it's *Atomic Habits* by James Clear. Published in 2018, it has sold over 15 million copies worldwide — and for good reason. It doesn't just explain *why* habits matter; it gives you a precise, repeatable system for actually changing them.
 
 ## The Core Thesis: Tiny Changes, Remarkable Results
@@ -50,3 +69,22 @@ Anyone who wants sustainable change — athletes, entrepreneurs, students, paren
 **Rating: ⭐⭐⭐⭐⭐ (5/5)**
 
 **Key Takeaway:** You don't need to be perfect. You need to be consistent. Build systems. Cast votes for your identity. Let compound interest do the rest.
+
+---
+
+## Sources & Further Reading
+
+1. **Atomic Habits by James Clear** — Official book page with resources and habit tracker templates — https://jamesclear.com/atomic-habits
+2. **Clear, J. (2018). Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones** — Penguin Random House — https://www.penguinrandomhouse.com/books/538268/atomic-habits-by-james-clear/
+3. **Wood, W., & Rünger, D. (2016). Psychology of Habit** — Annual Review of Psychology, examining the neuroscience and behavioral mechanisms underlying habit formation — https://www.annualreviews.org/doi/10.1146/annurev-psych-122414-033417
+4. **Lally, P., et al. (2010). How are habits formed: Modelling habit formation in the real world** — European Journal of Social Psychology, 40(6), 998-1009 — https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.674
+5. **Gollwitzer, P. M. (1999). Implementation intentions: Strong effects of simple plans** — American Psychologist, 54(7), 493-503 — https://psycnet.apa.org/record/1999-01129-001
+6. **James Clear's Blog** — In-depth articles on habit formation, behavior change, and decision-making — https://jamesclear.com/articles
+
+## Where to Buy / Find This
+
+- **Amazon (Hardcover, Paperback, Kindle, Audiobook)** — Most popular edition with thousands of reviews — https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299
+- **Audible Audiobook** — Narrated by the author, 5.5 hours, highly rated for commutes and workouts — https://www.audible.com/pd/Atomic-Habits-Audiobook/1524779261
+- **Barnes & Noble** — In-store and online availability, often featured in self-improvement sections — https://www.barnesandnoble.com/w/atomic-habits-james-clear/1127308452
+- **Official Website (Signed Copies)** — Occasionally available directly from James Clear with bonus materials — https://jamesclear.com/atomic-habits
+- **Local Library** — Widely available in public library systems via physical copy, ebook, or audiobook through apps like Libby

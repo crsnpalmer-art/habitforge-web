@@ -5,6 +5,25 @@ excerpt: "Stanford psychiatrist Dr. Anna Lembke explores our pleasure-pain balan
 category: "Books"
 ---
 
+## The Basics
+
+| | |
+|---|---|
+| **What it is** | A neuroscience-based exploration of addiction, compulsive behavior, and the pleasure-pain balance in modern life |
+| **Primary use** | Understanding why we compulsively consume (food, media, substances) and how to restore dopamine baseline through strategic abstinence |
+| **Evidence level** | Strong — grounded in peer-reviewed neuroscience and decades of clinical addiction medicine practice |
+| **Safety profile** | Very Safe — book-based knowledge with actionable behavioral frameworks |
+| **Best for** | Anyone struggling with compulsive behaviors (scrolling, eating, consuming), people seeking to understand addiction neuroscience, habit builders wanting to address the "why" behind bad habits |
+
+### Key Facts at a Glance
+- Dopamine drives both motivation and reward; modern stimuli hijack this system with unnaturally high dopamine hits
+- The pleasure-pain balance is automatic: every high creates an equal and opposite comedown as the brain seeks homeostasis
+- Chronic overstimulation shifts your baseline upward, making ordinary pleasures feel insufficient (hedonic treadmill)
+- 4 weeks of abstinence from a compulsive behavior can reset dopamine baseline and restore capacity for simple joys
+- Self-binding strategies (environmental design) work better than willpower for breaking compulsive patterns
+
+---
+
 We live in the most pleasure-saturated era in human history — and somehow, we've never been more miserable. Dr. Anna Lembke, chief of Stanford's addiction medicine clinic, has a compelling explanation for why. *Dopamine Nation* is part science, part confessional, and entirely essential reading for anyone trying to build a better relationship with their own behavior.
 
 ## The Pleasure-Pain Balance
@@ -54,3 +73,20 @@ Anyone who has ever wondered why they can't stop scrolling, snacking, or checkin
 **Rating: ⭐⭐⭐⭐⭐ (5/5)**
 
 **Key Takeaway:** More is not more. The path to genuine pleasure runs through restraint, honesty, and the willingness to feel the discomfort of the reset.
+
+---
+
+## Sources & Further Reading
+
+1. Lembke, A. (2021). *Dopamine Nation: Finding Balance in the Age of Indulgence*. Dutton. — [Publisher page](https://www.penguinrandomhouse.com/books/623540/dopamine-nation-by-dr-anna-lembke/)
+2. Volkow, N.D., Wang, G.J., Fowler, J.S., Tomasi, D., & Telang, F. (2011). Addiction: Beyond dopamine reward circuitry. *Proceedings of the National Academy of Sciences*, 108(37), 15037-15042. — [PubMed](https://pubmed.ncbi.nlm.nih.gov/21402948/)
+3. Koob, G.F., & Le Moal, M. (2008). Addiction and the brain antireward system. *Annual Review of Psychology*, 59, 29-53. — [PubMed](https://pubmed.ncbi.nlm.nih.gov/18154498/)
+4. Schultz, W. (2015). Neuronal reward and decision signals: From theories to data. *Physiological Reviews*, 95(3), 853-951. — [PubMed](https://pubmed.ncbi.nlm.nih.gov/26109341/)
+5. Stanford Medicine - Addiction Medicine - [Official program page](https://med.stanford.edu/addictionmedicine.html)
+
+## Where to Buy / Find This
+
+- **Amazon (Hardcover)** — Dopamine Nation by Dr. Anna Lembke — [https://www.amazon.com/Dopamine-Nation-Finding-Balance-Indulgence/dp/152474672X](https://www.amazon.com/Dopamine-Nation-Finding-Balance-Indulgence/dp/152474672X)
+- **Amazon (Kindle)** — Digital edition for instant access — [https://www.amazon.com/Dopamine-Nation-Finding-Balance-Indulgence-ebook/dp/B08P4MRF4W](https://www.amazon.com/Dopamine-Nation-Finding-Balance-Indulgence-ebook/dp/B08P4MRF4W)
+- **Audible Audiobook** — Narrated by the author, Dr. Anna Lembke — [https://www.audible.com/pd/Dopamine-Nation-Audiobook/1797127578](https://www.audible.com/pd/Dopamine-Nation-Audiobook/1797127578)
+- **Bookshop.org** — Support independent bookstores — [https://bookshop.org/books/dopamine-nation-finding-balance-in-the-age-of-indulgence/9781524746728](https://bookshop.org/books/dopamine-nation-finding-balance-in-the-age-of-indulgence/9781524746728)

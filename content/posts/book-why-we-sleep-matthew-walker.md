@@ -5,6 +5,25 @@ excerpt: "Matthew Walker's Why We Sleep is the most important book you'll read a
 category: "Books"
 ---
 
+## The Basics
+
+| | |
+|---|---|
+| **What it is** | A neuroscience-backed exploration of sleep's critical role in mental and physical health by UC Berkeley sleep researcher Matthew Walker |
+| **Primary use** | Understanding why 7-9 hours of sleep is non-negotiable for cognitive function, emotional regulation, immune health, and longevity |
+| **Evidence level** | Strong — based on decades of peer-reviewed sleep research and large-scale epidemiological studies |
+| **Safety profile** | Very Safe — promotes natural sleep hygiene practices and evidence-based behavioral changes |
+| **Best for** | High achievers who chronically under-sleep, students, parents of teenagers, anyone managing mental health or athletic performance |
+
+### Key Facts at a Glance
+- Adults need 7-9 hours of sleep; less than 7 hours qualifies as chronic sleep deprivation with measurable health consequences
+- NREM deep sleep consolidates factual memories; REM sleep processes emotions and strips traumatic events of emotional intensity
+- A single all-nighter reduces the brain's ability to form new memories by approximately 40%
+- Chronic short sleep increases risk for cardiovascular disease, cancer, Alzheimer's, obesity, and diabetes
+- Sleep before learning prepares the brain to encode; sleep after learning locks information into long-term memory
+
+---
+
 **Why We Sleep: Unlocking the Power of Sleep and Dreams**
 *Matthew Walker | Published 2017 | 368 pages*
 
@@ -43,3 +62,20 @@ Walker closes with a challenge: if you slept 8 hours but needed an alarm clock t
 *Why We Sleep* won't make you feel good about your current habits — but it will give you the understanding and urgency to change them. Few books deliver a more compelling argument for treating sleep as the non-negotiable foundation it actually is.
 
 **Rating: Essential reading.** The science is occasionally overstated in the book's popular framing, but the core message — that sleep is the single highest-leverage health behavior most people are systematically neglecting — is well-supported and genuinely life-changing.
+
+---
+
+## Sources & Further Reading
+
+1. Walker MP. *Why We Sleep: Unlocking the Power of Sleep and Dreams*. Scribner, 2017. — https://www.ncbi.nlm.nih.gov/books/NBK19956/
+2. Xie L, et al. "Sleep Drives Metabolite Clearance from the Adult Brain." *Science*, 2013. — https://pubmed.ncbi.nlm.nih.gov/24136970/
+3. Walker MP, Stickgold R. "Sleep-dependent learning and memory consolidation." *Neuron*, 2004. — https://pubmed.ncbi.nlm.nih.gov/15339649/
+4. Cappuccio FP, et al. "Sleep duration and all-cause mortality: a systematic review and meta-analysis of prospective studies." *Sleep*, 2010. — https://pubmed.ncbi.nlm.nih.gov/20469800/
+5. Irwin MR, et al. "Sleep and inflammation: partners in sickness and in health." *Nature Reviews Immunology*, 2019. — https://pubmed.ncbi.nlm.nih.gov/31289370/
+
+## Where to Buy / Find This
+
+- **Why We Sleep (Hardcover/Paperback)** — Physical copy on Amazon — https://www.amazon.com/Why-We-Sleep-Unlocking-Dreams/dp/1501144316
+- **Why We Sleep (Kindle Edition)** — Digital version for Kindle — https://www.amazon.com/Why-We-Sleep-Unlocking-Dreams-ebook/dp/B06ZZ1YGJ5
+- **Why We Sleep (Audible Audiobook)** — Narrated by Steve West — https://www.amazon.com/Why-We-Sleep-Unlocking-Dreams/dp/B0752XRB5F
+- **Local Library** — Check availability through your public library system — https://www.worldcat.org/title/why-we-sleep-unlocking-the-power-of-sleep-and-dreams/oclc/1002323622

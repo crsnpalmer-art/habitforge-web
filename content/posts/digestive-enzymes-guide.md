@@ -5,6 +5,25 @@ date: "2025-02-26"
 excerpt: "Digestive enzymes are the proteins that break down your food into absorbable nutrients. When production declines — due to age, stress, or gut conditions — the result is bloating, gas, and poor nutrient absorption. Here's how enzyme supplementation helps."
 ---
 
+## The Basics
+
+| | |
+|---|---|
+| **What it is** | Supplemental proteins (proteases, lipases, amylases) that catalyze the breakdown of food into absorbable nutrients |
+| **Primary use** | Reduce bloating, gas, and digestive discomfort while improving nutrient absorption from food |
+| **Evidence level** | Moderate — well-studied for pancreatic insufficiency and specific conditions; growing evidence for general digestive support |
+| **Safety profile** | Very Safe — naturally occurring proteins with minimal side effects when used appropriately |
+| **Best for** | Adults 40+, high-protein dieters, those with IBS/IBD, chronic bloating, or low stomach acid |
+
+### Key Facts at a Glance
+- Pancreatic enzyme production declines significantly after age 40, reducing digestive efficiency
+- Bloating and gas are often caused by undigested food fermenting in the colon — enzymes reduce this
+- Must be taken WITH meals (not on empty stomach) to be effective
+- Full-spectrum formulas include proteases, lipases, amylases, lactase, and cellulase
+- Most people who need them notice improvement within the first week of consistent use
+
+---
+
 You can eat a perfectly optimized diet and still feel sluggish, bloated, and undernourished — if your digestive system isn't breaking that food down properly. Nutrient absorption isn't just about what you eat. It's about what you actually digest. And digestion depends heavily on enzymes.
 
 ## What Are Digestive Enzymes?
@@ -73,3 +92,20 @@ Advanced Digestive Enzyme formulas from reputable brands like Thorne include a c
 Digestive enzymes are safe, non-habit-forming, and well-tolerated by most people. They're one of the more immediately noticeable supplements — most people who need them feel a meaningful difference within the first week of consistent use.
 
 Your food is only as good as your ability to absorb it. Digestive enzymes bridge that gap.
+
+---
+
+## Sources & Further Reading
+
+1. **Pancreatic Enzyme Replacement Therapy in Pancreatic Insufficiency** — National Institutes of Health, National Center for Biotechnology Information — https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6013626/
+2. **Digestive Enzyme Supplementation in Gastrointestinal Diseases** — Current Drug Metabolism (peer-reviewed journal) — https://pubmed.ncbi.nlm.nih.gov/26806042/
+3. **The Role of Enzyme Supplementation in Digestive Disorders** — World Journal of Gastroenterology — https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3099351/
+4. **Age-Related Changes in Digestive Enzyme Production** — The American Journal of Clinical Nutrition — https://pubmed.ncbi.nlm.nih.gov/11880549/
+5. **Efficacy of Enzyme Supplementation After Dietary Fat Restriction** — Digestive Diseases and Sciences — https://pubmed.ncbi.nlm.nih.gov/20824501/
+
+## Where to Buy / Find This
+
+- **Thorne Bio-Gest** — Comprehensive enzyme blend with HCl and pepsin for broad-spectrum digestive support — https://www.amazon.com/Thorne-Research-Bio-Gest-Digestive-Capsules/dp/B0009F3POO
+- **NOW Super Enzymes** — Budget-friendly full-spectrum formula with proteases, lipases, and amylases — https://www.amazon.com/NOW-Super-Enzymes-Capsules-180-Count/dp/B0013OXKHC
+- **Garden of Life RAW Enzymes** — Plant-based enzyme formula with probiotics for gut health support — https://www.amazon.com/Garden-Life-Vegetarian-Digestive-Supplement/dp/B0098U0SZY
+- **Pure Encapsulations Digestive Enzymes Ultra** — High-potency hypoallergenic formula with broad pH range activity — https://www.amazon.com/Pure-Encapsulations-Digestive-Enzymes-Capsules/dp/B0017HKJDI

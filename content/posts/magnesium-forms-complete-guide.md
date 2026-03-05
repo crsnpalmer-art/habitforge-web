@@ -5,6 +5,25 @@ excerpt: "Not all magnesium supplements are created equal. The form you take det
 category: "Supplements"
 ---
 
+## The Basics
+
+| | |
+|---|---|
+| **What it is** | An essential mineral cofactor in over 300 enzymatic reactions, available in multiple supplemental forms with different absorption profiles and tissue targets. |
+| **Primary use** | Correcting deficiency to improve sleep quality, reduce muscle cramps, support energy production, calm the nervous system, and enhance cognitive function depending on form. |
+| **Evidence level** | Strong — magnesium deficiency is well-documented, and different forms have distinct, research-backed tissue affinities. |
+| **Safety profile** | Very Safe — most forms are well-tolerated, though high doses may cause loose stools; stay within 300–400 mg elemental magnesium unless directed otherwise. |
+| **Best for** | Anyone not meeting the RDA from diet alone (roughly 50–60% of Americans), especially those with sleep issues, anxiety, muscle cramps, low energy, or cognitive decline. |
+
+### Key Facts at a Glance
+- Magnesium is depleted by stress, alcohol, processed foods, and modern soil practices — deficiency is extremely common.
+- The form determines where magnesium goes: glycinate for sleep/anxiety, malate for energy, threonate for the brain, citrate for budget use.
+- Magnesium oxide has only ~4% bioavailability and should be avoided except as a laxative.
+- Glycinate is the safest general recommendation — highly absorbable, calming, and gentle on the gut.
+- Typical effective dose: 200–400 mg elemental magnesium daily, split between morning (malate) and evening (glycinate) if stacking forms.
+
+---
+
 ## Why Magnesium Is Worth Taking Seriously
 
 Magnesium is involved in over 300 enzymatic reactions in the body. It regulates nerve transmission, muscle contraction, blood glucose control, protein synthesis, and blood pressure. It's also a cofactor for ATP production — meaning every time your body generates energy, magnesium is involved.
@@ -74,3 +93,21 @@ Some practitioners combine forms for comprehensive coverage:
 Magnesium is one of the few supplements where almost everyone benefits — the deficiency rates are high and the downstream effects are significant. The key is matching the form to your goal: glycinate for sleep and anxiety, malate for energy and muscle recovery, threonate for the brain, citrate for budget general use. Avoid oxide in anything you actually want to absorb.
 
 If you're only going to take one form, magnesium glycinate is the safest general recommendation.
+
+---
+
+## Sources & Further Reading
+
+1. **Magnesium in man: implications for health and disease** — Pubmed review of magnesium physiology and deficiency prevalence — https://pubmed.ncbi.nlm.nih.gov/25540137/
+2. **Enhancement of Learning and Memory by Elevating Brain Magnesium** — MIT study on magnesium L-threonate and cognitive function — https://pubmed.ncbi.nlm.nih.gov/20152124/
+3. **Magnesium intake and depression in adults** — JAMA study linking low magnesium intake to depression — https://pubmed.ncbi.nlm.nih.gov/26149053/
+4. **Office of Dietary Supplements – Magnesium Fact Sheet** — NIH comprehensive overview of magnesium requirements and sources — https://ods.od.nih.gov/factsheets/Magnesium-HealthProfessional/
+5. **The effect of magnesium supplementation on primary insomnia in elderly** — Double-blind clinical trial on magnesium and sleep quality — https://pubmed.ncbi.nlm.nih.gov/23853635/
+
+## Where to Buy / Find This
+
+- **Thorne Magnesium Bisglycinate** — High-quality magnesium glycinate powder, NSF Certified for Sport — https://www.amazon.com/Thorne-Research-Magnesium-Bisglycinate-Powder/dp/B0797H6JJH
+- **Doctor's Best High Absorption Magnesium** — Affordable magnesium glycinate/lysinate chelate, 100mg per tablet — https://www.amazon.com/Doctors-Best-Absorption-Magnesium-Glycinate/dp/B000BD0RT0
+- **Life Extension Neuro-Mag (Magnesium L-Threonate)** — Research-backed brain-targeted magnesium form — https://www.amazon.com/Life-Extension-Neuro-Mag-Magnesium-L-Threonate/dp/B006P536Y0
+- **NOW Magnesium Malate 1000mg** — Energy-supporting form for daytime use, budget-friendly — https://www.amazon.com/NOW-Magnesium-Malate-1000-Tablets/dp/B00KG80M5Y
+- **Pure Encapsulations Magnesium (Glycinate)** — Hypoallergenic, high-purity option for sensitive individuals — https://www.amazon.com/Pure-Encapsulations-Magnesium-Glycinate-Capsules/dp/B0017O96QG

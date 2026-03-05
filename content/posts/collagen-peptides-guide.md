@@ -5,6 +5,25 @@ excerpt: "Collagen is the most abundant protein in the body. Here's what supplem
 category: "Supplements"
 ---
 
+## The Basics
+
+| | |
+|---|---|
+| **What it is** | Hydrolyzed structural protein broken down into peptides rich in glycine, proline, and hydroxyproline |
+| **Primary use** | Skin elasticity, joint health, and connective tissue support during aging |
+| **Evidence level** | Moderate — multiple controlled trials show real but modest effects |
+| **Safety profile** | Very Safe — well-tolerated with minimal side effects across studies |
+| **Best for** | Adults 35+, athletes with joint stress, and those prioritizing skin quality in longevity protocols |
+
+### Key Facts at a Glance
+- Collagen production naturally declines starting in your mid-20s and accelerates after 40
+- 10g/day is the evidence-supported dose for skin and joint outcomes
+- Must be taken with vitamin C (50–100mg) for optimal collagen synthesis
+- Not a complete protein — low in leucine and inferior to whey for muscle building
+- Effects on skin and joints are real but modest, typically visible after 8–12 weeks
+
+---
+
 Collagen is everywhere in supplement marketing right now. Powders, gummies, capsules, coffee creamers — if it can hold collagen, someone is selling it.
 
 The underlying biology is real. The question is whether ingesting collagen peptides does what the marketing claims.
@@ -56,3 +75,20 @@ Collagen will not meaningfully change body composition or muscle mass in healthy
 - People prioritizing skin quality as part of a longevity protocol
 
 Collagen is not a magic supplement, but it's a well-tolerated, reasonably evidenced addition to the right stack — particularly when paired with vitamin C and adequate overall protein intake.
+
+---
+
+## Sources & Further Reading
+
+1. **Oral Collagen Supplementation: A Systematic Review of Dermatological Applications** — Journal of Drugs in Dermatology (2019) — https://pubmed.ncbi.nlm.nih.gov/30681787/
+2. **Collagen peptide supplementation in combination with resistance training improves body composition and increases muscle strength in elderly sarcopenic men** — British Journal of Nutrition (2015) — https://pubmed.ncbi.nlm.nih.gov/26353786/
+3. **24-Week study on the use of collagen hydrolysate as a dietary supplement in athletes with activity-related joint pain** — Current Medical Research and Opinion (2008) — https://pubmed.ncbi.nlm.nih.gov/18416885/
+4. **Oral supplementation of specific collagen peptides has beneficial effects on human skin physiology** — Skin Pharmacology and Physiology (2014) — https://pubmed.ncbi.nlm.nih.gov/23949208/
+5. **The effect of oral collagen peptide supplementation on skin moisture and the dermal collagen network** — Journal of Clinical Medicine (2019) — https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6566836/
+
+## Where to Buy / Find This
+
+- **Vital Proteins Collagen Peptides** — Unflavored grass-fed collagen, 20g per serving, highly soluble — https://www.amazon.com/Vital-Proteins-Collagen-Peptides-Unflavored/dp/B00K6JUG9W
+- **Sports Research Collagen Peptides** — Hydrolyzed Type I & III collagen, NSF Certified, unflavored powder — https://www.amazon.com/Sports-Research-Collagen-Peptides-Hydrolyzed/dp/B01MDLON1G
+- **Ancient Nutrition Multi Collagen Protein** — Blend of 5 collagen types from multiple sources — https://www.amazon.com/Ancient-Nutrition-Multi-Collagen-Protein/dp/B07H5MR6W3
+- **NOW Sports Collagen Peptides Powder** — Budget option, unflavored hydrolyzed collagen — https://www.amazon.com/NOW-Sports-Nutrition-Collagen-Peptides/dp/B0013OQGO6

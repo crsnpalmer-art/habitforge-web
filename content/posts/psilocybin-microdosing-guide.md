@@ -5,6 +5,25 @@ date: "2026-02-26"
 excerpt: "What does the science actually say about psilocybin microdosing? An honest look at the evidence — including where placebo effects dominate — along with protocols, risks, and contraindications."
 ---
 
+## The Basics
+
+| | |
+|---|---|
+| **What it is** | Sub-perceptual doses of psilocybin mushrooms (0.1–0.3g) taken on a schedule to produce subtle cognitive or mood effects without psychedelic hallucinations |
+| **Primary use** | Enhanced mood, creativity, focus, and neuroplasticity without inducing a full "trip" |
+| **Evidence level** | Emerging — most benefits may be placebo-driven; full-dose therapeutic psilocybin has stronger evidence |
+| **Safety profile** | Caution Advised — theoretical cardiac risks, contraindications for psychotic/bipolar disorders, federally illegal in the US |
+| **Best for** | Individuals in legal jurisdictions without psychiatric contraindications seeking potential cognitive/emotional benefits with realistic expectations about placebo effects |
+
+### Key Facts at a Glance
+- Most reported benefits disappear under blinded placebo-controlled conditions, suggesting strong placebo effect
+- Typical microdose is 0.1–0.3g dried psilocybin mushrooms taken every 3–4 days to prevent tolerance
+- Psilocybin activates 5-HT2A serotonin receptors, increasing neural network connectivity at sub-perceptual doses
+- Remains federally illegal (Schedule I) in the US despite decriminalization in select states/cities
+- Contraindicated for schizophrenia, bipolar disorder, and concurrent use with SSRIs, MAOIs, or lithium
+
+---
+
 Psilocybin microdosing has exploded in popularity over the past decade, moving from underground psychedelic culture into Silicon Valley productivity circles and mainstream wellness conversations. But what does the actual science say — and where does hype outpace evidence?
 
 This guide takes an honest, balanced look.
@@ -108,3 +127,21 @@ If you're in a legal jurisdiction and medically cleared, microdosing may be wort
 ---
 
 *This article is for educational purposes only. Psilocybin is a controlled substance in many jurisdictions. Nothing here constitutes medical advice. Consult a qualified healthcare professional before making any decisions about psychedelic substances.*
+
+---
+
+## Sources & Further Reading
+
+1. **Prochazkova L, et al. "Exploring the effect of microdosing psychedelics on creativity in an open-label natural setting."** *Psychopharmacology* (2018) — https://pubmed.ncbi.nlm.nih.gov/29934646/
+2. **Szigeti B, et al. "Self-blinding citizen science to explore psychedelic microdosing."** *eLife* (2021) — https://elifesciences.org/articles/62878
+3. **Johnson MW, Griffiths RR. "Potential Therapeutic Effects of Psilocybin."** *Neurotherapeutics* (2017) — https://pubmed.ncbi.nlm.nih.gov/28585222/
+4. **Carhart-Harris RL, et al. "Psilocybin with psychological support for treatment-resistant depression."** *The Lancet Psychiatry* (2016) — https://pubmed.ncbi.nlm.nih.gov/27210031/
+5. **Nichols DE. "Psychedelics."** *Pharmacological Reviews* (2016) — https://pubmed.ncbi.nlm.nih.gov/26841800/
+
+## Where to Buy / Find This
+
+- **The Psychedelic Explorer's Guide by James Fadiman** — The foundational book on microdosing protocols and self-experimentation — https://www.amazon.com/Psychedelic-Explorers-Guide-Therapeutic-Journeys/dp/1594774021
+- **Host Defense Lion's Mane Capsules** — Paul Stamets' brand for the Lion's Mane component of the Stamets Stack — https://www.amazon.com/Host-Defense-Lions-Capsules-Memory/dp/B078SJ9F2V
+- **Nature's Bounty Niacin 100mg** — Flush-free or regular niacin for the Stamets Stack protocol — https://www.amazon.com/Natures-Bounty-Niacin-100mg-Capsules/dp/B000NPYY04
+- **How to Change Your Mind by Michael Pollan** — Award-winning exploration of psychedelic science and therapeutic potential — https://www.amazon.com/Change-Your-Mind-Consciousness-Transcendence/dp/1594204225
+

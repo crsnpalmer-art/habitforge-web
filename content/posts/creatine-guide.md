@@ -5,6 +5,25 @@ excerpt: "Creatine is backed by decades of research and has benefits that extend
 category: "Supplements"
 ---
 
+## The Basics
+
+| | |
+|---|---|
+| **What it is** | An organic compound naturally produced in the body that helps regenerate ATP for cellular energy |
+| **Primary use** | Increasing muscle strength, power output, and athletic performance; emerging benefits for cognition and aging |
+| **Evidence level** | Strong — over 500 peer-reviewed studies with consistent results across populations |
+| **Safety profile** | Very Safe — three decades of research confirm safety at standard doses in healthy individuals |
+| **Best for** | Athletes, those doing resistance training, aging adults preserving muscle mass, vegetarians, anyone seeking cognitive benefits |
+
+### Key Facts at a Glance
+- Most researched sports supplement in history with over 500 peer-reviewed studies
+- Meta-analyses show 5–15% improvements in strength and power output versus placebo
+- Causes 1–3kg water retention in muscle cells (intracellular, not bloating)
+- Cognitive benefits most pronounced in vegetarians and during sleep deprivation
+- Standard dose: 3–5g/day creatine monohydrate (loading phase optional)
+
+---
+
 Creatine is the most studied sports supplement in history, with over 500 peer-reviewed studies and a safety record that spans three decades. It's also one of the most misunderstood — still associated by many with bodybuilders and gym culture, despite having clinically relevant benefits for cognition, aging, and general health.
 
 ## What Creatine Does
@@ -56,3 +75,19 @@ Those with pre-existing kidney disease should consult a physician before use.
 ## The Bottom Line
 
 Creatine monohydrate, 3–5g/day. It's cheap, safe, well-studied, and works. If you're not taking it, the question isn't why you should — it's why you haven't started.
+
+---
+
+## Sources & Further Reading
+
+1. **Kreider RB, et al. International Society of Sports Nutrition position stand: safety and efficacy of creatine supplementation in exercise, sport, and medicine.** *Journal of the International Society of Sports Nutrition*. 2017. https://jissn.biomedcentral.com/articles/10.1186/s12970-017-0173-z
+2. **Dolan E, et al. Beyond muscle: the effects of creatine supplementation on brain creatine, cognitive processing, and traumatic brain injury.** *European Journal of Sport Science*. 2019. https://pubmed.ncbi.nlm.nih.gov/30429337/
+3. **Candow DG, et al. Creatine supplementation and aging musculoskeletal health.** *Endocrine*. 2014. https://pubmed.ncbi.nlm.nih.gov/24078411/
+4. **Kious BM, et al. Creatine for the Treatment of Depression.** *Biomolecules*. 2019. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6723589/
+5. **Antonio J, et al. Common questions and misconceptions about creatine supplementation: what does the scientific evidence really show?** *Journal of the International Society of Sports Nutrition*. 2021. https://jissn.biomedcentral.com/articles/10.1186/s12970-021-00412-w
+
+## Where to Buy / Find This
+
+- **Optimum Nutrition Micronized Creatine Monohydrate Powder** — 5g per serving, unflavored, 200 servings — https://www.amazon.com/Optimum-Nutrition-Micronized-Creatine-Monohydrate/dp/B002DYIZEO
+- **Thorne Creatine** — NSF Certified for Sport, 5g per serving, highly pure — https://www.amazon.com/Thorne-Research-Creatine-Certified-Gluten-Free/dp/B0797H831C
+- **Bulk Supplements Creatine Monohydrate** — Budget option, 1kg, unflavored, lab-tested — https://www.amazon.com/BulkSupplements-Creatine-Monohydrate-Kilogram-2-2-lbs/dp/B00E9M4XEE

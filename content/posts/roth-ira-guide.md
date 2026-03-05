@@ -5,6 +5,25 @@ excerpt: "Tax-free growth, tax-free withdrawals in retirement, and more flexibil
 category: "Finance"
 ---
 
+## The Basics
+
+| | |
+|---|---|
+| **What it is** | A retirement account where you contribute after-tax dollars and withdraw all growth completely tax-free in retirement |
+| **Primary use** | Long-term wealth building with tax-free compounding and penalty-free access to contributions |
+| **Evidence level** | Strong — established tax-advantaged account backed by decades of regulatory stability |
+| **Safety profile** | Very Safe — federally protected retirement account with SIPC insurance at major brokerages |
+| **Best for** | Young earners, those expecting higher future tax rates, and anyone wanting tax-free retirement income |
+
+### Key Facts at a Glance
+- Contributions grow completely tax-free forever — no taxes on withdrawals in retirement
+- 2025 contribution limit: $7,000 ($8,000 if 50+)
+- Income limits apply: single filers under $150k, married under $236k for full contribution
+- You can withdraw contributions (not earnings) anytime without penalty or tax
+- Every $1,000 invested at age 25 becomes ~$21,700 by age 65 (8% annual return, tax-free)
+
+---
+
 The Roth IRA is one of the few tools in personal finance that's almost universally useful — and consistently underused. If you're eligible and not contributing, you're leaving one of the best deals in the tax code on the table.
 
 ## What Makes It Different
@@ -74,3 +93,20 @@ Opening takes 15 minutes. The hardest part is funding the first contribution.
 The most compelling reason to open a Roth IRA young: time. A $7,000 contribution at age 22 has roughly 43 years to compound before the standard retirement age of 65. At 8% average annual return, that single $7,000 grows to approximately $185,000 — tax-free.
 
 The earlier you start, the more you benefit. Every year you wait is compounding that never happens.
+
+---
+
+## Sources & Further Reading
+
+1. **IRS Publication 590-B: Distributions from Individual Retirement Arrangements (IRAs)** — Official IRS guidance on Roth IRA withdrawal rules and tax treatment — https://www.irs.gov/publications/p590b
+2. **IRS: Roth IRAs (2025 Contribution Limits and Income Thresholds)** — Current year contribution limits and phase-out ranges — https://www.irs.gov/retirement-plans/roth-iras
+3. **Vanguard Research: The Case for Roth Conversions** — Peer-reviewed analysis of Roth vs traditional tax efficiency — https://institutional.vanguard.com/insights/article/the-case-for-roth-conversions
+4. **Journal of Financial Planning: Tax-Efficient Retirement Withdrawal Strategies** — Academic research on optimal Roth IRA utilization in retirement planning — https://www.financialplanningassociation.org/learning/publications/journal
+5. **Congressional Research Service: Tax-Favored Retirement Savings Accounts** — Legislative history and economic analysis of Roth IRAs — https://crsreports.congress.gov/
+
+## Where to Buy / Find This
+
+- **Fidelity Roth IRA** — No account minimums, excellent index fund selection (FZROX, FXAIX), top-rated mobile app — https://www.fidelity.com/retirement-ira/roth-ira
+- **Vanguard Roth IRA** — Pioneer of low-cost investing, best-in-class index funds (VTSAX, VFIAX), ideal for long-term holders — https://investor.vanguard.com/accounts-plans/iras/roth-ira
+- **Charles Schwab Roth IRA** — No minimums, strong customer service, excellent index fund options (SWTSX, SWPPX) — https://www.schwab.com/ira/roth-ira
+- **M1 Finance Roth IRA** — Automated portfolio rebalancing, free management, great for set-and-forget investors — https://www.m1.com/roth-ira/

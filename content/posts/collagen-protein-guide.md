@@ -5,6 +5,25 @@ date: "2025-02-26"
 excerpt: "Collagen is the most abundant protein in your body — and supplementing it can support joint health, skin elasticity, gut integrity, and bone density. Here's the complete guide, including what type to take and one important caveat."
 ---
 
+## The Basics
+
+| | |
+|---|---|
+| **What it is** | A structural protein supplement derived from hydrolyzed animal connective tissue, providing the building blocks for skin, joints, bones, and gut lining |
+| **Primary use** | Joint pain relief, skin elasticity support, connective tissue repair, and gut lining integrity |
+| **Evidence level** | Strong — well-studied for joint health and skin benefits with consistent RCT results |
+| **Safety profile** | Very Safe — minimal side effects, well-tolerated at standard doses |
+| **Best for** | Athletes with joint stress, anyone over 30 focused on skin aging, people with gut permeability issues, postmenopausal women supporting bone health |
+
+### Key Facts at a Glance
+- Collagen production declines starting in your mid-20s, dropping about 1% per year
+- Type I collagen makes up 90% of your body's collagen (skin, bones, tendons)
+- Hydrolyzed collagen peptides are absorbed intact and reach target tissues within hours
+- Must be taken with vitamin C — it's a required cofactor for collagen synthesis
+- Collagen is NOT a complete protein (low in tryptophan) and shouldn't replace standard protein powder
+
+---
+
 Collagen is everywhere in your body. It's the structural protein that holds you together — literally. It's in your skin, tendons, ligaments, cartilage, bones, and gut lining. As you age, your body's collagen production declines steadily, starting in your mid-20s. The result shows up as joint discomfort, slower injury recovery, reduced skin elasticity, and decreased bone density over time.
 
 Supplemental collagen can help — but how you take it, and what form you choose, matters a lot.
@@ -54,3 +73,20 @@ Collagen supplementation makes the most sense for:
 - Those focused on bone health, particularly postmenopausal women
 
 Collagen is extremely well-tolerated with virtually no reported side effects at recommended doses. It's one of the most straightforward additions to a longevity-focused supplement stack.
+
+---
+
+## Sources & Further Reading
+
+1. Clark KL, et al. "24-Week study on the use of collagen hydrolysate as a dietary supplement in athletes with activity-related joint pain." *Current Medical Research and Opinion* (2008) — https://pubmed.ncbi.nlm.nih.gov/18416885/
+2. Proksch E, et al. "Oral supplementation of specific collagen peptides has beneficial effects on human skin physiology: a double-blind, placebo-controlled study." *Skin Pharmacology and Physiology* (2014) — https://pubmed.ncbi.nlm.nih.gov/23949208/
+3. König D, et al. "Specific Collagen Peptides Improve Bone Mineral Density and Bone Markers in Postmenopausal Women—A Randomized Controlled Study." *Nutrients* (2018) — https://pubmed.ncbi.nlm.nih.gov/29337906/
+4. Lugo JP, et al. "Undenatured type II collagen (UC-II®) for joint support: a randomized, double-blind, placebo-controlled study in healthy volunteers." *Journal of the International Society of Sports Nutrition* (2013) — https://pubmed.ncbi.nlm.nih.gov/24153020/
+5. Ganceviciene R, et al. "Skin anti-aging strategies." *Dermato-Endocrinology* (2012) — https://pubmed.ncbi.nlm.nih.gov/22870354/
+
+## Where to Buy / Find This
+
+- **Vital Proteins Collagen Peptides** — Grass-fed, hydrolyzed Type I & III collagen powder, unflavored, highly bioavailable — https://www.amazon.com/Vital-Proteins-Collagen-Peptides-Pasture-Raised/dp/B00K6JUG1U
+- **Sports Research Collagen Peptides** — Hydrolyzed bovine collagen, unflavored, third-party tested — https://www.amazon.com/Sports-Research-Collagen-Peptides-Hydrolyzed/dp/B01FJJH0H8
+- **NeoCell Super Collagen** — Type I & III collagen powder, budget-friendly option — https://www.amazon.com/Neocell-Super-Collagen-Powder-6-7oz/dp/B000R5CB44
+- **Doctor's Best UC-II** — Undenatured Type II collagen specifically for joint support — https://www.amazon.com/Doctors-Best-Featuring-Undenatured-Capsules/dp/B0019GT8BY

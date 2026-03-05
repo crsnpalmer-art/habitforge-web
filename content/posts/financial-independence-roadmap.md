@@ -5,6 +5,25 @@ excerpt: "Financial independence isn't just for the ultra-wealthy or the hyper-f
 category: "Finance"
 ---
 
+## The Basics
+
+| | |
+|---|---|
+| **What it is** | A strategic plan to accumulate enough investment assets to generate passive income covering your living expenses indefinitely |
+| **Primary use** | Achieving financial freedom and work-optional status through systematic saving, investing, and expense management |
+| **Evidence level** | Strong — backed by decades of market data, the Trinity Study, and thousands of documented success cases |
+| **Safety profile** | Generally Safe — requires discipline and market risk tolerance, but based on proven investment principles |
+| **Best for** | Anyone with steady income willing to prioritize long-term wealth building over short-term consumption, particularly effective when started early |
+
+### Key Facts at a Glance
+- The 4% rule (25x annual expenses) provides a mathematically sound FI target with 90%+ success rates over 30-year periods
+- Savings rate is more impactful than investment returns — a 50% savings rate can achieve FI in ~17 years regardless of income level
+- Tax-advantaged accounts (401k, IRA, HSA) can shelter $40,000+ annually per person from taxation, dramatically accelerating wealth accumulation
+- Low-cost index funds historically outperform 85-90% of actively managed funds over 15+ year periods
+- Geographic arbitrage and housing optimization represent the two largest expense levers for accelerating FI timelines
+
+---
+
 Financial independence (FI) means having enough assets generating passive income that you no longer need to trade your time for money to cover your expenses. It doesn't mean never working again — many financially independent people continue doing meaningful work. It means *choice*. The freedom to say yes to what matters and no to what doesn't.
 
 The FIRE movement (Financial Independence, Retire Early) popularized this concept, but the underlying mathematics have been around for decades. Here's how to build a personalized roadmap toward it.
@@ -86,3 +105,21 @@ Watching this number grow each month is one of the most powerful motivators for 
 FI timelines vary enormously based on starting conditions, income, expenses, and choices. A high earner who starts at 22 and saves aggressively could reach FI by 35. Someone starting at 40 with modest savings might target FI at 55 or 60. Neither is wrong — what matters is intentionality.
 
 The roadmap is the same regardless: know your number, maximize your savings rate, invest simply, grow the gap. Start today, adjust as you go.
+
+---
+
+## Sources & Further Reading
+
+1. **Trinity Study (1998) — Retirement Savings: Choosing a Withdrawal Rate That Is Sustainable** — Original research establishing the 4% safe withdrawal rate — https://www.aaii.com/journal/199802/feature.pdf
+2. **Vanguard — The Case for Index Fund Investing (2023)** — Research on index fund outperformance vs. active management — https://investor.vanguard.com/investor-resources-education/education/case-for-index-fund-investing
+3. **IRS — Retirement Topics - 401(k) and Profit-Sharing Plan Contribution Limits** — Official contribution limits and tax-advantaged account rules — https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-401k-and-profit-sharing-plan-contribution-limits
+4. **The Journal of Financial Planning — Safe Withdrawal Rates: A Guide for Early Retirees (Pfau, 2012)** — Updated research on withdrawal strategies — https://www.financialplanningassociation.org/article/journal/safe-withdrawal-rates-guide-early-retirees
+5. **Mr. Money Mustache — The Shockingly Simple Math Behind Early Retirement** — Foundational FIRE community resource demonstrating savings rate impact — https://www.mrmoneymustache.com/2012/01/13/the-shockingly-simple-math-behind-early-retirement/
+
+## Where to Buy / Find This
+
+- **Vanguard Total Stock Market Index Fund (VTSAX/VTI)** — Low-cost broad US market index fund, 0.04% expense ratio — https://investor.vanguard.com/investment-products/etfs/profile/vti
+- **Fidelity Total Market Index Fund (FSKAX)** — Zero-fee total market index fund alternative — https://fundresearch.fidelity.com/mutual-funds/summary/315911693
+- **Personal Capital (Empower)** — Free net worth tracking and portfolio analysis tool — https://www.empower.com/personal-investors/
+- **YNAB (You Need A Budget)** — Budgeting software for tracking savings rate and expenses — https://www.ynab.com/
+- **JL Collins — The Simple Path to Wealth (Book)** — Comprehensive guide to index investing and FI principles — https://www.amazon.com/Simple-Path-Wealth-financial-independence/dp/1533667926

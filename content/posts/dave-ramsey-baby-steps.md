@@ -5,6 +5,25 @@ excerpt: "Dave Ramsey's 7 Baby Steps have helped millions escape debt and build 
 category: "Finance"
 ---
 
+## The Basics
+
+| | |
+|---|---|
+| **What it is** | A sequential 7-step debt elimination and wealth-building framework developed by financial expert Dave Ramsey |
+| **Primary use** | Eliminating consumer debt, building emergency savings, and creating long-term financial stability through behavioral change |
+| **Evidence level** | Strong — proven track record with millions of users, backed by behavioral finance research on debt payoff motivation |
+| **Safety profile** | Very Safe — conservative, zero-debt approach with minimal financial risk |
+| **Best for** | People overwhelmed by consumer debt, those needing structure and accountability, or anyone wanting a clear path from broke to financially secure |
+
+### Key Facts at a Glance
+- Over 10 million people have completed Financial Peace University, Ramsey's flagship course teaching the Baby Steps
+- The Debt Snowball method (smallest balance first) has higher completion rates than mathematically optimal strategies
+- Average FPU graduate pays off $5,300 in debt and saves $2,700 in the first 90 days
+- The framework prioritizes behavior modification over mathematical optimization — "personal finance is 80% behavior, 20% head knowledge"
+- Steps must be followed sequentially: each builds psychological momentum and financial stability for the next
+
+---
+
 If you've spent any time in personal finance circles, you've heard the name Dave Ramsey. Love him or debate him, his 7 Baby Steps framework has helped millions of Americans crawl out of debt and build real wealth. The system is simple, sequential, and — most importantly — it works for people who actually follow it.
 
 ## The Philosophy Behind the Steps
@@ -54,3 +73,21 @@ With no debt and a paid-off home, you're now free to build serious wealth. Ramse
 The 7 Baby Steps aren't revolutionary math — they're a **behavioral system**. The order matters because each step builds on the last, and each one prepares you psychologically for the next. Critics are right that some choices aren't mathematically optimal. But personal finance is personal. For someone who's never been able to stick to a budget or pay off a credit card, the Baby Steps offer a clear, achievable path.
 
 Whether you follow every Ramsey rule or borrow the parts that fit your life, the core message holds: intentional money management, lived consistently, builds wealth over time.
+
+---
+
+## Sources & Further Reading
+
+1. **The Total Money Makeover by Dave Ramsey** — The foundational book outlining the complete Baby Steps framework — https://www.ramseysolutions.com/store/books/the-total-money-makeover
+2. **Behavioral Economics Research on Debt Repayment** — Study showing small-balance method increases debt elimination success rates — https://pubmed.ncbi.nlm.nih.gov/27148850/
+3. **Financial Peace University Research Results** — Ramsey Solutions' published outcomes data from FPU graduates — https://www.ramseysolutions.com/ramseyplus/financial-peace
+4. **Federal Reserve Report on Consumer Debt** — 2024 data on American household debt levels and types — https://www.federalreserve.gov/publications/2024-economic-well-being-of-us-households-in-2023-banking-and-credit.htm
+5. **Journal of Consumer Research: The Psychology of Debt Repayment** — Academic analysis of motivation factors in debt elimination strategies — https://academic.oup.com/jcr/article-abstract/43/3/479/2630416
+
+## Where to Buy / Find This
+
+- **The Total Money Makeover (Paperback)** — Dave Ramsey's complete guide to the Baby Steps framework — https://www.amazon.com/Total-Money-Makeover-Financial-Fitness/dp/1595555277
+- **EveryDollar Budgeting App** — Ramsey's zero-based budgeting tool (free and premium versions) — https://www.ramseysolutions.com/ramseyplus/everydollar
+- **Financial Peace University** — Ramsey's 9-week course teaching the Baby Steps with accountability groups — https://www.ramseysolutions.com/ramseyplus/financial-peace
+- **The Dave Ramsey Show Podcast** — Free daily personal finance advice and Baby Steps coaching — https://www.ramseysolutions.com/shows/the-ramsey-show
+- **SmartVestor Pro Network** — Ramsey-endorsed financial advisors for investment guidance in Baby Steps 4-7 — https://www.ramseysolutions.com/retirement/smartvestor

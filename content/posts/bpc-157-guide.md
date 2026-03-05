@@ -5,6 +5,25 @@ excerpt: "BPC-157 is a synthetic peptide derived from a protein found in gastric
 category: "Peptides"
 ---
 
+## The Basics
+
+| | |
+|---|---|
+| **What it is** | A synthetic 15-amino acid peptide derived from a protective protein in human gastric juice |
+| **Primary use** | Accelerating healing of tendons, ligaments, muscles, gut tissue, and reducing inflammation |
+| **Evidence level** | Emerging — extensive animal studies, minimal human clinical trials |
+| **Safety profile** | Caution Advised — research chemical with clean animal safety profile but limited human data |
+| **Best for** | Athletes with chronic soft tissue injuries, people with gut issues (leaky gut, IBD, ulcers), those seeking faster recovery |
+
+### Key Facts at a Glance
+- No lethal dose (LD50) has been established in animal studies — researchers couldn't find a toxic dose
+- One of the few compounds with animal data showing genuine structural tendon repair, not just pain reduction
+- Promotes angiogenesis (new blood vessel formation) to deliver nutrients to poorly vascularized tissues
+- Oral form (arginate salt) survives digestion and acts locally in the GI tract for gut healing
+- Typical dosing: 200–500 mcg/day injectable near injury site, or 250–500 mcg/day oral for gut health
+
+---
+
 If you've spent any time in biohacking or sports recovery circles, you've almost certainly heard of BPC-157. It's become one of the most talked-about peptides in the space — and for good reason. The research, while mostly animal-based, paints a picture of a compound with a remarkably broad healing profile. Here's what you need to know.
 
 ## What Is BPC-157?
@@ -77,3 +96,22 @@ BPC-157 is not FDA-approved and exists in a legal gray area in the United States
 BPC-157 sits in an unusual position: the science is compelling, the safety profile is unusually clean, and the anecdotal evidence is extensive — but it hasn't cleared the regulatory hurdles for legitimate medical use. For those willing to operate in the research chemical space, it remains one of the most interesting tools for injury recovery and gut health available today.
 
 *This post is for informational purposes only. BPC-157 is not FDA-approved. Consult a healthcare provider before use.*
+
+---
+
+## Sources & Further Reading
+
+1. **Sikiric P, et al.** "Stable gastric pentadecapeptide BPC 157: Novel therapy in gastrointestinal tract." *Current Pharmaceutical Design* (2011) — https://pubmed.ncbi.nlm.nih.gov/21226671/
+2. **Chang CH, et al.** "The promoting effect of pentadecapeptide BPC 157 on tendon healing involves tendon outgrowth, cell survival, and cell migration." *Journal of Applied Physiology* (2011) — https://pubmed.ncbi.nlm.nih.gov/21030672/
+3. **Krivic A, et al.** "Achilles detachment in rat and stable gastric pentadecapeptide BPC 157: Promoted tendon-to-bone healing and opposed corticosteroid aggravation." *Journal of Orthopaedic Research* (2006) — https://pubmed.ncbi.nlm.nih.gov/16900540/
+4. **Seiwerth S, et al.** "BPC 157's effect on healing." *Current Pharmaceutical Design* (2018) — https://pubmed.ncbi.nlm.nih.gov/30246637/
+5. **Gwyer D, Wragg NM, Wilson SL.** "Gastric pentadecapeptide body protection compound BPC 157 and its role in accelerating musculoskeletal soft tissue healing." *Cell and Tissue Research* (2019) — https://pubmed.ncbi.nlm.nih.gov/30972493/
+
+## Where to Buy / Find This
+
+- **Limitless Life Nootropics** — Research-grade BPC-157 injectable peptides with third-party testing, reputable supplier in the peptide community — https://limitlesslifenootropics.com/product/bpc-157/
+- **Peptide Sciences** — High-purity BPC-157 (injectable and oral forms), includes certificates of analysis, widely trusted source — https://www.peptidesciences.com/bpc-157
+- **Tailor Made Compounding** — Prescription compounding pharmacy offering BPC-157 through licensed healthcare providers — https://www.tailormadecompounding.com/
+- **Nootropics Depot** — BPC-157 arginate (oral stable form) for gut health applications, third-party tested — https://nootropicsdepot.com/bpc-157-arginate-capsules/
+
+**Important Note:** BPC-157 is sold as a research chemical. Purchase from reputable sources that provide third-party testing and certificates of analysis. Quality and purity vary significantly across suppliers.

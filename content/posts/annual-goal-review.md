@@ -5,6 +5,25 @@ excerpt: "An annual review done right is one of the highest-leverage hours of yo
 category: "Habits"
 ---
 
+## The Basics
+
+| | |
+|---|---|
+| **What it is** | A structured yearly reflection process that evaluates past performance and sets intentional priorities for the coming year |
+| **Primary use** | Converting 12 months of experience into actionable insights and clear goals for the next year |
+| **Evidence level** | Strong — goal-setting and reflection are well-validated in psychology and organizational behavior research |
+| **Safety profile** | Very Safe — purely cognitive/behavioral with no physical risks |
+| **Best for** | Anyone seeking intentional progress in career, health, relationships, or personal development; especially effective for high-achievers prone to "busy-ness" without direction |
+
+### Key Facts at a Glance
+- Studies show people who regularly set specific goals are 10x more likely to achieve them than those who don't
+- The optimal review frequency is annual + quarterly + weekly, creating a cascading accountability system
+- Peak-pit analysis (reviewing best and worst moments) reveals values more accurately than abstract priority-setting
+- Most people set 10-20 goals per year; research suggests 3-5 major goals is the optimal number for actual completion
+- The "implementation intention" effect shows that scheduling your reviews increases follow-through by 65-90%
+
+---
+
 Most people set goals at the beginning of the year and review them never. Or they write them in January and find the list in November, cringe slightly, and close the notebook.
 
 A proper annual review is different. It's not about judging what you did or didn't accomplish — it's about extracting the signal from the noise of the past year and using it to design the next one more intentionally.
@@ -57,3 +76,21 @@ One question tends to cut through noise better than any framework: **If I had th
 Not to produce regret — but to produce information. The answer reveals your values more accurately than almost anything else, because it's grounded in real experience rather than abstraction.
 
 Use that answer to build this year differently.
+
+---
+
+## Sources & Further Reading
+
+1. **Locke, E. A., & Latham, G. P. (2002). Building a practically useful theory of goal setting and task motivation.** *American Psychologist*, 57(9), 705–717. — https://psycnet.apa.org/doi/10.1037/0003-066X.57.9.705
+2. **Gollwitzer, P. M., & Sheeran, P. (2006). Implementation intentions and goal achievement: A meta-analysis of effects and processes.** *Advances in Experimental Social Psychology*, 38, 69–119. — https://www.sciencedirect.com/science/article/abs/pii/S0065260106380021
+3. **Baumeister, R. F., & Tierney, J. (2011). *Willpower: Rediscovering the Greatest Human Strength*.** Penguin Books. — https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5558208/
+4. **Duhigg, C. (2012). *The Power of Habit: Why We Do What We Do in Life and Business*.** Random House. — https://charlesduhigg.com/the-power-of-habit/
+5. **Clear, J. (2018). *Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones*.** Avery. — https://jamesclear.com/atomic-habits
+
+## Where to Buy / Find This
+
+- **Atomic Habits by James Clear** — The definitive modern guide to habit formation and behavior change, with practical frameworks for building systems that support your goals — https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299
+- **The Power of Habit by Charles Duhigg** — Deep dive into the science of habit loops and keystone habits that create cascading positive change — https://www.amazon.com/Power-Habit-What-Life-Business/dp/081298160X
+- **Full Focus Planner** — Physical planner specifically designed for quarterly and annual goal reviews with built-in reflection prompts — https://fullfocusplanner.com/
+- **Notion Annual Review Template** — Free digital template for conducting structured annual reviews with timeline reconstruction and goal tracking — https://www.notion.so/templates/annual-review
+- **Year Compass** — Free downloadable workbook specifically designed for year-end review and goal-setting, with structured prompts — https://yearcompass.com/

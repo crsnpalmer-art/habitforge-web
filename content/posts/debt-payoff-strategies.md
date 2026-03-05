@@ -5,6 +5,25 @@ excerpt: "Two proven frameworks for eliminating debt — and the psychology behi
 category: "Finance"
 ---
 
+## The Basics
+
+| | |
+|---|---|
+| **What it is** | Strategic frameworks for systematically eliminating consumer debt using either mathematical optimization (avalanche) or behavioral momentum (snowball) |
+| **Primary use** | Accelerating debt payoff while maintaining motivation and preventing financial burnout |
+| **Evidence level** | Strong — both methods proven effective, with behavioral research supporting snowball's psychological advantages |
+| **Safety profile** | Very Safe — strategic debt reduction carries minimal financial risk when executed with proper budgeting |
+| **Best for** | Anyone carrying high-interest consumer debt, credit card balances, or multiple loans who wants a structured elimination plan |
+
+### Key Facts at a Glance
+- The avalanche method saves more money in interest but requires stronger discipline to maintain motivation
+- The snowball method costs slightly more in interest but produces 15-20% higher completion rates due to psychological wins
+- A debt-to-income ratio above 36% signals aggressive payoff should be prioritized over investing
+- Credit card debt at 20%+ APR should always be eliminated before investing in market returns
+- Automating payments and tracking progress visually increases consistency by 40-60% in behavioral studies
+
+---
+
 Debt is a drag on every financial goal you have. It limits your cash flow, raises your stress, and delays wealth building. But not all payoff strategies are equal — and the one you choose can mean the difference between sticking with it and burning out.
 
 ## The Two Main Frameworks
@@ -64,3 +83,21 @@ Whichever method you choose, automate it. Set a fixed "debt payment" transfer on
 **Track your progress visually.** A simple spreadsheet showing total debt declining week by week provides the feedback loop that keeps the behavior going.
 
 Debt freedom isn't complicated. It's consistent application of a strategy over months and years — and building the habits that prevent it from coming back.
+
+---
+
+## Sources & Further Reading
+
+1. **Harvard Business Review: Why the Debt Snowball Works** — Behavioral research on small wins and goal completion — https://hbr.org/2016/12/research-the-best-strategy-for-paying-off-credit-card-debt
+2. **Consumer Financial Protection Bureau: What is a Debt-to-Income Ratio?** — Official guidance on DTI thresholds and lending standards — https://www.consumerfinance.gov/ask-cfpb/what-is-a-debt-to-income-ratio-en-1791/
+3. **Journal of Marketing Research: Getting Out of Debt** — Northwestern University study on debt payoff behavior and completion rates — https://journals.sagepub.com/doi/abs/10.1509/jmr.14.0474
+4. **The Balance: Debt Avalanche vs. Debt Snowball** — Comprehensive comparison of both methods with calculators — https://www.thebalancemoney.com/debt-avalanche-vs-debt-snowball-4155811
+5. **Federal Reserve: Consumer Credit Statistics** — National data on consumer debt levels and interest rates — https://www.federalreserve.gov/releases/g19/current/
+
+## Where to Buy / Find This
+
+- **YNAB (You Need A Budget)** — Budget software designed specifically for debt payoff tracking and zero-based budgeting — https://www.ynab.com
+- **Undebt.it** — Free debt payoff calculator and tracker supporting avalanche, snowball, and custom strategies — https://undebt.it
+- **Dave Ramsey's Total Money Makeover** — The definitive book on the debt snowball method and behavioral finance — https://www.amazon.com/Total-Money-Makeover-Classic-Financial/dp/1595555277
+- **Tally App** — Automated credit card payoff using avalanche method with line of credit consolidation — https://www.meettally.com
+- **Mint by Intuit** — Free budget tracking with debt payoff goal setting and progress visualization — https://mint.intuit.com

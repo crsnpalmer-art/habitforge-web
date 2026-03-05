@@ -5,6 +5,25 @@ excerpt: "Originally developed for narcolepsy, modafinil has become one of the m
 category: "Lifestyle"
 ---
 
+## The Basics
+
+| | |
+|---|---|
+| **What it is** | A prescription wakefulness-promoting medication that enhances alertness and cognitive function without typical stimulant side effects |
+| **Primary use** | FDA-approved for narcolepsy, shift work sleep disorder, and obstructive sleep apnea; widely used off-label for cognitive enhancement |
+| **Evidence level** | Strong — extensive clinical trials and meta-analyses demonstrate efficacy for wakefulness and cognitive performance, especially under sleep deprivation |
+| **Safety profile** | Prescription Only — Schedule IV controlled substance with generally good tolerability but requires medical supervision |
+| **Best for** | People managing sleep disorders, shift workers, or those facing occasional high-stakes cognitive demands requiring extended wakefulness |
+
+### Key Facts at a Glance
+- Enhances decision-making, planning, and sustained attention most effectively in sleep-deprived states
+- Has a 12-15 hour half-life, requiring morning dosing to avoid insomnia
+- Lower abuse potential than amphetamines (Schedule IV vs Schedule II classification)
+- Can reduce effectiveness of hormonal birth control by inducing liver enzymes
+- Standard effective dose is 100-200mg, with 100mg sufficient for many users
+
+---
+
 Walk into any high-stakes environment — a trading floor, a medical residency, a military briefing room, or a Silicon Valley product sprint — and you'll likely find people who've used modafinil. What started as a treatment for narcolepsy has quietly become one of the most widely used cognitive enhancers on the planet. The question isn't whether it works. It's whether it's right for you, and whether you're using it wisely.
 
 ## What Is Modafinil?
@@ -93,3 +112,20 @@ But it's not a substitute for sleep. Sleep deprivation impairs more than alertne
 Used occasionally, with intention, it's one of the most effective cognitive tools available. Used daily as a crutch, it risks psychological dependence and masks problems that need real solutions — like better sleep habits, lower stress load, or a more sustainable schedule.
 
 The best users of modafinil treat it like a specialist tool in a well-stocked toolbox: not the first thing you reach for, but exactly right when the situation calls for it.
+
+---
+
+## Sources & Further Reading
+
+1. **Battleday RM, Brem AK. Modafinil for cognitive neuroenhancement in healthy non-sleep-deprived subjects: A systematic review. European Neuropsychopharmacology. 2015** — https://pubmed.ncbi.nlm.nih.gov/26381811/
+2. **FDA Provigil (Modafinil) Prescribing Information** — https://www.accessdata.fda.gov/drugsatfda_docs/label/2015/020717s037s038lbl.pdf
+3. **Ballon JS, Feifel D. A systematic review of modafinil: Potential clinical uses and mechanisms of action. Journal of Clinical Psychiatry. 2006** — https://pubmed.ncbi.nlm.nih.gov/16889466/
+4. **Minzenberg MJ, Carter CS. Modafinil: A review of neurochemical actions and effects on cognition. Neuropsychopharmacology. 2008** — https://pubmed.ncbi.nlm.nih.gov/17851537/
+5. **Caldwell JA, Caldwell JL. Fatigue in military aviation: an overview of US military-approved pharmacological countermeasures. Aviation, Space, and Environmental Medicine. 2005** — https://pubmed.ncbi.nlm.nih.gov/15751907/
+
+## Where to Buy / Find This
+
+- **GoodRx — Modafinil Price Comparison** — Compare prices at local pharmacies with prescription discount coupons — https://www.goodrx.com/modafinil
+- **GoodRx — Armodafinil (Nuvigil) Price Comparison** — Longer-lasting R-enantiomer version of modafinil — https://www.goodrx.com/armodafinil
+- **Adrafinil (OTC Alternative) on Amazon** — Legal non-prescription prodrug that converts to modafinil in the liver — https://www.amazon.com/s?k=adrafinil
+- **BuyModa (International Pharmacy)** — Popular online modafinil vendor for international customers (prescription requirements vary by country) — https://www.buymoda.org/

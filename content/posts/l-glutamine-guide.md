@@ -5,6 +5,25 @@ excerpt: "Glutamine is the most abundant amino acid in the body. Here's when it 
 category: "Supplements"
 ---
 
+## The Basics
+
+| | |
+|---|---|
+| **What it is** | A conditionally essential amino acid that serves as primary fuel for intestinal cells and immune function |
+| **Primary use** | Supporting gut barrier integrity, intestinal health, and recovery during high physiological stress |
+| **Evidence level** | Strong (for gut health in clinical populations); Moderate (for exercise recovery and immune support) |
+| **Safety profile** | Very Safe (for healthy individuals; contraindicated for liver/kidney disease) |
+| **Best for** | People with gut issues, athletes in heavy training, those recovering from illness or surgery |
+
+### Key Facts at a Glance
+- L-glutamine is the most abundant amino acid in the body and primary fuel source for intestinal lining cells
+- Clinical evidence strongly supports its use for gut barrier integrity, especially during stress or illness
+- Exercise recovery benefits are modest in those eating adequate protein (1g+/kg body weight)
+- May reduce upper respiratory infections in endurance athletes during intense training blocks
+- Standard dosing is 5-10g/day for gut support; up to 30g/day in clinical settings under medical supervision
+
+---
+
 Glutamine is one of those supplements that has been oversold, then written off, and is now being reassessed more carefully. The reality sits in the middle: it's not the muscle-builder it was once marketed as, but it plays a real and underappreciated role in gut health, immune function, and recovery under stress.
 
 ## What Glutamine Is
@@ -58,3 +77,20 @@ Where it may add value:
 Glutamine is not appropriate for people with liver disease, kidney disease, or Reye's syndrome. If you have a serious health condition, check with your physician before supplementing.
 
 For most healthy people, glutamine is a low-risk, potentially useful supplement for gut health and recovery — particularly in periods of higher stress or training load. It's not a priority supplement, but it's a reasonable one.
+
+---
+
+## Sources & Further Reading
+
+1. **Glutamine supplementation in critical illness: evidence, recommendations, and key considerations** — National Institutes of Health, Critical Care Medicine — https://pubmed.ncbi.nlm.nih.gov/29509620/
+2. **The effects of glutamine supplementation on performance and hormonal responses in non-athlete male students during eight weeks of resistance training** — Journal of the International Society of Sports Nutrition — https://pubmed.ncbi.nlm.nih.gov/30089485/
+3. **Glutamine and the regulation of intestinal permeability: from bench to bedside** — Current Opinion in Clinical Nutrition and Metabolic Care — https://pubmed.ncbi.nlm.nih.gov/25635594/
+4. **The Clinical Use of Glutamine Supplementation in Gut-Related Health** — Nutrients (MDPI) — https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6893633/
+5. **Effects of oral glutamine supplementation on exercise-induced gastrointestinal permeability and tight junction protein expression** — Journal of Applied Physiology — https://pubmed.ncbi.nlm.nih.gov/28495846/
+
+## Where to Buy / Find This
+
+- **NOW Sports L-Glutamine Powder (1kg)** — Pure, unflavored L-glutamine powder; pharmaceutical grade; excellent value — https://www.amazon.com/NOW-Sports-Nutrition-L-Glutamine-Pharmaceutical/dp/B0013OXD38
+- **Thorne L-Glutamine Powder** — NSF Certified for Sport; third-party tested for banned substances; trusted by athletes — https://www.amazon.com/Thorne-Research-L-Glutamine-Powder/dp/B0009F3S7Q
+- **Transparent Labs Glutamine** — High purity, no fillers, transparent sourcing and testing — https://www.transparentlabs.com/products/coresteries-glutamine
+- **Jarrow Formulas L-Glutamine 750mg Capsules** — Convenient capsule form for those who prefer not to use powder — https://www.amazon.com/Jarrow-Formulas-L-Glutamine-Supports-Intestinal/dp/B0013OSOVE

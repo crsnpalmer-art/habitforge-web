@@ -5,6 +5,25 @@ excerpt: "Most routine bloodwork misses the biomarkers that predict future healt
 category: "Lifestyle"
 ---
 
+## The Basics
+
+| | |
+|---|---|
+| **What it is** | Comprehensive blood testing to measure biomarkers that predict long-term health outcomes before symptoms appear |
+| **Primary use** | Early detection of metabolic dysfunction, hormonal imbalances, cardiovascular risk, and nutrient deficiencies |
+| **Evidence level** | Strong — well-established clinical utility for disease prediction and prevention |
+| **Safety profile** | Very Safe — minimal risk venipuncture procedure |
+| **Best for** | Anyone optimizing health, tracking aging biomarkers, or addressing chronic fatigue, weight issues, or metabolic concerns |
+
+### Key Facts at a Glance
+- Fasting insulin rises years before glucose, making it the earliest marker of insulin resistance
+- ApoB is a better predictor of cardiovascular risk than standard LDL cholesterol
+- Triglycerides/HDL ratio under 1.0 is optimal; above 2.0 signals insulin resistance
+- Optimal vitamin D is 40–70 ng/mL, but over 30% of adults are deficient below 30 ng/mL
+- Most "normal" reference ranges reflect population averages, not optimal health targets
+
+---
+
 Most people have never seen their own bloodwork. Of those who have, most have only seen the standard panel their doctor ordered — which, depending on the doctor, may be missing the biomarkers most predictive of how you'll age.
 
 Testing isn't a substitute for lifestyle. But it gives you a map. And most people are navigating without one.
@@ -78,3 +97,22 @@ Reference ranges on lab reports are based on population averages — not optimal
 Learn what optimal looks like for each marker (distinct from the lab's "normal" range). Track trends over time. A single number tells you where you are. A trend tells you where you're going.
 
 The most powerful use of bloodwork is not diagnosis — it's direction. A rising fasting insulin, declining free testosterone, or creeping HbA1c tells you to change something before it becomes a problem.
+
+---
+
+## Sources & Further Reading
+
+1. **Fasting Insulin as a Predictor of Cardiovascular Disease** — Diabetes Care Journal — https://diabetesjournals.org/care/article/25/6/1129/22116/Fasting-Insulin-and-Outcome-in-Nondiabetic
+2. **Apolipoprotein B vs LDL-Cholesterol for Cardiovascular Risk Assessment** — Journal of the American College of Cardiology — https://www.jacc.org/doi/10.1016/j.jacc.2019.03.534
+3. **Triglyceride/HDL Ratio and Insulin Resistance** — The Journal of Clinical Endocrinology & Metabolism — https://academic.oup.com/jcem/article/88/11/5154/2656267
+4. **High-Sensitivity C-Reactive Protein and Cardiovascular Risk** — New England Journal of Medicine — https://www.nejm.org/doi/full/10.1056/nejmoa021993
+5. **Vitamin D Insufficiency and Clinical Outcomes** — National Institutes of Health — https://ods.od.nih.gov/factsheets/VitaminD-HealthProfessional/
+6. **Homocysteine and Cardiovascular Disease** — American Heart Association — https://www.ahajournals.org/doi/10.1161/01.CIR.102.19.2479
+
+## Where to Buy / Find This
+
+- **Function Health** — Comprehensive annual bloodwork with 100+ biomarkers, includes physician review and trend tracking — https://www.functionhealth.com/
+- **Marek Health** — Direct-to-consumer lab testing with specialist consultation for optimization — https://marekhealth.com/
+- **LabCorp OnDemand** — Order specific panels online without physician order, results in 1-3 days — https://www.labcorp.com/labs-and-appointments/ondemand
+- **Quest Direct** — Self-order lab testing at Quest locations nationwide — https://www.questhealth.com/
+- **Ulta Lab Tests** — Discounted direct-access lab testing through LabCorp and Quest networks — https://www.ultalabtests.com/

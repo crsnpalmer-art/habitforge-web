@@ -5,6 +5,25 @@ excerpt: "Alpha lipoic acid is one of the few antioxidants that works in both fa
 category: "Supplements"
 ---
 
+## The Basics
+
+| | |
+|---|---|
+| **What it is** | A naturally occurring organosulfur compound that functions as both a fat-soluble and water-soluble antioxidant |
+| **Primary use** | Blood sugar regulation, insulin sensitivity, and treatment of diabetic peripheral neuropathy |
+| **Evidence level** | Strong |
+| **Safety profile** | Generally Safe |
+| **Best for** | People with type 2 diabetes, pre-diabetes, metabolic syndrome, or diabetic neuropathy; also longevity-focused individuals optimizing mitochondrial function |
+
+### Key Facts at a Glance
+- One of the only antioxidants that works in both fat and water environments throughout the body
+- Crosses the blood-brain barrier and supports neuroprotection and cognitive health
+- Regenerates other antioxidants (vitamins C and E, glutathione) after they've been spent
+- Activates AMPK, the "metabolic master switch," mimicking some benefits of exercise and caloric restriction
+- Standard dosing: 300–600 mg/day of racemic ALA or 150–300 mg/day of R-ALA (more potent form)
+
+---
+
 Most antioxidants operate in a single domain — either in fat tissue or in water-based environments like blood and cellular fluid. Alpha lipoic acid (ALA) is different. It functions in both, earning it the designation of a "universal antioxidant." This dual activity, combined with its ability to regenerate other antioxidants like vitamins C and E and glutathione, makes ALA one of the more versatile compounds in the longevity and metabolic health space.
 
 ## What Is Alpha Lipoic Acid?
@@ -48,3 +67,27 @@ ALA can lower blood glucose levels, so diabetics or those on blood sugar-lowerin
 ## The Bottom Line
 
 Alpha lipoic acid is a genuinely multi-functional compound — unusual in a supplement landscape full of single-benefit claims. Its strongest evidence lies in blood sugar regulation, insulin sensitivity, and neuropathy relief. For healthy individuals focused on longevity and metabolic optimization, it's a thoughtful addition to a well-rounded stack. Start with 300–600 mg of racemic ALA on an empty stomach, or 150–300 mg of R-ALA for a more bioavailable option.
+
+---
+
+## Sources & Further Reading
+
+1. **Akbari M, et al. (2018).** "The Effects of Alpha-Lipoic Acid Supplementation on Glucose Control and Lipid Profiles Among Patients with Metabolic Diseases: A Systematic Review and Meta-Analysis of Randomized Controlled Trials." *Metabolism: Clinical and Experimental.* https://pubmed.ncbi.nlm.nih.gov/30355285/
+
+2. **Ziegler D, et al. (2011).** "Efficacy and Safety of Antioxidant Treatment with α-Lipoic Acid Over 4 Years in Diabetic Polyneuropathy: The NATHAN 1 Trial." *Diabetes Care.* https://pubmed.ncbi.nlm.nih.gov/21617109/
+
+3. **Golbidi S, et al. (2011).** "Diabetes and Alpha Lipoic Acid." *Frontiers in Pharmacology.* https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3221300/
+
+4. **Hager K, et al. (2007).** "Alpha-Lipoic Acid as a New Treatment Option for Alzheimer's Disease—A 48 Months Follow-up Analysis." *Journal of Neural Transmission Supplementa.* https://pubmed.ncbi.nlm.nih.gov/17982894/
+
+5. **Shay KP, et al. (2009).** "Alpha-Lipoic Acid as a Dietary Supplement: Molecular Mechanisms and Therapeutic Potential." *Biochimica et Biophysica Acta.* https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2756298/
+
+## Where to Buy / Find This
+
+- **Life Extension Super R-Lipoic Acid** — High-quality R-ALA form with stabilized sodium salt for better absorption (240mg capsules) — https://www.amazon.com/Life-Extension-Super-R-Lipoic-Vegetarian-Capsules/dp/B001G7R920
+
+- **Doctor's Best Alpha-Lipoic Acid** — Affordable racemic ALA option with biotin added to prevent depletion (600mg capsules) — https://www.amazon.com/Doctors-Best-Alpha-Lipoic-Non-GMO-Gluten/dp/B000BD0ILK
+
+- **Thorne Research R-Lipoic Acid** — Pure R-ALA form with high bioavailability and third-party testing (100mg capsules) — https://www.amazon.com/Thorne-Research-R-Lipoic-Acid-Capsules/dp/B0797HK8YL
+
+- **NOW Supplements Alpha Lipoic Acid** — Budget-friendly racemic ALA with consistent quality (600mg capsules) — https://www.amazon.com/NOW-Supplements-Alpha-Lipoic-600mg-Capsules/dp/B0013OQGO6

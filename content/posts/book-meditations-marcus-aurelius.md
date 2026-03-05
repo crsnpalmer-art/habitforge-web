@@ -5,6 +5,25 @@ excerpt: "Written by a Roman Emperor as private journal entries, Meditations is 
 category: "Books"
 ---
 
+## The Basics
+
+| | |
+|---|---|
+| **What it is** | A collection of personal philosophical reflections written by Roman Emperor Marcus Aurelius around 170-180 AD |
+| **Primary use** | Developing resilience, perspective, and virtue through Stoic principles applied to modern challenges |
+| **Evidence level** | Strong — foundational Stoic text with 2,000 years of demonstrated practical value |
+| **Safety profile** | Very Safe — philosophical framework with no contraindications |
+| **Best for** | Leaders, high achievers, and anyone managing responsibility or seeking mental clarity during difficulty |
+
+### Key Facts at a Glance
+- Written in Greek as private journals by the most powerful man in the world, never intended for publication
+- Core teaching: you control only your responses, not events — focus energy there
+- Emphasizes memento mori (awareness of death) as motivation to act virtuously now
+- Translated into every major language; Gregory Hays translation (2002) most accessible
+- Structured as 12 books of aphorisms and reflections, readable in any order
+
+---
+
 There is something remarkable about the fact that *Meditations* exists at all. Marcus Aurelius — Emperor of Rome from 161 to 180 AD, one of the most powerful men who ever lived — wrote this book for no one but himself. These are private journal entries, reminders he wrote to help himself think clearly, act justly, and stay grounded while ruling an empire and managing a world in constant crisis. He never intended it to be published.
 
 Nearly two millennia later, it remains one of the most widely read philosophy books in the world. That longevity is proof of something.
@@ -48,3 +67,20 @@ If *Meditations* could be reduced to one imperative, it might be this: **do what
 Marcus Aurelius was a flawed human being who held extraordinary power and spent his private life trying to be worthy of it. That effort, preserved in these pages against his own intentions, may be the most honest piece of philosophical writing in history.
 
 Read it slowly. Return to it often.
+
+---
+
+## Sources & Further Reading
+
+1. **Meditations by Marcus Aurelius (Gregory Hays translation)** — Modern Library, 2002 — The definitive contemporary translation with excellent introduction — https://www.penguinrandomhouse.com/books/331925/meditations-by-marcus-aurelius/
+2. **"Marcus Aurelius: A Guide for the Perplexed"** by William O. Stephens — Academic overview of Marcus's philosophy and historical context — https://www.bloomsbury.com/us/marcus-aurelius-a-guide-for-the-perplexed-9780826498335/
+3. **Stanford Encyclopedia of Philosophy: Marcus Aurelius** — Scholarly examination of his Stoic philosophy — https://plato.stanford.edu/entries/marcus-aurelius/
+4. **"The Inner Citadel: The Meditations of Marcus Aurelius"** by Pierre Hadot — Deep philosophical analysis of the text's structure and themes — https://www.hup.harvard.edu/books/9780674007864
+5. **Internet Classics Archive: Meditations** — Free full-text English translation (George Long) — http://classics.mit.edu/Antoninus/meditations.html
+
+## Where to Buy / Find This
+
+- **Meditations (Gregory Hays Translation)** — Most readable modern translation, Modern Library edition — https://www.amazon.com/Meditations-New-Translation-Modern-Library/dp/0812968255
+- **The Daily Stoic** by Ryan Holiday — Structured 366-day format with excerpts from Marcus and other Stoics — https://www.amazon.com/Daily-Stoic-Meditations-Wisdom-Perseverance/dp/0735211736
+- **Free audiobook via Librivox** — Public domain recording of George Long translation — https://librivox.org/meditations-by-marcus-aurelius/
+- **Audible audiobook (Hays translation)** — Narrated by Duncan Steen, excellent for daily listening — https://www.audible.com/pd/Meditations-Audiobook/B071D7JMQ6

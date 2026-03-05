@@ -5,6 +5,25 @@ excerpt: "NAD+ is one of the most important molecules in the body — and it dec
 category: "Supplements"
 ---
 
+## The Basics
+
+| | |
+|---|---|
+| **What it is** | NMN (nicotinamide mononucleotide) is a direct precursor molecule that the body converts into NAD+, a coenzyme critical for energy production, DNA repair, and cellular aging |
+| **Primary use** | Restoring declining NAD+ levels to support mitochondrial function, DNA repair, metabolic health, and potentially slow biological aging |
+| **Evidence level** | Moderate — strong preclinical research, promising human trials showing increased NAD+ levels and functional improvements, but long-term outcome data still emerging |
+| **Safety profile** | Generally Safe — well-tolerated in clinical trials at standard doses (250–500 mg/day) with minimal side effects |
+| **Best for** | Adults over 40 experiencing age-related NAD+ decline, those seeking metabolic optimization, athletes with high recovery demands, or anyone focused on longevity strategies |
+
+### Key Facts at a Glance
+- NAD+ levels drop by approximately 50% between ages 20 and 50, contributing to cellular aging
+- Human trials show NMN supplementation increases blood NAD+ by 38% and improves muscle strength and energy
+- NMN activates sirtuins (longevity proteins) that regulate DNA repair, mitochondrial function, and inflammation
+- Typical effective dosing is 250–500 mg daily, taken in the morning for optimal circadian alignment
+- Theoretical cancer caution exists (NAD+ could fuel dividing cells), though unproven at supplemental doses in humans
+
+---
+
 ## What Is NAD+ and Why Does It Decline With Age?
 
 Nicotinamide adenine dinucleotide (NAD+) is a coenzyme found in every cell of the body. It plays a central role in energy metabolism, DNA repair, and the activation of sirtuins — a family of proteins often called "longevity genes." Without adequate NAD+, cells lose the ability to generate energy efficiently, repair damaged DNA, and respond to stress.
@@ -53,3 +72,20 @@ One important caveat: a subset of cancer research suggests elevated NAD+ could t
 NAD+ is central to how cells age, repair, and generate energy. NMN is the most direct and well-studied way to raise NAD+ levels. The science is compelling enough that many longevity researchers take it personally. For anyone over 40 focused on maintaining cellular health, cognitive function, and metabolic fitness, NMN is one of the higher-conviction supplements available.
 
 Start at 250–500 mg/day in the morning, track your energy and recovery over 60 days, and reassess.
+
+---
+
+## Sources & Further Reading
+
+1. **Yoshino M, et al. (2023). "Nicotinamide mononucleotide increases muscle insulin sensitivity in prediabetic women."** *Nature Aging*. [https://www.nature.com/articles/s43587-023-00404-3](https://www.nature.com/articles/s43587-023-00404-3)
+2. **Imai S, Guarente L. (2014). "NAD+ and sirtuins in aging and disease."** *Trends in Cell Biology*. [https://pubmed.ncbi.nlm.nih.gov/24786309/](https://pubmed.ncbi.nlm.nih.gov/24786309/)
+3. **Yoshino J, et al. (2018). "Nicotinamide mononucleotide, a key NAD+ intermediate, treats the pathophysiology of diet- and age-induced diabetes in mice."** *Cell Metabolism*. [https://pubmed.ncbi.nlm.nih.gov/21035759/](https://pubmed.ncbi.nlm.nih.gov/21035759/)
+4. **Mills KF, et al. (2016). "Long-Term Administration of Nicotinamide Mononucleotide Mitigates Age-Associated Physiological Decline in Mice."** *Cell Metabolism*. [https://pubmed.ncbi.nlm.nih.gov/27304506/](https://pubmed.ncbi.nlm.nih.gov/27304506/)
+5. **Poddar SK, et al. (2019). "Nicotinamide mononucleotide: exploration of diverse therapeutic applications of a potential molecule."** *Biomolecules*. [https://pubmed.ncbi.nlm.nih.gov/30669563/](https://pubmed.ncbi.nlm.nih.gov/30669563/)
+
+## Where to Buy / Find This
+
+- **Renue by Science NMN Powder** — Third-party tested, pharmaceutical-grade NMN powder (sublingual or capsule form), 500mg servings — [https://www.amazon.com/Renue-Science-Liposomal-Supplement-Nicotinamide/dp/B07YQBV8T7](https://www.amazon.com/Renue-Science-Liposomal-Supplement-Nicotinamide/dp/B07YQBV8T7)
+- **ProHealth Longevity NMN Pro 500** — High-purity NMN capsules with 500mg per serving, made in USA — [https://www.amazon.com/ProHealth-Longevity-Nicotinamide-Mononucleotide-Supplement/dp/B07XQMD3LR](https://www.amazon.com/ProHealth-Longevity-Nicotinamide-Mononucleotide-Supplement/dp/B07XQMD3LR)
+- **DoNotAge NMN Powder** — Pure NMN powder, third-party tested for purity, 125mg scoop included — [https://www.donotage.org/products/nmn-powder](https://www.donotage.org/products/nmn-powder)
+- **Tru Niagen (NR alternative)** — Nicotinamide riboside (NR) instead of NMN, well-studied alternative NAD+ precursor — [https://www.amazon.com/TRU-NIAGEN-Nicotinamide-Riboside-Supplement/dp/B01KTX1JU0](https://www.amazon.com/TRU-NIAGEN-Nicotinamide-Riboside-Supplement/dp/B01KTX1JU0)

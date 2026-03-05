@@ -5,6 +5,25 @@ excerpt: "CoQ10 is one of the most research-backed supplements for energy, heart
 category: "Supplements"
 ---
 
+## The Basics
+
+| | |
+|---|---|
+| **What it is** | A naturally-occurring compound essential for mitochondrial energy production and cellular antioxidant defense |
+| **Primary use** | Supporting cardiovascular health, cellular energy production, and countering age-related CoQ10 decline |
+| **Evidence level** | Strong — extensive clinical research in cardiovascular disease, statin-induced depletion, and aging |
+| **Safety profile** | Very Safe — decades of clinical use with minimal side effects |
+| **Best for** | Adults over 40, statin users, people with heart conditions, and those optimizing mitochondrial health |
+
+### Key Facts at a Glance
+- Natural CoQ10 production peaks in your mid-20s and declines ~50% by age 50, especially in heart tissue
+- Statins block the same pathway used to produce CoQ10, reducing levels by up to 40%
+- Ubiquinol (reduced form) is more bioavailable than ubiquinone, particularly for older adults
+- The Q-SYMBIO trial showed 300 mg/day reduced major cardiovascular events and mortality in heart failure patients
+- Dosing: 100–200 mg/day for maintenance under 40; 200–400 mg/day ubiquinol for older adults or statin users
+
+---
+
 Every cell in the human body runs on energy. And at the center of that energy production sits a molecule most people have never heard of: Coenzyme Q10, or CoQ10. Found in the mitochondria of nearly every cell, CoQ10 is essential for converting the food you eat into the fuel your body actually uses. Despite being produced naturally, levels decline significantly with age — and that decline has real consequences.
 
 ## What CoQ10 Actually Does
@@ -48,3 +67,20 @@ CoQ10 has an excellent safety profile with decades of clinical use behind it. Si
 CoQ10 is not a flashy supplement. It won't give you an acute buzz or overnight transformation. What it offers is foundational cellular support — the kind that pays dividends over years, not days. For anyone over 40, on statins, or simply interested in maintaining mitochondrial health as they age, it belongs in the conversation.
 
 Choose ubiquinol if budget allows and you're over 40. Take it with fat. Be consistent. The benefits are subtle but cumulative — exactly the kind of supplementation strategy worth building into a long-term health stack.
+
+---
+
+## Sources & Further Reading
+
+1. **Q-SYMBIO Study: Coenzyme Q10 in Heart Failure** — Mortensen SA et al. JACC Heart Fail. 2014 — https://pubmed.ncbi.nlm.nih.gov/25282031/
+2. **CoQ10 and Cardiovascular Disease** — Sharma A et al. Curr Cardiol Rep. 2017 — https://pubmed.ncbi.nlm.nih.gov/29038950/
+3. **Statin-Induced CoQ10 Depletion** — Banach M et al. Arch Med Sci. 2015 — https://pubmed.ncbi.nlm.nih.gov/26322096/
+4. **Ubiquinol vs Ubiquinone Bioavailability** — Zhang Y et al. Redox Biol. 2018 — https://pubmed.ncbi.nlm.nih.gov/29524871/
+5. **CoQ10 in Aging and Mitochondrial Health** — Díaz-Casado ME et al. Front Physiol. 2019 — https://pubmed.ncbi.nlm.nih.gov/30846945/
+
+## Where to Buy / Find This
+
+- **Qunol Ultra CoQ10 (100mg, 120 softgels)** — Highly bioavailable ubiquinone with patented water-soluble delivery — https://www.amazon.com/Qunol-Ultra-CoQ10-Softgels-Essential/dp/B0049S3YRS
+- **Jarrow Formulas QH-absorb Ubiquinol (100mg, 60 softgels)** — High-quality ubiquinol form, ideal for those over 40 — https://www.amazon.com/Jarrow-Formulas-QH-absorb-Ubiquinol-Softgels/dp/B002YSE9AG
+- **Doctor's Best High Absorption CoQ10 with BioPerine (200mg, 60 veggie caps)** — Enhanced absorption ubiquinone with black pepper extract — https://www.amazon.com/Doctors-Best-Absorption-BioPerine-Capsules/dp/B0019GW3G8
+- **Life Extension Super Ubiquinol CoQ10 (100mg, 60 softgels)** — Premium ubiquinol with enhanced mitochondrial support — https://www.amazon.com/Life-Extension-Super-Ubiquinol-softgels/dp/B002VLC03C

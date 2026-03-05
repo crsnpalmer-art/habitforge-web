@@ -5,6 +5,25 @@ excerpt: "Tracking habits isn't just record-keeping — it's a behavior change t
 category: "Habits"
 ---
 
+## The Basics
+
+| | |
+|---|---|
+| **What it is** | A systematic method of recording daily completion of target behaviors to increase adherence and build consistency |
+| **Primary use** | Establishing new habits, maintaining existing behaviors, and creating visual accountability through streak tracking |
+| **Evidence level** | Strong — supported by decades of behavioral psychology research on self-monitoring and feedback loops |
+| **Safety profile** | Very Safe — purely behavioral intervention with no physical risks |
+| **Best for** | Anyone building new habits, recovering from broken routines, or struggling with consistency on valued behaviors |
+
+### Key Facts at a Glance
+- Self-monitoring alone increases behavior adherence by 20-40% even without other interventions
+- Loss aversion makes people twice as motivated to protect streaks as to start new ones
+- Visual progress tracking significantly increases task motivation and performance
+- Tracking 3-5 habits simultaneously is optimal; tracking more reduces effectiveness
+- "Never miss twice" is the most important recovery principle for broken streaks
+
+---
+
 Habit tracking is one of the most consistently effective behavior change tools across decades of research. It's also one of the most underused, because it looks deceptively simple.
 
 Checking a box, marking a streak, logging a completion — these feel almost trivially easy. But there's real psychology underneath them, and understanding it makes you use tracking more effectively.
@@ -50,3 +69,20 @@ Missing once is a mistake. Missing twice is the start of a new habit — the hab
 Research on habit disruption shows that the people who recover fastest from missed behaviors are those who treat the miss as an isolated event rather than evidence of a pattern. A single zero doesn't define your average. Your response to the zero does.
 
 Track consistently. Protect your streaks. Recover without drama when you don't. The compound value of consistent behavior is worth the engineering required to maintain it.
+
+---
+
+## Sources & Further Reading
+
+1. **Self-monitoring and behavioral change** — Burke LE, Wang J, Sevick MA. Self-monitoring in weight loss: a systematic review of the literature. *J Am Diet Assoc.* 2011;111(1):92-102. https://pubmed.ncbi.nlm.nih.gov/21185970/
+2. **Loss aversion in behavioral economics** — Kahneman D, Tversky A. Prospect theory: An analysis of decision under risk. *Econometrica.* 1979;47(2):263-291. https://www.jstor.org/stable/1914185
+3. **The progress principle and motivation** — Amabile T, Kramer S. The power of small wins. *Harvard Business Review.* 2011;89(5):70-80. https://hbr.org/2011/05/the-power-of-small-wins
+4. **Habit formation and automaticity** — Lally P, van Jaarsveld CHM, Potts HWW, Wardle J. How are habits formed: Modelling habit formation in the real world. *Eur J Soc Psychol.* 2010;40(6):998-1009. https://onlinelibrary.wiley.com/doi/10.1002/ejsp.674
+5. **Self-regulation and goal monitoring** — Harkin B, Webb TL, Chang BP, et al. Does monitoring goal progress promote goal attainment? A meta-analysis of the experimental evidence. *Psychol Bull.* 2016;142(2):198-229. https://pubmed.ncbi.nlm.nih.gov/26479070/
+
+## Where to Buy / Find This
+
+- **Atomic Habits by James Clear** — Comprehensive guide to habit formation with extensive section on tracking — https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299
+- **Habitica** — Gamified habit tracking app with streak mechanics and social features — https://habitica.com
+- **Strides Habit Tracker** — Flexible digital tracker supporting multiple tracking methods (streaks, targets, averages) — https://www.stridesapp.com
+- **The Habit Journal** — Physical journal designed specifically for daily habit tracking with monthly layouts — https://www.amazon.com/Habit-Journal-Track-Goals-Daily/dp/1641524405

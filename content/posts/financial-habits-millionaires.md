@@ -5,6 +5,25 @@ excerpt: "Wealth isn't built on income alone — it's built on the daily behavio
 category: "Finance"
 ---
 
+## The Basics
+
+| | |
+|---|---|
+| **What it is** | A systematic approach to managing money through automated behaviors that prioritize saving and asset accumulation over consumption |
+| **Primary use** | Building long-term wealth independent of income level through consistent, evidence-based financial behaviors |
+| **Evidence level** | Strong — backed by decades of research in behavioral economics and longitudinal wealth studies |
+| **Safety profile** | Very Safe — conservative strategies focused on index funds, automation, and debt avoidance |
+| **Best for** | Anyone with regular income who wants to build wealth over time, regardless of current income level |
+
+### Key Facts at a Glance
+- The savings rate (percentage of income saved) is a stronger predictor of wealth than income level
+- Automating savings removes willpower from the equation and increases consistency by 40-50%
+- A 30-year-old investing $500/month at 8% returns will have ~$745,000 by age 65
+- Consumer debt at 18-24% APR effectively erases 2-3 decades of investment returns
+- The median millionaire in America has never earned a six-figure salary in any single year
+
+---
+
 Most people believe wealth is a function of income. Earn enough, and financial security follows. But the data tells a different story.
 
 Studies consistently show that high earners can and do live paycheck to paycheck, while people with modest incomes build significant wealth over decades. The difference isn't the salary — it's the habits.
@@ -69,3 +88,22 @@ Compounding requires time, and time requires patience. Most people overestimate 
 The habit of leaving investments alone during downturns, resisting the urge to chase trends, and staying consistent with contributions through market cycles is worth more than any clever investment strategy.
 
 Wealth is built slowly, then suddenly. The habits come first.
+
+---
+
+## Sources & Further Reading
+
+1. **The Millionaire Next Door: The Surprising Secrets of America's Wealthy** — Stanley, T.J. & Danko, W.D. — Comprehensive study of millionaire behaviors — https://www.simonandschuster.com/books/The-Millionaire-Next-Door/Thomas-J-Stanley/9781589795471
+2. **Automated Savings and Retirement Contributions** — Thaler, R.H. & Benartzi, S. (2004) — Journal of Political Economy — https://www.jstor.org/stable/10.1086/380085
+3. **Financial Literacy and Wealth Accumulation** — Lusardi, A. & Mitchell, O.S. — National Bureau of Economic Research — https://www.nber.org/papers/w17103
+4. **A Random Walk Down Wall Street** — Malkiel, B.G. — Evidence for passive index investing — https://wwnorton.com/books/9781324002185
+5. **Personal Savings Rate and Wealth** — Federal Reserve Economic Data — https://fred.stlouisfed.org/series/PSAVERT
+6. **The Psychology of Money** — Housel, M. — Behavioral finance and wealth building — https://www.harriman-house.com/psychologyofmoney
+
+## Where to Buy / Find This
+
+- **Vanguard Total Stock Market Index Fund (VTSAX)** — Low-cost index fund for automated investing — https://investor.vanguard.com/investment-products/mutual-funds/profile/vtsax
+- **Fidelity Zero Index Funds** — Zero-fee index funds for beginning investors — https://www.fidelity.com/mutual-funds/investing-ideas/index-funds
+- **YNAB (You Need A Budget)** — Budgeting software for tracking every dollar — https://www.ynab.com
+- **Ally Bank High-Yield Savings** — Automated savings account with competitive rates — https://www.ally.com/bank/online-savings-account
+- **The Simple Path to Wealth by JL Collins** — Book on financial independence and index investing — https://www.amazon.com/Simple-Path-Wealth-financial-independence/dp/1533667926

@@ -5,6 +5,25 @@ date: "2025-02-26"
 excerpt: "L-glutamine is the most abundant amino acid in your body and the primary fuel for your gut lining. Learn how it supports intestinal integrity, immune function, and recovery — and when supplementation makes sense."
 ---
 
+## The Basics
+
+| | |
+|---|---|
+| **What it is** | A conditionally essential amino acid that serves as the primary fuel source for intestinal cells and is the most abundant free amino acid in the bloodstream |
+| **Primary use** | Supporting gut lining integrity, reducing intestinal permeability, and aiding recovery during illness or intense training |
+| **Evidence level** | Strong — particularly for gut health and intestinal barrier function |
+| **Safety profile** | Very Safe — well-tolerated at standard doses with minimal side effects |
+| **Best for** | People with gut permeability issues, IBS/IBD, athletes in heavy training, and anyone recovering from illness or surgery |
+
+### Key Facts at a Glance
+- Enterocytes (intestinal lining cells) use glutamine as their primary fuel source, making it essential for gut barrier integrity
+- Your body's demand for glutamine can exceed production during stress, illness, or intense exercise, making it "conditionally essential"
+- Research shows glutamine helps maintain tight junctions in the gut lining, reducing "leaky gut" permeability
+- Immune cells rely heavily on glutamine as fuel, with demand spiking during illness or injury
+- Standard dosing ranges from 5–10g daily for gut health, up to 20g for athletes in heavy training
+
+---
+
 You produce it in large quantities. It circulates in your bloodstream more than any other amino acid. And yet, under stress, illness, or intense training, your body can burn through it faster than it can replenish it. L-glutamine is essential, conditionally — and for many people, supplementing it can make a meaningful difference in gut health, immune resilience, and recovery.
 
 ## What Is L-Glutamine?
@@ -45,3 +64,20 @@ L-glutamine supplementation makes the most sense for:
 Glutamine is generally very well tolerated. At very high doses, some people experience GI discomfort — starting with 5g and building up is the sensible approach.
 
 Your gut is the foundation of your health. Giving it the primary fuel it needs isn't a luxury — for many people, it's a necessity.
+
+---
+
+## Sources & Further Reading
+
+1. **Intestinal permeability and glutamine supplementation** — Kim MH, Kim H. The Role of Glutamine in the Gut. *Clinical Nutrition Research*. 2017;6(4):266-277. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5637834/
+2. **Glutamine and immune function** — Cruzat V, et al. Glutamine: Metabolism and Immune Function, Supplementation and Clinical Translation. *Nutrients*. 2018;10(11):1564. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6266414/
+3. **Glutamine supplementation in critically ill patients** — Wischmeyer PE, et al. Glutamine administration reduces Gram-negative bacteremia in severely burned patients. *Critical Care Medicine*. 2001;29(11):2075-2080. https://pubmed.ncbi.nlm.nih.gov/11700398/
+4. **Systematic review on glutamine and intestinal barrier function** — Achamrah N, et al. Glutamine and the regulation of intestinal permeability. *Current Opinion in Clinical Nutrition & Metabolic Care*. 2017;20(1):86-91. https://pubmed.ncbi.nlm.nih.gov/27749689/
+5. **Glutamine for exercise recovery and muscle soreness** — Legault Z, et al. The Influence of Oral L-Glutamine Supplementation on Muscle Strength Recovery and Soreness Following Unilateral Knee Extension Eccentric Exercise. *International Journal of Sport Nutrition and Exercise Metabolism*. 2015;25(5):417-426. https://pubmed.ncbi.nlm.nih.gov/25811544/
+
+## Where to Buy / Find This
+
+- **NOW Sports L-Glutamine Powder** — Pharmaceutical grade, unflavored, 1g per scoop, excellent value and purity — https://www.amazon.com/NOW-Sports-Nutrition-L-Glutamine-Powder/dp/B0013OXKHC
+- **Thorne L-Glutamine Powder** — NSF Certified for Sport, high-quality sourcing, third-party tested — https://www.amazon.com/Thorne-Research-L-Glutamine-Powder/dp/B0016BFWU6
+- **Jarrow Formulas L-Glutamine** — Free-form glutamine, well-absorbed, trusted brand — https://www.amazon.com/Jarrow-Formulas-L-Glutamine-Amino-Powder/dp/B0013OW2KS
+- **Bulk Supplements L-Glutamine** — Pure powder, no additives, economical for high-dose protocols — https://www.amazon.com/BulkSupplements-L-Glutamine-Powder-Kilogram/dp/B00E7GESIK

@@ -5,6 +5,25 @@ date: "2025-02-26"
 excerpt: "From cardiovascular benefits to longevity, the science behind regular sauna use is surprisingly compelling. Here's what happens to your body in the heat — and how to do it right."
 ---
 
+## The Basics
+
+| | |
+|---|---|
+| **What it is** | Controlled heat exposure (typically 175–200°F) that triggers cardiovascular, hormonal, and cellular stress responses |
+| **Primary use** | Cardiovascular health, longevity, recovery, detoxification, and stress reduction |
+| **Evidence level** | Strong — backed by large-scale longitudinal studies with clear dose-response relationships |
+| **Safety profile** | Generally Safe — contraindicated with alcohol, certain heart conditions, or pregnancy; requires proper hydration |
+| **Best for** | Anyone seeking cardiovascular benefits, athletes needing recovery support, and individuals prioritizing longevity |
+
+### Key Facts at a Glance
+- Using a sauna 4+ times per week reduces cardiovascular mortality risk by 40% compared to once weekly use
+- A single 20-minute session elevates heart rate to 100–150 BPM, mimicking moderate aerobic exercise
+- Two sauna sessions with cooldown periods can increase growth hormone levels up to 16x baseline
+- Heat exposure triggers heat shock proteins that repair cellular damage and protect against aging
+- Optimal protocol: 15–20 minutes at 175–200°F, minimum 2–3 times per week, scaling toward 4+ for maximum benefit
+
+---
+
 Sitting in a hot room might not sound like a health intervention. But the research on sauna use has become some of the most compelling in preventive medicine. If you're not already using heat exposure as a regular practice, here's why you might want to start.
 
 ## Types of Saunas
@@ -51,3 +70,21 @@ A few key rules:
 If you're new to sauna or heat-sensitive, infrared is an excellent starting point. The lower ambient temperature feels more manageable, and the deeper tissue penetration may offer comparable benefits. Traditional Finnish saunas remain the most researched modality, but both are worth using if you have access to them.
 
 The bottom line: sauna is one of the few passive health practices with robust, longitudinal data behind it. You sit. You sweat. Your body does the rest.
+
+---
+
+## Sources & Further Reading
+
+1. **Laukkanen T, et al. (2015).** Association Between Sauna Bathing and Fatal Cardiovascular and All-Cause Mortality Events. *JAMA Internal Medicine*. — https://pubmed.ncbi.nlm.nih.gov/25705824/
+2. **Laukkanen JA, et al. (2018).** Sauna bathing is associated with reduced cardiovascular mortality and improves risk prediction in men and women. *BMC Medicine*. — https://pubmed.ncbi.nlm.nih.gov/30077204/
+3. **Patrick RP, Johnson TL (2021).** Sauna use as a lifestyle practice to extend healthspan. *Experimental Gerontology*. — https://pubmed.ncbi.nlm.nih.gov/33662523/
+4. **Hussain J, Cohen M (2018).** Clinical Effects of Regular Dry Sauna Bathing: A Systematic Review. *Evidence-Based Complementary and Alternative Medicine*. — https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5941775/
+5. **Kunutsor SK, et al. (2017).** Sauna bathing reduces the risk of stroke in Finnish men and women. *Neurology*. — https://pubmed.ncbi.nlm.nih.gov/28855400/
+
+## Where to Buy / Find This
+
+- **Sunlighten mPulse Infrared Sauna** — Premium home infrared sauna with full-spectrum heating and smart health programs — https://www.sunlighten.com/
+- **Almost Heaven Saunas** — Traditional barrel and indoor Finnish saunas for home installation, dry heat design — https://almostheaven.com/
+- **Therasage TheraHome 360 Plus** — Portable infrared sauna tent for budget-conscious buyers, full-body coverage — https://www.amazon.com/dp/B08R3QQGZ3
+- **SaunaSpace Luminati** — Near-infrared sauna using incandescent bulbs, lower EMF exposure option — https://saunaspace.com/
+- **Costco Saunas** — Rotating selection of traditional and infrared home saunas at competitive pricing — https://www.costco.com/sauna.html

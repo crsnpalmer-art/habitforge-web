@@ -5,6 +5,25 @@ excerpt: "Decades of research on goal-setting reveal a clear picture of what sep
 category: "Habits"
 ---
 
+## The Basics
+
+| | |
+|---|---|
+| **What it is** | A systematic approach to defining and pursuing specific outcomes based on decades of behavioral psychology research |
+| **Primary use** | Translating intentions into concrete action through proven psychological frameworks and implementation strategies |
+| **Evidence level** | Strong — extensively validated across organizational psychology, cognitive science, and behavioral economics |
+| **Safety profile** | Very Safe — evidence-based behavioral intervention with no adverse effects |
+| **Best for** | Anyone seeking to bridge the gap between intention and action, particularly those struggling with vague goals or inconsistent follow-through |
+
+### Key Facts at a Glance
+- Writing goals down increases achievement likelihood by 42% compared to mental goals alone
+- Implementation intentions (specifying when/where you'll act) double follow-through rates
+- Learning goals outperform performance goals for new skills by focusing on controllable inputs
+- The optimal difficulty level is ~80% confidence — hard enough to motivate, achievable enough to sustain belief
+- Identity-based goals ("I am a runner") create more durable behavior change than outcome goals ("I want to run a 5K")
+
+---
+
 Goal setting is one of the most researched topics in behavioral psychology. Decades of studies have produced a clear picture of what works, what backfires, and what the most effective goal-setters do differently.
 
 Most people are doing it at least partially wrong.
@@ -63,3 +82,20 @@ The most durable goals are tied to identity, not just outcomes. "I want to run a
 Goals that feel externally imposed — even by your own past self — create resistance. Goals that feel like expressions of who you're becoming create pull.
 
 Set fewer goals. Make them specific. Write them down. Attach them to your identity. Then show up for the process and let the outcomes follow.
+
+---
+
+## Sources & Further Reading
+
+1. Locke, E. A., & Latham, G. P. (2002). Building a practically useful theory of goal setting and task motivation: A 35-year odyssey. *American Psychologist*, 57(9), 705–717. https://psycnet.apa.org/record/2002-15096-005
+2. Gollwitzer, P. M., & Sheeran, P. (2006). Implementation intentions and goal achievement: A meta-analysis of effects and processes. *Advances in Experimental Social Psychology*, 38, 69–119. https://www.sciencedirect.com/science/article/abs/pii/S0065260106380021
+3. Matthews, G. (2015). Goal Research Summary. *Dominican University of California*. https://www.dominican.edu/sites/default/files/2020-02/gailmatthews-harvard-goals-researchsummary.pdf
+4. Seijts, G. H., & Latham, G. P. (2005). Learning versus performance goals: When should each be used? *Academy of Management Executive*, 19(1), 124–131. https://journals.aom.org/doi/abs/10.5465/ame.2005.15841957
+5. Klein, G. (2007). Performing a project premortem. *Harvard Business Review*, 85(9), 18–19. https://hbr.org/2007/09/performing-a-project-premortem
+
+## Where to Buy / Find This
+
+- **Atomic Habits by James Clear** — Comprehensive guide to building identity-based habits and systems thinking — https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299
+- **Full Focus Planner** — Quarterly goal-setting and daily planning system based on implementation intention research — https://fullfocusplanner.com/
+- **Stickk Commitment Contracts** — Research-backed goal commitment platform with accountability features — https://www.stickk.com/
+- **Goalscape Goal Setting Software** — Visual goal-mapping tool for breaking large goals into sub-goals — https://www.goalscape.com/

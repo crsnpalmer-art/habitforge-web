@@ -5,6 +5,25 @@ excerpt: "Understanding dopamine's role in motivation and habit formation is the
 category: "Habits"
 ---
 
+## The Basics
+
+| | |
+|---|---|
+| **What it is** | A behavioral intervention to reduce overstimulation and recalibrate dopamine sensitivity by limiting high-reward activities |
+| **Primary use** | Breaking compulsive digital habits, improving focus, and restoring motivation for low-stimulation productive activities |
+| **Evidence level** | Moderate — dopamine mechanisms are well-studied; the "detox" framing is newer and less formally researched |
+| **Safety profile** | Very Safe — involves removing behaviors rather than adding substances |
+| **Best for** | People experiencing digital addiction, reduced attention span, or difficulty engaging in deep work |
+
+### Key Facts at a Glance
+- Dopamine drives anticipation and motivation, not pleasure itself — it spikes before rewards, not during them
+- Modern apps use variable-ratio reward schedules (like slot machines) to maximize compulsive behavior
+- Chronic overstimulation downregulates dopamine receptors, making normal activities feel unrewarding
+- A 24-48 hour break from high-stimulation activities can begin resensitizing your reward system
+- The goal is recalibration, not elimination — redirecting dopamine toward productive habits rather than suppressing it
+
+---
+
 The most important thing to understand about dopamine is this: it's not the pleasure chemical. It's the *anticipation* chemical.
 
 Dopamine spikes when you expect a reward — not necessarily when you receive one. This distinction explains a lot about why modern habits are so hard to build and modern distractions are so hard to resist.
@@ -52,3 +71,21 @@ You can consciously engineer dopamine responses around productive habits:
 - **Celebration**: briefly acknowledging completing a habit (a moment of satisfaction, a checkmark) produces a small dopamine response that reinforces the loop
 
 The habits you repeat most are the ones your dopamine system has learned to reward most strongly. Build the conditions for that system to reward the right things — and watch what becomes automatic over time.
+
+---
+
+## Sources & Further Reading
+
+1. Schultz W. Dopamine reward prediction error coding. *Dialogues in Clinical Neuroscience*. 2016;18(1):23-32. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4826767/
+2. Volkow ND, et al. The dopamine motive system: implications for drug and food addiction. *Nature Reviews Neuroscience*. 2017;18(12):741-752. https://www.nature.com/articles/nrn.2017.130
+3. Berridge KC, Robinson TE. Liking, wanting, and the incentive-sensitization theory of addiction. *American Psychologist*. 2016;71(8):670-679. https://pubmed.ncbi.nlm.nih.gov/27977239/
+4. Montag C, Lachmann B, Herrlich M, Zweig K. Addictive Features of Social Media/Messenger Platforms and Freemium Games against the Background of Psychological and Economic Theories. *International Journal of Environmental Research and Public Health*. 2019;16(14):2612. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6678662/
+5. Newport C. *Digital Minimalism: Choosing a Focused Life in a Noisy World*. Portfolio, 2019. https://www.calnewport.com/books/digital-minimalism/
+
+## Where to Buy / Find This
+
+- **Atomic Habits by James Clear** — foundational guide to habit formation and reward systems — https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299
+- **Deep Work by Cal Newport** — comprehensive framework for building focus and resisting distraction — https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692
+- **Freedom App** — website and app blocker to enforce digital detox periods — https://freedom.to/
+- **Forest App** — gamified focus timer that rewards single-tasking — https://www.forestapp.cc/
+- **The Dopamine Nation by Dr. Anna Lembke** — clinical perspective on addiction and dopamine reset — https://www.amazon.com/Dopamine-Nation-Finding-Balance-Indulgence/dp/152474672X

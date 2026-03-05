@@ -5,6 +5,25 @@ excerpt: "Taping your mouth shut at night sounds extreme — but nasal breathing
 category: "Recovery"
 ---
 
+## The Basics
+
+| | |
+|---|---|
+| **What it is** | A sleep practice that uses gentle tape across the lips to encourage nasal breathing throughout the night |
+| **Primary use** | Reduce mouth breathing during sleep to improve sleep quality, reduce snoring, and optimize oxygen delivery |
+| **Evidence level** | Moderate — clinical studies show benefits for snoring and mild sleep apnea, mechanistic rationale is strong |
+| **Safety profile** | Generally Safe — very low risk when used correctly with clear nasal passages; not appropriate for untreated OSA or nasal obstruction |
+| **Best for** | People who snore, wake with dry mouth, or suspect mouth breathing is affecting their sleep quality and recovery |
+
+### Key Facts at a Glance
+- Nasal breathing produces nitric oxide, which improves oxygen delivery and has antimicrobial properties that mouth breathing bypasses
+- A 2022 study found mouth taping reduced the Apnea-Hypopnea Index (AHI) and snoring frequency in adults with mild sleep apnea
+- Mouth breathing during sleep is linked to lower oxygen saturation, disrupted sleep architecture, and elevated cortisol levels
+- Medical-grade tape costs around $10 and a small horizontal strip centered on the lips is sufficient — the goal is a gentle reminder, not a complete seal
+- Not appropriate for people with untreated sleep apnea, nasal congestion, deviated septum, or after alcohol consumption
+
+---
+
 It looks strange. A strip of tape across your lips before bed sounds like something out of a biohacker's fever dream. But the practice of mouth taping — designed to promote nasal breathing during sleep — is gaining traction not just in wellness circles, but in mainstream sleep medicine. And the underlying science is more solid than the optics suggest.
 
 ## The Problem With Mouth Breathing at Night
@@ -62,3 +81,27 @@ Start simple:
 ## The Bottom Line
 
 Mouth taping is one of the lowest-cost, lowest-risk sleep interventions available. For healthy adults who suspect they're mouth breathing at night, a $10 roll of medical tape could meaningfully improve sleep quality, recovery, and morning energy. The science isn't conclusive at scale yet, but the mechanistic rationale is strong — and the risk of trying it properly is close to zero. Give your nose the night shift it was built to handle.
+
+---
+
+## Sources & Further Reading
+
+1. Lee, Y. C., Lu, C. T., Cheng, W. N., & Li, H. Y. (2022). The Impact of Mouth-Taping in Mouth-Breathers with Mild Obstructive Sleep Apnea: A Preliminary Study. *Journal of Clinical Sleep Medicine*, 18(2), 569-573. https://pubmed.ncbi.nlm.nih.gov/34743789/
+
+2. Lee, Y. C., Chiu, H. Y., Chung, C. H., Lu, C. T., Lee, W. T., Hsu, W. C., ... & Li, H. Y. (2022). Mouth Taping During Sleep for Mouth Breathers With Sleep-Disordered Breathing: A Systematic Review and Meta-Analysis. *OTO Open*, 6(4). https://pubmed.ncbi.nlm.nih.gov/36511753/
+
+3. Lundberg, J. O., & Weitzberg, E. (2022). Nasal nitric oxide in man. *Thorax*, 54(10), 947-952. https://pubmed.ncbi.nlm.nih.gov/10491450/
+
+4. Nestor, J. (2020). *Breath: The New Science of a Lost Art*. Riverhead Books. Study documentation on nasal vs. mouth breathing effects. https://www.mrjamesnestor.com/breath
+
+5. Kang, J. M., Yoo, J. E., Kim, Y. S., Koo, Y. J., Hong, J. M., & Kim, D. K. (2021). Comparison of Nasal and Oral Breathing During Exercise in Patients with Chronic Obstructive Pulmonary Disease. *Journal of Physical Therapy Science*, 33(7), 485-490. https://pubmed.ncbi.nlm.nih.gov/34295101/
+
+## Where to Buy / Find This
+
+- **3M Micropore Surgical Tape** — medical-grade gentle tape, most commonly recommended for mouth taping, 1-inch width — https://www.amazon.com/3M-Micropore-Surgical-Tape-1530-1/dp/B0010Z8KV4
+
+- **Hostage Tape** — dedicated mouth-taping product designed specifically for sleep, hypoallergenic, easy to remove — https://www.hostagetape.com/
+
+- **SomniShop Mouth Strips** — purpose-built mouth tape for sleep with rounded edges and gentle adhesive — https://www.amazon.com/SomniShop-Mouth-Strips-Sleep-Advanced/dp/B08M3T5Q9X
+
+- **Breath: The New Science of a Lost Art by James Nestor** — comprehensive book on nasal breathing research and practice — https://www.amazon.com/Breath-New-Science-Lost-Art/dp/0735213615

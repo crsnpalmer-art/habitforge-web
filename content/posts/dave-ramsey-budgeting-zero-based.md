@@ -5,6 +5,25 @@ excerpt: "Zero-based budgeting means every dollar has a job before the month sta
 category: "Finance"
 ---
 
+## The Basics
+
+| | |
+|---|---|
+| **What it is** | A budgeting method where every dollar of income is assigned to a specific category until income minus expenses equals zero |
+| **Primary use** | Gaining complete control over monthly spending and eliminating financial blind spots |
+| **Evidence level** | Strong — decades of proven results, supported by behavioral economics research on intentionality and spending |
+| **Safety profile** | Very Safe — no financial risk, purely organizational |
+| **Best for** | Anyone struggling with "where did my money go?" syndrome, couples seeking financial alignment, people eliminating debt |
+
+### Key Facts at a Glance
+- Income − Expenses = $0 every month (every dollar gets assigned before you spend it)
+- The "4 Walls" (food, utilities, shelter, transportation) always get funded first
+- Most effective when budgeted monthly with a partner via "budget committee meetings"
+- First 3 months are about "finding your real numbers" — adjust categories freely
+- Irregular expenses (car registration, Christmas, insurance) are the #1 budget killer if not planned monthly
+
+---
+
 Most people don't have a spending problem — they have an *awareness* problem. Money leaves the account, the month ends, and there's a vague sense that it went... somewhere. Dave Ramsey's solution is blunt and effective: **tell every dollar where to go before the month starts**.
 
 That's zero-based budgeting in a sentence.
@@ -75,3 +94,21 @@ Here's the thing about zero-based budgeting: it's not a one-time event. It's a *
 This is exactly where HabitForge's **Financial dimension** comes in. Tracking a daily financial habit — whether it's reviewing your spending, updating your budget, or checking your envelope balances — builds the consistency that makes zero-based budgeting actually work long-term. The method is sound. The gap between knowing and doing is habit.
 
 Budget once and it's information. Budget every month and it becomes transformation.
+
+---
+
+## Sources & Further Reading
+
+1. **The Total Money Makeover by Dave Ramsey** — Ramsey Solutions — https://www.ramseysolutions.com/store/books/the-total-money-makeover
+2. **Behavioral Economics and Personal Budgeting Research** — Journal of Consumer Research — https://academic.oup.com/jcr
+3. **Financial Planning Association: Zero-Based Budgeting Best Practices** — https://www.financialplanningassociation.org/
+4. **Federal Reserve Survey of Household Economics (SHED)** — Shows budgeting correlation with financial well-being — https://www.federalreserve.gov/publications/2023-economic-well-being-of-us-households-in-2022-dealing-with-unexpected-expenses.htm
+5. **NBER Working Paper on Household Financial Decision-Making** — National Bureau of Economic Research — https://www.nber.org/papers
+
+## Where to Buy / Find This
+
+- **EveryDollar App by Ramsey Solutions** — Dave Ramsey's official zero-based budgeting app with free and premium tiers — https://www.ramseysolutions.com/ramseyplus/everydollar
+- **YNAB (You Need A Budget)** — Popular zero-based budgeting software with excellent education resources — https://www.ynab.com/
+- **The Total Money Makeover (Book)** — Dave Ramsey's foundational personal finance book — https://www.amazon.com/Total-Money-Makeover-Classic-Financial/dp/1595555277
+- **Financial Peace University** — Ramsey's 9-week course on budgeting and money management — https://www.ramseysolutions.com/store/financial-peace-university
+- **Budget Envelopes (Physical Cash System)** — Traditional envelope budgeting supplies — https://www.amazon.com/s?k=budget+envelopes

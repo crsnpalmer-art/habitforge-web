@@ -5,6 +5,25 @@ excerpt: "Your credit score affects your mortgage rate, car loan, insurance prem
 category: "Finance"
 ---
 
+## The Basics
+
+| | |
+|---|---|
+| **What it is** | A numerical representation (300-850) of your creditworthiness based on payment history, debt usage, and account age |
+| **Primary use** | Determining loan eligibility and interest rates for mortgages, car loans, credit cards, and rental applications |
+| **Evidence level** | Strong — used by 90% of top lenders with decades of predictive data |
+| **Safety profile** | Very Safe — monitoring and optimizing credit has no financial downside when done responsibly |
+| **Best for** | Anyone seeking loans, mortgages, rental housing, or lower insurance premiums; essential for major financial decisions |
+
+### Key Facts at a Glance
+- A 100-point credit score increase can save $50,000+ in interest over a 30-year mortgage
+- Payment history (35%) and credit utilization (30%) account for 65% of your FICO score
+- Checking your own credit does NOT hurt your score — only hard inquiries from lenders do
+- Errors appear on 1 in 5 credit reports and can be disputed for free at AnnualCreditReport.com
+- Most negative items (except bankruptcies) fall off your report after 7 years automatically
+
+---
+
 A credit score is one of those numbers that quietly shapes your financial life in ways most people underestimate. The interest rate on your mortgage. Whether you qualify for an apartment. Sometimes even whether you get hired. Yet despite how much it matters, most people have only a vague understanding of how it's calculated — and an even vaguer idea of how to improve it.
 
 This is a practical breakdown of how credit scoring actually works and the specific actions that move the needle.
@@ -58,3 +77,21 @@ If you have little to no credit history, the fastest paths are:
 The most important insight about credit scores is that they're fundamentally a reflection of financial behavior over time. There are no hacks that override years of missed payments or sustained high utilization. But the system is also responsive — meaningful behavior changes can produce meaningful score improvements within 3–6 months, and significant ones within a year.
 
 Treat your credit score the way you treat your fitness: consistent, daily-level habits don't feel dramatic, but the compounding effect over years is substantial. Pay on time, keep utilization low, and let time do the rest.
+
+---
+
+## Sources & Further Reading
+
+1. **FICO Score Methodology** — Official documentation on how FICO scores are calculated — https://www.myfico.com/credit-education/whats-in-your-credit-score
+2. **Consumer Financial Protection Bureau: Credit Reports and Scores** — Federal guidance on credit reporting and consumer rights — https://www.consumerfinance.gov/consumer-tools/credit-reports-and-scores/
+3. **Federal Trade Commission: Credit and Loans** — Comprehensive consumer education on credit management and dispute processes — https://consumer.ftc.gov/articles/free-credit-reports
+4. **Experian: How Credit Utilization Affects Credit Scores** — Research-backed analysis of utilization ratios and score impact — https://www.experian.com/blogs/ask-experian/credit-education/score-basics/credit-utilization-rate/
+5. **Equifax: Average Credit Score Impact of Late Payments** — Quantitative analysis of payment history effects on credit scores — https://www.equifax.com/personal/education/credit/score/how-do-late-payments-affect-credit-score/
+
+## Where to Buy / Find This
+
+- **AnnualCreditReport.com** — Official federally mandated site for free annual credit reports from all three bureaus — https://www.annualcreditreport.com
+- **Experian Boost** — Free service that adds utility and phone payments to your credit report to potentially increase scores — https://www.experian.com/consumer-products/score-boost.html
+- **Credit Karma** — Free credit monitoring with TransUnion and Equifax scores, no credit card required — https://www.creditkarma.com
+- **Discover Secured Credit Card** — Highly rated secured card for building credit with $0 annual fee and cashback rewards — https://www.discover.com/credit-cards/secured/
+- **Self Credit Builder Account** — Credit-builder loan that reports to all three bureaus, starts at $25/month — https://www.self.inc/

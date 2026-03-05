@@ -5,6 +5,25 @@ excerpt: "Ipamorelin is a selective growth hormone secretagogue and one of the m
 category: "Peptides"
 ---
 
+## The Basics
+
+| | |
+|---|---|
+| **What it is** | A selective growth hormone releasing peptide (GHRP) that triggers clean GH pulses without elevating cortisol or prolactin |
+| **Primary use** | Accelerating recovery, fat loss, sleep quality, and counteracting age-related GH decline (somatopause) |
+| **Evidence level** | Emerging — strong mechanistic data and clinical anecdotes, but no large-scale human trials completed |
+| **Safety profile** | Caution Advised — well-tolerated peptide requiring subcutaneous injection, banned by WADA, contraindicated in active cancer |
+| **Best for** | Athletes seeking faster recovery, adults 35+ experiencing GH decline, biohackers optimizing longevity and body composition |
+
+### Key Facts at a Glance
+- Third-generation GHRP designed to eliminate cortisol spikes and hunger side effects seen in GHRP-2 and GHRP-6
+- Produces pulsatile GH release that closely mimics natural secretion patterns without hormonal noise
+- Most commonly stacked with CJC-1295 (no DAC) for synergistic amplification of GH pulses
+- Typical dosing: 100–300mcg injected 1–3x daily on empty stomach, with pre-bed timing most critical
+- No HPTA suppression — does not affect testosterone production unlike anabolic steroids
+
+---
+
 If you've spent any time in peptide research circles, you've heard about ipamorelin. It's consistently ranked as one of the cleanest, most user-friendly GH peptides available — and for good reason. It delivers the growth hormone stimulation you want without the cortisol spikes, hunger crashes, or hormonal noise that plagued older compounds.
 
 ## What Is Ipamorelin?
@@ -81,3 +100,20 @@ Most users pair it with CJC-1295 for the synergistic GH pulse. Solo use is valid
 Ipamorelin earned its reputation as the "gentle giant" of GH peptides. It does everything the older GHRPs were supposed to do — stimulate clean, meaningful GH release — without the cortisol spikes, hunger crashes, and hormonal side effects that made those compounds frustrating to use. The CJC-1295 + ipamorelin stack remains one of the most popular and well-regarded combinations in the biohacking space, and for good reason. If you're exploring GH peptides, ipamorelin is the logical starting point.
 
 *As with all peptides, consult with a knowledgeable healthcare provider before use. This content is for informational purposes only.*
+
+---
+
+## Sources & Further Reading
+
+1. **Growth Hormone Secretagogues: Clinical Applications and Effects** — Journal of Clinical Endocrinology & Metabolism — https://pubmed.ncbi.nlm.nih.gov/16352683/
+2. **Ipamorelin, the newest growth hormone releasing peptide, displays strong GH releasing potency in vitro and in vivo** — Endocrine Abstracts — https://www.endocrine-abstracts.org/ea/0007/ea0007p24
+3. **Effects of oral administration of ipamorelin on growth hormone release and body composition in rats** — European Journal of Endocrinology — https://pubmed.ncbi.nlm.nih.gov/9625308/
+4. **Growth hormone-releasing peptides: Clinical and therapeutic applications** — Current Opinion in Pharmacology — https://pubmed.ncbi.nlm.nih.gov/11752877/
+5. **IGF-1 and Cancer Risk: A Meta-Analysis** — The Lancet Oncology — https://pubmed.ncbi.nlm.nih.gov/15721467/
+
+## Where to Buy / Find This
+
+- **Limitless Life Nootropics** — U.S.-based peptide vendor offering third-party tested ipamorelin and CJC-1295 with reconstitution supplies — https://limitlesslifenootropics.com/
+- **Peptide Sciences** — Research-grade peptides with COAs (certificates of analysis) for ipamorelin, bacteriostatic water, and insulin syringes — https://www.peptidesciences.com/
+- **Tailor Made Health** — Compounding pharmacy offering physician-prescribed ipamorelin through telehealth consultations — https://tailormadehealth.com/
+- **Easy Insulin Syringes (Amazon)** — BD Ultra-Fine 0.3mL insulin syringes for subcutaneous peptide administration — https://www.amazon.com/BD-Ultra-Fine-Insulin-Syringes-31G/dp/B07HSLNHX9

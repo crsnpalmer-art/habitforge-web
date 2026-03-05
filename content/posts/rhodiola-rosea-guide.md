@@ -5,6 +5,25 @@ excerpt: "Rhodiola Rosea is one of the most well-researched adaptogens on the ma
 category: "Supplements"
 ---
 
+## The Basics
+
+| | |
+|---|---|
+| **What it is** | An adaptogenic herb from Arctic regions that modulates stress response and neurotransmitter systems |
+| **Primary use** | Combating stress-related fatigue, mental fog, and improving performance under pressure |
+| **Evidence level** | Moderate — multiple clinical trials with consistent results, though more large-scale studies needed |
+| **Safety profile** | Generally Safe — well-tolerated with minimal side effects in most users |
+| **Best for** | People experiencing chronic stress, burnout, cognitive fatigue, or high-demand performance periods |
+
+### Key Facts at a Glance
+- Contains rosavins and salidroside that modulate serotonin, dopamine, and norepinephrine
+- Clinical trials show significant reductions in fatigue within 3–7 days
+- Most effective during periods of high stress or physical demand (acts as a buffer, not stimulant)
+- Extensively researched by Soviet scientists for military and athletic performance
+- Standard dose: 200–600 mg daily of 3% rosavin / 1% salidroside extract
+
+---
+
 If you've ever felt like your brain was running through wet cement — mentally foggy, physically drained, yet somehow still wired with anxiety — Rhodiola Rosea might be worth your attention. Unlike stimulants that mask fatigue by cranking up cortisol, Rhodiola works differently. It's an adaptogen: a compound that helps the body resist physical, chemical, and biological stressors while restoring biological balance.
 
 ## What Is Rhodiola Rosea?
@@ -44,3 +63,27 @@ One important note: the adaptogenic effect of Rhodiola appears most pronounced d
 ## Bottom Line
 
 Rhodiola Rosea stands out in a crowded adaptogen market because it has real clinical evidence behind it, not just folklore. If you're dealing with stress-related fatigue, cognitive fog, or high-demand periods (travel, competition, crunch time at work), it deserves a spot in your stack. Choose a reputable extract standardized to rosavins and salidroside, keep the dose moderate, and give it at least two weeks before judging the results.
+
+---
+
+## Sources & Further Reading
+
+1. Darbinyan V, et al. (2000). "Rhodiola rosea in stress induced fatigue — A double blind cross-over study of a standardized extract SHR-5 with a repeated low-dose regimen on the mental performance of healthy physicians during night duty." *Phytomedicine*, 7(5):365-371. https://pubmed.ncbi.nlm.nih.gov/11081987/
+
+2. Edwards D, Heufelder A, Zimmermann A. (2012). "Therapeutic effects and safety of Rhodiola rosea extract WS 1375 in subjects with life-stress symptoms — results of an open-label study." *Phytotherapy Research*, 26(8):1220-1225. https://pubmed.ncbi.nlm.nih.gov/22228617/
+
+3. Hung SK, Perry R, Ernst E. (2011). "The effectiveness and efficacy of Rhodiola rosea L.: A systematic review of randomized clinical trials." *Phytomedicine*, 18(4):235-244. https://pubmed.ncbi.nlm.nih.gov/21036578/
+
+4. Spasov AA, et al. (2000). "A double-blind, placebo-controlled pilot study of the stimulating and adaptogenic effect of Rhodiola rosea SHR-5 extract on the fatigue of students caused by stress during an examination period with a repeated low-dose regimen." *Phytomedicine*, 7(2):85-89. https://pubmed.ncbi.nlm.nih.gov/10839209/
+
+5. National Center for Complementary and Integrative Health (NCCIH). "Rhodiola." https://www.nccih.nih.gov/health/rhodiola
+
+## Where to Buy / Find This
+
+- **Thorne Rhodiola** — High-quality 3% rosavin extract, third-party tested, 60 capsules — https://www.amazon.com/Thorne-Research-Rhodiola-Capsules-Adaptogenic/dp/B0006JV9O2
+
+- **Gaia Herbs Rhodiola Rosea** — Organic whole-root extract, vegan capsules — https://www.amazon.com/Gaia-Herbs-Rhodiola-Rosea-Capsules/dp/B00020I7GU
+
+- **NOW Foods Rhodiola 500mg** — Budget-friendly standardized extract, 3% rosavins / 1% salidroside — https://www.amazon.com/NOW-Rhodiola-500-120-Veg/dp/B001GAOHPS
+
+- **Pure Encapsulations Rhodiola Rosea** — Hypoallergenic, standardized to 3% rosavins, trusted brand — https://www.amazon.com/Pure-Encapsulations-Rhodiola-Hypoallergenic-Supplement/dp/B0017O9LZI

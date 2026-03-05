@@ -5,6 +5,25 @@ excerpt: "Hormones regulate nearly every system in the body. Here's a practical 
 category: "Lifestyle"
 ---
 
+## The Basics
+
+| | |
+|---|---|
+| **What it is** | A systems-based approach to optimizing cortisol, insulin, testosterone, thyroid, and sex hormones through lifestyle interventions |
+| **Primary use** | Improving energy, body composition, mood, libido, metabolic health, and long-term health outcomes |
+| **Evidence level** | Strong — lifestyle factors profoundly impact hormonal balance with robust research support |
+| **Safety profile** | Very Safe — lifestyle-based optimization carries minimal risk when implemented progressively |
+| **Best for** | Anyone experiencing fatigue, stubborn fat gain, low libido, mood instability, or suboptimal metabolic markers |
+
+### Key Facts at a Glance
+- Hormones operate as an interconnected system — optimizing sleep, stress, and body composition improves multiple hormones simultaneously
+- Testosterone declines 1–2% annually after age 25, but lifestyle factors can significantly slow or reverse this decline
+- Insulin sensitivity is one of the most important metabolic markers and responds powerfully to resistance training and dietary changes
+- Chronic stress elevates cortisol, which suppresses sex hormones, disrupts thyroid function, and drives fat storage
+- A basic hormone panel (testosterone, estradiol, cortisol, thyroid, DHEA-S, fasting insulin) provides actionable baseline data
+
+---
+
 Hormones are chemical messengers that regulate metabolism, energy, mood, body composition, sleep, libido, immune function, and more. They don't operate in isolation — they form a tightly interconnected system where optimizing one often influences others.
 
 Understanding your hormonal baseline and the lifestyle factors that shift it is one of the highest-leverage things you can do for long-term health.
@@ -65,3 +84,22 @@ Rather than targeting individual hormones in isolation, the most impactful inter
 Hormone optimization begins with knowing where you are. A basic hormonal panel includes: testosterone (total + free), estradiol, cortisol (ideally morning), thyroid panel (TSH, Free T3, Free T4), DHEA-S, and fasting insulin.
 
 Treat these numbers as a baseline, not a diagnosis. Track them annually. Lifestyle changes can produce significant improvements in hormonal biomarkers within 3–6 months.
+
+---
+
+## Sources & Further Reading
+
+1. **Effect of sleep restriction on testosterone** — Leproult R, Van Cauter E. *JAMA.* 2011. — https://pubmed.ncbi.nlm.nih.gov/21632481/
+2. **Resistance training and hormonal response** — Kraemer WJ, Ratamess NA. *J Appl Physiol.* 2005. — https://pubmed.ncbi.nlm.nih.gov/15618572/
+3. **Insulin sensitivity and exercise** — Bird SR, Hawley JA. *Sports Med.* 2017. — https://pubmed.ncbi.nlm.nih.gov/27757906/
+4. **Cortisol and chronic stress effects** — McEwen BS. *Physiol Rev.* 2007. — https://pubmed.ncbi.nlm.nih.gov/17237344/
+5. **Thyroid function and metabolic health** — Mullur R, Liu YY, Brent GA. *Physiol Rev.* 2014. — https://pubmed.ncbi.nlm.nih.gov/24987006/
+6. **Testosterone replacement therapy guidelines** — Bhasin S, et al. *J Clin Endocrinol Metab.* 2018. — https://pubmed.ncbi.nlm.nih.gov/29562364/
+
+## Where to Buy / Find This
+
+- **Everlywell Testosterone Test** — At-home testosterone testing kit with lab-certified results — https://www.everlywell.com/products/testosterone-test/
+- **Let's Get Checked Hormone Panel** — Comprehensive at-home hormone panel including testosterone, cortisol, thyroid — https://www.letsgetchecked.com/us/en/home-hormone-tests/
+- **Thorne Zinc Picolinate** — Highly bioavailable zinc supplement (30mg) for testosterone and immune support — https://www.amazon.com/Thorne-Research-Picolinate-Supplement-Capsules/dp/B0009F3PES
+- **NOW Supplements Vitamin D-3 5,000 IU** — High-potency vitamin D3 for hormonal and immune health — https://www.amazon.com/NOW-Vitamin-000-IU-Softgels/dp/B002DRE8D6
+- **KSM-66 Ashwagandha** — Clinically studied ashwagandha extract for cortisol reduction and stress management — https://www.amazon.com/Ashwagandha-KSM-66-Supplement-Stress-Relief/dp/B07Q5F7JZ8

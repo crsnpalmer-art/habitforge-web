@@ -5,6 +5,25 @@ date: "2025-02-26"
 excerpt: "Inositol is a naturally occurring compound that influences serotonin and dopamine signaling, supports restful sleep, eases anxiety, and may help with hormonal conditions like PCOS. Here's the science behind one of wellness's best-kept secrets."
 ---
 
+## The Basics
+
+| | |
+|---|---|
+| **What it is** | A sugar alcohol that acts as a cellular messenger for serotonin and insulin signaling |
+| **Primary use** | Sleep support, anxiety reduction, and PCOS/hormonal balance |
+| **Evidence level** | Moderate — well-studied for PCOS and anxiety, emerging for sleep quality |
+| **Safety profile** | Very Safe — well-tolerated at standard doses, minimal side effects |
+| **Best for** | Those with poor sleep, anxiety/OCD, PCOS, or insulin resistance |
+
+### Key Facts at a Glance
+- Modulates serotonin receptors to calm racing thoughts and improve sleep onset
+- Clinical doses of 12–18g/day have shown efficacy comparable to SSRIs for OCD and panic disorder
+- 40:1 ratio of myo-inositol to d-chiro-inositol improves ovulation and insulin sensitivity in PCOS patients
+- Naturally produced in the body and found in high concentrations in brain tissue
+- Standard sleep/mood dose is 500mg–2g before bed; PCOS protocols use 2–4g daily
+
+---
+
 Inositol doesn't get nearly the attention it deserves. While it's often lumped in with B-vitamins (it was once called vitamin B8), inositol is technically a sugar alcohol that your body produces naturally and obtains from food. What makes it fascinating is its wide-reaching influence on brain chemistry, hormonal balance, sleep, and metabolic health.
 
 ## What Is Inositol?
@@ -50,3 +69,20 @@ Inositol is particularly well-suited for anyone struggling with:
 It's gentle, well-tolerated, and largely side-effect free at moderate doses. At very high doses, mild GI discomfort (nausea, bloating) can occur — which is why starting low and building up is the right approach.
 
 If you're looking for a natural way to support your nervous system without reaching for pharmaceutical intervention, inositol is one of the most evidence-backed options available.
+
+---
+
+## Sources & Further Reading
+
+1. Levine J. Controlled trials of inositol in psychiatry. *European Neuropsychopharmacology.* 1997;7(2):147-155. https://pubmed.ncbi.nlm.nih.gov/9169302/
+2. Carlomagno G, Unfer V. Inositol safety: clinical evidences. *European Review for Medical and Pharmacological Sciences.* 2011;15(8):931-936. https://pubmed.ncbi.nlm.nih.gov/21845803/
+3. Unfer V, Carlomagno G, Dante G, Facchinetti F. Effects of myo-inositol in women with PCOS: a systematic review of randomized controlled trials. *Gynecological Endocrinology.* 2012;28(7):509-515. https://pubmed.ncbi.nlm.nih.gov/22296306/
+4. Palatnik A, Frolov K, Fux M, Benjamin J. Double-blind, controlled, crossover trial of inositol versus fluvoxamine for the treatment of panic disorder. *Journal of Clinical Psychopharmacology.* 2001;21(3):335-339. https://pubmed.ncbi.nlm.nih.gov/11386498/
+5. Croze ML, Soulage CO. Potential role and therapeutic interests of myo-inositol in metabolic diseases. *Biochimie.* 2013;95(10):1811-1827. https://pubmed.ncbi.nlm.nih.gov/23764390/
+
+## Where to Buy / Find This
+
+- **Thorne Myo-Inositol Powder** — NSF Certified for Sport, pure myo-inositol with no additives, unflavored — https://www.amazon.com/Thorne-Research-Myo-Inositol-Supplement-Capsules/dp/B01LY5YZED
+- **NOW Foods Inositol Powder** — Budget-friendly, pure myo-inositol powder, 1 lb container — https://www.amazon.com/NOW-Inositol-Powder-1-Pound/dp/B0013OQGO6
+- **Ovasitol (Theralogix)** — 40:1 ratio of myo-inositol and d-chiro-inositol specifically formulated for PCOS — https://www.amazon.com/Theralogix-Ovasitol-Inositol-Powder-Unflavored/dp/B01L9G69EC
+- **Wholesome Story Myo-Inositol + D-Chiro** — Pre-mixed 40:1 ratio for hormonal balance, third-party tested — https://www.amazon.com/Wholesome-Story-Myo-Inositol-D-Chiro-Inositol/dp/B08R6KQW8H

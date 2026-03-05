@@ -5,6 +5,25 @@ date: "2025-02-26"
 excerpt: "EMF concerns range from well-founded to wildly overblown. Here's how to cut through the noise with actual science — and which precautions are genuinely worth taking."
 ---
 
+## The Basics
+
+| | |
+|---|---|
+| **What it is** | Electromagnetic fields are invisible energy fields emitted by electrical devices, wireless technology, and power infrastructure |
+| **Primary use** | Understanding EMF exposure helps distinguish real health risks from overblown fears and guides practical protection strategies |
+| **Evidence level** | Moderate — some biological effects observed, but causal links to disease remain inconclusive for non-ionizing radiation |
+| **Safety profile** | Generally Safe — everyday EMF exposure from consumer devices shows no consistent evidence of harm in human studies |
+| **Best for** | People seeking evidence-based perspective on EMF concerns and reasonable precautions without paranoia or expensive "protection" products |
+
+### Key Facts at a Glance
+- Non-ionizing radiation (WiFi, cell phones, 5G) lacks the energy to break DNA bonds, unlike ionizing radiation (X-rays)
+- WHO classifies RF radiation as "possibly carcinogenic" (Group 2B) — the same weak-evidence category as pickled vegetables
+- Brain cancer rates have not increased despite 30 years of explosive cell phone adoption
+- Simple precautions (speakerphone, phone away from bed) reduce peak exposure without lifestyle disruption
+- EMF-blocking stickers and pendants have no demonstrated efficacy and often make exposure worse by forcing devices to boost signal output
+
+---
+
 Type "EMF dangers" into any search engine and you'll find everything from peer-reviewed research to conspiracy theories and $50 stickers that promise to shield you from radiation. Separating signal from noise requires understanding what electromagnetic fields actually are — and what the evidence does and doesn't show.
 
 ## What Are EMFs?
@@ -76,3 +95,27 @@ The current state of the science does not support fear or panic about everyday E
 What is worth doing: simple, low-effort precautions that reduce your highest-exposure scenarios (phone to head, phone on body while sleeping) without requiring lifestyle disruption. Beyond that, healthy skepticism about products and claims that exploit legitimate uncertainty to sell solutions to a problem that remains unproven.
 
 Know the actual science. Take reasonable steps. Don't let hype drive decisions.
+
+---
+
+## Sources & Further Reading
+
+1. **World Health Organization: Electromagnetic Fields and Public Health** — WHO fact sheet on EMF exposure guidelines and health effects — https://www.who.int/news-room/fact-sheets/detail/electromagnetic-fields-and-public-health-mobile-phones
+
+2. **National Toxicology Program: Cell Phone Radiofrequency Radiation Studies** — NTP technical report on RF radiation exposure in rats and mice — https://ntp.niehs.nih.gov/whatwestudy/topics/cellphones
+
+3. **IARC Monographs on RF Electromagnetic Fields** — Official IARC evaluation classifying RF-EMF as Group 2B — https://monographs.iarc.who.int/wp-content/uploads/2018/06/mono102.pdf
+
+4. **FDA: Cell Phones and Health** — U.S. Food and Drug Administration position on cell phone safety — https://www.fda.gov/radiation-emitting-products/cell-phones/scientific-evidence-cell-phone-safety
+
+5. **Brain Cancer Incidence Trends (SEER Data)** — NIH Surveillance, Epidemiology, and End Results Program showing stable brain cancer rates — https://seer.cancer.gov/statfacts/html/brain.html
+
+## Where to Buy / Find This
+
+- **Apple Wired EarPods with Lightning Connector** — Wired earbuds for iPhone users to reduce phone-to-head exposure during calls — https://www.amazon.com/Apple-EarPods-Lightning-Connector/dp/B01M0GB8CC
+
+- **Apple Wired EarPods with 3.5mm Headphone Plug** — Wired earbuds for Android and devices with headphone jacks — https://www.amazon.com/Apple-EarPods-Headphone-Plug/dp/B06X16Z7XD
+
+- **EMF Meter (Trifield TF2)** — If you want to measure actual EMF levels in your environment rather than guess — https://www.amazon.com/Trifield-Electric-Magnetic-Frequencies-Meter/dp/B0875XGK83
+
+- **The BioInitiative Report** — Comprehensive (though controversial) review of EMF research for those wanting deeper dive into the science — https://bioinitiative.org

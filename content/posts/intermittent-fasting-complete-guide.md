@@ -5,6 +5,25 @@ excerpt: "Intermittent fasting has moved from fringe biohacking to mainstream nu
 category: "Lifestyle"
 ---
 
+## The Basics
+
+| | |
+|---|---|
+| **What it is** | A dietary pattern that cycles between periods of eating and voluntary fasting on a recurring schedule |
+| **Primary use** | Weight management, metabolic health improvement, and cellular autophagy activation |
+| **Evidence level** | Strong — extensive clinical research demonstrates weight loss and metabolic benefits comparable to caloric restriction |
+| **Safety profile** | Generally Safe — well-tolerated by most healthy adults, caution for specific populations |
+| **Best for** | Individuals seeking sustainable caloric control, improved insulin sensitivity, or simplification of dietary habits |
+
+### Key Facts at a Glance
+- Metabolic switching to ketone production typically occurs after 12-16 hours of fasting
+- 16:8 time-restricted eating is the most studied and sustainable protocol for most people
+- Weight loss effects are primarily due to spontaneous caloric restriction, not metabolic magic
+- Autophagy upregulation during fasting may confer longevity and cellular health benefits
+- Protein synthesis is not significantly impaired in typical 16-hour fasting windows when protein intake is adequate
+
+---
+
 Intermittent fasting (IF) is one of the most studied dietary strategies of the past two decades. Unlike macronutrient-based diets that focus on *what* you eat, IF focuses on *when* you eat — cycling between designated eating windows and fasting periods. The science behind why this matters is more interesting than the marketing suggests.
 
 ## Why Fasting Has Biological Effects
@@ -54,3 +73,22 @@ For muscle mass, concerns about catabolism during fasting are largely overstated
 **Who should be cautious:** Individuals with a history of disordered eating, those who are pregnant or breastfeeding, people with type 1 diabetes, and those on medications that require food should consult a physician before adopting IF.
 
 Intermittent fasting is not magic — but it's a highly practical tool for controlling caloric intake, improving metabolic health, and potentially accessing the cellular repair benefits of autophagy. The protocol that works is the one you'll actually maintain.
+
+---
+
+## Sources & Further Reading
+
+1. **Mattson MP, et al. Effects of Intermittent Fasting on Health, Aging, and Disease.** *New England Journal of Medicine*. 2019. https://www.nejm.org/doi/full/10.1056/NEJMra1905136
+2. **de Cabo R, Mattson MP. Effects of Intermittent Fasting on Health, Aging, and Disease.** *New England Journal of Medicine*. 2019. https://pubmed.ncbi.nlm.nih.gov/31881139/
+3. **Longo VD, Panda S. Fasting, Circadian Rhythms, and Time-Restricted Feeding in Healthy Lifespan.** *Cell Metabolism*. 2016. https://pubmed.ncbi.nlm.nih.gov/27304506/
+4. **Chaix A, et al. Time-Restricted Feeding Is a Preventative and Therapeutic Intervention against Diverse Nutritional Challenges.** *Cell Metabolism*. 2014. https://pubmed.ncbi.nlm.nih.gov/25470547/
+5. **Varady KA, et al. Alternate Day Fasting for Weight Loss in Normal Weight and Overweight Subjects: A Randomized Controlled Trial.** *Nutrition Journal*. 2013. https://pubmed.ncbi.nlm.nih.gov/24215592/
+6. **Harvie MN, et al. The Effects of Intermittent or Continuous Energy Restriction on Weight Loss and Metabolic Disease Risk Markers.** *International Journal of Obesity*. 2011. https://pubmed.ncbi.nlm.nih.gov/20921964/
+
+## Where to Buy / Find This
+
+- **The FastDiet Book by Dr. Michael Mosley** — Comprehensive guide to the 5:2 protocol with meal plans and recipes — https://www.amazon.com/FastDiet-Intermittent-Fasting-Weight-Health/dp/1501103296
+- **The Circadian Code by Satchin Panda** — Science-backed guide to time-restricted eating and circadian rhythms — https://www.amazon.com/Circadian-Code-Supercharge-Transform-Transform/dp/163565243X
+- **ZERO Fasting Tracker App** — Free intermittent fasting tracking app with multiple protocol options — https://www.zerofasting.com
+- **The Complete Guide to Fasting by Dr. Jason Fung** — Evidence-based manual covering IF protocols, extended fasting, and clinical applications — https://www.amazon.com/Complete-Guide-Fasting-Intermittent-Alternate-Day/dp/1628600012
+- **Cronometer App** — Nutrient tracking to ensure adequate protein and micronutrient intake during eating windows — https://cronometer.com

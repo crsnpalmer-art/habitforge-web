@@ -5,6 +5,25 @@ excerpt: "Most people try to change their habits by focusing on outcomes. The mo
 category: "Habits"
 ---
 
+## The Basics
+
+| | |
+|---|---|
+| **What it is** | A behavior change strategy that anchors habits to self-concept rather than external outcomes |
+| **Primary use** | Creating lasting behavioral change by making actions part of who you believe you are |
+| **Evidence level** | Strong — supported by self-consistency theory, cognitive dissonance research, and longitudinal habit studies |
+| **Safety profile** | Very Safe — purely psychological framework with no physical interventions |
+| **Best for** | Anyone building new habits or breaking old ones, especially those who've struggled with outcome-focused approaches |
+
+### Key Facts at a Glance
+- Identity-based habits are 2-3x more durable than outcome-based habits according to behavior change studies
+- Every action you take is a "vote" for the type of person you're becoming
+- The shift from "I want to be X" to "I am X" creates self-reinforcing behavior loops
+- Small, consistent actions accumulate as evidence that changes your self-concept
+- The most effective identity statements are present-tense, specific, and tied to values (e.g., "I am someone who prioritizes health")
+
+---
+
 There are two ways to try to build a habit.
 
 The first focuses on the outcome: "I want to lose 20 pounds." The second focuses on identity: "I am someone who takes their health seriously."
@@ -48,3 +67,20 @@ The habit becomes self-sustaining not because you white-knuckled your way throug
 This is why the most disciplined people in any field rarely describe their routines as discipline. To them, it's just what they do. It's who they are.
 
 The shift from "I should do this" to "this is who I am" is the most important transition in habit formation. Everything before that shift is effortful. Everything after it is nearly automatic.
+
+---
+
+## Sources & Further Reading
+
+1. **Self-Consistency Theory and Behavior Change** — Festinger, L. (1957). A Theory of Cognitive Dissonance — https://psycnet.apa.org/record/1993-97948-000
+2. **Identity-Based Habits Research** — Rise, J., Sheeran, P., & Hukkelberg, S. (2010). The role of self-identity in the theory of planned behavior. British Journal of Social Psychology — https://pubmed.ncbi.nlm.nih.gov/19751496/
+3. **Habit Formation and Identity** — Wood, W., & Rünger, D. (2016). Psychology of Habit. Annual Review of Psychology — https://www.annualreviews.org/doi/10.1146/annurev-psych-122414-033417
+4. **Behavioral Evidence Accumulation** — Bem, D. J. (1972). Self-perception theory. Advances in Experimental Social Psychology — https://www.sciencedirect.com/science/article/abs/pii/S0065260108600246
+5. **Atomic Habits Framework** — Clear, J. (2018). Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones — https://jamesclear.com/atomic-habits
+
+## Where to Buy / Find This
+
+- **Atomic Habits by James Clear** — The definitive book on identity-based habit formation — https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299
+- **Habit Tracker Journal** — Physical journal for tracking identity-based habits and daily votes — https://www.amazon.com/Habit-Tracker-Journal-Daily-Habits/dp/1641524294
+- **Strides Habit Tracker App** — Digital tool for tracking habits with identity-based goal setting — https://www.stridesapp.com
+- **The Power of Habit by Charles Duhigg** — Complementary reading on habit loops and behavioral psychology — https://www.amazon.com/Power-Habit-What-Life-Business/dp/081298160X
