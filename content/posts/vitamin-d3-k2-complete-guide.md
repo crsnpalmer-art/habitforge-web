@@ -4,6 +4,24 @@ date: "2026-02-28"
 excerpt: "Vitamin D deficiency affects over a billion people worldwide. But supplementing D3 alone can cause problems. Here's why K2 is the essential co-factor most people are missing."
 category: "Supplements"
 ---
+## The Basics
+
+| | |
+|---|---|
+| **What it is** | The combination of vitamin D3 (cholecalciferol) and vitamin K2 (MK-7) for optimizing calcium metabolism, bone density, and immune function |
+| **Primary use** | Correcting vitamin D deficiency, supporting bone health, cardiovascular protection, and immune optimization |
+| **Evidence level** | Strong — vitamin D deficiency affects ~40% of US adults; supplementation benefits are extensively documented |
+| **Safety profile** | Very Safe — at doses up to 4,000 IU D3 daily; K2 co-supplementation prevents hypercalcemia risk at higher doses |
+| **Best for** | Those with limited sun exposure, northern latitudes, darker skin tones, obesity, or confirmed deficiency (below 30 ng/mL) |
+
+### Key Facts at a Glance
+- Over 1 billion people worldwide are estimated to be vitamin D deficient or insufficient
+- Vitamin K2 (MK-7 form) directs calcium into bones and away from arteries — essential when supplementing higher D3 doses
+- Optimal blood level: 40–60 ng/mL (100–150 nmol/L); most labs consider 30 ng/mL "sufficient" but researchers suggest higher
+- D3 is the form produced by sun exposure; D2 (ergocalciferol, found in fortified foods) is significantly less bioactive
+- Fat-soluble vitamin — take with a meal containing fat for optimal absorption
+
+---
 
 Vitamin D is arguably the most important micronutrient most people aren't getting enough of. Estimates suggest that over 1 billion people worldwide are deficient, and another 1–2 billion are insufficient. That's not a niche problem — it's a global health crisis playing out quietly in the background of everyday life.
 
@@ -69,3 +87,19 @@ People on blood thinners like warfarin (Coumadin) should consult their physician
 If you're supplementing vitamin D3 — and given how widespread deficiency is, many people should consider it — pair it with vitamin K2 MK-7. The two work as a system. D3 gets calcium into the bloodstream; K2 routes it to the right places. Skipping K2 while supplementing high-dose D3 may trade one problem for another.
 
 Get your 25-OH-D tested, optimize your levels, and build the stack properly. It's one of the highest-leverage interventions in preventive health.
+
+
+---
+
+## Sources & Further Reading
+
+1. Holick MF. "Vitamin D Deficiency." New England Journal of Medicine. 2007. https://www.nejm.org/doi/full/10.1056/NEJMra070553
+2. Hewison M. "Vitamin D and the immune system." Journal of Endocrinology. 2012. https://pubmed.ncbi.nlm.nih.gov/22553144/
+3. NIH Office of Dietary Supplements. "Vitamin D." https://ods.od.nih.gov/factsheets/VitaminD-HealthProfessional/
+4. Vermeer C. "Vitamin K: the effect on health beyond coagulation." Food & Nutrition Research. 2012. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3321262/
+
+## Where to Buy / Find This
+
+- **Thorne Vitamin D/K2** — 1,000 IU D3 + 200 mcg MK-7, NSF certified — https://www.amazon.com/Thorne-Research-Vitamin-K2-Supplement/dp/B0797H831C
+- **Sports Research Vitamin D3 K2** — 5,000 IU D3 with MK-7, organic coconut oil for absorption — https://www.amazon.com/Sports-Research-Vitamin-K2-MK7/dp/B01CYZF7XM
+- **Carlson Labs Vitamin D3** — 2,000 IU, olive oil base — https://www.amazon.com/Carlson-Labs-Vitamin-Olive-Softgels/dp/B00BSLMW2C

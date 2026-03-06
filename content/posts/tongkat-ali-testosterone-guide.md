@@ -4,6 +4,24 @@ date: "2026-03-02"
 excerpt: "Tongkat Ali has centuries of traditional use and a growing body of clinical evidence. Here's what it can and can't do for testosterone, stress, and performance."
 category: "Supplements"
 ---
+## The Basics
+
+| | |
+|---|---|
+| **What it is** | A Southeast Asian medicinal plant (Eurycoma longifolia) with clinical evidence for increasing free testosterone and reducing cortisol in stressed or aging individuals |
+| **Primary use** | Supporting testosterone levels, reducing cortisol, improving libido and male fertility |
+| **Evidence level** | Moderate — multiple human RCTs with positive results; mechanisms increasingly understood |
+| **Safety profile** | Generally Safe — extensive traditional use; studies show good tolerability up to 300-400 mg/day of standardized extract |
+| **Best for** | Men over 35 with low testosterone, high stress (elevated cortisol), reduced libido, or athletes seeking natural testosterone support |
+
+### Key Facts at a Glance
+- Works by increasing the free-to-bound ratio of testosterone — reduces SHBG, freeing up bound testosterone for bioavailability
+- Also reduces cortisol by ~16% in clinical stress exposure studies — making it unique as a testosterone-support + adaptogen combo
+- Look for products standardized to eurycomanone content (1-2%) from the root extract — most "tongkat ali" products are underdosed
+- LJ100® is a patented, clinically-researched extract used in most positive studies — the benchmark for quality
+- Multiple human RCTs show improvements in testosterone, sperm quality, and sexual function — particularly in stressed populations
+
+---
 
 Walk into any supplement store and the testosterone support section is packed with overblown promises attached to underresearched ingredients. Tongkat Ali — also known as *Eurycoma longifolia* or Malaysian ginseng — is a notable exception. With decades of traditional use in Southeast Asia and a steadily growing body of peer-reviewed clinical research, it stands apart from most in its category.
 
@@ -56,3 +74,18 @@ It's not recommended during pregnancy. Those with hormone-sensitive conditions s
 ## Bottom Line
 
 In a category full of noise, Tongkat Ali has earned its reputation. It's not a miracle — but for men looking to support hormonal health through natural means, the evidence is solid enough to take seriously.
+
+
+---
+
+## Sources & Further Reading
+
+1. Talbott SM, et al. "Effect of Tongkat Ali on stress hormones and psychological mood state in moderately stressed subjects." Journal of the International Society of Sports Nutrition. 2013. https://jissn.biomedcentral.com/articles/10.1186/1550-2783-10-28
+2. Tambi MI, et al. "Standardised water-soluble extract of Eurycoma longifolia raises testosterone levels in infertile men." Asian Journal of Andrology. 2012. https://pubmed.ncbi.nlm.nih.gov/21671978/
+3. Leisegang K, et al. "Eurycoma longifolia Reduces Fatigue and Improves Physical Performance." Phytomedicine. 2022. https://pubmed.ncbi.nlm.nih.gov/35868253/
+
+## Where to Buy / Find This
+
+- **Nootropics Depot Tongkat Ali (LJ100)** — Standardized to eurycomanone, third-party tested — https://nootropicsdepot.com/tongkat-ali-extract-100-1/
+- **Nutricost Tongkat Ali 400mg** — Budget-friendly, 200:1 extract — https://www.amazon.com/Nutricost-Tongkat-Ali-Extract-400mg/dp/B07H38YCHF
+- **Double Wood Supplements Tongkat Ali** — 400 mg standardized root extract — https://www.amazon.com/Tongkat-Ali-Extract-Supplement/dp/B07D98S71V

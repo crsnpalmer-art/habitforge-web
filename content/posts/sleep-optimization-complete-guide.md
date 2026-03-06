@@ -4,6 +4,24 @@ date: "2026-02-27"
 excerpt: "Sleep is the most powerful recovery tool you have — and most people are doing it wrong. This guide covers the full stack: architecture, environment, timing, and supplementation."
 category: "Lifestyle"
 ---
+## The Basics
+
+| | |
+|---|---|
+| **What it is** | A comprehensive guide to improving sleep quality through sleep architecture understanding, evidence-based protocols, and targeted interventions |
+| **Primary use** | Optimizing sleep quality, duration, and consistency for physical recovery, cognitive performance, and long-term health |
+| **Evidence level** | Strong — sleep science is among the most rapidly advancing fields in medicine; protocols are evidence-based |
+| **Safety profile** | Very Safe — behavioral and environmental interventions; supplement protocols should be used conservatively |
+| **Best for** | Anyone experiencing poor sleep quality, difficulty falling or staying asleep, or seeking to maximize recovery and cognitive performance |
+
+### Key Facts at a Glance
+- Sleep occurs in 90-minute cycles; deep slow-wave sleep (SWS) dominates early cycles while REM dominates later ones — both are essential
+- Temperature regulation is critical: core body temperature must drop 1-3°F to initiate sleep; cooler rooms (65-68°F) accelerate this
+- Blue light (450-480 nm) suppresses melatonin by up to 85% — blocking it 1-2 hours before bed significantly improves sleep onset
+- Chronotype is largely genetic — "night owls" have a delayed circadian phase; forcing early wake times can chronically impair health
+- Matthew Walker's research shows that sleeping less than 6 hours per night for 10 days impairs performance as much as 24 hours of total sleep deprivation
+
+---
 
 ## Why Sleep Is the Foundation of Everything
 
@@ -72,3 +90,18 @@ Key metrics to monitor: total sleep time (target 7–9 hours), HRV trend (higher
 ## The Bottom Line
 
 Sleep optimization isn't glamorous, but it's the highest-leverage health intervention available. Fix your environment (cool, dark, quiet), anchor your timing (same wake time daily), protect your circadian rhythm (morning light, evening darkness), and use targeted supplementation to fill gaps. The return on investment — in cognitive function, physical recovery, mood, and longevity — exceeds almost anything else you can do for your health.
+
+
+---
+
+## Sources & Further Reading
+
+1. Walker MP. "Why We Sleep: Unlocking the Power of Sleep and Dreams." Scribner. 2017. https://www.amazon.com/Why-We-Sleep-Unlocking-Dreams/dp/1501144324
+2. Chang AM, et al. "Evening use of light-emitting eReaders negatively affects sleep." PNAS. 2015. https://www.pnas.org/doi/10.1073/pnas.1418490112
+3. Hirshkowitz M, et al. "National Sleep Foundation's sleep time duration recommendations." Sleep Health. 2015. https://pubmed.ncbi.nlm.nih.gov/29073398/
+
+## Where to Buy / Find This
+
+- **Eight Sleep Pod 4** — Temperature-regulating mattress cover; the highest-ROI sleep investment — https://www.eightsleep.com/pod-cover/
+- **Bon Charge Blue Light Glasses** — Evidence-based amber lenses for evening use — https://www.amazon.com/BLUE-LIGHT-BLOCKING-GLASSES-Sleep/dp/B07XBQ66FB
+- **Oura Ring Gen 3** — Best sleep tracking ring with HRV, deep sleep, and REM measurement — https://ouraring.com

@@ -4,6 +4,24 @@ date: "2026-03-05"
 excerpt: "Quercetin is one of the most abundant antioxidants in nature — and one of the most underappreciated. Here's what the research says about its anti-inflammatory, antiviral, and longevity-supporting effects."
 category: "Supplements"
 ---
+## The Basics
+
+| | |
+|---|---|
+| **What it is** | A plant flavonoid found in onions, apples, and berries with antioxidant, anti-inflammatory, and antiviral properties |
+| **Primary use** | Reducing inflammation, supporting immune function, and cardiovascular health |
+| **Evidence level** | Moderate — solid mechanistic data and animal studies; human clinical trials mixed but promising |
+| **Safety profile** | Very Safe — long history of dietary consumption; supplement doses generally well-tolerated |
+| **Best for** | Those dealing with chronic inflammation, allergies, cardiovascular risk factors, or seeking broad antioxidant support |
+
+### Key Facts at a Glance
+- One of the most abundant dietary flavonoids — present in onions, kale, apples, and berries
+- Acts as a zinc ionophore, helping zinc enter cells — relevant for antiviral defense
+- Bioavailability is low in standard quercetin; phytosome form (quercetin + phosphatidylcholine) is significantly better absorbed
+- May inhibit histamine release from mast cells — making it useful for seasonal allergy support
+- Typical supplemental doses: 500–1,000 mg/day; often stacked with zinc and vitamin C
+
+---
 
 Walk through any farmer's market and you're already encountering quercetin. It's hiding in the skins of apples, the layers of red onions, the deep hue of blueberries, and the bite of capers. As a plant pigment — technically a flavonoid — quercetin is nature's way of protecting plants from UV radiation and pathogens. Increasingly, researchers are discovering that many of those protective mechanisms translate meaningfully to human biology.
 
@@ -53,3 +71,18 @@ Quercetin is well-tolerated with a strong safety profile — it's been consumed 
 ## Key Takeaway
 
 Quercetin isn't flashy. It won't spike your energy or dramatically change how you feel in a week. But as a foundational anti-inflammatory, senolytic, and cardiovascular support compound, it earns a place in a serious longevity stack. Think of it less as a performance supplement and more as a long game investment in cellular health.
+
+
+---
+
+## Sources & Further Reading
+
+1. Li Y, et al. "Quercetin, Inflammation and Immunity." Nutrients. 2016. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4808895/
+2. Boots AW, et al. "Health effects of quercetin: from antioxidant to nutraceutical." European Journal of Pharmacology. 2008. https://pubmed.ncbi.nlm.nih.gov/18417116/
+3. National Institutes of Health. "Quercetin." NIH Office of Dietary Supplements. https://ods.od.nih.gov/factsheets/flavonoids-HealthProfessional/
+
+## Where to Buy / Find This
+
+- **NOW Foods Quercetin with Bromelain** — 800 mg quercetin + bromelain for enhanced absorption — https://www.amazon.com/NOW-Supplements-Quercetin-Bromelain-Capsules/dp/B0013OSAJM
+- **Thorne Quercetin Phytosome** — Superior bioavailability form — https://www.amazon.com/Thorne-Research-Quercetin-Phytosome-Supplement/dp/B0013OVWSI
+- **Pure Encapsulations Quercetin** — Hypoallergenic, clean label — https://www.amazon.com/Pure-Encapsulations-Quercetin-Antioxidant-Supplement/dp/B00280ESFC

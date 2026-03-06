@@ -4,6 +4,24 @@ date: "2025-02-26"
 excerpt: "Selegiline is a selective MAO-B inhibitor used for Parkinson's disease — but it's quietly gained attention in longevity and nootropic circles for its dopamine-preserving and neuroprotective effects."
 category: "Peptides"
 ---
+## The Basics
+
+| | |
+|---|---|
+| **What it is** | A selective MAO-B inhibitor (monoamine oxidase type B) used in Parkinson's disease treatment and explored for cognitive enhancement and longevity |
+| **Primary use** | Parkinson's disease management; off-label use for cognitive enhancement, neuroprotection, and anti-aging |
+| **Evidence level** | Strong for Parkinson's; Moderate for cognitive/longevity applications |
+| **Safety profile** | Caution Advised — prescription medication with significant drug interactions; requires careful dosing and avoidance of tyramine-rich foods at higher doses |
+| **Best for** | Parkinson's patients (with neurologist oversight); experienced biohackers exploring dopaminergic neuroprotection under medical supervision |
+
+### Key Facts at a Glance
+- At low doses (5-10 mg/day), selegiline selectively inhibits MAO-B without the tyramine "cheese effect" seen with non-selective MAO inhibitors
+- Increases dopamine availability by blocking its primary breakdown enzyme — relevant for both motor function and mood
+- The Deprenyl and Tocopherol Antioxidative Therapy (DATATOP) trial showed selegiline significantly delayed the need for levodopa in early Parkinson's
+- Off-label longevity interest stems from animal studies showing extended lifespan in rats — human evidence is preliminary
+- Low-dose transdermal selegiline (EMSAM patch) is FDA-approved for depression with a more favorable side effect profile
+
+---
 
 Most nootropics are about adding something to your brain. Selegiline works differently — it protects what's already there. For a compound originally developed to treat Parkinson's disease, it has accumulated a surprisingly compelling case as a longevity and cognitive enhancement tool.
 
@@ -82,3 +100,17 @@ It requires a prescription and careful attention to drug interactions. But for t
 ---
 
 *This article is for informational purposes only and does not constitute medical advice. Consult a qualified healthcare provider before using selegiline or any prescription medication.*
+
+
+---
+
+## Sources & Further Reading
+
+1. The Parkinson Study Group. "Effects of tocopherol and deprenyl on the progression of disability in early Parkinson's disease." NEJM. 1993. https://www.nejm.org/doi/full/10.1056/NEJM199301143280204
+2. Tatton WG, Greenwood CE. "Rescue of dying neurons: a new action for deprenyl in MPTP parkinsonism." Journal of Neuroscience Research. 1991. https://pubmed.ncbi.nlm.nih.gov/1787485/
+3. FDA. "ELDEPRYL (selegiline hydrochloride) prescribing information." https://www.accessdata.fda.gov/drugsatfda_docs/label/2008/019334s024lbl.pdf
+
+## Where to Buy / Find This
+
+- **GoodRx — Selegiline** — Compare pharmacy prices; generic available for ~$20/month — https://www.goodrx.com/selegiline
+- **RxList — Selegiline (Eldepryl)** — Full prescribing information and interactions — https://www.rxlist.com/eldepryl-drug.htm

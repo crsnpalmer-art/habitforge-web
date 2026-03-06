@@ -4,6 +4,24 @@ title: "Thiamine (Vitamin B1): The Overlooked Nutrient Behind Cognitive Clarity 
 date: "2025-02-26"
 excerpt: "Thiamine is essential for glucose metabolism and nerve function — and many people eating high-carb, processed diets are functionally deficient without knowing it. Here's what B1 does, what TTFD is, and why high-dose thiamine is gaining attention for brain health."
 ---
+## The Basics
+
+| | |
+|---|---|
+| **What it is** | An essential B-vitamin (vitamin B1) critical for glucose metabolism, nerve function, and brain energy production |
+| **Primary use** | Supporting cognitive function, nerve health, and energy metabolism; treating deficiency conditions |
+| **Evidence level** | Strong — essential nutrient with well-established biochemistry; therapeutic high-dose forms (TTFD/benfotiamine) show promising cognitive data |
+| **Safety profile** | Very Safe — water-soluble vitamin; excess is excreted; even high-dose forms have excellent safety records |
+| **Best for** | People with high carbohydrate intake, alcohol consumers, those with cognitive decline risk, or anyone with suspected B1 deficiency |
+
+### Key Facts at a Glance
+- Acts as a cofactor for pyruvate dehydrogenase — essential for converting glucose to brain energy (ATP)
+- Deficiency causes Wernicke's encephalopathy and Korsakoff syndrome — serious neurological conditions
+- TTFD (thiamine tetrahydrofurfuryl disulfide) and benfotiamine are fat-soluble forms with far better brain penetration than standard thiamine HCl
+- Heavy alcohol consumption severely depletes thiamine — one of the most common nutritional deficiencies in drinkers
+- Emerging research links thiamine optimization to improved cognition in Alzheimer's and fatigue syndromes
+
+---
 
 Thiamine — vitamin B1 — doesn't make headlines the way vitamin D or omega-3s do. But it plays a role so fundamental to energy production and neurological function that even a subclinical deficiency can leave you feeling perpetually foggy, fatigued, and mentally slow. And more people than you'd expect are in that situation.
 
@@ -76,3 +94,18 @@ One important note: high-dose TTFD can cause a temporary worsening of symptoms (
 - Individuals looking to optimize cognitive performance and neural health
 
 Thiamine is non-toxic even at high doses — it's water-soluble and excess is excreted. But with TTFD specifically, quality and dosing precision matter. Start with a therapeutic but moderate dose and assess response before increasing.
+
+
+---
+
+## Sources & Further Reading
+
+1. Lonsdale D. "A Review of the Biochemistry, Metabolism and Clinical Benefits of Thiamin(e)." Evidence-Based Complementary and Alternative Medicine. 2006. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1375232/
+2. Bettendorff L, et al. "Thiamine in the Nervous System." Neurochemistry International. 2012. https://pubmed.ncbi.nlm.nih.gov/22548794/
+3. NIH Office of Dietary Supplements. "Thiamin." https://ods.od.nih.gov/factsheets/Thiamin-HealthProfessional/
+
+## Where to Buy / Find This
+
+- **Objective Nutrients TTFD** — Thiamine Tetrahydrofurfuryl Disulfide, fat-soluble, superior CNS penetration — https://www.amazon.com/Objective-Nutrients-Thiamine-Tetrahydrofurfuryl-Disulfide/dp/B09BFHFKQV
+- **Solgar Benfotiamine** — Fat-soluble thiamine, 150 mg, well-studied — https://www.amazon.com/Solgar-Benfotiamine-150-Vegetable-Capsules/dp/B002XSTDIA
+- **Life Extension Mega Benfotiamine** — 250 mg high-dose benfotiamine — https://www.amazon.com/Life-Extension-Mega-Benfotiamine-250mg/dp/B003D7NN6G

@@ -4,6 +4,24 @@ date: "2025-02-26"
 excerpt: "Your thyroid is the master regulator of your metabolism. When it's off, everything is off — energy, weight, mood, cognition, and more. Here's what you need to know."
 category: "Supplements"
 ---
+## The Basics
+
+| | |
+|---|---|
+| **What it is** | A guide to thyroid hormones (T3, T4, TSH) — their roles in metabolism, energy, weight, and mood — and how to evaluate and optimize thyroid function |
+| **Primary use** | Understanding thyroid health, interpreting lab values, and optimizing thyroid function for energy, metabolism, and overall wellbeing |
+| **Evidence level** | Strong — thyroid endocrinology is among the most well-studied areas of medicine |
+| **Safety profile** | Caution Advised — thyroid hormones require careful medical management; self-supplementation carries real risks |
+| **Best for** | Anyone experiencing unexplained fatigue, weight gain, cold intolerance, brain fog, or suboptimal lab values who wants to understand their thyroid health |
+
+### Key Facts at a Glance
+- The thyroid produces T4 (inactive prohormone) which is converted to T3 (active hormone) primarily in peripheral tissues
+- TSH (thyroid stimulating hormone) is the master regulator — high TSH indicates the body needs more thyroid hormone (hypothyroid); low TSH indicates excess
+- Standard TSH testing alone misses many cases of suboptimal thyroid function — full panel (TSH, free T3, free T4, rT3, antibodies) provides better picture
+- Iodine and selenium are rate-limiting nutrients for thyroid hormone synthesis and T4→T3 conversion respectively
+- Subclinical hypothyroidism (TSH 2.5-10 mIU/L) affects millions and may cause symptoms even without overt disease
+
+---
 
 There's a small butterfly-shaped gland sitting at the base of your neck that most people never think about — until everything goes wrong. Your thyroid is arguably the most important regulator of human metabolism, influencing everything from how fast you burn calories to how sharp your thinking is, how well you sleep, and whether you feel like a functioning human being or a soggy loaf of bread.
 
@@ -86,3 +104,18 @@ Before chasing supplements or medication, get the basics right:
 - **Exercise, but don't overtrain** — excessive exercise without adequate recovery can suppress thyroid function
 
 Your thyroid is a mirror of your overall metabolic health. Take care of the foundations, test comprehensively, and don't let a "normal" lab result override how you actually feel.
+
+
+---
+
+## Sources & Further Reading
+
+1. Garber JR, et al. "Clinical practice guidelines for hypothyroidism in adults." Endocrine Practice. 2012. https://pubmed.ncbi.nlm.nih.gov/23246686/
+2. Bianco AC, et al. "Biochemistry, cellular and molecular biology, and physiological roles of the iodothyronine selenodeiodinases." Endocrine Reviews. 2002. https://pubmed.ncbi.nlm.nih.gov/12414823/
+3. NIH. "Thyroid Disease." National Institute of Diabetes and Digestive and Kidney Diseases. https://www.niddk.nih.gov/health-information/endocrine-diseases/hypothyroidism
+
+## Where to Buy / Find This
+
+- **Ulta Lab Tests — Thyroid Panel** — Order your own comprehensive thyroid labs without a doctor — https://www.ultalabtests.com/tests/thyroid-panel-with-tsh
+- **Brazil Nuts** — Best dietary source of selenium for T4→T3 conversion; 1-2 nuts/day is sufficient — https://www.amazon.com/Whole-Organic-Brazil-Nuts-Raw/dp/B01N4KKFNE
+- **Thorne Iodine & Tyrosine** — Supports thyroid hormone synthesis; use only if deficient — https://www.thorne.com/products/dp/iodine-tyrosine

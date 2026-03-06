@@ -4,6 +4,24 @@ date: "2026-03-05"
 excerpt: "David Goggins went from a cockroach-infested trailer to becoming the only person to complete Navy SEAL training, Army Ranger School, and Air Force TACP selection. His book isn't a memoir — it's a manual for confronting the untapped potential most people never touch."
 category: "Books"
 ---
+## The Basics
+
+| | |
+|---|---|
+| **What it is** | David Goggins' autobiographical account of overcoming severe childhood trauma, obesity, and mental weakness to become a Navy SEAL, ultramarathon runner, and world record holder |
+| **Primary use** | Developing mental toughness, confronting self-imposed limits, and building resilience through radical self-accountability |
+| **Evidence level** | Strong — psychological frameworks for mental fortitude are backed by research; narrative is first-person experiential |
+| **Safety profile** | Very Safe — motivational/self-development book |
+| **Best for** | Anyone feeling mentally soft, avoiding discomfort, playing below their potential, or needing a hard confrontation with their excuses |
+
+### Key Facts at a Glance
+- Goggins went from 297 lbs and working as a pest exterminator to completing Navy SEAL training three times, Army Ranger training, and Air Force TACP qualification
+- The "40% Rule": Goggins argues the mind quits when you're only 40% spent — there is always more in reserve than you believe
+- The "Accountability Mirror" technique: daily confrontation of your failures and weaknesses by writing them on sticky notes around your mirror
+- Goggins set the world record for most pull-ups in 24 hours (4,030) — filmed the failed first attempt and used it as fuel for the successful attempt
+- The book sold over 3 million copies and spent over 100 weeks on the New York Times bestseller list
+
+---
 
 There are self-help books that inspire you for a week, and there are books that reframe how you understand human capacity permanently. *Can't Hurt Me* by David Goggins falls into the second category — not because it's polished or aspirational, but because it's almost brutally honest about what most people are actually capable of and how rarely they operate anywhere near that level.
 
@@ -42,3 +60,17 @@ Fair warning: the book is not subtle, the language is direct, and the stories ar
 *Can't Hurt Me* isn't really about David Goggins. It's about the voice in your head that tells you to stop — and learning to recognize it for what it is: a governor, not a truth. The 40% rule isn't a guarantee that you'll become an ultra-endurance athlete. It's the observation that most people leave enormous amounts of their own potential permanently unused, and that the path through the wall is always, always harder than going around it.
 
 Read it, sit with the discomfort it creates, and then decide what you're going to do with the 60%.
+
+
+---
+
+## Sources & Further Reading
+
+1. Goggins D. "Can't Hurt Me: Master Your Mind and Defy the Odds." Lioncrest Publishing. 2018. https://www.amazon.com/Cant-Hurt-Me-Master-Your/dp/1544512279
+2. Baumeister RF, Tierney J. "Willpower: Rediscovering the Greatest Human Strength." Penguin. 2011. https://www.amazon.com/Willpower-Rediscovering-Greatest-Human-Strength/dp/0143122231
+
+## Where to Buy / Find This
+
+- **Can't Hurt Me — David Goggins** (Hardcover) — https://www.amazon.com/Cant-Hurt-Me-Master-Your/dp/1544512279
+- **Never Finished — David Goggins** (Sequel, 2022) — https://www.amazon.com/Never-Finished-Unshackle-Your-Mind/dp/1544534078
+- **Can't Hurt Me Audiobook** — Includes extended podcast-style conversations with Goggins — https://www.amazon.com/Cant-Hurt-Me/dp/B07KKP62FT

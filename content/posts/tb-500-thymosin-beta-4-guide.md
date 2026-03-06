@@ -4,6 +4,24 @@ date: "2025-02-26"
 excerpt: "TB-500 is a synthetic version of Thymosin Beta-4, a peptide naturally produced throughout the body that plays a critical role in tissue repair, inflammation control, and recovery from injury."
 category: "Peptides"
 ---
+## The Basics
+
+| | |
+|---|---|
+| **What it is** | A synthetic version of the naturally occurring peptide Thymosin Beta-4 (Tβ4), involved in tissue repair and cellular migration |
+| **Primary use** | Accelerating healing of tendons, ligaments, muscles, and reducing inflammation; improving flexibility |
+| **Evidence level** | Emerging — promising animal data; limited human clinical trials; widely used in self-experimentation |
+| **Safety profile** | Caution Advised — research chemical; not FDA-approved; limited human safety data |
+| **Best for** | Athletes with chronic soft tissue injuries, those exploring advanced recovery peptide protocols alongside BPC-157 |
+
+### Key Facts at a Glance
+- Naturally produced by the thymus gland; promotes actin polymerization essential for cell motility and healing
+- Often stacked with BPC-157 for synergistic tissue repair — the two peptides complement each other's mechanisms
+- Typically administered subcutaneously at 2–2.5 mg 2x/week during the loading phase; lower maintenance doses thereafter
+- Has been studied in wound healing clinical trials — shows promise for corneal injury, cardiac repair, and skin healing
+- Unlike BPC-157, TB-500 has a more systemic mechanism — it circulates rather than acting primarily at the injection site
+
+---
 
 While BPC-157 gets a lot of attention for targeted, localized healing, TB-500 operates differently — and for many users, its systemic reach makes it the more powerful tool for widespread recovery. Here's the full breakdown.
 
@@ -94,3 +112,18 @@ But the animal data is extensive, the mechanisms are well-characterized, and the
 If you're dealing with a systemic or diffuse injury, chronic stiffness, or want broad recovery support, TB-500 is the more appropriate tool. If you have a specific localized injury or gut issues, BPC-157 leads. For serious recovery, the stack of both remains the gold standard approach.
 
 *This post is for informational purposes only. TB-500 is not FDA-approved. Consult a healthcare provider before use.*
+
+
+---
+
+## Sources & Further Reading
+
+1. Goldstein AL, et al. "Thymosin β4: a multi-functional regenerative peptide." Expert Opinion on Biological Therapy. 2012. https://pubmed.ncbi.nlm.nih.gov/22339408/
+2. Philp D, Kleinman HK. "Animal studies with thymosin β4, a promising therapeutic agent." Annals of the New York Academy of Sciences. 2010. https://pubmed.ncbi.nlm.nih.gov/20633108/
+3. Huff T, et al. "Beta-thymosins, small acidic peptides with multiple functions." International Journal of Biochemistry & Cell Biology. 2001. https://pubmed.ncbi.nlm.nih.gov/11463581/
+
+## Where to Buy / Find This
+
+- **Peptide Sciences TB-500** — Research-grade, lab-tested, lyophilized powder — https://www.peptidesciences.com/tb-500
+- **Limitless Life Nootropics TB-500** — US-sourced research peptide — https://limitlesslifenootropics.com/tb-500/
+- **Bacteriostatic water** — Required for reconstitution — https://www.amazon.com/Bacteriostatic-Water-Injection-Multiple-Vials/dp/B07X72MLVX

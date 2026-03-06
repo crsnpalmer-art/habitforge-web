@@ -4,6 +4,24 @@ date: "2025-02-26"
 excerpt: "Tesamorelin is an FDA-approved GHRH analog that stimulates natural growth hormone release. It's gained serious attention for visceral fat reduction, cognitive enhancement, and anti-aging applications."
 category: "Peptides"
 ---
+## The Basics
+
+| | |
+|---|---|
+| **What it is** | A synthetic analogue of growth hormone-releasing hormone (GHRH) that stimulates the pituitary gland to produce growth hormone |
+| **Primary use** | FDA-approved for HIV-associated lipodystrophy; off-label use for body composition, fat reduction, and cognitive enhancement |
+| **Evidence level** | Strong for FDA-approved indication; Moderate for off-label body composition use |
+| **Safety profile** | Caution Advised — prescription-only in most contexts; requires monitoring for glucose and IGF-1 levels; contraindicated in active malignancy |
+| **Best for** | Adults with visceral fat accumulation, those in GH optimization protocols under medical supervision, or HIV patients with lipodystrophy |
+
+### Key Facts at a Glance
+- FDA-approved (brand name: Egrifta) for reducing excess abdominal fat in HIV patients with lipodystrophy
+- Unlike direct GH administration, tesamorelin preserves the natural pulsatile release of GH — considered safer for long-term use
+- Clinical trials show 15-20% reductions in visceral adipose tissue (VAT) with tesamorelin vs placebo
+- Also studied for cognitive benefits — a 2012 study showed improved executive function and verbal memory in older adults with MCI
+- Typical dose: 1-2 mg subcutaneously once daily; effects on body composition visible within 6-12 weeks
+
+---
 
 Most peptides discussed in longevity and performance circles are experimental at best. Tesamorelin is different — it's FDA-approved, backed by multiple human clinical trials, and has a mechanism that's genuinely elegant. Here's what you need to know.
 
@@ -71,3 +89,17 @@ It's rare to find a compound this well-studied with this many converging longevi
 Tesamorelin occupies a genuinely unusual position in the peptide landscape: FDA-approved, mechanistically clean, and backed by real human data across fat loss, cognition, and body composition. It's not a shortcut, and it requires medical supervision, proper bloodwork monitoring, and consistent injection protocol.
 
 But for someone serious about body composition and long-term brain health — particularly in their 40s, 50s, and beyond — the clinical evidence is hard to dismiss.
+
+
+---
+
+## Sources & Further Reading
+
+1. Falutz J, et al. "Effects of tesamorelin, a growth hormone-releasing factor, in HIV-infected patients with abdominal fat accumulation." NEJM. 2010. https://www.nejm.org/doi/full/10.1056/NEJMoa0908946
+2. Baker LD, et al. "Effects of growth hormone-releasing hormone on cognitive function in adults with mild cognitive impairment and healthy older adults." Archives of Neurology. 2012. https://pubmed.ncbi.nlm.nih.gov/22232159/
+3. FDA. "Egrifta (tesamorelin for injection) prescribing information." https://www.accessdata.fda.gov/drugsatfda_docs/label/2010/022505lbl.pdf
+
+## Where to Buy / Find This
+
+- **Peptide Sciences Tesamorelin** — Research-grade lyophilized peptide — https://www.peptidesciences.com/tesamorelin
+- **GoodRx — Egrifta (Tesamorelin)** — Brand-name pricing and pharmacy comparison — https://www.goodrx.com/egrifta

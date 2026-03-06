@@ -4,6 +4,24 @@ date: "2026-03-05"
 excerpt: "Resveratrol put red wine on the longevity map. Pterostilbene is its more bioavailable cousin. Here's how these polyphenols work, what the science actually shows, and how to take them effectively."
 category: "Supplements"
 ---
+## The Basics
+
+| | |
+|---|---|
+| **What it is** | A pair of related stilbenoid polyphenols (resveratrol from grapes/knotweed; pterostilbene from blueberries) that activate SIRT1 and support metabolic and longevity pathways |
+| **Primary use** | Metabolic health, cardiovascular protection, sirtuin activation, and anti-aging support |
+| **Evidence level** | Moderate — compelling mechanisms and animal data; mixed human clinical results due to bioavailability challenges |
+| **Safety profile** | Generally Safe — both have good safety profiles at standard doses; pterostilbene may raise LDL at high doses |
+| **Best for** | Biohackers pursuing longevity protocols, those with metabolic syndrome risk factors, or anyone stacking with NMN/NR for sirtuin pathway support |
+
+### Key Facts at a Glance
+- Resveratrol activates SIRT1 — a protein linked to longevity that mimics some effects of caloric restriction
+- Pterostilbene is ~80% bioavailable vs ~20% for standard resveratrol, giving it superior systemic effects
+- Taking resveratrol with fat (olive oil, full-fat yogurt) significantly improves absorption
+- Most effective when combined with NMN or NR: resveratrol activates SIRT1, NAD+ precursors fuel it — complementary mechanisms
+- David Sinclair of Harvard publicly takes 1g resveratrol daily with yogurt — though human evidence for high doses remains limited
+
+---
 
 Few compounds have generated more scientific excitement — or more controversy — than resveratrol. It became a cultural phenomenon after a 2003 Nature paper showed it could extend lifespan in yeast by activating sirtuins, a family of proteins linked to longevity. Suddenly red wine was being discussed in the same breath as immortality. The reality, as usual, is more nuanced — but still genuinely interesting.
 
@@ -54,3 +72,18 @@ Resveratrol activates SIRT1, but sirtuins require NAD+ as a cofactor to function
 ## Key Takeaway
 
 Resveratrol's reputation slightly exceeds its proven human evidence — but the mechanistic rationale remains compelling. Pterostilbene is the smarter choice if you're picking one: better bioavailability, longer half-life, similar or superior effects. Together, they represent one of the most researched polyphenol combinations for metabolic health, cardiovascular protection, and healthy aging. The key is managing expectations — these are long-game compounds, not acute performance boosters.
+
+
+---
+
+## Sources & Further Reading
+
+1. Baur JA, Sinclair DA. "Therapeutic potential of resveratrol: the in vivo evidence." Nature Reviews Drug Discovery. 2006. https://www.nature.com/articles/nrd2060
+2. Kapetanovic IM, et al. "Pharmacokinetics, oral bioavailability, and metabolic profile of resveratrol and its dimethylether analog." Cancer Chemotherapy and Pharmacology. 2011. https://pubmed.ncbi.nlm.nih.gov/20549515/
+3. Kosuru R, et al. "Pterostilbene and Health Benefits." Molecules. 2016. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4808895/
+
+## Where to Buy / Find This
+
+- **Life Extension Trans-Resveratrol** — 100 mg trans-resveratrol + grape seed extract — https://www.amazon.com/Life-Extension-Trans-Resveratrol-Vegetarian-Capsules/dp/B003ESNZS4
+- **Double Wood Pterostilbene** — 100 mg pure pterostilbene, standardized — https://www.amazon.com/Pterostilbene-Supplement-100mg-Servings-Double/dp/B072BKCQBF
+- **Nootropics Depot Pterostilbene** — Premium, lab-verified pterostilbene — https://nootropicsdepot.com/pterostilbene-100mg-capsules/

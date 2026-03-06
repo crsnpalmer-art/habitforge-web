@@ -4,6 +4,24 @@ date: "2026-02-27"
 excerpt: "Zone 2 training is slow, unglamorous, and one of the most powerful things you can do for your long-term health. Here's the science and how to implement it."
 category: "Recovery"
 ---
+## The Basics
+
+| | |
+|---|---|
+| **What it is** | A cardiovascular training intensity zone (~60-70% max heart rate) where fat is the primary fuel and mitochondrial adaptations occur |
+| **Primary use** | Building aerobic base, improving metabolic health, enhancing mitochondrial function, and extending healthspan |
+| **Evidence level** | Strong — foundational exercise science with robust data on metabolic, cardiovascular, and longevity benefits |
+| **Safety profile** | Very Safe — low-impact intensity accessible to most adults; foundation of elite endurance programs |
+| **Best for** | Anyone building cardiovascular fitness, optimizing metabolic health, reducing disease risk, or following a longevity protocol |
+
+### Key Facts at a Glance
+- Zone 2 is defined as the highest intensity where you can maintain a full conversation without gasping
+- Primary fuel source shifts to fat oxidation — builds metabolic flexibility and trains the body to burn fat efficiently
+- Stimulates mitochondrial biogenesis (creation of new mitochondria) — the key to aging well
+- Dr. Peter Attia and Iñigo San Millán recommend 3-4 hours per week minimum for longevity; elite endurance athletes do 6-12+ hours
+- Benefits accumulate over months — requires consistent volume, not intensity; most people should do MORE Zone 2, not harder workouts
+
+---
 
 ## What Is Zone 2 Training?
 
@@ -62,3 +80,18 @@ Commit to 3 months of consistent Zone 2 before evaluating results. Track resting
 ## The Bottom Line
 
 Zone 2 cardio is unglamorous and requires patience, which is exactly why most people skip it. But the evidence is overwhelming: it's one of the highest-leverage health investments available. Build your aerobic base, protect your mitochondria, and extend the years you spend healthy and capable. Slow down to go further.
+
+
+---
+
+## Sources & Further Reading
+
+1. San-Millán I, Brooks GA. "Assessment of Metabolic Flexibility by Means of Measuring Blood Lactate, Fat, and Carbohydrate Oxidation Responses." Nutrients. 2018. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6628858/
+2. Attia P. "Zone 2 Training and Metabolic Health." Peter Attia MD. https://peterattiamd.com/zone2/
+3. Hood DA, et al. "Maintenance of Skeletal Muscle Mitochondria in Health, Exercise, and Aging." Annual Review of Physiology. 2019. https://pubmed.ncbi.nlm.nih.gov/30256729/
+
+## Where to Buy / Find This
+
+- **Garmin Forerunner 255** — GPS watch with accurate heart rate zones and aerobic training status — https://www.amazon.com/Garmin-Forerunner-Running-Smartwatch-Advanced/dp/B09SDFS7Q9
+- **Polar H10 Heart Rate Monitor** — Gold standard chest strap for accurate Zone 2 tracking — https://www.amazon.com/Polar-H10-Heart-Rate-Monitor/dp/B07FCQGMXN
+- **Concept2 RowErg** — Premier low-impact Zone 2 cardio machine — https://www.concept2.com/rowerg

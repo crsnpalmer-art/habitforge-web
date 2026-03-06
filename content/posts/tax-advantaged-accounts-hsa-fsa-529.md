@@ -4,6 +4,24 @@ date: "2026-02-28"
 excerpt: "The U.S. tax code offers powerful accounts that can save you thousands of dollars per year. Here's everything you need to know about HSAs, FSAs, and 529 plans — and how to maximize each one."
 category: "Finance"
 ---
+## The Basics
+
+| | |
+|---|---|
+| **What it is** | Government-sanctioned investment and savings accounts (HSA, FSA, 529) that provide significant tax advantages for healthcare costs and education expenses |
+| **Primary use** | Reducing taxable income, growing investments tax-free, and funding healthcare and education expenses with pre-tax dollars |
+| **Evidence level** | Strong — tax code provisions are well-established; benefits are mathematically certain for eligible individuals |
+| **Safety profile** | Very Safe — government-backed accounts; risk is only in underlying investment choices within the accounts |
+| **Best for** | Anyone with a high-deductible health plan (for HSA), employer benefits (FSA), or parents saving for college (529) |
+
+### Key Facts at a Glance
+- The HSA (Health Savings Account) is the only account with triple tax advantage: pre-tax contributions, tax-free growth, and tax-free withdrawals for medical expenses
+- After age 65, HSA funds can be withdrawn for any purpose (taxed like traditional IRA) — making it a stealth retirement account
+- FSA (Flexible Spending Account) funds are "use it or lose it" annually; HSA funds roll over indefinitely and can be invested
+- 529 college savings plans grow tax-free and withdrawals are tax-free for qualified education expenses; 35 states offer additional state tax deductions
+- HSA 2024 contribution limits: $4,150 (individual), $8,300 (family); FSA: $3,200; 529: no annual limit but gift tax considerations apply above $18,000/year
+
+---
 
 Most people understand that they should contribute to a 401(k) or IRA. But the U.S. tax code offers several other powerful vehicles that can save significant money — often with less fanfare. Health Savings Accounts (HSAs), Flexible Spending Accounts (FSAs), and 529 Education Savings Plans are three of the most valuable, yet frequently underused, tools in personal finance.
 
@@ -75,3 +93,18 @@ The ideal stack for most earners:
 4. **Layer these on top of** 401(k) and Roth IRA contributions — they're not mutually exclusive
 
 The common thread: every dollar you move through these accounts avoids taxes that would otherwise be paid. Over decades, that difference is measured in tens of thousands of dollars. These accounts aren't complex to set up, but they require intentionality. The people who benefit most are the ones who understand the rules and act early.
+
+
+---
+
+## Sources & Further Reading
+
+1. IRS. "Health Savings Accounts and Other Tax-Favored Health Plans." Publication 969. https://www.irs.gov/publications/p969
+2. IRS. "529 Plans: Questions and Answers." https://www.irs.gov/newsroom/529-plans-questions-and-answers
+3. Fidelity. "HSA vs. FSA: What's the Difference?" https://www.fidelity.com/learning-center/smart-money/hsa-vs-fsa
+
+## Where to Buy / Find This
+
+- **Fidelity HSA** — No fees, invest in any Fidelity fund including zero-expense-ratio index funds — https://www.fidelity.com/go/hsa/overview
+- **Lively HSA** — No monthly fees, FDIC insured, invest through TD Ameritrade — https://livelyme.com
+- **Vanguard 529 Plan** — Low-cost 529 with index fund options — https://investor.vanguard.com/accounts-plans/529-plans

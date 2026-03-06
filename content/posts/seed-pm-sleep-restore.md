@@ -4,6 +4,24 @@ title: "PM Sleep and Restore: How to Actually Optimize Your Sleep with Supplemen
 date: "2025-02-26"
 excerpt: "Sleep is your most powerful recovery tool — and the right supplements can meaningfully improve the depth and quality of your rest. Here's what the evidence says about the best PM formula ingredients and how to use them."
 ---
+## The Basics
+
+| | |
+|---|---|
+| **What it is** | A two-part probiotic supplement by Seed designed for evening use, supporting gut health restoration and sleep-adjacent circadian signaling |
+| **Primary use** | Supporting gut microbiome health at rest, digestive recovery, and circadian-aligned probiotic seeding |
+| **Evidence level** | Emerging — Seed's DS-01 formulation has some clinical backing; PM-specific probiotic timing research is early-stage |
+| **Safety profile** | Generally Safe — probiotic supplementation is well-tolerated in healthy adults |
+| **Best for** | Those already using Seed's DS-01 system or seeking circadian-optimized gut support as part of a sleep protocol |
+
+### Key Facts at a Glance
+- Part of Seed's 24-hour gut health system alongside their DS-01 AM formulation
+- Probiotics may influence sleep quality through gut-brain axis signaling and tryptophan/serotonin pathways
+- Seed uses a nested capsule technology to protect strains from stomach acid degradation
+- Timing probiotic intake in the evening aligns with nighttime gut motility patterns and microbiome repair cycles
+- Contains prebiotics + probiotics in a synbiotic format for enhanced efficacy
+
+---
 
 No supplement can outperform a good night's sleep. And no amount of optimized nutrition, training, or stress management can compensate for consistently poor sleep. Sleep is the foundation — the period during which your body repairs tissue, consolidates memories, regulates hormones, and clears metabolic waste from the brain.
 
@@ -56,3 +74,18 @@ Take your PM formula **30–60 minutes before your target sleep time**. This giv
 ## The Bottom Line
 
 A well-formulated PM supplement doesn't force sleep — it removes the barriers to it. By supporting GABA, reducing cortisol, lowering core body temperature, and signaling the circadian system, the right combination of ingredients creates the conditions in which your body can do what it's designed to do: rest, repair, and restore.
+
+
+---
+
+## Sources & Further Reading
+
+1. Thaiss CA, et al. "Transkingdom control of microbiota diurnal oscillations promotes metabolic homeostasis." Cell. 2014. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4257162/
+2. Hao Q, et al. "Probiotics for preventing acute upper respiratory tract infections." Cochrane Database. 2015. https://pubmed.ncbi.nlm.nih.gov/26695080/
+3. Smith RP, et al. "Gut microbiome diversity is associated with sleep physiology in humans." PLOS One. 2019. https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0222394
+
+## Where to Buy / Find This
+
+- **Seed DS-01 (AM+PM System)** — Complete daily synbiotic with AM and PM capsules — https://seed.com/ds-01
+- **Ritual Synbiotic+** — Alternative synbiotic with prebiotics + probiotics + postbiotics — https://ritual.com/products/synbiotic
+- **Garden of Life Dr. Formulated Probiotics** — Budget-friendly probiotic option — https://www.amazon.com/Garden-Life-Formulated-Probiotic-Supplement/dp/B00Y9XM6E2

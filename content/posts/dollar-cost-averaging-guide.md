@@ -4,6 +4,24 @@ date: "2026-03-05"
 excerpt: "Dollar-cost averaging is one of the most research-backed investing strategies available — and it works precisely because it removes the human element. Here's how it works and why it outperforms market timing for most investors."
 category: "Finance"
 ---
+## The Basics
+
+| | |
+|---|---|
+| **What it is** | An investment strategy of buying a fixed dollar amount of an asset at regular intervals, regardless of price |
+| **Primary use** | Reducing the impact of market volatility on long-term investment portfolios |
+| **Evidence level** | Strong — backed by decades of behavioral finance research and historical market data |
+| **Safety profile** | Very Safe — conservative, time-tested strategy used by major institutional investors |
+| **Best for** | Long-term investors building wealth through retirement accounts, 401(k)s, and brokerage accounts |
+
+### Key Facts at a Glance
+- Eliminates the need to time the market — one of the most common and costly investor mistakes
+- Automatically buys more shares when prices are low and fewer when prices are high
+- Reduces emotional decision-making by making investing systematic and automatic
+- Works best over 10+ year time horizons; short-term DCA may underperform lump-sum in bull markets
+- Most 401(k) contributions are already DCA by default — you're likely already using it
+
+---
 
 Every few months, a new market event triggers the same behavior: investors panic, sell at the wrong time, miss the recovery, and end up worse off than if they'd done nothing. It's one of the most documented and repeating patterns in finance. The solution isn't discipline through gritted teeth — it's removing the decision entirely.
 
@@ -64,3 +82,18 @@ The doubling and tripling effects in years 20–30 illustrate why starting early
 ## Key Takeaway
 
 Dollar-cost averaging isn't a sophisticated strategy. It's almost aggressively simple. But simplicity is its superpower — it removes the human tendency to overthink, panic, and time. Set a fixed contribution, automate it to a low-cost index fund, and let compound growth do what it does best: reward patience. The investors who win aren't the ones who saw the crash coming. They're the ones who kept buying through it.
+
+
+---
+
+## Sources & Further Reading
+
+1. Vanguard Research. "Dollar-cost averaging just means taking risk later." Vanguard. 2012. https://corporate.vanguard.com/content/dam/corp/research/pdf/dollar-cost-averaging.pdf
+2. Brennan MJ et al. "Dollar-Cost Averaging." Journal of Finance. 1995. https://www.jstor.org/stable/2329230
+3. Investopedia. "Dollar-Cost Averaging (DCA) Explained With Examples and Considerations." https://www.investopedia.com/terms/d/dollarcostaveraging.asp
+
+## Where to Buy / Find This
+
+- **Vanguard** — Low-cost index funds ideal for DCA; automatic investing features — https://investor.vanguard.com/accounts-plans/iras
+- **Fidelity** — Zero expense ratio index funds, automatic investment scheduling — https://www.fidelity.com/go/zero-index-funds
+- **M1 Finance** — Automated portfolio investing with scheduled DCA built-in — https://m1.com

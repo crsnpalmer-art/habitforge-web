@@ -4,6 +4,24 @@ date: "2025-02-27"
 excerpt: "Goals tell you where you want to go. Systems determine whether you actually get there — and whether you stay."
 category: "Habits"
 ---
+## The Basics
+
+| | |
+|---|---|
+| **What it is** | A comparison of outcome-focused goal-setting (SMART goals) versus process-focused systems thinking for long-term behavior change |
+| **Primary use** | Helping individuals design effective approaches to achievement by understanding when goals vs. systems serve better |
+| **Evidence level** | Strong — backed by behavioral psychology research, goal-setting theory, and implementation intention science |
+| **Safety profile** | Very Safe — purely a cognitive and behavioral framework |
+| **Best for** | Anyone struggling with motivation, habit formation, or long-term achievement who wants a more effective mental model for change |
+
+### Key Facts at a Glance
+- SMART goals (Specific, Measurable, Achievable, Relevant, Time-bound) are effective for focused short-term objectives
+- Systems focus on the daily inputs rather than outputs — James Clear argues "you don't rise to the level of your goals, you fall to the level of your systems"
+- Goal-setting theory (Locke & Latham, 1990) shows specific, challenging goals outperform vague or easy ones
+- Implementation intentions ("I will [behavior] at [time] in [location]") triple the likelihood of follow-through vs. goals alone
+- The most effective approach combines both: identity-based goals (who you want to become) + systems (daily habits that make you that person)
+
+---
 
 Everyone has goals. Very few people have systems.
 
@@ -60,3 +78,18 @@ Goals and systems aren't mutually exclusive — they work best in combination. G
 Set a clear goal so you know which direction to point. Then build a system and commit to running it. Show up for the system every day. Evaluate quarterly whether the system needs adjustment.
 
 The goal sets the destination. The system drives the car. And most of the time, if the system is solid, you'll end up somewhere better than where you originally aimed.
+
+
+---
+
+## Sources & Further Reading
+
+1. Locke EA, Latham GP. "A Theory of Goal Setting and Task Performance." Prentice Hall. 1990. https://www.sciencedirect.com/science/article/pii/0749597890900388
+2. Gollwitzer PM. "Implementation Intentions: Strong effects of simple plans." American Psychologist. 1999. https://pubmed.ncbi.nlm.nih.gov/10670605/
+3. Clear J. "Forget About Setting Goals. Focus on This Instead." JamesClear.com. https://jamesclear.com/goals-systems
+
+## Where to Buy / Find This
+
+- **Atomic Habits by James Clear** — The definitive book on systems-based behavior change — https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299
+- **The 12 Week Year by Brian Moran** — Compresses annual goals into 12-week execution cycles — https://www.amazon.com/12-Week-Year-Others-Months/dp/1118509234
+- **Notion Goal Tracker** — Free template for SMART goal tracking — https://www.notion.so/templates/goal-tracker

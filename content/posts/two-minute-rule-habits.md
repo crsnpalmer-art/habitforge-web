@@ -4,6 +4,24 @@ date: "2025-02-27"
 excerpt: "The hardest part of any habit is beginning. This rule removes the resistance that keeps you from starting."
 category: "Habits"
 ---
+## The Basics
+
+| | |
+|---|---|
+| **What it is** | A habit formation technique from James Clear's Atomic Habits: scale any new habit down to under 2 minutes to eliminate the activation energy barrier and build consistency |
+| **Primary use** | Overcoming procrastination and inconsistency in new habit formation by starting smaller than you think necessary |
+| **Evidence level** | Strong — grounded in behavioral psychology (implementation intentions, habit stacking, and activation energy research) |
+| **Safety profile** | Very Safe — purely a behavioral technique |
+| **Best for** | Anyone who struggles to start new habits consistently, feels overwhelmed by ambitious routines, or wants to understand the psychology of momentum |
+
+### Key Facts at a Glance
+- The hardest part of any habit is starting — the 2-minute rule eliminates friction by making the habit "too easy to say no to"
+- Atomic Habits framework: "Read before bed each night" becomes "Read one page"; "Do yoga" becomes "Get out the yoga mat"
+- Behavioral science concept: activation energy — the effort required to initiate a behavior — is the primary driver of habit dropout
+- The goal is to establish the identity and neural groove first; intensity and duration can be scaled after consistency is locked in
+- Works by making the cue-routine-reward loop run on the smallest possible dose, then naturally expanding via positive reinforcement
+
+---
 
 The biggest obstacle to any habit isn't maintaining it. It's starting it.
 
@@ -69,3 +87,18 @@ Pair the two-minute rule with environmental design:
 Friction reduction compounds with the two-minute rule. When the behavior is visible, accessible, and requires minimal activation energy to begin, the gap between intention and action shrinks dramatically.
 
 The hardest part is always starting. Make starting small enough that you never have a reason not to.
+
+
+---
+
+## Sources & Further Reading
+
+1. Clear J. "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones." Penguin Random House. 2018. https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299
+2. Gollwitzer PM. "Implementation intentions." American Psychologist. 1999. https://pubmed.ncbi.nlm.nih.gov/10670605/
+3. Fogg BJ. "Tiny Habits: The Small Changes That Change Everything." Houghton Mifflin. 2019. https://www.amazon.com/Tiny-Habits-Changes-Everything/dp/0358003326
+
+## Where to Buy / Find This
+
+- **Atomic Habits — James Clear** — The source of the 2-minute rule — https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299
+- **Tiny Habits — BJ Fogg** — Stanford researcher's complementary framework for micro-habits — https://www.amazon.com/Tiny-Habits-Changes-Everything/dp/0358003326
+- **HabitForge App** — Coming soon: forge habits with the DNA framework — https://habitforgeai.com/#waitlist
