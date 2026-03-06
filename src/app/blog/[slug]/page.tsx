@@ -139,13 +139,20 @@ export default async function BlogPost({ params }: { params: { slug: string } })
         {/* Body */}
         <div
           className="prose prose-stone prose-lg max-w-none
-            prose-h2:text-stone-900 prose-h2:font-bold prose-h2:text-2xl prose-h2:mt-12 prose-h2:mb-4
-            prose-h3:text-stone-800 prose-h3:font-semibold prose-h3:text-xl prose-h3:mt-8 prose-h3:mb-3
-            prose-p:text-[17px] prose-p:text-stone-600 prose-p:leading-[1.85]
-            prose-strong:text-stone-900
-            prose-ul:text-stone-600 prose-ol:text-stone-600
-            prose-li:leading-relaxed
-            prose-a:text-violet-600 prose-a:no-underline hover:prose-a:underline"
+            prose-h2:text-stone-900 prose-h2:font-black prose-h2:text-[1.6rem] prose-h2:mt-14 prose-h2:mb-4 prose-h2:leading-tight prose-h2:tracking-tight
+            prose-h3:text-stone-800 prose-h3:font-bold prose-h3:text-xl prose-h3:mt-10 prose-h3:mb-3
+            prose-h4:text-stone-700 prose-h4:font-semibold prose-h4:text-lg prose-h4:mt-6 prose-h4:mb-2
+            prose-p:text-[17px] prose-p:text-stone-600 prose-p:leading-[1.9] prose-p:mb-5
+            prose-strong:text-stone-900 prose-strong:font-semibold
+            prose-ul:text-stone-600 prose-ul:my-5 prose-ul:space-y-1
+            prose-ol:text-stone-600 prose-ol:my-5
+            prose-li:text-[16px] prose-li:leading-relaxed
+            prose-table:text-sm prose-table:border-collapse
+            prose-th:bg-stone-100 prose-th:text-stone-700 prose-th:font-semibold prose-th:px-4 prose-th:py-2 prose-th:text-left prose-th:border prose-th:border-stone-200
+            prose-td:px-4 prose-td:py-2 prose-td:border prose-td:border-stone-200 prose-td:text-stone-600
+            prose-hr:border-stone-200 prose-hr:my-10
+            prose-a:text-violet-600 prose-a:no-underline hover:prose-a:underline
+            prose-blockquote:border-l-4 prose-blockquote:border-stone-300 prose-blockquote:pl-4 prose-blockquote:italic prose-blockquote:text-stone-500"
           dangerouslySetInnerHTML={{ __html: post.contentHtml }}
         />
 
