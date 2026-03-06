@@ -78,6 +78,22 @@ Creatine monohydrate, 3–5g/day. It's cheap, safe, well-studied, and works. If 
 
 ---
 
+## What the Experts Say
+
+*Opinions below are paraphrased from each expert's public work, interviews, and podcasts — not direct quotes.*
+
+### Andrew Huberman
+Andrew Huberman has consistently recommended creatine monohydrate on the Huberman Lab podcast, citing its benefits for both physical performance and cognitive function. He typically suggests 5g/day and emphasizes that the cognitive benefits — particularly for sleep-deprived individuals and vegetarians — are underappreciated. He recommends taking it with water at any time of day and notes it's one of the most well-supported supplements for brain health.
+
+### Paul Saladino
+Paul Saladino supports creatine, noting that red meat is the primary dietary source and that those eating animal-based diets may already have higher baseline levels than vegetarians. He views creatine as one of the few supplements that's genuinely well-validated and considers it a reasonable addition even within an animal-based framework.
+
+### Dave Asprey
+Dave Asprey has discussed creatine positively, though he's typically more focused on brain optimization than muscle. He's noted creatine's role in cellular energy production and ATP recycling and considers it a reasonable addition to a performance stack, particularly for cognitive athletes or those under heavy cognitive load.
+
+### Joe Rogan
+Joe Rogan has discussed creatine on the JRE multiple times, generally endorsing it as a foundational supplement for anyone training seriously. He's mentioned taking it himself and has had guests like Dr. Rhonda Patrick explain the cognitive benefits beyond muscle — a point that surprised him given its reputation as a "gym supplement."
+
 ## Sources & Further Reading
 
 1. **Kreider RB, et al. International Society of Sports Nutrition position stand: safety and efficacy of creatine supplementation in exercise, sport, and medicine.** *Journal of the International Society of Sports Nutrition*. 2017. https://jissn.biomedcentral.com/articles/10.1186/s12970-017-0173-z

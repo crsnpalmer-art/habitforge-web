@@ -76,6 +76,25 @@ Intermittent fasting is not magic — but it's a highly practical tool for contr
 
 ---
 
+## What the Experts Say
+
+*Opinions below are paraphrased from each expert's public work, interviews, and podcasts — not direct quotes.*
+
+### Andrew Huberman
+Andrew Huberman has covered intermittent fasting extensively, recommending a time-restricted eating (TRE) approach where the eating window aligns with the active phase of the day — not too early (before sunrise) and not too late (within 2-3 hours of sleep). He typically suggests a 6-8 hour eating window starting 1-2 hours after waking. He's discussed the metabolic, cognitive, and circadian benefits while noting that TRE's benefits are largely separate from caloric restriction.
+
+### Paul Saladino
+Paul Saladino has been skeptical of rigid intermittent fasting protocols, particularly for those who are lean and active, arguing that forcing fasting when the body is signaling hunger is not consistent with ancestral living or optimal hormonal health. He's noted that testosterone and muscle retention may suffer with aggressive fasting in some individuals, and prefers intuitive eating within an animal-based diet framework.
+
+### Dave Asprey
+Dave Asprey popularized a version of IF called Bulletproof Intermittent Fasting — using Bulletproof Coffee (butter + MCT oil) in the morning to maintain fat-burning while preserving cognitive function. He views fasting as a powerful tool for autophagy, mental clarity, and metabolic switching, and has written extensively about extending fasting without the cognitive impairment of total caloric restriction.
+
+### Joe Rogan
+Joe Rogan has experimented with intermittent fasting and discusses it periodically on the JRE, generally in the context of mental clarity and weight management. He's noted that fasting becomes more natural when diet quality is high and hunger signals are more reliable — a point consistent with the carnivore/animal-based approach he's also explored.
+
+### Dr. Raymond Peat
+Dr. Raymond Peat is quite critical of fasting, viewing it as a stress response that elevates cortisol, suppresses thyroid function, and shifts metabolism toward muscle catabolism. He advocates eating frequently — particularly carbohydrates from fruit and dairy — to maintain metabolic rate and thyroid output. His position directly contradicts the popular fasting narrative and is one of his most controversial stances.
+
 ## Sources & Further Reading
 
 1. **Mattson MP, et al. Effects of Intermittent Fasting on Health, Aging, and Disease.** *New England Journal of Medicine*. 2019. https://www.nejm.org/doi/full/10.1056/NEJMra1905136

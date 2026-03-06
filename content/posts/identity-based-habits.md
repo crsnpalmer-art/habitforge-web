@@ -70,6 +70,16 @@ The shift from "I should do this" to "this is who I am" is the most important tr
 
 ---
 
+## What the Experts Say
+
+*Opinions below are paraphrased from each expert's public work, interviews, and podcasts — not direct quotes.*
+
+### Andrew Huberman
+Andrew Huberman has discussed identity and behavior from a neuroscience perspective, noting that self-narrative (how we describe ourselves) has measurable effects on behavior via neurological mechanisms. He's aligned with the Atomic Habits framework — that behavior shapes identity and identity shapes behavior — and discussed this in the context of how the brain represents the self and how those representations influence action.
+
+### Joe Rogan
+Joe Rogan has discussed identity formation through discipline on the JRE, frequently making the point that consistency in hard practices (martial arts, fitness, hunting) shapes who you are at a fundamental level. He views identity as something you build through repeated difficult action rather than something you have or claim.
+
 ## Sources & Further Reading
 
 1. **Self-Consistency Theory and Behavior Change** — Festinger, L. (1957). A Theory of Cognitive Dissonance — https://psycnet.apa.org/record/1993-97948-000

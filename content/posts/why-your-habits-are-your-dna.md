@@ -50,6 +50,19 @@ HabitForge was built to track exactly that. Because your habits aren't separate 
 
 ---
 
+## What the Experts Say
+
+*Opinions below are paraphrased from each expert's public work, interviews, and podcasts — not direct quotes.*
+
+### Andrew Huberman
+Andrew Huberman's work on neuroplasticity and epigenetics aligns directly with the idea that behaviors literally shape biology. He's discussed how repeated experiences and behaviors alter gene expression, neural connectivity, and even transgenerational epigenetic patterns — providing a rigorous scientific framework for the claim that habits become your biological identity.
+
+### Paul Saladino
+Paul Saladino's ancestral health framework emphasizes that human biology was shaped by repeated behavioral patterns across generations — the "behavioral DNA" concept aligns with his view that lifestyle choices have profound and lasting biological consequences, consistent with epigenetics research.
+
+### Dr. Raymond Peat
+Dr. Raymond Peat has written about the relationship between lifestyle, metabolism, and gene expression, noting that cellular energy state influences which genes are expressed — consistent with epigenetic frameworks. He views daily metabolic choices (food, light, stress) as continuously reshaping biological function at a fundamental level.
+
 ## Sources & Further Reading
 
 1. Lally P, et al. "How are habits formed: Modelling habit formation in the real world." European Journal of Social Psychology. 2010. https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.674

@@ -74,6 +74,19 @@ The habits you repeat most are the ones your dopamine system has learned to rewa
 
 ---
 
+## What the Experts Say
+
+*Opinions below are paraphrased from each expert's public work, interviews, and podcasts — not direct quotes.*
+
+### Andrew Huberman
+Andrew Huberman has covered dopamine in exhaustive detail on the Huberman Lab podcast — including the concept of dopamine peaks and troughs, and why artificially inflating baseline dopamine (through constant stimulation) ultimately reduces motivation and pleasure. He's discussed the rationale for deliberate low-stimulation periods and recommends occasional dopamine fasting from specific behaviors (social media, pornography, etc.) to reset sensitivity — though he cautions against extreme multi-day total fasts as potentially counterproductive.
+
+### Dave Asprey
+Dave Asprey has discussed dopamine management in the context of willpower and impulse control, noting that modern environments are deliberately engineered to hijack dopamine circuits. He advocates for controlling dopamine inputs through environment design, dietary approaches, and strategic use of supplements that support healthy dopamine metabolism (like tyrosine, mucuna pruriens).
+
+### Joe Rogan
+Joe Rogan has discussed the addictive nature of social media, phones, and constant stimulation extensively on the JRE — themes closely tied to dopamine dysregulation. He's noted the difficulty of resisting these inputs and has discussed the mental clarity that comes from periods of deliberate disconnection from constant dopamine hits.
+
 ## Sources & Further Reading
 
 1. Schultz W. Dopamine reward prediction error coding. *Dialogues in Clinical Neuroscience*. 2016;18(1):23-32. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4826767/

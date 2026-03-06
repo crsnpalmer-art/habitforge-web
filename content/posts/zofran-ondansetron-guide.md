@@ -138,6 +138,16 @@ As with any prescription medication, ondansetron should be used under the guidan
 
 ---
 
+## What the Experts Say
+
+*Opinions below are paraphrased from each expert's public work, interviews, and podcasts — not direct quotes.*
+
+### Andrew Huberman
+Andrew Huberman has discussed serotonin receptor pharmacology in the context of mood, gut-brain axis function, and gastrointestinal health. While Zofran isn't a primary focus of his health optimization content, he's noted the 5-HT3 receptor's importance in gut-brain signaling and the interesting clinical implications of selective serotonin receptor targeting in different tissues.
+
+### Joe Rogan
+Joe Rogan has mentioned ondansetron on the JRE in the context of anti-nausea medication — particularly its use in controlling nausea during or after intense training or other circumstances. He's acknowledged its effectiveness as a prescription option for those dealing with severe nausea.
+
 ## Sources & Further Reading
 
 1. Hesketh PJ, et al. "The oral 5-HT3 antagonist ondansetron in the prevention of cisplatin-induced emesis." *New England Journal of Medicine* 1991;324(21):1721-1727. [https://pubmed.ncbi.nlm.nih.gov/1944468/](https://pubmed.ncbi.nlm.nih.gov/1944468/)

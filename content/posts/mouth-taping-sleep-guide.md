@@ -84,6 +84,19 @@ Mouth taping is one of the lowest-cost, lowest-risk sleep interventions availabl
 
 ---
 
+## What the Experts Say
+
+*Opinions below are paraphrased from each expert's public work, interviews, and podcasts — not direct quotes.*
+
+### Andrew Huberman
+Andrew Huberman has discussed nasal breathing and mouth taping on the Huberman Lab podcast, citing James Nestor's work (Breath) on the superiority of nasal breathing for sleep quality, sleep apnea reduction, and nitric oxide production. He's mentioned trying mouth tape himself and considers improving nasal breathing one of the more impactful and underappreciated sleep interventions.
+
+### Dave Asprey
+Dave Asprey has discussed mouth taping as a biohacking tool for improving sleep quality, particularly for reducing snoring and improving sleep apnea. He views nasal breathing as strongly protective during sleep and has recommended it as a free, accessible intervention with meaningful upside for sleep quality.
+
+### Joe Rogan
+Joe Rogan has discussed nasal breathing and mouth taping with James Nestor on the JRE — one of the more listened-to episodes on the show. Nestor's research on breathing significantly influenced Rogan's perspective and he's incorporated nasal breathing practices into his daily life.
+
 ## Sources & Further Reading
 
 1. Lee, Y. C., Lu, C. T., Cheng, W. N., & Li, H. Y. (2022). The Impact of Mouth-Taping in Mouth-Breathers with Mild Obstructive Sleep Apnea: A Preliminary Study. *Journal of Clinical Sleep Medicine*, 18(2), 569-573. https://pubmed.ncbi.nlm.nih.gov/34743789/

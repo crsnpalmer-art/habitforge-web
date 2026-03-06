@@ -70,6 +70,16 @@ Alpha lipoic acid is a genuinely multi-functional compound — unusual in a supp
 
 ---
 
+## What the Experts Say
+
+*Opinions below are paraphrased from each expert's public work, interviews, and podcasts — not direct quotes.*
+
+### Dave Asprey
+Dave Asprey has discussed alpha lipoic acid (ALA) as a powerful antioxidant with unique properties — being both fat and water soluble, allowing it to protect both cellular membranes and cytoplasm. He's recommended it for metabolic health, heavy metal chelation support, and mitochondrial protection, though he notes dosing and form (R-ALA vs. S-ALA) matter significantly.
+
+### Dr. Raymond Peat
+Dr. Raymond Peat has written about antioxidants including alpha lipoic acid in the context of mitochondrial protection and energy metabolism. He considers proper cellular energy production the more fundamental approach to preventing oxidative damage, viewing ALA as a useful but not foundational intervention.
+
 ## Sources & Further Reading
 
 1. **Akbari M, et al. (2018).** "The Effects of Alpha-Lipoic Acid Supplementation on Glucose Control and Lipid Profiles Among Patients with Metabolic Diseases: A Systematic Review and Meta-Analysis of Randomized Controlled Trials." *Metabolism: Clinical and Experimental.* https://pubmed.ncbi.nlm.nih.gov/30355285/

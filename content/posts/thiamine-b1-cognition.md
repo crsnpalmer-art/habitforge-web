@@ -98,6 +98,19 @@ Thiamine is non-toxic even at high doses — it's water-soluble and excess is ex
 
 ---
 
+## What the Experts Say
+
+*Opinions below are paraphrased from each expert's public work, interviews, and podcasts — not direct quotes.*
+
+### Andrew Huberman
+Andrew Huberman has discussed B vitamins and energy metabolism, noting thiamine's essential role in neurological function and the severe consequences of deficiency (Wernicke's encephalopathy). He views adequate thiamine as foundational, particularly for those with high carbohydrate intake or alcohol consumption that depletes thiamine stores.
+
+### Dave Asprey
+Dave Asprey has discussed thiamine and its fat-soluble forms (benfotiamine, TTFD) in the context of cellular energy production and brain optimization. He's interested in TTFD particularly for its superior CNS penetration and has discussed its potential for addressing fatigue and cognitive underperformance, especially in those eating high-carbohydrate diets that increase thiamine demands.
+
+### Dr. Raymond Peat
+Dr. Raymond Peat has written about thiamine (vitamin B1) as a critical cofactor for oxidative metabolism — specifically pyruvate dehydrogenase, which is essential for converting glucose to cellular energy. He views adequate thiamine as fundamental to thyroid-supported metabolism and considers deficiency a contributor to the "shift toward lactate production" he associates with cellular stress and dysfunction.
+
 ## Sources & Further Reading
 
 1. Lonsdale D. "A Review of the Biochemistry, Metabolism and Clinical Benefits of Thiamin(e)." Evidence-Based Complementary and Alternative Medicine. 2006. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1375232/

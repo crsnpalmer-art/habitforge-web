@@ -76,6 +76,22 @@ Collagen is extremely well-tolerated with virtually no reported side effects at 
 
 ---
 
+## What the Experts Say
+
+*Opinions below are paraphrased from each expert's public work, interviews, and podcasts — not direct quotes.*
+
+### Andrew Huberman
+Andrew Huberman has discussed collagen protein and its unique amino acid profile, noting that the timing of collagen consumption relative to exercise matters for connective tissue synthesis — with some research suggesting pre-workout collagen + vitamin C may enhance collagen deposition in tendons and ligaments.
+
+### Paul Saladino
+Paul Saladino is a strong advocate for collagen from nose-to-tail animal eating — bone broth, skin, connective tissue, and organ meats. He views animal-sourced collagen as ancestrally appropriate and nutritionally superior to isolated collagen supplements, though he acknowledges supplementation can help those not eating connective tissue regularly.
+
+### Dave Asprey
+Dave Asprey is one of the most prominent proponents of collagen protein in the health space, making it a centerpiece of the Bulletproof product line. He views it as essential for skin health, gut lining integrity, and as a glycine source that balances the amino acid profile of muscle-meat-heavy modern diets.
+
+### Dr. Raymond Peat
+Dr. Raymond Peat has written that gelatin (the cooked form of collagen) is one of the most beneficial protein sources due to its high glycine content. He argues that glycine is anti-inflammatory and protective, balancing the amino acid tryptophan from muscle meat. He considers gelatin-rich foods like bone broth a foundational dietary element.
+
 ## Sources & Further Reading
 
 1. Clark KL, et al. "24-Week study on the use of collagen hydrolysate as a dietary supplement in athletes with activity-related joint pain." *Current Medical Research and Opinion* (2008) — https://pubmed.ncbi.nlm.nih.gov/18416885/

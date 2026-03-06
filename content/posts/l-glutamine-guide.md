@@ -80,6 +80,19 @@ For most healthy people, glutamine is a low-risk, potentially useful supplement 
 
 ---
 
+## What the Experts Say
+
+*Opinions below are paraphrased from each expert's public work, interviews, and podcasts — not direct quotes.*
+
+### Andrew Huberman
+Andrew Huberman has mentioned glutamine in the context of gut health and immune function, noting that it's the primary fuel source for intestinal epithelial cells and that deficiency can compromise gut barrier integrity. He considers it relevant for high-training-volume athletes and those with gut-related health issues.
+
+### Paul Saladino
+Paul Saladino has acknowledged that glutamine can be beneficial for gut healing in specific contexts, though he generally views animal-based dietary interventions (particularly bone broth and collagen-rich foods) as the superior approach to gut health compared to isolated amino acid supplementation.
+
+### Dave Asprey
+Dave Asprey has discussed L-glutamine primarily in the context of gut healing and intestinal permeability ("leaky gut"). He views it as one of the more evidence-backed supplements for supporting gut lining integrity — particularly for those recovering from GI damage, high-intensity training athletes (who have elevated glutamine demands), or those healing from illness.
+
 ## Sources & Further Reading
 
 1. **Glutamine supplementation in critical illness: evidence, recommendations, and key considerations** — National Institutes of Health, Critical Care Medicine — https://pubmed.ncbi.nlm.nih.gov/29509620/

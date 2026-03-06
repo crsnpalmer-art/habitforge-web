@@ -87,6 +87,22 @@ Start tracking. Build your baseline. Let the data inform your decisions. Over ti
 
 ---
 
+## What the Experts Say
+
+*Opinions below are paraphrased from each expert's public work, interviews, and podcasts — not direct quotes.*
+
+### Andrew Huberman
+Andrew Huberman has discussed heart rate variability (HRV) extensively on his podcast as a key biomarker of autonomic nervous system balance and recovery status. He recommends morning HRV tracking (immediately upon waking, ideally lying down) as a guide for training intensity decisions. He notes that low HRV indicates elevated sympathetic tone and poor recovery — a signal to reduce training load rather than push through.
+
+### Paul Saladino
+Paul Saladino has discussed HRV in the context of stress physiology and recovery, noting that lifestyle factors — sleep quality, diet, social connection, sunlight — are the primary drivers of HRV and that the metric is a useful proxy for overall resilience. He views chronic low HRV as a signal of metabolic stress that warrants lifestyle-level investigation.
+
+### Dave Asprey
+Dave Asprey has been one of the most prominent advocates for HRV tracking in the biohacking community, using it as a primary feedback metric for his own recovery, sleep quality, and stress management. He's used multiple tracking devices and considers HRV one of the most actionable biomarkers available for day-to-day performance optimization.
+
+### Joe Rogan
+Joe Rogan has discussed HRV and recovery tracking on the JRE in the context of combat sports performance, noting that overtraining is a real concern for athletes and that objective recovery metrics help distinguish productive training load from harmful overreach. He's interested in the data these tools provide for informing training decisions.
+
 ## Sources & Further Reading
 
 1. **Heart rate variability: Standards of measurement, physiological interpretation, and clinical use** — Task Force of the European Society of Cardiology and the North American Society of Pacing and Electrophysiology — https://pubmed.ncbi.nlm.nih.gov/8737210/

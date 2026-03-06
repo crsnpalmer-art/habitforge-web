@@ -73,6 +73,22 @@ Less is genuinely more with melatonin. Start at 0.3 mg, take it 30–45 minutes 
 
 ---
 
+## What the Experts Say
+
+*Opinions below are paraphrased from each expert's public work, interviews, and podcasts — not direct quotes.*
+
+### Andrew Huberman
+Andrew Huberman has been one of the clearest voices on melatonin dosing in mainstream science communication. He recommends against standard supplement doses of 5-10 mg, arguing they're 10-100x higher than physiological levels and can cause morning grogginess, hormonal disruption, and blunted natural melatonin production over time. He suggests 0.1-0.3 mg if using melatonin — a dose that approximates natural production — or using it specifically for circadian resetting (jet lag, shift work) rather than as a nightly sleep aid.
+
+### Dave Asprey
+Dave Asprey has expressed concerns about high-dose melatonin supplementation, consistent with Huberman's position. He prefers addressing sleep quality through foundational interventions (light management, temperature, magnesium, apigenin, theanine) rather than relying on melatonin. He's noted that while melatonin can be useful for jet lag, regular use may interfere with the body's natural regulatory mechanisms.
+
+### Joe Rogan
+Joe Rogan has mentioned using melatonin and CBD for sleep on the JRE, acknowledging that his demanding schedule sometimes requires sleep aids. He's mentioned the high-dose melatonin approach and has engaged with Huberman's low-dose recommendation with genuine interest.
+
+### Dr. Raymond Peat
+Dr. Raymond Peat holds a skeptical view of melatonin supplementation, consistent with his broader concern about hormones that he views as potentially immunosuppressive or pro-estrogen. He considers melatonin a stress hormone in some contexts and views its supplementation as potentially counterproductive for metabolic health. He prioritizes light exposure patterns and metabolic health as the proper approach to circadian rhythm optimization.
+
 ## Sources & Further Reading
 
 1. **Ferracioli-Oda E, Qawasmi A, Bloch MH. Meta-analysis: melatonin for the treatment of primary sleep disorders.** *PLOS ONE*. 2013;8(5):e63773. — https://pubmed.ncbi.nlm.nih.gov/23691095/

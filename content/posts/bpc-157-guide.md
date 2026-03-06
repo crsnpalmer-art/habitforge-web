@@ -99,6 +99,19 @@ BPC-157 sits in an unusual position: the science is compelling, the safety profi
 
 ---
 
+## What the Experts Say
+
+*Opinions below are paraphrased from each expert's public work, interviews, and podcasts — not direct quotes.*
+
+### Andrew Huberman
+Andrew Huberman has discussed BPC-157 on the Huberman Lab podcast, describing it as one of the more interesting peptides in the healing and recovery space. He's noted the animal data is compelling — particularly for tendon and gut healing — but has been cautious about recommending it given the lack of human clinical trials. He considers it something people explore at their own risk with appropriate medical oversight.
+
+### Dave Asprey
+Dave Asprey has discussed BPC-157 enthusiastically as part of his performance and longevity stack, citing its gut-healing and tissue-repair properties. He's mentioned using it personally and views it as an example of the frontier compounds that biohackers are validating ahead of formal clinical research. He considers the animal safety data reassuring and the anecdotal human data promising.
+
+### Joe Rogan
+Joe Rogan has mentioned BPC-157 on the JRE in the context of injury recovery and healing. He's discussed the peptide with guests who use it for sports injuries and has expressed interest in its reported healing effects on tendons and ligaments — areas of frequent concern in combat sports and intense training.
+
 ## Sources & Further Reading
 
 1. **Sikiric P, et al.** "Stable gastric pentadecapeptide BPC 157: Novel therapy in gastrointestinal tract." *Current Pharmaceutical Design* (2011) — https://pubmed.ncbi.nlm.nih.gov/21226671/

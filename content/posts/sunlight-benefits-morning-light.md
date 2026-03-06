@@ -78,6 +78,25 @@ The sun is free, it's available most days, and your body is designed to use it. 
 
 ---
 
+## What the Experts Say
+
+*Opinions below are paraphrased from each expert's public work, interviews, and podcasts — not direct quotes.*
+
+### Andrew Huberman
+Andrew Huberman has made morning sunlight one of the most prominent elements of his public health protocol. He recommends getting outdoor light — without sunglasses — within 30-60 minutes of waking for 5-10 minutes on clear days and up to 20-30 minutes on cloudy days. He explains that the low solar angle of morning light drives the critical melanopsin activation in the retinal ganglion cells that set the circadian clock, and that this simple practice may be the single highest-impact free health intervention available.
+
+### Paul Saladino
+Paul Saladino considers morning sunlight non-negotiable in his animal-based lifestyle framework. He views regular outdoor light exposure — along with grounding (earthing), movement, and social connection — as ancestral practices that modern humans are deficient in. He emphasizes that no supplement can replicate the full-spectrum biological effects of natural sunlight.
+
+### Dave Asprey
+Dave Asprey views morning sunlight as a critical circadian anchor and has incorporated it into his biohacking protocols. He combines morning light with light therapy panels for indoor optimization and views consistent light-dark cycling as foundational to mitochondrial function, hormonal balance, and sleep quality.
+
+### Joe Rogan
+Joe Rogan has discussed the importance of morning light and circadian rhythms on the JRE, particularly after extensive conversations with Andrew Huberman and Matthew Walker. He's incorporated morning light walks into his routine and views it as a simple but powerful practice for mood and energy regulation.
+
+### Dr. Raymond Peat
+Dr. Raymond Peat has written about the importance of light for metabolic function, consistent with his framework around thyroid activity and energy production. He views adequate light exposure as supportive of thyroid function and energy metabolism, and has noted that many modern diseases may be partially attributable to insufficient light exposure.
+
 ## Sources & Further Reading
 
 1. Czeisler CA, et al. "Bright light resets the human circadian pacemaker independent of the timing of the sleep-wake cycle." Science. 1986. https://www.science.org/doi/10.1126/science.3749862

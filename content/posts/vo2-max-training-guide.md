@@ -83,6 +83,19 @@ VO2 max is the number that quietly determines your ceiling for healthy aging. Mo
 
 ---
 
+## What the Experts Say
+
+*Opinions below are paraphrased from each expert's public work, interviews, and podcasts — not direct quotes.*
+
+### Andrew Huberman
+Andrew Huberman has discussed VO2 max on the Huberman Lab podcast in the context of longevity, citing the research showing it's the single strongest predictor of all-cause mortality. He recommends combining Zone 2 cardio for base-building with periodic high-intensity intervals (Norwegian 4x4 protocol) to drive VO2 max improvements. He views VO2 max as a critical longevity biomarker that should be tracked and actively trained.
+
+### Dave Asprey
+Dave Asprey has discussed VO2 max as a longevity metric, noting that it can be meaningfully improved at any age with the right training stimulus. He's interested in high-intensity protocols that improve VO2 max efficiently — fitting a performance-optimization mindset of minimizing time investment while maximizing the adaptation signal.
+
+### Joe Rogan
+Joe Rogan has discussed cardiovascular fitness and VO2 max in the context of his own fitness journey and conversations with guests like Peter Attia. He's expressed particular interest in Attia's framework around VO2 max as a "life insurance" metric and has discussed the 4x4 Norwegian interval protocol.
+
 ## Sources & Further Reading
 
 1. Nes BM, et al. "Association of cardiorespiratory fitness with long-term mortality." Mayo Clinic Proceedings. 2013. https://pubmed.ncbi.nlm.nih.gov/23473283/

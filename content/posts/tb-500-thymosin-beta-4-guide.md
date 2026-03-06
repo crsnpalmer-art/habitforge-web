@@ -116,6 +116,19 @@ If you're dealing with a systemic or diffuse injury, chronic stiffness, or want 
 
 ---
 
+## What the Experts Say
+
+*Opinions below are paraphrased from each expert's public work, interviews, and podcasts — not direct quotes.*
+
+### Andrew Huberman
+Andrew Huberman has briefly discussed TB-500 in the context of peptide research and tissue repair, acknowledging it as part of the same frontier as BPC-157. He emphasizes the importance of medical supervision and notes the research is still primarily animal-based, but recognizes it's widely used in performance and recovery contexts.
+
+### Dave Asprey
+Dave Asprey has discussed TB-500 as a regenerative peptide in the biohacking space and views the thymosin beta-4 mechanism — promoting actin polymerization and cellular migration — as genuinely novel. He's interested in its potential for systemic healing beyond just local injury sites and views it as a more advanced addition to a recovery peptide protocol alongside BPC-157.
+
+### Joe Rogan
+Joe Rogan has mentioned peptides including TB-500 in the context of injury healing and recovery, particularly given the physical demands of martial arts training. He's discussed the underground use of healing peptides among fighters and athletes and has expressed genuine curiosity about the mechanisms.
+
 ## Sources & Further Reading
 
 1. Goldstein AL, et al. "Thymosin β4: a multi-functional regenerative peptide." Expert Opinion on Biological Therapy. 2012. https://pubmed.ncbi.nlm.nih.gov/22339408/

@@ -115,6 +115,19 @@ The best users of modafinil treat it like a specialist tool in a well-stocked to
 
 ---
 
+## What the Experts Say
+
+*Opinions below are paraphrased from each expert's public work, interviews, and podcasts — not direct quotes.*
+
+### Andrew Huberman
+Andrew Huberman has discussed modafinil as a wakefulness-promoting agent with a distinct mechanism from caffeine (orexin/hypocretin pathway vs. adenosine). He's acknowledged it's used by military personnel and in certain professional contexts, and discusses its cognitive effects thoughtfully — while generally recommending that foundational sleep be the primary strategy for wakefulness rather than pharmacological enhancement in healthy individuals.
+
+### Dave Asprey
+Dave Asprey has written and spoken extensively about modafinil as a transformative cognitive enhancer, crediting it with significant performance improvements during his career. It was a central component of the early Bulletproof brand. He views it as a powerful but context-specific tool and has discussed strategies for using it without disrupting sleep.
+
+### Joe Rogan
+Joe Rogan has discussed modafinil on the JRE as a widely used cognitive enhancer in military, academic, and professional circles. He's approached it with interest and acknowledged its use among high performers while noting the grey area between performance enhancement and pharmaceutical dependence.
+
 ## Sources & Further Reading
 
 1. **Battleday RM, Brem AK. Modafinil for cognitive neuroenhancement in healthy non-sleep-deprived subjects: A systematic review. European Neuropsychopharmacology. 2015** — https://pubmed.ncbi.nlm.nih.gov/26381811/

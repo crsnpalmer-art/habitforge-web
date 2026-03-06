@@ -87,6 +87,19 @@ Choosing a whole food vitamin C supplement — derived from sources like acerola
 
 ---
 
+## What the Experts Say
+
+*Opinions below are paraphrased from each expert's public work, interviews, and podcasts — not direct quotes.*
+
+### Paul Saladino
+Paul Saladino has engaged with the plant vs. animal vitamin C debate, noting that animal foods contain small amounts of vitamin C and that nose-to-tail eating (particularly liver and adrenal glands) provides meaningful vitamin C content. He questions whether carnivore dieters actually develop scurvy despite low vitamin C intake, suggesting context matters significantly.
+
+### Dave Asprey
+Dave Asprey has discussed vitamin C extensively, generally preferring whole-food sources or liposomal vitamin C for better bioavailability and the presence of bioflavonoid cofactors. He's a proponent of high-dose vitamin C protocols for immune support and antioxidant protection, and has discussed IV vitamin C in extreme health contexts.
+
+### Dr. Raymond Peat
+Dr. Raymond Peat has written about vitamin C primarily in the context of collagen synthesis, iron metabolism, and immune function. He views adequate vitamin C as important but achievable through diet — particularly orange juice, which he recommends regularly. His position is aligned with whole-food sources and moderate dietary intake rather than megadose supplementation.
+
 ## Sources & Further Reading
 
 1. Levine M, et al. "Vitamin C pharmacokinetics in healthy volunteers." Proceedings of the National Academy of Sciences. 1996. https://www.pnas.org/doi/10.1073/pnas.93.8.3704

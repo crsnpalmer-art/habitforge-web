@@ -75,6 +75,19 @@ Quercetin isn't flashy. It won't spike your energy or dramatically change how yo
 
 ---
 
+## What the Experts Say
+
+*Opinions below are paraphrased from each expert's public work, interviews, and podcasts — not direct quotes.*
+
+### Andrew Huberman
+Andrew Huberman has discussed quercetin in the context of its zinc ionophore properties — the ability to help zinc enter cells, which is particularly relevant for antiviral immune defense. He's mentioned quercetin as part of an immune support stack alongside zinc, noting that the combination may enhance zinc's intracellular effectiveness.
+
+### Paul Saladino
+Paul Saladino has engaged with quercetin as a plant compound with nuance — acknowledging that unlike many plant defense chemicals, quercetin has meaningful clinical data and genuine biological activity. He views quercetin-containing foods (onions, apples, capers) as reasonable whole-food sources, though he's cautious about isolated high-dose supplementation of plant compounds in general.
+
+### Dave Asprey
+Dave Asprey has discussed quercetin as a polyphenol with broad anti-inflammatory, antioxidant, and immunomodulatory effects. He's recommended it in the Bulletproof framework as part of a comprehensive anti-inflammatory strategy and has discussed its potential synergy with other polyphenols and zinc for immune optimization.
+
 ## Sources & Further Reading
 
 1. Li Y, et al. "Quercetin, Inflammation and Immunity." Nutrients. 2016. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4808895/

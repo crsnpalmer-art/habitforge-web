@@ -67,6 +67,19 @@ Your gut is the foundation of your health. Giving it the primary fuel it needs i
 
 ---
 
+## What the Experts Say
+
+*Opinions below are paraphrased from each expert's public work, interviews, and podcasts — not direct quotes.*
+
+### Andrew Huberman
+Andrew Huberman has discussed glutamine's role in gut barrier function and immune support, noting its importance as a conditionally essential amino acid under high metabolic stress conditions including intense training.
+
+### Paul Saladino
+Paul Saladino views glutamine supplementation as potentially useful for acute gut healing but ultimately views the return to an animal-based diet eliminating plant-based irritants (lectins, oxalates, phytates) as the more fundamental gut-healing intervention.
+
+### Dave Asprey
+Dave Asprey has recommended L-glutamine specifically for gut healing protocols, viewing it as one of the more substantive interventions for intestinal permeability. He's included it in his gut-healing frameworks alongside collagen, probiotics, and dietary changes.
+
 ## Sources & Further Reading
 
 1. **Intestinal permeability and glutamine supplementation** — Kim MH, Kim H. The Role of Glutamine in the Gut. *Clinical Nutrition Research*. 2017;6(4):266-277. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5637834/

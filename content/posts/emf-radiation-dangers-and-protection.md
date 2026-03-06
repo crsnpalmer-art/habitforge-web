@@ -98,6 +98,22 @@ Know the actual science. Take reasonable steps. Don't let hype drive decisions.
 
 ---
 
+## What the Experts Say
+
+*Opinions below are paraphrased from each expert's public work, interviews, and podcasts — not direct quotes.*
+
+### Paul Saladino
+Paul Saladino has discussed EMF in the context of ancestral health, viewing chronic EMF exposure as one of many modern deviations from ancestral living. He recommends commonsense mitigation — keeping phones out of the bedroom, avoiding body contact with devices — while not adopting extreme avoidance.
+
+### Dave Asprey
+Dave Asprey has been one of the most vocal public figures on EMF concerns, incorporating EMF reduction into the Bulletproof lifestyle. He recommends keeping devices away from the body during sleep, using airplane mode at night, and making hardware choices that minimize radiation exposure. He views EMF as a real but underappreciated stressor on the mitochondria and nervous system.
+
+### Joe Rogan
+Joe Rogan has discussed EMF and 5G concerns on the JRE, engaging with the spectrum from credible biological concerns to conspiracy theories. He's generally maintained a curious but skeptical stance — acknowledging that the science is genuinely uncertain and that precautionary measures seem reasonable.
+
+### Dr. Raymond Peat
+Dr. Raymond Peat has written about electromagnetic fields in the context of cellular biology, noting theoretical mechanisms by which EMF could interfere with cellular signaling and mitochondrial function. He approaches the topic from a biophysics perspective and views the precautionary principle as appropriate given the ubiquity of exposure.
+
 ## Sources & Further Reading
 
 1. **World Health Organization: Electromagnetic Fields and Public Health** — WHO fact sheet on EMF exposure guidelines and health effects — https://www.who.int/news-room/fact-sheets/detail/electromagnetic-fields-and-public-health-mobile-phones

@@ -70,6 +70,19 @@ Choose ubiquinol if budget allows and you're over 40. Take it with fat. Be consi
 
 ---
 
+## What the Experts Say
+
+*Opinions below are paraphrased from each expert's public work, interviews, and podcasts — not direct quotes.*
+
+### Andrew Huberman
+Andrew Huberman has discussed CoQ10 in the context of mitochondrial function and cellular energy, noting its role in the electron transport chain. He considers it particularly relevant for older individuals where natural CoQ10 synthesis declines, though he views foundational lifestyle factors (sleep, exercise, diet) as the primary drivers of mitochondrial health.
+
+### Dave Asprey
+Dave Asprey has discussed CoQ10 extensively as a mitochondrial support supplement, particularly emphasizing the ubiquinol form (reduced, active form) over ubiquinone for adults over 40 when conversion becomes less efficient. He views it as essential for anyone on statins (which deplete CoQ10) and as a foundational supplement for mitochondrial health and energy production.
+
+### Dr. Raymond Peat
+Dr. Raymond Peat has written about mitochondrial function and CoQ10 in the context of cellular energy and thyroid function. He considers CoQ10 relevant to energy production but views thyroid optimization and adequate nutrition as more fundamental — CoQ10 supplementation addressing symptoms of a deeper metabolic issue rather than the root cause.
+
 ## Sources & Further Reading
 
 1. **Q-SYMBIO Study: Coenzyme Q10 in Heart Failure** — Mortensen SA et al. JACC Heart Fail. 2014 — https://pubmed.ncbi.nlm.nih.gov/25282031/

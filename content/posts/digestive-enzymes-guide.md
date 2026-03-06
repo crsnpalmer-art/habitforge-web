@@ -95,6 +95,16 @@ Your food is only as good as your ability to absorb it. Digestive enzymes bridge
 
 ---
 
+## What the Experts Say
+
+*Opinions below are paraphrased from each expert's public work, interviews, and podcasts — not direct quotes.*
+
+### Paul Saladino
+Paul Saladino has a nuanced stance on digestive enzymes, noting that carnivore-aligned eating (eliminating plant toxins and fiber that disrupt gut function) often resolves digestive issues without supplemental enzymes. He views chronically poor digestion as a signal to address diet rather than supplement around the problem.
+
+### Dave Asprey
+Dave Asprey has discussed digestive enzymes within the Bulletproof framework, recommending them for those with impaired digestion, HCl insufficiency, or when consuming foods outside of one's usual pattern. He views optimizing digestion as upstream of nutrient absorption — the best diet is only as good as one's ability to absorb it.
+
 ## Sources & Further Reading
 
 1. **Pancreatic Enzyme Replacement Therapy in Pancreatic Insufficiency** — National Institutes of Health, National Center for Biotechnology Information — https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6013626/

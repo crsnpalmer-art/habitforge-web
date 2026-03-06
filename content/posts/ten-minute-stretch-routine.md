@@ -122,6 +122,19 @@ This final decompression stretch releases the entire posterior chain — hamstri
 
 ---
 
+## What the Experts Say
+
+*Opinions below are paraphrased from each expert's public work, interviews, and podcasts — not direct quotes.*
+
+### Andrew Huberman
+Andrew Huberman has discussed stretching and flexibility from a neuroscience perspective, noting that static stretching changes not just muscle length but also the nervous system's tolerance to stretch — the "gain on the stretch reflex." He's recommended daily stretching for both physical performance and stress reduction, noting that yoga nidra and stretching share some of the same parasympathetic activation benefits.
+
+### Dave Asprey
+Dave Asprey has incorporated flexibility and mobility work into his biohacking protocol, noting that tissue quality and range of motion are key components of resilience and injury prevention as one ages. He views consistent stretching as part of a comprehensive physical maintenance protocol alongside strength training and cardio.
+
+### Joe Rogan
+Joe Rogan, as a lifelong martial artist and Brazilian Jiu-Jitsu practitioner, has emphasized the importance of flexibility and mobility extensively on the JRE. He views daily stretching as non-negotiable for injury prevention and performance, and has credited consistent mobility work with his ability to train intensely well into his 50s.
+
 ## Sources & Further Reading
 
 1. Behm DG, Chaouachi A. "A review of the acute effects of static and dynamic stretching on performance." European Journal of Applied Physiology. 2011. https://pubmed.ncbi.nlm.nih.gov/21373870/

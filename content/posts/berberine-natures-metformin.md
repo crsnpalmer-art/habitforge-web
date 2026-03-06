@@ -78,6 +78,19 @@ If you're looking to optimize metabolic health and aren't on conflicting medicat
 
 ---
 
+## What the Experts Say
+
+*Opinions below are paraphrased from each expert's public work, interviews, and podcasts — not direct quotes.*
+
+### Andrew Huberman
+Andrew Huberman has discussed berberine in the context of metabolic health, describing it as a natural compound with mechanisms similar to metformin — primarily AMPK activation and glucose metabolism improvement. He's noted the research showing benefits for blood sugar control, lipid profiles, and even longevity pathways, while acknowledging it has real pharmacological effects and shouldn't be taken casually without understanding its interactions.
+
+### Paul Saladino
+Paul Saladino has engaged with the berberine-as-metformin comparison cautiously, noting that AMPK activation — while promoted as beneficial — may not always be desirable, particularly for those doing high-intensity training where anabolic signaling (mTOR) is important. He generally prefers dietary approaches (animal-based, lower carbohydrate) for metabolic health over pharmaceutical or supplement-based glucose management.
+
+### Dave Asprey
+Dave Asprey has positioned berberine as one of the most interesting metabolic supplements, comparable to metformin in mechanism but without the prescription barrier. He recommends it for blood sugar management and has discussed timing it with higher-carbohydrate meals for practical glucose control.
+
 ## Sources & Further Reading
 
 1. **Yin J, Xing H, Ye J.** Efficacy of berberine in patients with type 2 diabetes mellitus. *Metabolism*. 2008;57(5):712-717. — https://pubmed.ncbi.nlm.nih.gov/18442638/

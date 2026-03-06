@@ -76,6 +76,19 @@ ALCAR is one of the more versatile supplements on the market — with legitimate
 
 ---
 
+## What the Experts Say
+
+*Opinions below are paraphrased from each expert's public work, interviews, and podcasts — not direct quotes.*
+
+### Andrew Huberman
+Andrew Huberman has mentioned carnitine and acetyl-L-carnitine in the context of fat metabolism and mitochondrial function, noting that ALCAR's acetyl group makes it more brain-available than standard L-carnitine. He views it as a potentially useful tool for those seeking cognitive support alongside physical performance benefits.
+
+### Dave Asprey
+Dave Asprey has discussed acetyl-L-carnitine (ALCAR) as a mitochondrial and cognitive support supplement, noting its ability to cross the blood-brain barrier and support acetylcholine synthesis — relevant for memory and focus. He's recommended it as part of a broader mitochondrial optimization stack alongside CoQ10 and alpha lipoic acid.
+
+### Dr. Raymond Peat
+Dr. Raymond Peat has written about carnitine's role in fatty acid transport into mitochondria and energy metabolism. He views adequate carnitine status as supportive of metabolic efficiency and energy production, consistent with his framework around optimizing mitochondrial function and reducing metabolic stress.
+
 ## Sources & Further Reading
 
 1. **Malaguarnera M. (2012).** Acetyl L-carnitine (ALC) treatment in elderly patients with fatigue. *Archives of Gerontology and Geriatrics*, 55(2), 667-673. https://pubmed.ncbi.nlm.nih.gov/22770775/

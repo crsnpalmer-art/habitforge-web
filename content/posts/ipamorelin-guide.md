@@ -103,6 +103,19 @@ Ipamorelin earned its reputation as the "gentle giant" of GH peptides. It does e
 
 ---
 
+## What the Experts Say
+
+*Opinions below are paraphrased from each expert's public work, interviews, and podcasts — not direct quotes.*
+
+### Andrew Huberman
+Andrew Huberman has discussed growth hormone optimization and peptides in general terms, noting that deep sleep is the primary driver of GH release and that most peptide approaches are attempting to replicate what quality sleep achieves naturally. He's acknowledged ipamorelin in the context of peptide research but emphasizes sleep quality as the foundational intervention.
+
+### Dave Asprey
+Dave Asprey has discussed ipamorelin in the context of anti-aging and growth hormone optimization, considering it one of the cleaner GH secretagogues due to its selectivity and lack of cortisol/prolactin elevation. He's recommended it as part of a longevity protocol and has discussed its use for body composition and sleep quality.
+
+### Joe Rogan
+Joe Rogan has touched on GH secretagogues and peptides like ipamorelin in conversations about anti-aging and performance optimization. He's discussed GH optimization broadly in the context of muscle preservation and recovery as one ages, particularly in conversations with guests like Mark Bell.
+
 ## Sources & Further Reading
 
 1. **Growth Hormone Secretagogues: Clinical Applications and Effects** — Journal of Clinical Endocrinology & Metabolism — https://pubmed.ncbi.nlm.nih.gov/16352683/

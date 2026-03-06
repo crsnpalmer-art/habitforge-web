@@ -93,6 +93,16 @@ But for someone serious about body composition and long-term brain health — pa
 
 ---
 
+## What the Experts Say
+
+*Opinions below are paraphrased from each expert's public work, interviews, and podcasts — not direct quotes.*
+
+### Andrew Huberman
+Andrew Huberman has discussed tesamorelin in conversations about metabolic health and body composition, noting its clinical backing is stronger than most peptides given the FDA approval for lipodystrophy. He considers it worth understanding for those interested in GH optimization but emphasizes that lifestyle foundations — sleep, training, nutrition — should be in place first.
+
+### Dave Asprey
+Dave Asprey has discussed tesamorelin as one of the more clinically validated peptides, noting its FDA-approved status lends credibility to its effects on visceral fat reduction. He considers it a more advanced biohacking tool appropriate for those with specific metabolic goals and views the GH-releasing mechanism as preferable to direct GH administration.
+
 ## Sources & Further Reading
 
 1. Falutz J, et al. "Effects of tesamorelin, a growth hormone-releasing factor, in HIV-infected patients with abdominal fat accumulation." NEJM. 2010. https://www.nejm.org/doi/full/10.1056/NEJMoa0908946

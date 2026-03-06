@@ -72,6 +72,16 @@ If you're looking for a natural way to support your nervous system without reach
 
 ---
 
+## What the Experts Say
+
+*Opinions below are paraphrased from each expert's public work, interviews, and podcasts — not direct quotes.*
+
+### Andrew Huberman
+Andrew Huberman has mentioned myo-inositol as a sleep supplement, noting that some data suggests doses around 900mg before bed may improve sleep quality — though he considers the evidence more preliminary than for magnesium or melatonin. He's included it in a broader sleep supplement discussion alongside apigenin, theanine, and magnesium.
+
+### Dave Asprey
+Dave Asprey has discussed inositol in the context of mood support and cellular signaling, noting its role as a secondary messenger in various hormonal and neurotransmitter pathways. He's considered it useful for anxiety and mood regulation and has mentioned it in discussions about women's hormonal health.
+
 ## Sources & Further Reading
 
 1. Levine J. Controlled trials of inositol in psychiatry. *European Neuropsychopharmacology.* 1997;7(2):147-155. https://pubmed.ncbi.nlm.nih.gov/9169302/

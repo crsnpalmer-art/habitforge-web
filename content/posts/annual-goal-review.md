@@ -79,6 +79,19 @@ Use that answer to build this year differently.
 
 ---
 
+## What the Experts Say
+
+*Opinions below are paraphrased from each expert's public work, interviews, and podcasts — not direct quotes.*
+
+### Andrew Huberman
+Andrew Huberman has discussed annual reviews and temporal landmarks in the context of motivation psychology, noting that "fresh start" effects (New Year, birthdays, etc.) have measurable impacts on goal-setting behavior and follow-through. He recommends using these landmarks deliberately for reflection and adjustment rather than as arbitrary deadlines.
+
+### Dave Asprey
+Dave Asprey incorporates annual reviews as a biohacking tool — reviewing health data, tracking progress against longevity goals, adjusting protocols based on the year's data. He views periodic comprehensive review as essential for continuous improvement and considers it an extension of his data-driven approach to personal optimization.
+
+### Joe Rogan
+Joe Rogan has discussed self-reflection and evaluation on the JRE, often in the context of long-term perspective and the importance of looking at where you are versus where you want to be. He emphasizes honest self-assessment as fundamental to sustained growth.
+
 ## Sources & Further Reading
 
 1. **Locke, E. A., & Latham, G. P. (2002). Building a practically useful theory of goal setting and task motivation.** *American Psychologist*, 57(9), 705–717. — https://psycnet.apa.org/doi/10.1037/0003-066X.57.9.705

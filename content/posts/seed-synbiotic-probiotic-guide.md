@@ -63,3 +63,16 @@ Synbiotic supplementation is broadly beneficial, but particularly impactful for:
 - Anyone prioritizing immune resilience or mental wellness
 
 A healthy gut is the foundation of nearly every aspect of health. Supporting it with a quality synbiotic is one of the most impactful daily habits you can build.
+
+## What the Experts Say
+
+*Opinions below are paraphrased from each expert's public work, interviews, and podcasts — not direct quotes.*
+
+### Andrew Huberman
+Andrew Huberman has covered the gut microbiome in dedicated podcast episodes, discussing the evidence for fermented foods, prebiotics, and probiotics. He's noted that high-diversity probiotic supplements with clinical research behind them are preferable to generic products, and considers the gut-brain axis as one of the most important frontiers in neuroscience and health.
+
+### Paul Saladino
+Paul Saladino has been skeptical of conventional probiotic recommendations, questioning whether external probiotic supplementation meaningfully shifts the microbiome long-term compared to dietary changes. He views an animal-based, fiber-appropriate diet as the primary driver of microbiome health and prefers fermented animal foods (raw milk, kefir, fermented meat) over capsule-based probiotics.
+
+### Dave Asprey
+Dave Asprey has discussed the gut microbiome and probiotic supplementation extensively, emphasizing that most commodity probiotics have weak clinical backing. He's interested in clinically validated formulations and the role of prebiotics alongside probiotics — consistent with Seed's synbiotic approach. He views gut health as foundational to cognitive function, immune health, and longevity.

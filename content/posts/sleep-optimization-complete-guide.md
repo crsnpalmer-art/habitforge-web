@@ -94,6 +94,25 @@ Sleep optimization isn't glamorous, but it's the highest-leverage health interve
 
 ---
 
+## What the Experts Say
+
+*Opinions below are paraphrased from each expert's public work, interviews, and podcasts — not direct quotes.*
+
+### Andrew Huberman
+Andrew Huberman has covered sleep optimization more thoroughly than almost any other topic. His protocol includes: morning sunlight, no caffeine after noon, cool dark room (65-67°F), consistent wake time, and supplement stack of magnesium threonate/glycinate, apigenin, and L-theanine 30-60 minutes before bed. He considers sleep the foundational health behavior upon which all other optimization depends.
+
+### Paul Saladino
+Paul Saladino emphasizes ancestral sleep habits: sleeping in total darkness aligned with sunset/sunrise, adequate mineral intake (magnesium, sodium, potassium from diet), and avoiding blue light. He notes that following an animal-based lifestyle often improves sleep quality organically through hormonal normalization and reduced inflammation.
+
+### Dave Asprey
+Dave Asprey treats sleep as a performance parameter to be actively optimized — using the Oura Ring and other tracking devices, blackout curtains, EMF reduction, and supplements including magnesium, glycine, and sometimes theanine. He views poor sleep as a primary driver of accelerated biological aging.
+
+### Joe Rogan
+Joe Rogan was significantly impacted by Matthew Walker's research on sleep deprivation and has become a vocal sleep advocate as a result. He's discussed the cognitive and physical performance costs of poor sleep extensively on the JRE and has experimented with various sleep optimization approaches including melatonin and CBD.
+
+### Dr. Raymond Peat
+Dr. Raymond Peat views poor sleep as often a consequence of metabolic dysfunction — particularly low thyroid function or blood sugar instability causing nighttime cortisol elevation. He recommends consuming a small amount of food (milk, honey) before bed to maintain blood sugar stability through the night as a practical sleep intervention.
+
 ## Sources & Further Reading
 
 1. Walker MP. "Why We Sleep: Unlocking the Power of Sleep and Dreams." Scribner. 2017. https://www.amazon.com/Why-We-Sleep-Unlocking-Dreams/dp/1501144324

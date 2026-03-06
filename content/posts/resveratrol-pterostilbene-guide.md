@@ -76,6 +76,19 @@ Resveratrol's reputation slightly exceeds its proven human evidence — but the 
 
 ---
 
+## What the Experts Say
+
+*Opinions below are paraphrased from each expert's public work, interviews, and podcasts — not direct quotes.*
+
+### Andrew Huberman
+Andrew Huberman has discussed resveratrol and pterostilbene in the context of SIRT1 activation and longevity, particularly in his episode with David Sinclair. He's explained the mechanistic rationale and noted Sinclair's own practice of taking 1g resveratrol daily with yogurt, while acknowledging the human clinical evidence remains limited. He's interested in pterostilbene as a more bioavailable alternative.
+
+### Dave Asprey
+Dave Asprey has covered resveratrol extensively as a polyphenol with sirtuin-activating properties. He recommends it as part of a longevity stack and has written about taking it with fat for improved absorption. He's noted pterostilbene's superior bioavailability and considers both compounds worth including in a comprehensive anti-aging protocol.
+
+### Joe Rogan
+Joe Rogan has discussed resveratrol and NMN in conversations with David Sinclair on the JRE — one of the most-listened-to longevity episodes. He was genuinely interested in Sinclair's personal protocol and the idea that molecules in red wine could activate longevity pathways, though he noted the practical dosing issue (you can't drink enough red wine to get therapeutic doses).
+
 ## Sources & Further Reading
 
 1. Baur JA, Sinclair DA. "Therapeutic potential of resveratrol: the in vivo evidence." Nature Reviews Drug Discovery. 2006. https://www.nature.com/articles/nrd2060

@@ -77,6 +77,22 @@ Zinc isn't a miracle testosterone booster — but if you're deficient, correctin
 
 ---
 
+## What the Experts Say
+
+*Opinions below are paraphrased from each expert's public work, interviews, and podcasts — not direct quotes.*
+
+### Andrew Huberman
+Andrew Huberman has mentioned zinc in the context of testosterone optimization and immune function, noting that zinc deficiency directly impairs testosterone synthesis. He's mentioned testing zinc levels through bloodwork and supplementing if deficient, with oysters being the most zinc-dense food available. He typically suggests zinc picolinate or glycinate as well-absorbed forms.
+
+### Paul Saladino
+Paul Saladino strongly advocates for getting zinc through diet — particularly oysters (the richest dietary source), red meat, and liver. He views animal-food-based zinc as superior in bioavailability compared to plant-based sources (which are bound to phytates) and views dietary zinc optimization as the proper approach rather than supplementation for most people eating animal-based.
+
+### Joe Rogan
+Joe Rogan has mentioned zinc in the context of testosterone support and immune health on the JRE, treating it as part of a basic foundational supplement stack alongside vitamin D and omega-3.
+
+### Dr. Raymond Peat
+Dr. Raymond Peat has written about zinc's role in thyroid function and testosterone synthesis, noting its importance as a cofactor for numerous enzymes. He views adequate zinc status as foundational and considers deficiency a consequence of poor diet (particularly heavy on phytate-containing grains and legumes) rather than an inherent human problem.
+
 ## Sources & Further Reading
 
 1. Prasad AS, et al. "Zinc status and serum testosterone levels of healthy adults." Nutrition. 1996. https://pubmed.ncbi.nlm.nih.gov/8875519/

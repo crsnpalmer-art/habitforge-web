@@ -120,6 +120,22 @@ Most people experience it occasionally by accident. The goal is to engineer it o
 
 ---
 
+## What the Experts Say
+
+*Opinions below are paraphrased from each expert's public work, interviews, and podcasts — not direct quotes.*
+
+### Andrew Huberman
+Andrew Huberman's morning routine is among the most discussed in health and performance circles. His core elements: wake at a consistent time, get outside for bright light exposure within an hour of waking (no sunglasses), delay caffeine 90-120 minutes after waking (to allow adenosine to clear naturally), hydrate with water + electrolytes, and engage in some form of physical movement. He views the morning as the period that sets neurochemical tone for the entire day.
+
+### Paul Saladino
+Paul Saladino's morning practices prioritize sunlight exposure, animal-based breakfast (raw milk, eggs, organ meats, fruit), and connection to natural rhythms. He emphasizes that consistent morning habits aligned with ancestral patterns — particularly light exposure and food timing — are more powerful than any supplement for long-term health.
+
+### Dave Asprey
+Dave Asprey's morning routine centers on the Bulletproof protocol: strategic light exposure, Bulletproof Coffee (butter + MCT oil, consuming no carbohydrates), brief high-intensity exercise, and cold exposure. He views mornings as the critical window for setting metabolic and cognitive tone and has been influential in popularizing the concept of optimizing morning routines as a performance variable.
+
+### Joe Rogan
+Joe Rogan has a disciplined morning practice centered on meditation, exercise, and deliberate lifestyle habits. He's discussed his morning routines on the JRE, including sauna use, training, and avoiding phones first thing in the morning. He views consistent morning discipline as foundational to mental health and performance.
+
 ## Sources & Further Reading
 
 1. **Circadian regulation of sleep and alertness** — LeGates TA, Fernandez DC, Hattar S. *Light as a central modulator of circadian rhythms, sleep and affect.* Nat Rev Neurosci. 2014;15(7):443-454. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4254760/

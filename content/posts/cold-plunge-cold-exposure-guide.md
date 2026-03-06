@@ -78,6 +78,22 @@ The discomfort is the point. Voluntary cold exposure builds genuine stress resil
 
 ---
 
+## What the Experts Say
+
+*Opinions below are paraphrased from each expert's public work, interviews, and podcasts — not direct quotes.*
+
+### Andrew Huberman
+Andrew Huberman has covered cold exposure as thoroughly as any topic on the Huberman Lab podcast. He recommends a minimum effective dose of 11 minutes per week in uncomfortably cold water (not requiring ice) distributed across sessions — enough to trigger dopamine, norepinephrine, and mood benefits without excessive physiological stress. He specifically warns against cold exposure immediately after resistance training as it blunts hypertrophy adaptations.
+
+### Paul Saladino
+Paul Saladino views cold exposure as consistent with ancestral practices of environmental exposure and hormetic stress. He's discussed the dopamine and norepinephrine benefits and considers deliberate cold a valuable practice alongside sunlight, movement, and social connection for overall wellbeing.
+
+### Dave Asprey
+Dave Asprey has discussed cold exposure extensively in the Bulletproof framework, recommending cold showers and cold plunges for mitochondrial stress adaptation and brown adipose tissue activation. He views deliberate cold as a powerful biohacking tool but notes that chronically cold environments without proper nutritional support can be problematic. He often pairs it with sauna contrast therapy.
+
+### Joe Rogan
+Joe Rogan has become one of the most prominent advocates for cold plunge in popular culture, frequently documenting his cold plunge practice on social media and discussing it regularly on the JRE. He's credited it with mood improvements, recovery benefits, and mental toughness — and has helped drive mainstream interest in home cold plunge units.
+
 ## Sources & Further Reading
 
 1. Shevchuk NA. Adapted cold shower as a potential treatment for depression. *Med Hypotheses.* 2008;70(5):995-1001. https://pubmed.ncbi.nlm.nih.gov/17993252/

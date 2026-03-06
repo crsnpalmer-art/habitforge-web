@@ -69,3 +69,22 @@ Reputable panel brands with published irradiance data include Joovv, Mito Red Li
 Red light therapy is one of the more legitimate wellness tools in the biohacking toolkit. The mechanism is well-understood, the safety profile is excellent, and the evidence — particularly for skin health, muscle recovery, and joint pain — is solid. It's not magic, and it won't replace sleep, training, and nutrition. But used consistently and correctly, it can meaningfully accelerate recovery and support long-term tissue health.
 
 If you're going to invest in one recovery tool for your home, RLT panels are a reasonable bet.
+
+## What the Experts Say
+
+*Opinions below are paraphrased from each expert's public work, interviews, and podcasts — not direct quotes.*
+
+### Andrew Huberman
+Andrew Huberman has discussed red light and near-infrared (NIR) therapy on his podcast, covering its effects on mitochondrial function via cytochrome c oxidase stimulation. He's personally experimented with red light therapy and discussed both the morning light applications (for circadian benefits) and the tissue-level applications for skin, recovery, and eye health. He's cautious about overclaiming and notes the optimal protocols are still being established.
+
+### Paul Saladino
+Paul Saladino has discussed light exposure as essential ancestral health — primarily morning sunlight, but also acknowledging that therapeutic red light addresses a deficit created by modern indoor living. He views red light therapy as a reasonable compensatory tool for those unable to spend adequate time outdoors in natural light.
+
+### Dave Asprey
+Dave Asprey is one of the most prominent advocates for red light therapy, having featured Joovv panels and similar devices prominently in his work. He views photobiomodulation as a foundational biohacking tool for mitochondrial function, inflammation reduction, skin health, and recovery. He's used full-body red light panels for years and considers the evidence compelling.
+
+### Joe Rogan
+Joe Rogan has discussed red light therapy on the JRE and has used it in his own routine. He's mentioned it in the context of recovery and anti-aging, and has had guests discuss the science of photobiomodulation. His interest increased significantly after conversations with Ben Greenfield and other biohackers.
+
+### Dr. Raymond Peat
+Dr. Raymond Peat has written about the beneficial effects of red and near-infrared light, viewing it as supportive of mitochondrial function and consistent with his framework around energy production and thyroid activity. He's noted that metabolic rate is influenced by light exposure and considers therapeutic red light consistent with his approach to supporting cellular energy production.

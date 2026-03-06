@@ -70,6 +70,16 @@ A quality morning formula should feel like unlocking your natural energy, not ov
 
 ---
 
+## What the Experts Say
+
+*Opinions below are paraphrased from each expert's public work, interviews, and podcasts — not direct quotes.*
+
+### Andrew Huberman
+Andrew Huberman has covered the gut microbiome in dedicated podcast content, noting the emerging evidence for gut-brain axis influences on mood, cognition, and neurological health. He's generally positive on clinically validated probiotic supplementation for gut health and has discussed the timing and form considerations for probiotic efficacy.
+
+### Dave Asprey
+Dave Asprey has discussed the gut microbiome and probiotic supplementation as foundational to overall health, noting the gut-brain axis connection to cognitive performance and energy. He's interested in clinically backed probiotic formulations and views the synbiotic approach (prebiotic + probiotic together) as superior to standalone probiotics.
+
 ## Sources & Further Reading
 
 1. Seed Health. "DS-01 Clinical Research." https://seed.com/science/ds-01

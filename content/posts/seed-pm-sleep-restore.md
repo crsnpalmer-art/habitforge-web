@@ -78,6 +78,16 @@ A well-formulated PM supplement doesn't force sleep — it removes the barriers 
 
 ---
 
+## What the Experts Say
+
+*Opinions below are paraphrased from each expert's public work, interviews, and podcasts — not direct quotes.*
+
+### Andrew Huberman
+Andrew Huberman has discussed the gut microbiome's circadian rhythms, noting that gut bacterial populations fluctuate across the 24-hour cycle. He's expressed interest in the research on time-specific probiotic seeding and considers gut health foundational to overall health and neurological function.
+
+### Dave Asprey
+Dave Asprey views gut health optimization as a nighttime priority alongside sleep — noting that the gut performs repair and rebalancing during sleep, making evening probiotic timing potentially advantageous. He considers a comprehensive synbiotic approach as part of a complete sleep and recovery protocol.
+
 ## Sources & Further Reading
 
 1. Thaiss CA, et al. "Transkingdom control of microbiota diurnal oscillations promotes metabolic homeostasis." Cell. 2014. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4257162/

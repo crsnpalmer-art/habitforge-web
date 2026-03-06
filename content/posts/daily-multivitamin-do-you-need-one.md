@@ -83,6 +83,22 @@ The bottom line: a high-quality multivitamin isn't magic, but for most people ea
 
 ---
 
+## What the Experts Say
+
+*Opinions below are paraphrased from each expert's public work, interviews, and podcasts — not direct quotes.*
+
+### Andrew Huberman
+Andrew Huberman has discussed multivitamins with nuance on his podcast, noting that while the RCT evidence for multivitamins reducing disease outcomes is weak, the rationale for filling dietary gaps with targeted single nutrients is stronger than blanket multivitamin use. He generally prefers targeted supplementation based on bloodwork rather than broad-spectrum multivitamins.
+
+### Paul Saladino
+Paul Saladino views a well-constructed nose-to-tail animal-based diet as providing all essential micronutrients without the need for supplementation. He considers organ meats — particularly liver — to be nature's multivitamin, providing exceptional concentrations of vitamin A, B12, B6, folate, zinc, copper, iron, and other essential nutrients in highly bioavailable forms.
+
+### Dave Asprey
+Dave Asprey is skeptical of standard multivitamins, arguing they contain poorly bioavailable forms of key nutrients (especially minerals), include nutrient antagonists at counterproductive ratios, and provide a false sense of security. He advocates instead for targeted, high-quality, form-appropriate supplementation guided by testing.
+
+### Dr. Raymond Peat
+Dr. Raymond Peat is cautious about multivitamin supplementation, particularly noting that many contain forms of iron that he considers inflammatory and harmful. He views dietary optimization through quality animal foods, dairy, and fruit as the appropriate approach to micronutrient adequacy, with targeted supplementation where specific deficiencies exist.
+
 ## Sources & Further Reading
 
 1. **Vitamin D Deficiency in Adults** — Holick MF. *New England Journal of Medicine* — https://www.nejm.org/doi/full/10.1056/NEJMra070553

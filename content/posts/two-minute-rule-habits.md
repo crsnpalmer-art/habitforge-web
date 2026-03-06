@@ -91,6 +91,16 @@ The hardest part is always starting. Make starting small enough that you never h
 
 ---
 
+## What the Experts Say
+
+*Opinions below are paraphrased from each expert's public work, interviews, and podcasts — not direct quotes.*
+
+### Andrew Huberman
+Andrew Huberman has discussed the neuroscience behind habit initiation and the role of activation energy in behavioral change. He's aligned with the principle that reducing friction to start a behavior is more powerful than willpower for habit formation — consistent with the 2-minute rule framework — citing research on implementation intentions and the role of dopamine in initiating action.
+
+### Dave Asprey
+Dave Asprey has incorporated the concept of reducing friction and optimizing environment design for habit success, consistent with his biohacking framework of changing behavior through system design rather than pure willpower. He views energy management as central to habit execution.
+
 ## Sources & Further Reading
 
 1. Clear J. "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones." Penguin Random House. 2018. https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299

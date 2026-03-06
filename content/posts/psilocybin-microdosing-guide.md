@@ -130,6 +130,22 @@ If you're in a legal jurisdiction and medically cleared, microdosing may be wort
 
 ---
 
+## What the Experts Say
+
+*Opinions below are paraphrased from each expert's public work, interviews, and podcasts — not direct quotes.*
+
+### Andrew Huberman
+Andrew Huberman has dedicated extensive podcast content to psilocybin neuroscience, including its mechanism (5-HT2A agonism), effects on neural plasticity and default mode network, and the emerging clinical research for depression, addiction, and OCD. He's discussed microdosing's theoretical mechanisms but notes the clinical evidence for microdosing is much weaker than for full-dose therapeutic sessions under supervision.
+
+### Paul Saladino
+Paul Saladino has engaged with psychedelics thoughtfully, viewing them differently from dietary plant compounds he's skeptical of. He's expressed openness to the therapeutic and consciousness-expanding potential of psilocybin when used in appropriate ceremonial or clinical contexts, noting the cross-cultural history of intentional use.
+
+### Dave Asprey
+Dave Asprey has discussed psilocybin and microdosing in the biohacking context, viewing psychedelics as powerful neuroplasticity tools when used intentionally and in appropriate settings. He's discussed integration protocols and the importance of set and setting, approaching psychedelics as serious tools rather than recreational substances.
+
+### Joe Rogan
+Joe Rogan is one of the most prominent public advocates for psychedelics including psilocybin, discussing both therapeutic applications and personal spiritual/consciousness experiences extensively on the JRE. He's interviewed leading researchers and advocates (Michael Pollan, Paul Stamets, Rick Doblin) and has been open about his own psychedelic experiences.
+
 ## Sources & Further Reading
 
 1. **Prochazkova L, et al. "Exploring the effect of microdosing psychedelics on creativity in an open-label natural setting."** *Psychopharmacology* (2018) — https://pubmed.ncbi.nlm.nih.gov/29934646/

@@ -85,6 +85,19 @@ Set fewer goals. Make them specific. Write them down. Attach them to your identi
 
 ---
 
+## What the Experts Say
+
+*Opinions below are paraphrased from each expert's public work, interviews, and podcasts — not direct quotes.*
+
+### Andrew Huberman
+Andrew Huberman has discussed goal-setting from a neuroscience perspective extensively, emphasizing the role of the visual system in setting and pursuing goals (literally visualizing success can be counterproductive; visualizing the obstacles is more effective per research). He covers implementation intentions, specificity of goals, and the neuroscience of motivation and follow-through in depth.
+
+### Dave Asprey
+Dave Asprey approaches goal-setting as a performance variable in his biohacking framework, viewing clarity of goals as upstream of biological optimization — you need to know what you're optimizing for. He's discussed techniques from neuro-linguistic programming (NLP) and other performance psychology traditions alongside his biological optimization protocols.
+
+### Joe Rogan
+Joe Rogan discusses goal-setting and discipline regularly on the JRE, typically emphasizing the importance of consistent daily action over distant goal-fantasizing. He views clarity of purpose as energizing but action as the ultimate variable — consistent with systems-over-goals thinking.
+
 ## Sources & Further Reading
 
 1. Locke, E. A., & Latham, G. P. (2002). Building a practically useful theory of goal setting and task motivation: A 35-year odyssey. *American Psychologist*, 57(9), 705–717. https://psycnet.apa.org/record/2002-15096-005

@@ -108,6 +108,19 @@ Your thyroid is a mirror of your overall metabolic health. Take care of the foun
 
 ---
 
+## What the Experts Say
+
+*Opinions below are paraphrased from each expert's public work, interviews, and podcasts — not direct quotes.*
+
+### Andrew Huberman
+Andrew Huberman has covered thyroid function in the context of metabolism and energy regulation, discussing how thyroid hormones regulate cellular metabolism broadly. He's noted the inadequacy of TSH-only testing and the importance of free T3 and T4 levels for a complete picture of thyroid health.
+
+### Dave Asprey
+Dave Asprey has discussed thyroid health as a critical performance variable, noting that suboptimal thyroid function is extremely common but frequently missed by standard TSH testing. He recommends comprehensive thyroid panels (free T3, free T4, reverse T3, antibodies) and has discussed the importance of selenium, iodine, and avoiding goitrogens for optimal thyroid function.
+
+### Dr. Raymond Peat
+Dr. Raymond Peat is one of the most widely read voices on thyroid optimization, and it represents perhaps his most central area of focus. He argues that adequate thyroid function is the foundation of metabolic health, that TSH alone is an insufficient diagnostic measure, and that many people deemed "normal" are functionally hypothyroid. He views the widespread use of T4-only treatment (Synthroid) as inadequate, preferring combined T3/T4 approaches, and has written extensively about the connection between thyroid function and virtually every chronic disease.
+
 ## Sources & Further Reading
 
 1. Garber JR, et al. "Clinical practice guidelines for hypothyroidism in adults." Endocrine Practice. 2012. https://pubmed.ncbi.nlm.nih.gov/23246686/

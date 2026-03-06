@@ -78,6 +78,22 @@ Collagen is not a magic supplement, but it's a well-tolerated, reasonably eviden
 
 ---
 
+## What the Experts Say
+
+*Opinions below are paraphrased from each expert's public work, interviews, and podcasts — not direct quotes.*
+
+### Andrew Huberman
+Andrew Huberman has discussed collagen supplementation in the context of joint and connective tissue health, noting research showing that taking collagen peptides + vitamin C around exercise (before or after) increases collagen synthesis in tendons and ligaments. He views this as one of the more practical supplement protocols for injury prevention and recovery in active individuals.
+
+### Paul Saladino
+Paul Saladino strongly advocates for collagen from animal sources — viewing nose-to-tail eating as the ideal approach. He recommends bone broth, organ meats, and consuming animal skin and connective tissue as natural sources of collagen and glycine, noting that traditional cultures achieved optimal connective tissue health this way without supplements.
+
+### Dave Asprey
+Dave Asprey has made collagen a central part of the Bulletproof brand, including it in Bulletproof Collagen Protein and his books. He views it as essential for skin health, joint integrity, gut lining support, and as a complementary protein source that provides glycine and proline — amino acids underrepresented in modern diets heavy in muscle meat.
+
+### Dr. Raymond Peat
+Dr. Raymond Peat has written extensively about gelatin and glycine, which are the primary components of collagen. He views gelatin as a uniquely valuable protein source that balances the amino acid profile of muscle meat, noting that glycine is anti-inflammatory and may counteract some of the stress-promoting effects of tryptophan-heavy muscle protein. He's a strong proponent of gelatin in the diet.
+
 ## Sources & Further Reading
 
 1. **Oral Collagen Supplementation: A Systematic Review of Dermatological Applications** — Journal of Drugs in Dermatology (2019) — https://pubmed.ncbi.nlm.nih.gov/30681787/

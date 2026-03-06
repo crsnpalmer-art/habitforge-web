@@ -78,6 +78,19 @@ In a category full of noise, Tongkat Ali has earned its reputation. It's not a m
 
 ---
 
+## What the Experts Say
+
+*Opinions below are paraphrased from each expert's public work, interviews, and podcasts — not direct quotes.*
+
+### Andrew Huberman
+Andrew Huberman has discussed tongkat ali (Eurycoma longifolia) in the context of testosterone optimization on his podcast, citing some of the clinical research on its effects on free testosterone, SHBG reduction, and cortisol. He considers LJ100 the evidence-backed standardized extract and has mentioned considering its use, though he emphasizes bloodwork-guided supplementation rather than supplementing blindly.
+
+### Paul Saladino
+Paul Saladino has discussed adaptogens and hormone-supporting plants with characteristic nuance — acknowledging that some plant compounds like tongkat ali have meaningful clinical data while maintaining that the foundational approach to testosterone is diet (animal foods, cholesterol), training, sleep, and stress management rather than supplementation.
+
+### Joe Rogan
+Joe Rogan has discussed testosterone optimization approaches on the JRE and has mentioned tongkat ali as one of the natural approaches that fighters and athletes explore before considering pharmaceutical options. He's expressed interest in compounds with actual clinical evidence for testosterone support.
+
 ## Sources & Further Reading
 
 1. Talbott SM, et al. "Effect of Tongkat Ali on stress hormones and psychological mood state in moderately stressed subjects." Journal of the International Society of Sports Nutrition. 2013. https://jissn.biomedcentral.com/articles/10.1186/1550-2783-10-28

@@ -75,6 +75,22 @@ Start at 250–500 mg/day in the morning, track your energy and recovery over 60
 
 ---
 
+## What the Experts Say
+
+*Opinions below are paraphrased from each expert's public work, interviews, and podcasts — not direct quotes.*
+
+### Andrew Huberman
+Andrew Huberman has covered NAD+ and its precursors extensively on the Huberman Lab podcast, including a dedicated episode on longevity with David Sinclair. He explains the mechanistic rationale — NAD+ decline with age, sirtuins requiring NAD+ to function — and notes he takes NMN himself. He's careful to distinguish that the human clinical evidence on lifespan extension is still preliminary even if the mechanisms are compelling.
+
+### Paul Saladino
+Paul Saladino has engaged with the NAD+ longevity debate, generally noting that dietary animal foods contain NAD+ precursors (particularly NR from milk) and that lifestyle factors like fasting and exercise are the most powerful activators of sirtuins. He's skeptical of the need for high-dose NMN supplementation when foundational diet and lifestyle are optimized.
+
+### Dave Asprey
+Dave Asprey has been an early and vocal advocate of NAD+ optimization, treating it as a core pillar of his longevity protocol. He's discussed IV NAD+ infusions (for faster repletion), NMN supplementation, and the synergy with resveratrol for sirtuin activation. He considers NAD+ one of the most important targets for biological age reversal.
+
+### Joe Rogan
+Joe Rogan has discussed NAD+ and NMN on the JRE with guests including David Sinclair, who popularized these compounds in mainstream culture. Rogan has expressed genuine enthusiasm for the longevity science and has mentioned supplementing with NMN himself as part of his anti-aging approach.
+
 ## Sources & Further Reading
 
 1. **Yoshino M, et al. (2023). "Nicotinamide mononucleotide increases muscle insulin sensitivity in prediabetic women."** *Nature Aging*. [https://www.nature.com/articles/s43587-023-00404-3](https://www.nature.com/articles/s43587-023-00404-3)

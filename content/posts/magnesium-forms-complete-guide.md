@@ -96,6 +96,19 @@ If you're only going to take one form, magnesium glycinate is the safest general
 
 ---
 
+## What the Experts Say
+
+*Opinions below are paraphrased from each expert's public work, interviews, and podcasts — not direct quotes.*
+
+### Andrew Huberman
+Andrew Huberman has one of the most-referenced magnesium protocols in the health community. He takes magnesium threonate, magnesium glycinate, and sometimes magnesium malate — all in the evening, 30-60 minutes before sleep. He explains that different forms have different tissue targets (threonate crosses the blood-brain barrier; glycinate is well-absorbed and calming), and views magnesium as one of the most important foundational supplements given how widespread insufficiency is.
+
+### Dave Asprey
+Dave Asprey has extensively covered magnesium as one of the most critical and commonly deficient minerals. He favors magnesium malate for energy and daytime use, magnesium glycinate for sleep and muscle relaxation, and has discussed transdermal magnesium (oil) as a useful delivery route for those with GI sensitivity. He considers magnesium essential for hundreds of enzymatic functions and mitochondrial energy production.
+
+### Dr. Raymond Peat
+Dr. Raymond Peat has written about magnesium's role in supporting mitochondrial energy production, reducing stress hormones, and supporting thyroid function. He views magnesium deficiency as extremely common and consequential, noting that it promotes a pro-inflammatory, high-cortisol state that he considers central to chronic disease.
+
 ## Sources & Further Reading
 
 1. **Magnesium in man: implications for health and disease** — Pubmed review of magnesium physiology and deficiency prevalence — https://pubmed.ncbi.nlm.nih.gov/25540137/

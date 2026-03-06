@@ -105,6 +105,19 @@ Lion's Mane is one of the few nootropic supplements with genuine mechanistic pla
 
 ---
 
+## What the Experts Say
+
+*Opinions below are paraphrased from each expert's public work, interviews, and podcasts — not direct quotes.*
+
+### Andrew Huberman
+Andrew Huberman has discussed lion's mane on the Huberman Lab podcast in the context of neuroplasticity and nerve growth factor (NGF). He considers the evidence promising — particularly the role of hericenones and erinacines in NGF stimulation — but emphasizes that most robust human data is still limited. He's mentioned it as a compound he's tried personally while noting that more clinical trials are needed.
+
+### Dave Asprey
+Dave Asprey has been a long-time advocate of lion's mane, featuring it prominently in the Bulletproof ecosystem. He views it as one of the most compelling nootropic mushrooms due to its NGF-stimulating properties and has recommended it for cognitive performance and as part of a broader "upgrade your brain" protocol. He generally prefers dual-extract forms.
+
+### Joe Rogan
+Joe Rogan has mentioned lion's mane on the JRE, often in conversations about nootropics and cognitive enhancement. He's discussed it alongside other mushroom-based supplements and has expressed genuine curiosity about its brain-health mechanisms, particularly after conversations with guests exploring functional fungi.
+
 ## Sources & Further Reading
 
 1. **Mori K, et al. (2009)** — "Improving effects of the mushroom Yamabushitake (Hericium erinaceus) on mild cognitive impairment: a double-blind placebo-controlled clinical trial" — https://pubmed.ncbi.nlm.nih.gov/18844328/

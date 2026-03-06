@@ -87,6 +87,25 @@ Treat these numbers as a baseline, not a diagnosis. Track them annually. Lifesty
 
 ---
 
+## What the Experts Say
+
+*Opinions below are paraphrased from each expert's public work, interviews, and podcasts — not direct quotes.*
+
+### Andrew Huberman
+Andrew Huberman has made hormone optimization a central focus of his public health education, covering testosterone, estrogen, cortisol, growth hormone, and their interactions extensively. He's discussed lifestyle interventions for testosterone optimization (sleep, training, zinc, vitamin D, stress reduction), TRT protocols, and the importance of understanding one's baseline hormonal status through comprehensive bloodwork.
+
+### Paul Saladino
+Paul Saladino advocates for naturally optimizing testosterone through diet and lifestyle — particularly an animal-based diet rich in dietary cholesterol (the precursor to sex hormones), adequate sleep, resistance training, and stress reduction. He's discussed how carnivore-aligned eating patterns normalize testosterone in many men without pharmacological intervention.
+
+### Dave Asprey
+Dave Asprey has discussed hormone optimization as a foundational pillar of biological age reversal, covering testosterone, HGH, cortisol management, and hormonal testing protocols. He's been public about using testosterone optimization strategies and views comprehensive hormone management as essential for peak performance and longevity.
+
+### Joe Rogan
+Joe Rogan has been very open about his use of testosterone replacement therapy (TRT) on the JRE, discussing the profound impact it's had on his body composition, recovery, and overall wellbeing. He's had multiple guests discuss TRT, hormone optimization, and anti-aging medicine, and has become one of the most prominent voices normalizing hormone optimization in mainstream culture.
+
+### Dr. Raymond Peat
+Dr. Raymond Peat has written extensively about hormones from a biophysical perspective, emphasizing the importance of pregnenolone, progesterone, and DHEA as protective "youth hormones" that counteract the stress hormones cortisol and estrogen. He views hormonal aging as largely driven by declining progesterone/pregnenolone relative to estrogen and cortisol — and considers this framework foundational to anti-aging medicine.
+
 ## Sources & Further Reading
 
 1. **Effect of sleep restriction on testosterone** — Leproult R, Van Cauter E. *JAMA.* 2011. — https://pubmed.ncbi.nlm.nih.gov/21632481/

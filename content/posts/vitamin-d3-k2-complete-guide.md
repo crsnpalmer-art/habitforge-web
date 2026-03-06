@@ -91,6 +91,25 @@ Get your 25-OH-D tested, optimize your levels, and build the stack properly. It'
 
 ---
 
+## What the Experts Say
+
+*Opinions below are paraphrased from each expert's public work, interviews, and podcasts — not direct quotes.*
+
+### Andrew Huberman
+Andrew Huberman has discussed vitamin D extensively, emphasizing that optimal levels (40-60 ng/mL) are associated with better mood, immune function, testosterone, and overall health. He recommends testing first and supplementing based on results, typically suggesting D3 paired with K2 to direct calcium appropriately. He considers sun exposure the preferred method but acknowledges most people need to supplement given modern indoor lifestyles.
+
+### Paul Saladino
+Paul Saladino generally prefers obtaining vitamin D through sun exposure and animal foods (egg yolks, fatty fish, liver) rather than supplementation. He has questioned whether isolated D3 supplements fully replicate the effects of sun-derived vitamin D and advocates spending significant time outdoors as the primary strategy.
+
+### Dave Asprey
+Dave Asprey has been a strong advocate of vitamin D3 + K2 for decades, viewing the combination as essential for anyone in northern latitudes or with limited sun exposure. He's tested his own levels obsessively and written about the interplay between D3, K2-MK7, and calcium metabolism. He considers the D3/K2 stack one of the most impactful foundational interventions available.
+
+### Joe Rogan
+Joe Rogan has mentioned vitamin D supplementation on the JRE in the context of immune health — particularly during cold and flu season. He's noted taking it himself and has discussed higher-dose supplementation with various guests, treating it as a common-sense baseline supplement.
+
+### Dr. Raymond Peat
+Dr. Raymond Peat has written favorably about vitamin D in the context of thyroid function and inflammation regulation. He views adequate vitamin D as supportive of overall metabolic health and consistent with his framework of reducing the stress response. He generally prefers sunlight as the source but has acknowledged supplementation for those unable to get adequate sun exposure.
+
 ## Sources & Further Reading
 
 1. Holick MF. "Vitamin D Deficiency." New England Journal of Medicine. 2007. https://www.nejm.org/doi/full/10.1056/NEJMra070553

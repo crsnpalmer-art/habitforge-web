@@ -64,6 +64,22 @@ Creatine is one of the safest, most effective, and most affordable supplements a
 
 ---
 
+## What the Experts Say
+
+*Opinions below are paraphrased from each expert's public work, interviews, and podcasts — not direct quotes.*
+
+### Andrew Huberman
+Andrew Huberman recommends creatine monohydrate as one of the most well-supported supplements for both physical and cognitive performance. He suggests 5g/day of creatine monohydrate, taken consistently, and highlights the cognitive benefits — particularly for sleep-deprived individuals and vegetarians who have lower baseline levels.
+
+### Paul Saladino
+Paul Saladino views creatine favorably, noting that red meat is the primary dietary source and that those eating carnivore or animal-based diets naturally have higher muscle creatine stores. He considers it one of the few supplements with genuinely compelling evidence and consistent with his principles when dietary sources are insufficient.
+
+### Dave Asprey
+Dave Asprey has discussed creatine's role in cellular energy production and views it as a reasonable supplement for those prioritizing physical and cognitive performance. He generally prefers creatine as a food-first nutrient but acknowledges supplementation is practical and well-validated for most people.
+
+### Joe Rogan
+Joe Rogan has discussed creatine as a foundational supplement on the JRE multiple times, endorsing it for training and recovery. He's been impressed by the growing cognitive research and considers it one of the most evidence-backed supplements available regardless of training goals.
+
 ## Sources & Further Reading
 
 1. **International Society of Sports Nutrition position stand: safety and efficacy of creatine supplementation** — Comprehensive review of creatine research and safety profile — [https://jissn.biomedcentral.com/articles/10.1186/s12970-017-0173-z](https://jissn.biomedcentral.com/articles/10.1186/s12970-017-0173-z)

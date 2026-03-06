@@ -80,6 +80,19 @@ Start with one. Attach it to something you already do every day. Let it run for 
 
 ---
 
+## What the Experts Say
+
+*Opinions below are paraphrased from each expert's public work, interviews, and podcasts — not direct quotes.*
+
+### Andrew Huberman
+Andrew Huberman has discussed habit stacking in the neuroscience context, noting that linking new behaviors to established neural circuits (existing habits) significantly reduces the cognitive load required to initiate the new behavior. This aligns with his framework on dopamine and procedural memory — well-established routines create automatic pathways that can anchor new behaviors.
+
+### Dave Asprey
+Dave Asprey has discussed habit stacking as an efficiency principle within biohacking — noting that combining complementary behaviors (like taking supplements with coffee, or meditating after a workout) reduces friction and leverages the momentum of existing routines. He views environment design as the primary tool for making habit stacks automatic.
+
+### Joe Rogan
+Joe Rogan's training and lifestyle embodies habit stacking — he structures his day around consistent anchors (morning workout, sauna/cold plunge, specific podcast recording times) that create reliable chains of behavior. He's discussed how building these reliable sequences has been fundamental to maintaining consistency over decades.
+
 ## Sources & Further Reading
 
 1. Gollwitzer, P. M., & Sheeran, P. (2006). Implementation intentions and goal achievement: A meta-analysis of effects and processes. *Advances in Experimental Social Psychology*, 38, 69-119. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4723854/

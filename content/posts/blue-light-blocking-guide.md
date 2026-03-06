@@ -72,6 +72,22 @@ Blue light blocking is a legitimate tool for sleep — specifically the circadia
 
 ---
 
+## What the Experts Say
+
+*Opinions below are paraphrased from each expert's public work, interviews, and podcasts — not direct quotes.*
+
+### Andrew Huberman
+Andrew Huberman is one of the most data-driven voices on light exposure and circadian biology. He strongly recommends avoiding bright artificial light — particularly overhead fluorescent and LED lighting — in the 2-3 hours before sleep, as it suppresses melatonin and delays circadian timing. He specifically advocates for amber/red-tinted glasses in the evening and dim, warm-toned lighting rather than overhead lights after sunset.
+
+### Paul Saladino
+Paul Saladino views blue light exposure as one of the key modern deviations from ancestral living that disrupts circadian health. He recommends getting natural light during the day and blocking artificial blue light at night as part of an ancestral health practice, consistent with the body's natural light-dark cycle.
+
+### Dave Asprey
+Dave Asprey has been an advocate for blue light blocking for years, making it a cornerstone of his sleep optimization protocol. He recommends blue light blocking glasses from sunset onwards and has discussed the mitochondrial and circadian impacts of evening blue light exposure. He prefers full-spectrum blue and green light blocking (not just the cosmetic amber tints) for genuine melatonin protection.
+
+### Joe Rogan
+Joe Rogan has discussed blue light and sleep quality on the JRE, particularly after conversations with Matthew Walker and Andrew Huberman. He's incorporated blue light blocking practices into his evening routine and acknowledges the meaningful impact of phone and screen exposure on sleep onset.
+
 ## Sources & Further Reading
 
 1. **Effects of filtering blue light on sleep and circadian rhythm: A systematic review** — Shechter et al., Sleep Medicine Reviews (2020) — https://pubmed.ncbi.nlm.nih.gov/31881567/

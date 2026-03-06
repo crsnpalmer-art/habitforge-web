@@ -66,6 +66,16 @@ Rhodiola Rosea stands out in a crowded adaptogen market because it has real clin
 
 ---
 
+## What the Experts Say
+
+*Opinions below are paraphrased from each expert's public work, interviews, and podcasts — not direct quotes.*
+
+### Andrew Huberman
+Andrew Huberman has mentioned rhodiola in the context of adaptogens and stress resistance, noting it's one of the more studied adaptogens with data suggesting it reduces perceived exertion during exercise and may improve endurance performance. He's recommended cycling it rather than daily use — similar to his ashwagandha advice — and suggests avoiding it in the evening due to its stimulating properties.
+
+### Dave Asprey
+Dave Asprey has recommended rhodiola as part of an adaptogen stack for sustained energy and stress resilience without the cortisol cost of caffeine overdependence. He views it as a useful cognitive performance tool and has discussed it in the context of sustained mental output during demanding work.
+
 ## Sources & Further Reading
 
 1. Darbinyan V, et al. (2000). "Rhodiola rosea in stress induced fatigue — A double blind cross-over study of a standardized extract SHR-5 with a repeated low-dose regimen on the mental performance of healthy physicians during night duty." *Phytomedicine*, 7(5):365-371. https://pubmed.ncbi.nlm.nih.gov/11081987/

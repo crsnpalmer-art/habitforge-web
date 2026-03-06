@@ -88,6 +88,19 @@ The best time to start was yesterday. The second best time is now.
 
 ---
 
+## What the Experts Say
+
+*Opinions below are paraphrased from each expert's public work, interviews, and podcasts — not direct quotes.*
+
+### Andrew Huberman
+Andrew Huberman has discussed the compound effect of small consistent behaviors in neurological terms — noting that neural pathways strengthen with repetition in a genuinely exponential way. The habits of attention, sleep, and exercise that seem minor individually compound over years into dramatically different brain and body outcomes.
+
+### Dave Asprey
+Dave Asprey's entire philosophy is built on the compound returns of biohacking — that small daily improvements in sleep, nutrition, cognitive performance, and recovery compound into dramatically different outcomes over time. He frames his books and protocols explicitly around this compounding principle.
+
+### Joe Rogan
+Joe Rogan has been vocal about the compound effect of consistent training and discipline throughout his life, frequently making the point on the JRE that showing up daily over years — not any single heroic effort — produces mastery and transformation.
+
 ## Sources & Further Reading
 
 1. **Stocks for the Long Run** by Jeremy Siegel — Wharton professor's comprehensive analysis of 200+ years of market data proving long-term compound returns — https://www.wiley.com/en-us/Stocks+for+the+Long+Run%2C+6th+Edition-p-9781260473902

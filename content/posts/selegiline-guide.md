@@ -104,6 +104,19 @@ It requires a prescription and careful attention to drug interactions. But for t
 
 ---
 
+## What the Experts Say
+
+*Opinions below are paraphrased from each expert's public work, interviews, and podcasts — not direct quotes.*
+
+### Andrew Huberman
+Andrew Huberman has discussed MAO inhibitors and dopamine system modulation in depth on his podcast. He's mentioned selegiline in the context of dopamine optimization and neuroprotection, noting its historical use in Parkinson's and the research suggesting it may slow dopamine neuron degeneration. He approaches it cautiously given the interaction profile and prescription status.
+
+### Dave Asprey
+Dave Asprey has discussed selegiline (deprenyl) in the biohacking context, referencing its longevity research and dopaminergic neuroprotection effects. He considers it one of the more interesting compounds for brain aging and has noted the rat lifespan extension data, though he acknowledges the human evidence is much less definitive.
+
+### Joe Rogan
+Joe Rogan has discussed selegiline and deprenyl in conversations about cognitive enhancement and anti-aging on the JRE, particularly in discussions about dopamine optimization. He's expressed curiosity about its neuroprotective effects and the connection between dopamine system health and longevity.
+
 ## Sources & Further Reading
 
 1. The Parkinson Study Group. "Effects of tocopherol and deprenyl on the progression of disability in early Parkinson's disease." NEJM. 1993. https://www.nejm.org/doi/full/10.1056/NEJM199301143280204

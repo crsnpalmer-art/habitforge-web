@@ -82,6 +82,19 @@ The goal sets the destination. The system drives the car. And most of the time, 
 
 ---
 
+## What the Experts Say
+
+*Opinions below are paraphrased from each expert's public work, interviews, and podcasts — not direct quotes.*
+
+### Andrew Huberman
+Andrew Huberman has discussed goal-setting and systems in the context of motivation and dopamine neuroscience. He's noted that the dopamine response is more robust and sustainable when focused on the process (effort, learning, systems) rather than the goal (dopamine spike at achievement), which then crashes. He frames systems thinking as neurobiologically superior for sustained motivation.
+
+### Dave Asprey
+Dave Asprey approaches goals and performance through the lens of biohacking — optimizing the underlying system (body, brain, biology) to make goal achievement more automatic. He's discussed how physiological optimization (sleep, nutrition, cognitive performance) underlies the capacity to execute on any behavioral system.
+
+### Joe Rogan
+Joe Rogan has frequently discussed discipline, consistency, and systems on the JRE — particularly in relation to martial arts training, where showing up daily and building skill over years reflects systems over goals. He's credited his consistency with Brazilian Jiu-Jitsu (practicing for 25+ years) as a model for any long-term skill or habit development.
+
 ## Sources & Further Reading
 
 1. Locke EA, Latham GP. "A Theory of Goal Setting and Task Performance." Prentice Hall. 1990. https://www.sciencedirect.com/science/article/pii/0749597890900388

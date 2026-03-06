@@ -71,6 +71,25 @@ Omega-3 fatty acids represent one of the few supplements where both breadth of e
 
 ---
 
+## What the Experts Say
+
+*Opinions below are paraphrased from each expert's public work, interviews, and podcasts — not direct quotes.*
+
+### Andrew Huberman
+Andrew Huberman is one of the most vocal proponents of omega-3 supplementation. He recommends 2-3 grams of EPA per day — a dose higher than most standard recommendations — citing its effects on mood, neuroinflammation, cardiovascular health, and cognitive function. He's had Rhonda Patrick on his podcast specifically to discuss omega-3 and brain health, and considers it one of the highest-priority foundational supplements.
+
+### Paul Saladino
+Paul Saladino has a nuanced stance: he believes omega-3s from whole animal sources (fatty fish, grass-fed beef) are superior to fish oil supplements, noting that oxidation of the delicate EPA and DHA during processing is a real concern. He views the ideal approach as eating sardines, salmon, and grass-fed meat rather than supplementing with capsules — though he's acknowledged that fish oil is better than nothing for those who won't eat fatty fish.
+
+### Dave Asprey
+Dave Asprey has recommended omega-3 supplementation for decades and places heavy emphasis on sourcing — preferring krill oil or very fresh, independently tested fish oil with low oxidation markers (TOTOX score). He views omega-3 as essential for brain function, cellular membrane health, and inflammation control, and has discussed the importance of balancing omega-3 to omega-6 ratio.
+
+### Joe Rogan
+Joe Rogan has mentioned taking fish oil regularly on the JRE, generally treating it as a baseline health supplement. He's discussed the anti-inflammatory benefits in the context of combat sports recovery and has had guests like Dr. Rhonda Patrick detail the neurological and cardiovascular research.
+
+### Dr. Raymond Peat
+Dr. Raymond Peat holds a controversial position on omega-3: he classifies EPA and DHA as polyunsaturated fats (PUFAs) and is broadly skeptical of all PUFAs, arguing they are highly susceptible to peroxidation and can interfere with thyroid and mitochondrial function. He recommends avoiding fish oil entirely and instead getting fat from saturated sources — a position that sharply contradicts mainstream nutritional science.
+
 ## Sources & Further Reading
 
 1. **REDUCE-IT trial (Bhatt et al., 2019)** — Landmark study showing 25% reduction in cardiovascular events with high-dose EPA — https://www.nejm.org/doi/full/10.1056/NEJMoa1812792

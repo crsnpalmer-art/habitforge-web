@@ -69,6 +69,19 @@ Ashwagandha is not a magic pill, but for those under chronic stress with subopti
 
 ---
 
+## What the Experts Say
+
+*Opinions below are paraphrased from each expert's public work, interviews, and podcasts — not direct quotes.*
+
+### Andrew Huberman
+Andrew Huberman has recommended ashwagandha on multiple Huberman Lab episodes, citing clinical data showing it reduces cortisol, supports testosterone levels, and improves stress resilience. He typically suggests KSM-66 or Sensoril extract at 300-600mg and notably recommends cycling off it after 2-3 months — citing concern that chronic use may reduce thyroid hormone output and dampen certain stress responses the body needs.
+
+### Paul Saladino
+Paul Saladino has expressed skepticism about ashwagandha, consistent with his broader wariness of plant compounds. He's noted that plants produce these compounds as defense mechanisms and questions whether chronically supplementing with adaptogens that modulate cortisol is optimal — preferring lifestyle interventions like diet, sleep, and sunlight for stress management.
+
+### Dave Asprey
+Dave Asprey has discussed ashwagandha positively as a cortisol-modulating adaptogen within the Bulletproof framework. He recommends it as part of a stress-mitigation stack and has written about its benefits for sleep quality and cortisol rhythm. Like Huberman, he often suggests cycling rather than daily year-round use.
+
 ## Sources & Further Reading
 
 1. Chandrasekhar K, Kapoor J, Anishetty S. A prospective, randomized double-blind, placebo-controlled study of safety and efficacy of a high-concentration full-spectrum extract of ashwagandha root in reducing stress and anxiety in adults. *Indian J Psychol Med*. 2012;34(3):255-262. https://pubmed.ncbi.nlm.nih.gov/23439798/

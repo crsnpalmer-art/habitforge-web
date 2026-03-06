@@ -73,6 +73,22 @@ The bottom line: sauna is one of the few passive health practices with robust, l
 
 ---
 
+## What the Experts Say
+
+*Opinions below are paraphrased from each expert's public work, interviews, and podcasts — not direct quotes.*
+
+### Andrew Huberman
+Andrew Huberman has discussed sauna extensively on the Huberman Lab podcast, citing Finnish research showing associations between frequent sauna use (4-7x per week) and dramatically reduced cardiovascular disease mortality. He recommends at least 20 minutes at 80-100°C for meaningful hormetic stress, and has detailed the growth hormone release protocol (sauna → cold → sauna → cold cycles). He views deliberate heat exposure as one of the highest-ROI health interventions available.
+
+### Paul Saladino
+Paul Saladino has incorporated sauna into his wellness framework, viewing deliberate heat stress as a natural hormetic practice consistent with ancestral living. He's discussed the cardiovascular and growth hormone benefits and considers sauna a valuable tool for recovery and metabolic health, particularly when paired with adequate mineral and nutrient intake.
+
+### Dave Asprey
+Dave Asprey has been a sauna advocate for years, featuring infrared sauna prominently in the Bulletproof lifestyle. He slightly prefers far-infrared over traditional Finnish sauna for specific protocols, noting different tissue penetration depths, though he acknowledges both provide significant benefits. He considers sauna an essential component of a detoxification and recovery protocol.
+
+### Joe Rogan
+Joe Rogan is an enthusiastic sauna user and frequently discusses it on the JRE, often in combination with cold plunge as a contrast therapy protocol. He's had Dr. Rhonda Patrick on specifically to discuss the longevity and heat shock protein research, which significantly influenced his perspective on the health benefits of deliberate heat exposure.
+
 ## Sources & Further Reading
 
 1. **Laukkanen T, et al. (2015).** Association Between Sauna Bathing and Fatal Cardiovascular and All-Cause Mortality Events. *JAMA Internal Medicine*. — https://pubmed.ncbi.nlm.nih.gov/25705824/

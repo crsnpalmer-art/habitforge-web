@@ -84,6 +84,22 @@ Zone 2 cardio is unglamorous and requires patience, which is exactly why most pe
 
 ---
 
+## What the Experts Say
+
+*Opinions below are paraphrased from each expert's public work, interviews, and podcasts — not direct quotes.*
+
+### Andrew Huberman
+Andrew Huberman recommends Zone 2 cardio as a foundational longevity practice, citing the mitochondrial biogenesis and metabolic flexibility benefits. He suggests a minimum of 150-200 minutes per week and emphasizes that this type of low-intensity sustained cardio is distinct from HIIT — it requires patient, consistent effort and is best measured by lactate levels or the "conversational pace" test. He views it as non-negotiable for long-term cardiovascular health.
+
+### Paul Saladino
+Paul Saladino views low-intensity movement like walking as ancestrally aligned and genuinely important for metabolic health. He's supportive of Zone 2 exercise as part of an active lifestyle, though he'd frame it more as "moving like your ancestors did" — sustained, low-intensity activity — rather than a structured training protocol.
+
+### Dave Asprey
+Dave Asprey has an interesting relationship with Zone 2 cardio — he famously avoided "chronic cardio" for years in the Bulletproof era, arguing that excessive endurance training elevated cortisol and was counterproductive. He's evolved his position significantly, now acknowledging Zone 2's unique mitochondrial benefits while maintaining that it's distinct from high-volume traditional endurance training.
+
+### Joe Rogan
+Joe Rogan incorporates steady-state cardio alongside his combat sports training and has discussed Zone 2 training on the JRE in the context of longevity and cardiovascular base-building. He's had guests like Peter Attia explain why Zone 2 is foundational to metabolic health, which influenced his training philosophy.
+
 ## Sources & Further Reading
 
 1. San-Millán I, Brooks GA. "Assessment of Metabolic Flexibility by Means of Measuring Blood Lactate, Fat, and Carbohydrate Oxidation Responses." Nutrients. 2018. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6628858/

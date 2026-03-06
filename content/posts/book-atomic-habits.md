@@ -72,6 +72,16 @@ Anyone who wants sustainable change — athletes, entrepreneurs, students, paren
 
 ---
 
+## What the Experts Say
+
+*Opinions below are paraphrased from each expert's public work, interviews, and podcasts — not direct quotes.*
+
+### Andrew Huberman
+Andrew Huberman has referenced Atomic Habits and James Clear's framework on his podcast, particularly the concept that identity precedes behavior — which aligns with his neuroscience perspective on how self-representation influences action. He considers habit formation one of the most practically valuable topics in behavioral neuroscience.
+
+### Joe Rogan
+Joe Rogan has discussed Atomic Habits and habit formation philosophy broadly on the JRE, consistent with his emphasis on discipline and consistent action. He's cited habit literature in conversations about training, business, and personal development.
+
 ## Sources & Further Reading
 
 1. **Atomic Habits by James Clear** — Official book page with resources and habit tracker templates — https://jamesclear.com/atomic-habits

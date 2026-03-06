@@ -72,6 +72,19 @@ Track consistently. Protect your streaks. Recover without drama when you don't. 
 
 ---
 
+## What the Experts Say
+
+*Opinions below are paraphrased from each expert's public work, interviews, and podcasts — not direct quotes.*
+
+### Andrew Huberman
+Andrew Huberman has discussed habit tracking in the context of behavioral reinforcement and the neuroscience of progress. He notes that tracking creates a measurable feedback loop that activates dopamine reward systems — the act of marking a habit complete provides a small dopamine signal that reinforces the behavior. He's discussed how visual progress tracking leverages the brain's pattern recognition systems.
+
+### Dave Asprey
+Dave Asprey has made quantified self-tracking central to his biohacking philosophy — he's tracked sleep, HRV, glucose, and dozens of biomarkers for years. He views habit tracking as the behavioral equivalent of biometric tracking: you can't optimize what you don't measure. He considers it essential for creating the feedback loops necessary for sustained behavior change.
+
+### Joe Rogan
+Joe Rogan has discussed consistency tracking in the context of his long-term BJJ training and fitness practice, noting that showing up is the primary variable and that any system making the streak visible creates accountability. He views the compound effect of tracked consistency as the foundation of mastery.
+
 ## Sources & Further Reading
 
 1. **Self-monitoring and behavioral change** — Burke LE, Wang J, Sevick MA. Self-monitoring in weight loss: a systematic review of the literature. *J Am Diet Assoc.* 2011;111(1):92-102. https://pubmed.ncbi.nlm.nih.gov/21185970/

@@ -100,6 +100,19 @@ The most powerful use of bloodwork is not diagnosis — it's direction. A rising
 
 ---
 
+## What the Experts Say
+
+*Opinions below are paraphrased from each expert's public work, interviews, and podcasts — not direct quotes.*
+
+### Andrew Huberman
+Andrew Huberman strongly advocates for comprehensive bloodwork as the foundation of any personalized health protocol. He recommends testing at minimum twice per year and getting panels that include hormones (testosterone, free testosterone, DHEA, cortisol), metabolic markers (fasting glucose, insulin, HbA1c), lipids (full particle counts), inflammatory markers (CRP, homocysteine), and micronutrients (vitamin D, magnesium, iron panel). He views self-knowledge through data as essential to targeted optimization.
+
+### Dave Asprey
+Dave Asprey has been a proponent of comprehensive bloodwork and continuous health monitoring for decades, regularly testing dozens of biomarkers and using the data to guide his biohacking protocols. He views annual physicals with basic panels as woefully inadequate and advocates for regular, comprehensive testing as a performance tool rather than just disease screening.
+
+### Joe Rogan
+Joe Rogan has discussed comprehensive bloodwork on the JRE in the context of his own health monitoring, particularly around hormone optimization. He's noted the difference between "within range" and "optimal" and has had multiple physicians on the show discuss how standard reference ranges often reflect disease thresholds rather than health optimization targets.
+
 ## Sources & Further Reading
 
 1. **Fasting Insulin as a Predictor of Cardiovascular Disease** — Diabetes Care Journal — https://diabetesjournals.org/care/article/25/6/1129/22116/Fasting-Insulin-and-Outcome-in-Nondiabetic
