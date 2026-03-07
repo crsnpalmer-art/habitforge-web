@@ -119,6 +119,6 @@ Dr. Raymond Peat has written about thiamine (vitamin B1) as a critical cofactor 
 
 ## Where to Buy / Find This
 
-- **Objective Nutrients TTFD** — Thiamine Tetrahydrofurfuryl Disulfide, fat-soluble, superior CNS penetration — https://www.amazon.com/Objective-Nutrients-Thiamine-Tetrahydrofurfuryl-Disulfide/dp/B09BFHFKQV
-- **Solgar Benfotiamine** — Fat-soluble thiamine, 150 mg, well-studied — https://www.amazon.com/Solgar-Benfotiamine-150-Vegetable-Capsules/dp/B002XSTDIA
-- **Life Extension Mega Benfotiamine** — 250 mg high-dose benfotiamine — https://www.amazon.com/Life-Extension-Mega-Benfotiamine-250mg/dp/B003D7NN6G
+
+- **Thorne Vitamin B1** — Thiamine HCl for neurological health and energy metabolism — [https://www.thorne.com/products/dp/b1](https://www.thorne.com/products/dp/b1)
+- **Pure Encapsulations B1** — Thiamine HCl for neurological and metabolic support — [https://www.pureencapsulations.com/b1.html](https://www.pureencapsulations.com/b1.html)

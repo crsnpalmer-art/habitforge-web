@@ -111,5 +111,3 @@ Dave Asprey has discussed tesamorelin as one of the more clinically validated pe
 
 ## Where to Buy / Find This
 
-- **Peptide Sciences Tesamorelin** — Research-grade lyophilized peptide — https://www.peptidesciences.com/tesamorelin
-- **GoodRx — Egrifta (Tesamorelin)** — Brand-name pricing and pharmacy comparison — https://www.goodrx.com/egrifta

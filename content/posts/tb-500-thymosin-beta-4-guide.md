@@ -137,6 +137,3 @@ Joe Rogan has mentioned peptides including TB-500 in the context of injury heali
 
 ## Where to Buy / Find This
 
-- **Peptide Sciences TB-500** — Research-grade, lab-tested, lyophilized powder — https://www.peptidesciences.com/tb-500
-- **Limitless Life Nootropics TB-500** — US-sourced research peptide — https://limitlesslifenootropics.com/tb-500/
-- **Bacteriostatic water** — Required for reconstitution — https://www.amazon.com/Bacteriostatic-Water-Injection-Multiple-Vials/dp/B07X72MLVX

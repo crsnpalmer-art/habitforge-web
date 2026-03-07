@@ -103,10 +103,7 @@ Dr. Raymond Peat holds a skeptical view of melatonin supplementation, consistent
 
 ## Where to Buy / Find This
 
-- **Life Extension Melatonin 300 mcg** — Low-dose melatonin capsules (0.3 mg) in physiological range, NSF Certified for Sport — https://www.amazon.com/Life-Extension-Melatonin-300-Vegetarian/dp/B000MGOK0K
 
-- **Natrol Melatonin 1mg Fast Dissolve** — Quick-dissolve low-dose tablets for faster absorption, minimal fillers — https://www.amazon.com/Natrol-Melatonin-Dissolve-Tablets-Strawberry/dp/B000GG2I9O
 
-- **NOW Foods Melatonin 500 mcg** — Ultra-low dose capsules (0.5 mg), third-party tested, vegan — https://www.amazon.com/NOW-Melatonin-500-Veg-Capsules/dp/B0013OXD38
 
 - **Pure Encapsulations Melatonin 0.5 mg** — Hypoallergenic, medical-grade formulation, no unnecessary additives — https://www.amazon.com/Pure-Encapsulations-Hypoallergenic-Supplement-Capsules/dp/B0017JB37M

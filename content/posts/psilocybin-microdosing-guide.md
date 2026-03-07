@@ -156,8 +156,4 @@ Joe Rogan is one of the most prominent public advocates for psychedelics includi
 
 ## Where to Buy / Find This
 
-- **The Psychedelic Explorer's Guide by James Fadiman** — The foundational book on microdosing protocols and self-experimentation — https://www.amazon.com/Psychedelic-Explorers-Guide-Therapeutic-Journeys/dp/1594774021
-- **Host Defense Lion's Mane Capsules** — Paul Stamets' brand for the Lion's Mane component of the Stamets Stack — https://www.amazon.com/Host-Defense-Lions-Capsules-Memory/dp/B078SJ9F2V
-- **Nature's Bounty Niacin 100mg** — Flush-free or regular niacin for the Stamets Stack protocol — https://www.amazon.com/Natures-Bounty-Niacin-100mg-Capsules/dp/B000NPYY04
-- **How to Change Your Mind by Michael Pollan** — Award-winning exploration of psychedelic science and therapeutic potential — https://www.amazon.com/Change-Your-Mind-Consciousness-Transcendence/dp/1594204225
 

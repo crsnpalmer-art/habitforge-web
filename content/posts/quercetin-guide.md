@@ -96,6 +96,5 @@ Dave Asprey has discussed quercetin as a polyphenol with broad anti-inflammatory
 
 ## Where to Buy / Find This
 
-- **NOW Foods Quercetin with Bromelain** — 800 mg quercetin + bromelain for enhanced absorption — https://www.amazon.com/NOW-Supplements-Quercetin-Bromelain-Capsules/dp/B0013OSAJM
 - **Thorne Quercetin Phytosome** — Superior bioavailability form — https://www.amazon.com/Thorne-Research-Quercetin-Phytosome-Supplement/dp/B0013OVWSI
 - **Pure Encapsulations Quercetin** — Hypoallergenic, clean label — https://www.amazon.com/Pure-Encapsulations-Quercetin-Antioxidant-Supplement/dp/B00280ESFC

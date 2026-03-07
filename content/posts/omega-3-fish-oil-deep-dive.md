@@ -100,7 +100,6 @@ Dr. Raymond Peat holds a controversial position on omega-3: he classifies EPA an
 
 ## Where to Buy / Find This
 
-- **Nordic Naturals Ultimate Omega** — High-quality triglyceride form, IFOS certified, 1280mg EPA+DHA per 2 softgels — https://www.amazon.com/Nordic-Naturals-Ultimate-Omega-Softgels/dp/B002CQU55C
-- **Carlson Labs Elite Omega-3 Gems** — NSF certified, lemon flavor, 1600mg EPA+DHA per 2 softgels — https://www.amazon.com/Carlson-Elite-Omega-3-Gems-Professional/dp/B002KAY9UC
-- **Sports Research Triple Strength Omega-3** — Cost-effective option, triglyceride form, 1250mg EPA+DHA per 2 softgels — https://www.amazon.com/Sports-Research-Omega-3-Triple-Strength/dp/B01MXG4TWM
-- **Viva Naturals Omega-3 Fish Oil** — Budget-friendly, molecularly distilled, 1400mg omega-3s per 2 softgels — https://www.amazon.com/Viva-Naturals-Omega-Fish-Oil/dp/B00P4PLDQ8
+
+- **Thorne Super EPA** — Concentrated EPA/DHA from sustainably sourced fish oil — [https://www.thorne.com/products/dp/super-epa](https://www.thorne.com/products/dp/super-epa)
+- **Pure Encapsulations O.N.E. Omega** — High-potency omega-3 with 1,000mg EPA/DHA per softgel — [https://www.pureencapsulations.com/o-n-e-omega.html](https://www.pureencapsulations.com/o-n-e-omega.html)

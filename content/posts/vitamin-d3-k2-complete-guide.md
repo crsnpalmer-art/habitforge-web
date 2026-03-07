@@ -120,5 +120,3 @@ Dr. Raymond Peat has written favorably about vitamin D in the context of thyroid
 ## Where to Buy / Find This
 
 - **Thorne Vitamin D/K2** — 1,000 IU D3 + 200 mcg MK-7, NSF certified — https://www.amazon.com/Thorne-Research-Vitamin-K2-Supplement/dp/B0797H831C
-- **Sports Research Vitamin D3 K2** — 5,000 IU D3 with MK-7, organic coconut oil for absorption — https://www.amazon.com/Sports-Research-Vitamin-K2-MK7/dp/B01CYZF7XM
-- **Carlson Labs Vitamin D3** — 2,000 IU, olive oil base — https://www.amazon.com/Carlson-Labs-Vitamin-Olive-Softgels/dp/B00BSLMW2C

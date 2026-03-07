@@ -120,7 +120,4 @@ Dr. Raymond Peat has written about magnesium's role in supporting mitochondrial 
 ## Where to Buy / Find This
 
 - **Thorne Magnesium Bisglycinate** — High-quality magnesium glycinate powder, NSF Certified for Sport — https://www.amazon.com/Thorne-Research-Magnesium-Bisglycinate-Powder/dp/B0797H6JJH
-- **Doctor's Best High Absorption Magnesium** — Affordable magnesium glycinate/lysinate chelate, 100mg per tablet — https://www.amazon.com/Doctors-Best-Absorption-Magnesium-Glycinate/dp/B000BD0RT0
-- **Life Extension Neuro-Mag (Magnesium L-Threonate)** — Research-backed brain-targeted magnesium form — https://www.amazon.com/Life-Extension-Neuro-Mag-Magnesium-L-Threonate/dp/B006P536Y0
-- **NOW Magnesium Malate 1000mg** — Energy-supporting form for daytime use, budget-friendly — https://www.amazon.com/NOW-Magnesium-Malate-1000-Tablets/dp/B00KG80M5Y
 - **Pure Encapsulations Magnesium (Glycinate)** — Hypoallergenic, high-purity option for sensitive individuals — https://www.amazon.com/Pure-Encapsulations-Magnesium-Glycinate-Capsules/dp/B0017O96QG

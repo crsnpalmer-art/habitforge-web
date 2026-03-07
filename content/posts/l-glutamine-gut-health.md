@@ -90,7 +90,4 @@ Dave Asprey has recommended L-glutamine specifically for gut healing protocols, 
 
 ## Where to Buy / Find This
 
-- **NOW Sports L-Glutamine Powder** — Pharmaceutical grade, unflavored, 1g per scoop, excellent value and purity — https://www.amazon.com/NOW-Sports-Nutrition-L-Glutamine-Powder/dp/B0013OXKHC
 - **Thorne L-Glutamine Powder** — NSF Certified for Sport, high-quality sourcing, third-party tested — https://www.amazon.com/Thorne-Research-L-Glutamine-Powder/dp/B0016BFWU6
-- **Jarrow Formulas L-Glutamine** — Free-form glutamine, well-absorbed, trusted brand — https://www.amazon.com/Jarrow-Formulas-L-Glutamine-Amino-Powder/dp/B0013OW2KS
-- **Bulk Supplements L-Glutamine** — Pure powder, no additives, economical for high-dose protocols — https://www.amazon.com/BulkSupplements-L-Glutamine-Powder-Kilogram/dp/B00E7GESIK

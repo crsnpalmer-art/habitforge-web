@@ -112,5 +112,3 @@ Dr. Raymond Peat is cautious about multivitamin supplementation, particularly no
 
 - **Thorne Research Basic Nutrients 2/Day** — High-quality methylated multivitamin with chelated minerals, NSF certified — https://www.amazon.com/Thorne-Research-Basic-Nutrients-Capsules/dp/B0797HPS95
 - **Pure Encapsulations O.N.E. Multivitamin** — Once-daily comprehensive formula with methylated B-vitamins and bioavailable minerals — https://www.amazon.com/Pure-Encapsulations-Multivitamin-Cognitive-Capsules/dp/B001DMCF5G
-- **Garden of Life Vitamin Code** — Whole food-based multivitamin with live probiotics and enzymes — https://www.amazon.com/Garden-Life-Vitamin-Multivitamin-Vegetarian/dp/B002RL8FDO
-- **Ritual Essential for Men/Women** — Transparent-sourced multivitamin targeting the most common deficiencies — https://ritual.com/products/essential-for-women

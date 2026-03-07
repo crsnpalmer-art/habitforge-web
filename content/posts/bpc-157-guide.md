@@ -122,9 +122,5 @@ Joe Rogan has mentioned BPC-157 on the JRE in the context of injury recovery and
 
 ## Where to Buy / Find This
 
-- **Limitless Life Nootropics** — Research-grade BPC-157 injectable peptides with third-party testing, reputable supplier in the peptide community — https://limitlesslifenootropics.com/product/bpc-157/
-- **Peptide Sciences** — High-purity BPC-157 (injectable and oral forms), includes certificates of analysis, widely trusted source — https://www.peptidesciences.com/bpc-157
-- **Tailor Made Compounding** — Prescription compounding pharmacy offering BPC-157 through licensed healthcare providers — https://www.tailormadecompounding.com/
-- **Nootropics Depot** — BPC-157 arginate (oral stable form) for gut health applications, third-party tested — https://nootropicsdepot.com/bpc-157-arginate-capsules/
 
 **Important Note:** BPC-157 is sold as a research chemical. Purchase from reputable sources that provide third-party testing and certificates of analysis. Quality and purity vary significantly across suppliers.

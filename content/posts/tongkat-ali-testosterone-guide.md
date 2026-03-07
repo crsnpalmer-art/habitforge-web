@@ -99,6 +99,7 @@ Joe Rogan has discussed testosterone optimization approaches on the JRE and has 
 
 ## Where to Buy / Find This
 
-- **Nootropics Depot Tongkat Ali (LJ100)** — Standardized to eurycomanone, third-party tested — https://nootropicsdepot.com/tongkat-ali-extract-100-1/
-- **Nutricost Tongkat Ali 400mg** — Budget-friendly, 200:1 extract — https://www.amazon.com/Nutricost-Tongkat-Ali-Extract-400mg/dp/B07H38YCHF
-- **Double Wood Supplements Tongkat Ali** — 400 mg standardized root extract — https://www.amazon.com/Tongkat-Ali-Extract-Supplement/dp/B07D98S71V
+
+- **Thorne Phytisone** — Ashwagandha and adaptogen blend — for standalone tongkat ali, see UMZU below — [https://www.thorne.com/products/dp/phytisone](https://www.thorne.com/products/dp/phytisone)
+- **Pure Encapsulations Tongkat Ali** — Standardized Tongkat Ali (Longjack) extract for testosterone and vitality support — [https://www.pureencapsulations.com/tongkat-ali.html](https://www.pureencapsulations.com/tongkat-ali.html)
+- **UMZU Tongkat Ali** — 100:1 extract standardized for eurycomanone content — testosterone and vitality support — [https://umzu.com/products/tongkat-ali](https://umzu.com/products/tongkat-ali)

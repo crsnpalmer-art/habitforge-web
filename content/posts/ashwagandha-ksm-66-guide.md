@@ -98,10 +98,10 @@ Dave Asprey has discussed ashwagandha positively as a cortisol-modulating adapto
 
 ## Where to Buy / Find This
 
-- **Nootropics Depot KSM-66 Ashwagandha** — 300mg capsules, third-party tested, transparent sourcing, widely considered the gold standard — https://nootropicsdepot.com/ksm-66-ashwagandha-capsules/
 
-- **Transparent Labs KSM-66 Ashwagandha** — 600mg per serving, clean label, no fillers, highly rated — https://www.transparentlabs.com/products/vitality
 
-- **Jarrow Formulas KSM-66 Ashwagandha** — Affordable, verified KSM-66 extract, available on Amazon — https://www.amazon.com/Jarrow-Formulas-Ashwagandha-Veggie-Capsules/dp/B01D15LMCK
 
-- **NOW Supplements Ashwagandha (KSM-66)** — Budget-friendly option with solid quality control — https://www.amazon.com/NOW-Ashwagandha-Extract-450-Capsules/dp/B00AM2N86U
+
+- **Thorne Ashwagandha** — KSM-66 standardized extract for stress and cortisol support — [https://www.thorne.com/products/dp/botanicals/ashwagandha](https://www.thorne.com/products/dp/botanicals/ashwagandha)
+- **Pure Encapsulations Ashwagandha** — 500mg KSM-66 standardized extract for stress resilience and HPA support — [https://www.pureencapsulations.com/ashwagandha.html](https://www.pureencapsulations.com/ashwagandha.html)
+- **UMZU TESTRO-X (contains KSM-66 ashwagandha)** — Comprehensive testosterone support stack including KSM-66, zinc, and magnesium — [https://umzu.com/products/testro-x](https://umzu.com/products/testro-x)

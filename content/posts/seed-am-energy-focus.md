@@ -87,6 +87,5 @@ Dave Asprey has discussed the gut microbiome and probiotic supplementation as fo
 3. Sanders ME, et al. "Probiotics and prebiotics in intestinal health and disease." Nature Reviews Gastroenterology & Hepatology. 2019. https://pubmed.ncbi.nlm.nih.gov/31296969/
 
 ## Where to Buy / Find This
-
-- **Seed DS-01 Daily Synbiotic** — AM + PM system, subscription-based — https://seed.com/ds-01
-- **Ritual Synbiotic+** — Alternative 3-in-1 synbiotic (pre + pro + postbiotics) — https://ritual.com/products/synbiotic
+- **Thorne FloraMend Prime Probiotic** — Spore-based, heat-stable probiotic blend for gut microbiome support, survives stomach acid without refrigeration — [https://www.thorne.com/products/dp/floramend-prime-probiotic](https://www.thorne.com/products/dp/floramend-prime-probiotic)
+- **Pure Encapsulations Probiotic 50B** — 50 billion CFU multi-strain formula, hypoallergenic, tested for potency through expiration — [https://www.pureencapsulations.com/probiotic-50b.html](https://www.pureencapsulations.com/probiotic-50b.html)

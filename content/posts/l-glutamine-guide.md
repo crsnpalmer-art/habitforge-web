@@ -103,7 +103,4 @@ Dave Asprey has discussed L-glutamine primarily in the context of gut healing an
 
 ## Where to Buy / Find This
 
-- **NOW Sports L-Glutamine Powder (1kg)** — Pure, unflavored L-glutamine powder; pharmaceutical grade; excellent value — https://www.amazon.com/NOW-Sports-Nutrition-L-Glutamine-Pharmaceutical/dp/B0013OXD38
 - **Thorne L-Glutamine Powder** — NSF Certified for Sport; third-party tested for banned substances; trusted by athletes — https://www.amazon.com/Thorne-Research-L-Glutamine-Powder/dp/B0009F3S7Q
-- **Transparent Labs Glutamine** — High purity, no fillers, transparent sourcing and testing — https://www.transparentlabs.com/products/coresteries-glutamine
-- **Jarrow Formulas L-Glutamine 750mg Capsules** — Convenient capsule form for those who prefer not to use powder — https://www.amazon.com/Jarrow-Formulas-L-Glutamine-Supports-Intestinal/dp/B0013OSOVE

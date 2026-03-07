@@ -97,6 +97,6 @@ Joe Rogan has discussed resveratrol and NMN in conversations with David Sinclair
 
 ## Where to Buy / Find This
 
-- **Life Extension Trans-Resveratrol** — 100 mg trans-resveratrol + grape seed extract — https://www.amazon.com/Life-Extension-Trans-Resveratrol-Vegetarian-Capsules/dp/B003ESNZS4
-- **Double Wood Pterostilbene** — 100 mg pure pterostilbene, standardized — https://www.amazon.com/Pterostilbene-Supplement-100mg-Servings-Double/dp/B072BKCQBF
-- **Nootropics Depot Pterostilbene** — Premium, lab-verified pterostilbene — https://nootropicsdepot.com/pterostilbene-100mg-capsules/
+
+- **Thorne ResveraCel** — Resveratrol with NMN and nicotinamide riboside for NAD+ support — [https://www.thorne.com/products/dp/resveracel](https://www.thorne.com/products/dp/resveracel)
+- **Pure Encapsulations Resveratrol** — Trans-resveratrol from Polygonum cuspidatum for cardiovascular and longevity support — [https://www.pureencapsulations.com/resveratrol.html](https://www.pureencapsulations.com/resveratrol.html)

@@ -102,6 +102,4 @@ Dave Asprey has positioned berberine as one of the most interesting metabolic su
 ## Where to Buy / Find This
 
 - **Thorne Berberine-500** — High-quality berberine HCl, 500 mg capsules, NSF Certified for Sport — https://www.amazon.com/Thorne-Research-Berberine-500-Capsules/dp/B0797J1FBP
-- **NOW Supplements Berberine Glucose Support** — Affordable option, 90 vegetarian capsules, 1,000 mg per serving — https://www.amazon.com/NOW-Supplements-Berberine-Glucose-Support/dp/B07F7Q6FG3
 - **Pure Encapsulations Berberine UltraSorb** — Enhanced absorption formula with phytosome technology — https://www.amazon.com/Pure-Encapsulations-Berberine-UltraSorb-Capsules/dp/B08R6BB7FH
-- **Double Wood Supplements Berberine HCl** — Budget-friendly, third-party tested, 500 mg capsules — https://www.amazon.com/Double-Wood-Supplements-Berberine-Capsules/dp/B07FMYWMR5

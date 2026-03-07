@@ -93,7 +93,3 @@ Dr. Raymond Peat has written about mitochondrial function and CoQ10 in the conte
 
 ## Where to Buy / Find This
 
-- **Qunol Ultra CoQ10 (100mg, 120 softgels)** — Highly bioavailable ubiquinone with patented water-soluble delivery — https://www.amazon.com/Qunol-Ultra-CoQ10-Softgels-Essential/dp/B0049S3YRS
-- **Jarrow Formulas QH-absorb Ubiquinol (100mg, 60 softgels)** — High-quality ubiquinol form, ideal for those over 40 — https://www.amazon.com/Jarrow-Formulas-QH-absorb-Ubiquinol-Softgels/dp/B002YSE9AG
-- **Doctor's Best High Absorption CoQ10 with BioPerine (200mg, 60 veggie caps)** — Enhanced absorption ubiquinone with black pepper extract — https://www.amazon.com/Doctors-Best-Absorption-BioPerine-Capsules/dp/B0019GW3G8
-- **Life Extension Super Ubiquinol CoQ10 (100mg, 60 softgels)** — Premium ubiquinol with enhanced mitochondrial support — https://www.amazon.com/Life-Extension-Super-Ubiquinol-softgels/dp/B002VLC03C

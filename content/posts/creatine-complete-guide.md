@@ -94,10 +94,7 @@ Joe Rogan has discussed creatine as a foundational supplement on the JRE multipl
 
 ## Where to Buy / Find This
 
-- **Optimum Nutrition Micronized Creatine Monohydrate Powder** — Pure, unflavored creatine monohydrate with 5g per serving, excellent value and quality — [https://www.amazon.com/Optimum-Nutrition-Micronized-Creatine-Monohydrate/dp/B002DYIZEO](https://www.amazon.com/Optimum-Nutrition-Micronized-Creatine-Monohydrate/dp/B002DYIZEO)
 
-- **Bulk Supplements Creatine Monohydrate Powder** — No-frills pure creatine powder, third-party tested, great for budget-conscious buyers — [https://www.amazon.com/BulkSupplements-Creatine-Monohydrate-Powder-Kilogram/dp/B00E9M4XEE](https://www.amazon.com/BulkSupplements-Creatine-Monohydrate-Powder-Kilogram/dp/B00E9M4XEE)
 
 - **Thorne Creatine** — NSF Certified for Sport, ideal for competitive athletes subject to drug testing — [https://www.amazon.com/Thorne-Research-Creatine-Strength-Performance/dp/B004HYAALOM](https://www.amazon.com/Thorne-Research-Creatine-Strength-Performance/dp/B004HYAALOM)
 
-- **NOW Sports Creatine Monohydrate Powder** — High-quality, affordable option with strong manufacturing standards — [https://www.amazon.com/NOW-Sports-Nutrition-Monohydrate-Powder/dp/B0013OQGO6](https://www.amazon.com/NOW-Sports-Nutrition-Monohydrate-Powder/dp/B0013OQGO6)

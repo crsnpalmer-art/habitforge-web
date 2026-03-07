@@ -103,10 +103,6 @@ Dr. Raymond Peat has written about carnitine's role in fatty acid transport into
 
 ## Where to Buy / Find This
 
-- **Jarrow Formulas Acetyl L-Carnitine 500mg** — highly bioavailable form, 120 capsules, pharmaceutical-grade purity — https://www.amazon.com/Jarrow-Formulas-Acetyl-L-Carnitine-500mg/dp/B0013OUPG0
 
-- **NOW Foods Acetyl-L Carnitine 500mg** — budget-friendly option with third-party testing, vegan capsules — https://www.amazon.com/NOW-Acetyl-L-Carnitine-500-Veg-Capsules/dp/B000GFSVKE
 
-- **Life Extension Acetyl-L-Carnitine 500mg** — premium option with emphasis on neuroprotection research, non-GMO — https://www.amazon.com/Life-Extension-Acetyl-L-Carnitine-Vegetarian-Capsules/dp/B000M2Y8IC
 
-- **Bulk Supplements Acetyl L-Carnitine Powder** — cost-effective powder form for those comfortable with measuring doses — https://www.amazon.com/BulkSupplements-Acetyl-L-Carnitine-Grams-Kilogram/dp/B00E7GESWS

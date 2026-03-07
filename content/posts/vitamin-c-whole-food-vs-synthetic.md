@@ -108,6 +108,4 @@ Dr. Raymond Peat has written about vitamin C primarily in the context of collage
 
 ## Where to Buy / Find This
 
-- **Camu Camu Powder** — One of the highest whole-food vitamin C sources; 2-3g per tsp — https://www.amazon.com/Navitas-Organics-Camu-Powder/dp/B009Y3QTKE
-- **LivOn Labs Lypo-Spheric Vitamin C** — Liposomal form, superior bioavailability — https://www.amazon.com/LivOn-Labs-Lypo-Spheric-Vitamin/dp/B002CQU564
 - **Thorne Vitamin C with Flavonoids** — Ascorbic acid + citrus bioflavonoids — https://www.amazon.com/Thorne-Research-Citrate-Bioflavonoids-Supplement/dp/B001MSPPKY

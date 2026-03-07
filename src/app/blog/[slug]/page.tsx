@@ -159,10 +159,25 @@ export default async function BlogPost({ params }: { params: { slug: string } })
         {/* Footer */}
         <footer className="mt-14 pt-8 border-t border-stone-200 space-y-8">
 
-          {/* Disclaimer */}
-          <p className="text-xs text-stone-400">
-            This content is educational only and is not medical advice.
-          </p>
+          {/* Disclaimer — prominent for Supplements & Peptides */}
+          {(post.category === "Supplements" || post.category === "Peptides") ? (
+            <div
+              className="rounded-xl px-5 py-4 text-sm leading-relaxed"
+              style={{
+                background: "rgba(120, 90, 50, 0.05)",
+                border: "1px solid rgba(120, 90, 50, 0.15)",
+              }}
+            >
+              <p className="font-semibold text-stone-700 mb-1">Medical Disclaimer</p>
+              <p className="text-stone-500 text-[13px] leading-relaxed">
+                The information provided in this article is intended for educational and informational purposes only and does not constitute medical advice. It is not a substitute for professional medical consultation, diagnosis, or treatment. Always consult a qualified healthcare provider before starting any supplement, peptide, or wellness protocol — particularly if you have an existing medical condition, are pregnant or breastfeeding, or are taking prescription medications. Individual results may vary. Statements regarding supplements and peptides have not been evaluated by the Food and Drug Administration (FDA). These products are not intended to diagnose, treat, cure, or prevent any disease.
+              </p>
+            </div>
+          ) : (
+            <p className="text-xs text-stone-400">
+              This content is for educational purposes only and is not professional advice.
+            </p>
+          )}
 
           {/* Share */}
           <div>

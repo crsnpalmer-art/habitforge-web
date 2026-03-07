@@ -104,7 +104,7 @@ Dr. Raymond Peat has written extensively about gelatin and glycine, which are th
 
 ## Where to Buy / Find This
 
-- **Vital Proteins Collagen Peptides** — Unflavored grass-fed collagen, 20g per serving, highly soluble — https://www.amazon.com/Vital-Proteins-Collagen-Peptides-Unflavored/dp/B00K6JUG9W
-- **Sports Research Collagen Peptides** — Hydrolyzed Type I & III collagen, NSF Certified, unflavored powder — https://www.amazon.com/Sports-Research-Collagen-Peptides-Hydrolyzed/dp/B01MDLON1G
-- **Ancient Nutrition Multi Collagen Protein** — Blend of 5 collagen types from multiple sources — https://www.amazon.com/Ancient-Nutrition-Multi-Collagen-Protein/dp/B07H5MR6W3
-- **NOW Sports Collagen Peptides Powder** — Budget option, unflavored hydrolyzed collagen — https://www.amazon.com/NOW-Sports-Nutrition-Collagen-Peptides/dp/B0013OQGO6
+
+- **Thorne Collagen Plus** — Hydrolyzed collagen peptides with vitamin C for joint and skin support — [https://www.thorne.com/products/dp/collagen-plus](https://www.thorne.com/products/dp/collagen-plus)
+- **Pure Encapsulations Collagen-C** — Hydrolyzed collagen with vitamin C for joint, skin, and connective tissue support — [https://www.pureencapsulations.com/collagen-c.html](https://www.pureencapsulations.com/collagen-c.html)
+- **UMZU Collagen** — Grass-fed bovine collagen peptides types I and III for skin, joints, and gut — [https://umzu.com/products/collagen](https://umzu.com/products/collagen)

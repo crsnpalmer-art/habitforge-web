@@ -129,6 +129,4 @@ Dr. Raymond Peat is one of the most widely read voices on thyroid optimization, 
 
 ## Where to Buy / Find This
 
-- **Ulta Lab Tests — Thyroid Panel** — Order your own comprehensive thyroid labs without a doctor — https://www.ultalabtests.com/tests/thyroid-panel-with-tsh
-- **Brazil Nuts** — Best dietary source of selenium for T4→T3 conversion; 1-2 nuts/day is sufficient — https://www.amazon.com/Whole-Organic-Brazil-Nuts-Raw/dp/B01N4KKFNE
 - **Thorne Iodine & Tyrosine** — Supports thyroid hormone synthesis; use only if deficient — https://www.thorne.com/products/dp/iodine-tyrosine

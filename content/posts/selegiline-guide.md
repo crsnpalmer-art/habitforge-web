@@ -125,5 +125,3 @@ Joe Rogan has discussed selegiline and deprenyl in conversations about cognitive
 
 ## Where to Buy / Find This
 
-- **GoodRx — Selegiline** — Compare pharmacy prices; generic available for ~$20/month — https://www.goodrx.com/selegiline
-- **RxList — Selegiline (Eldepryl)** — Full prescribing information and interactions — https://www.rxlist.com/eldepryl-drug.htm

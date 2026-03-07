@@ -94,10 +94,7 @@ Dr. Raymond Peat has written about antioxidants including alpha lipoic acid in t
 
 ## Where to Buy / Find This
 
-- **Life Extension Super R-Lipoic Acid** — High-quality R-ALA form with stabilized sodium salt for better absorption (240mg capsules) — https://www.amazon.com/Life-Extension-Super-R-Lipoic-Vegetarian-Capsules/dp/B001G7R920
 
-- **Doctor's Best Alpha-Lipoic Acid** — Affordable racemic ALA option with biotin added to prevent depletion (600mg capsules) — https://www.amazon.com/Doctors-Best-Alpha-Lipoic-Non-GMO-Gluten/dp/B000BD0ILK
 
 - **Thorne Research R-Lipoic Acid** — Pure R-ALA form with high bioavailability and third-party testing (100mg capsules) — https://www.amazon.com/Thorne-Research-R-Lipoic-Acid-Capsules/dp/B0797HK8YL
 
-- **NOW Supplements Alpha Lipoic Acid** — Budget-friendly racemic ALA with consistent quality (600mg capsules) — https://www.amazon.com/NOW-Supplements-Alpha-Lipoic-600mg-Capsules/dp/B0013OQGO6

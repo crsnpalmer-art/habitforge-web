@@ -126,7 +126,3 @@ Joe Rogan has touched on GH secretagogues and peptides like ipamorelin in conver
 
 ## Where to Buy / Find This
 
-- **Limitless Life Nootropics** — U.S.-based peptide vendor offering third-party tested ipamorelin and CJC-1295 with reconstitution supplies — https://limitlesslifenootropics.com/
-- **Peptide Sciences** — Research-grade peptides with COAs (certificates of analysis) for ipamorelin, bacteriostatic water, and insulin syringes — https://www.peptidesciences.com/
-- **Tailor Made Health** — Compounding pharmacy offering physician-prescribed ipamorelin through telehealth consultations — https://tailormadehealth.com/
-- **Easy Insulin Syringes (Amazon)** — BD Ultra-Fine 0.3mL insulin syringes for subcutaneous peptide administration — https://www.amazon.com/BD-Ultra-Fine-Insulin-Syringes-31G/dp/B07HSLNHX9

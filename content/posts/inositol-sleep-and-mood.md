@@ -93,6 +93,3 @@ Dave Asprey has discussed inositol in the context of mood support and cellular s
 ## Where to Buy / Find This
 
 - **Thorne Myo-Inositol Powder** — NSF Certified for Sport, pure myo-inositol with no additives, unflavored — https://www.amazon.com/Thorne-Research-Myo-Inositol-Supplement-Capsules/dp/B01LY5YZED
-- **NOW Foods Inositol Powder** — Budget-friendly, pure myo-inositol powder, 1 lb container — https://www.amazon.com/NOW-Inositol-Powder-1-Pound/dp/B0013OQGO6
-- **Ovasitol (Theralogix)** — 40:1 ratio of myo-inositol and d-chiro-inositol specifically formulated for PCOS — https://www.amazon.com/Theralogix-Ovasitol-Inositol-Powder-Unflavored/dp/B01L9G69EC
-- **Wholesome Story Myo-Inositol + D-Chiro** — Pre-mixed 40:1 ratio for hormonal balance, third-party tested — https://www.amazon.com/Wholesome-Story-Myo-Inositol-D-Chiro-Inositol/dp/B08R6KQW8H

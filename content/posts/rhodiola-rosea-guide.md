@@ -92,8 +92,6 @@ Dave Asprey has recommended rhodiola as part of an adaptogen stack for sustained
 
 - **Thorne Rhodiola** — High-quality 3% rosavin extract, third-party tested, 60 capsules — https://www.amazon.com/Thorne-Research-Rhodiola-Capsules-Adaptogenic/dp/B0006JV9O2
 
-- **Gaia Herbs Rhodiola Rosea** — Organic whole-root extract, vegan capsules — https://www.amazon.com/Gaia-Herbs-Rhodiola-Rosea-Capsules/dp/B00020I7GU
 
-- **NOW Foods Rhodiola 500mg** — Budget-friendly standardized extract, 3% rosavins / 1% salidroside — https://www.amazon.com/NOW-Rhodiola-500-120-Veg/dp/B001GAOHPS
 
 - **Pure Encapsulations Rhodiola Rosea** — Hypoallergenic, standardized to 3% rosavins, trusted brand — https://www.amazon.com/Pure-Encapsulations-Rhodiola-Hypoallergenic-Supplement/dp/B0017O9LZI

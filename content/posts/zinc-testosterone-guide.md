@@ -102,5 +102,3 @@ Dr. Raymond Peat has written about zinc's role in thyroid function and testoster
 ## Where to Buy / Find This
 
 - **Thorne Zinc Picolinate** — 15 mg, well-absorbed picolinate form, NSF certified — https://www.amazon.com/Thorne-Research-Zinc-Picolinate-Supplement/dp/B0797H831C
-- **NOW Foods Zinc Glycinate** — 30 mg, amino acid chelate, gentle on stomach — https://www.amazon.com/NOW-Supplements-Glycinate-Vegetarian-Capsules/dp/B002VXQ6OK
-- **Life Extension Zinc Caps** — 50 mg with OptiZinc form — https://www.amazon.com/Life-Extension-OptiZinc-Vegetarian-Capsules/dp/B07GPRRGKY

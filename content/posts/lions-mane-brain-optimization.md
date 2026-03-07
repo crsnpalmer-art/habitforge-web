@@ -127,8 +127,5 @@ Joe Rogan has mentioned lion's mane on the JRE, often in conversations about noo
 5. **Li IC, et al. (2020)** — "Prevention of Early Alzheimer's Disease by Erinacine A-Enriched Hericium erinaceus Mycelia Pilot Double-Blind Placebo-Controlled Study" — https://pubmed.ncbi.nlm.nih.gov/32176801/
 
 ## Where to Buy / Find This
-
-- **Real Mushrooms Organic Lion's Mane Extract** — Dual-extracted, certified organic, 30% beta-glucans — https://www.amazon.com/Real-Mushrooms-Lions-Organic-Extract/dp/B078SJ9F9B
-- **Nootropics Depot Lion's Mane 8:1 Extract** — Third-party tested, standardized for hericenones and erinacines — https://nootropicsdepot.com/lions-mane-mushroom-capsules-8-1-extract/
-- **Host Defense Lion's Mane Capsules** — Mycelium-based formula by renowned mycologist Paul Stamets — https://www.amazon.com/Host-Defense-Lions-Mushrooms-Capsules/dp/B0083LFRGW
-- **Om Mushroom Superfood Lion's Mane** — Whole food powder blend, easy to add to smoothies or coffee — https://www.amazon.com/Om-Organic-Mushroom-Superfood-Powder/dp/B01MQZAJM1
+- **Thorne Memoractiv** — Cognitive support formula featuring lion's mane mushroom extract alongside bacopa and other adaptogens — [https://www.thorne.com/products/dp/memoractiv](https://www.thorne.com/products/dp/memoractiv)
+- **Pure Encapsulations Lion's Mane** — Standardized lion's mane mushroom extract for neurological and cognitive support, hypoallergenic — [https://www.pureencapsulations.com/lions-mane.html](https://www.pureencapsulations.com/lions-mane.html)

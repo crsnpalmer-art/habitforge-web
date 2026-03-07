@@ -95,7 +95,5 @@ Dave Asprey views gut health optimization as a nighttime priority alongside slee
 3. Smith RP, et al. "Gut microbiome diversity is associated with sleep physiology in humans." PLOS One. 2019. https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0222394
 
 ## Where to Buy / Find This
-
-- **Seed DS-01 (AM+PM System)** — Complete daily synbiotic with AM and PM capsules — https://seed.com/ds-01
-- **Ritual Synbiotic+** — Alternative synbiotic with prebiotics + probiotics + postbiotics — https://ritual.com/products/synbiotic
-- **Garden of Life Dr. Formulated Probiotics** — Budget-friendly probiotic option — https://www.amazon.com/Garden-Life-Formulated-Probiotic-Supplement/dp/B00Y9XM6E2
+- **Thorne FloraMend Prime Probiotic** — Spore-based probiotic supporting gut barrier integrity and microbiome diversity — [https://www.thorne.com/products/dp/floramend-prime-probiotic](https://www.thorne.com/products/dp/floramend-prime-probiotic)
+- **Pure Encapsulations Probiotic 50B** — 50 billion CFU multi-strain probiotic for gut health and immune support, hypoallergenic — [https://www.pureencapsulations.com/probiotic-50b.html](https://www.pureencapsulations.com/probiotic-50b.html)

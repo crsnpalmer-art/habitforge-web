@@ -104,6 +104,4 @@ Joe Rogan has discussed creatine on the JRE multiple times, generally endorsing 
 
 ## Where to Buy / Find This
 
-- **Optimum Nutrition Micronized Creatine Monohydrate Powder** — 5g per serving, unflavored, 200 servings — https://www.amazon.com/Optimum-Nutrition-Micronized-Creatine-Monohydrate/dp/B002DYIZEO
 - **Thorne Creatine** — NSF Certified for Sport, 5g per serving, highly pure — https://www.amazon.com/Thorne-Research-Creatine-Certified-Gluten-Free/dp/B0797H831C
-- **Bulk Supplements Creatine Monohydrate** — Budget option, 1kg, unflavored, lab-tested — https://www.amazon.com/BulkSupplements-Creatine-Monohydrate-Kilogram-2-2-lbs/dp/B00E9M4XEE

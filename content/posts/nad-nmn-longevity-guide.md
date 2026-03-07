@@ -101,7 +101,6 @@ Joe Rogan has discussed NAD+ and NMN on the JRE with guests including David Sinc
 
 ## Where to Buy / Find This
 
-- **Renue by Science NMN Powder** — Third-party tested, pharmaceutical-grade NMN powder (sublingual or capsule form), 500mg servings — [https://www.amazon.com/Renue-Science-Liposomal-Supplement-Nicotinamide/dp/B07YQBV8T7](https://www.amazon.com/Renue-Science-Liposomal-Supplement-Nicotinamide/dp/B07YQBV8T7)
-- **ProHealth Longevity NMN Pro 500** — High-purity NMN capsules with 500mg per serving, made in USA — [https://www.amazon.com/ProHealth-Longevity-Nicotinamide-Mononucleotide-Supplement/dp/B07XQMD3LR](https://www.amazon.com/ProHealth-Longevity-Nicotinamide-Mononucleotide-Supplement/dp/B07XQMD3LR)
-- **DoNotAge NMN Powder** — Pure NMN powder, third-party tested for purity, 125mg scoop included — [https://www.donotage.org/products/nmn-powder](https://www.donotage.org/products/nmn-powder)
-- **Tru Niagen (NR alternative)** — Nicotinamide riboside (NR) instead of NMN, well-studied alternative NAD+ precursor — [https://www.amazon.com/TRU-NIAGEN-Nicotinamide-Riboside-Supplement/dp/B01KTX1JU0](https://www.amazon.com/TRU-NIAGEN-Nicotinamide-Riboside-Supplement/dp/B01KTX1JU0)
+
+- **Thorne NiaCel 400** — Nicotinamide riboside (NR) to support NAD+ levels and longevity pathways — [https://www.thorne.com/products/dp/niacel-400](https://www.thorne.com/products/dp/niacel-400)
+- **Pure Encapsulations NMN** — Nicotinamide mononucleotide to directly support NAD+ biosynthesis — [https://www.pureencapsulations.com/nmn.html](https://www.pureencapsulations.com/nmn.html)

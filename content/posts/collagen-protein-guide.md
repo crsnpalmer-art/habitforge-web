@@ -102,7 +102,7 @@ Dr. Raymond Peat has written that gelatin (the cooked form of collagen) is one o
 
 ## Where to Buy / Find This
 
-- **Vital Proteins Collagen Peptides** — Grass-fed, hydrolyzed Type I & III collagen powder, unflavored, highly bioavailable — https://www.amazon.com/Vital-Proteins-Collagen-Peptides-Pasture-Raised/dp/B00K6JUG1U
-- **Sports Research Collagen Peptides** — Hydrolyzed bovine collagen, unflavored, third-party tested — https://www.amazon.com/Sports-Research-Collagen-Peptides-Hydrolyzed/dp/B01FJJH0H8
-- **NeoCell Super Collagen** — Type I & III collagen powder, budget-friendly option — https://www.amazon.com/Neocell-Super-Collagen-Powder-6-7oz/dp/B000R5CB44
-- **Doctor's Best UC-II** — Undenatured Type II collagen specifically for joint support — https://www.amazon.com/Doctors-Best-Featuring-Undenatured-Capsules/dp/B0019GT8BY
+
+- **Thorne Collagen Plus** — Hydrolyzed collagen peptides with vitamin C for joint and skin support — [https://www.thorne.com/products/dp/collagen-plus](https://www.thorne.com/products/dp/collagen-plus)
+- **Pure Encapsulations Collagen-C** — Hydrolyzed collagen with vitamin C for joint, skin, and connective tissue support — [https://www.pureencapsulations.com/collagen-c.html](https://www.pureencapsulations.com/collagen-c.html)
+- **UMZU Collagen** — Grass-fed bovine collagen peptides types I and III for skin, joints, and gut — [https://umzu.com/products/collagen](https://umzu.com/products/collagen)

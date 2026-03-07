@@ -116,6 +116,4 @@ Dave Asprey has discussed digestive enzymes within the Bulletproof framework, re
 ## Where to Buy / Find This
 
 - **Thorne Bio-Gest** — Comprehensive enzyme blend with HCl and pepsin for broad-spectrum digestive support — https://www.amazon.com/Thorne-Research-Bio-Gest-Digestive-Capsules/dp/B0009F3POO
-- **NOW Super Enzymes** — Budget-friendly full-spectrum formula with proteases, lipases, and amylases — https://www.amazon.com/NOW-Super-Enzymes-Capsules-180-Count/dp/B0013OXKHC
-- **Garden of Life RAW Enzymes** — Plant-based enzyme formula with probiotics for gut health support — https://www.amazon.com/Garden-Life-Vegetarian-Digestive-Supplement/dp/B0098U0SZY
 - **Pure Encapsulations Digestive Enzymes Ultra** — High-potency hypoallergenic formula with broad pH range activity — https://www.amazon.com/Pure-Encapsulations-Digestive-Enzymes-Capsules/dp/B0017HKJDI
