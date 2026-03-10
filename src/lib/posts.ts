@@ -14,6 +14,7 @@ export interface PostMeta {
   category: string;
   tags: string[];
   readingTime: number; // minutes
+  coverImage?: string;
 }
 
 export interface Post extends PostMeta {
@@ -43,6 +44,7 @@ export function getAllPosts(): PostMeta[] {
         category: (data.category as string) || "Uncategorized",
         tags: (data.tags as string[]) || [],
         readingTime,
+        coverImage: data.coverImage as string | undefined,
       };
     });
 
@@ -71,6 +73,7 @@ export async function getPostBySlug(slug: string): Promise<Post> {
     tags: (data.tags as string[]) || [],
     readingTime,
     contentHtml,
+    coverImage: data.coverImage as string | undefined,
     keyTakeaways: data.key_takeaways as string[] | undefined,
     protocol: data.protocol as string[] | undefined,
     notes: data.notes as string[] | undefined,

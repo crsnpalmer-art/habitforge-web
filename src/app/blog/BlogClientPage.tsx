@@ -6,6 +6,7 @@ import { useState, useMemo } from "react";
 import type { PostMeta } from "@/lib/posts";
 import SiteFooter from "@/components/SiteFooter";
 import { trackEvent } from "@/lib/analytics";
+import { getPostCoverImage } from "@/lib/postImages";
 
 const CATEGORIES = ["All", "Peptides", "Supplements", "Recovery", "Lifestyle", "Habits", "Books", "Finance"] as const;
 type Category = (typeof CATEGORIES)[number];
@@ -134,29 +135,41 @@ export default function BlogClientPage({ posts }: { posts: PostMeta[] }) {
         {showFeatured && (
           <Link
             href={`/blog/${featuredPost.slug}`}
-            className="group block mb-12 rounded-3xl p-10 bg-stone-900 text-stone-100 hover:bg-stone-800 transition-all duration-300 hover:-translate-y-1 hover:shadow-2xl"
+            className="group block mb-12 rounded-3xl bg-stone-900 overflow-hidden hover:bg-stone-800 transition-all duration-300 hover:-translate-y-1 hover:shadow-2xl"
             onClick={() => trackEvent("blog_featured_click", { slug: featuredPost.slug })}
           >
-            <div className="flex items-center gap-3 mb-4">
-              <span className="text-[10px] font-bold tracking-[0.2em] uppercase text-stone-400 border border-stone-700 rounded-full px-3 py-1">
-                Featured
-              </span>
-              <CategoryBadge category={featuredPost.category} />
-              <time className="text-xs text-stone-500 tracking-widest uppercase ml-auto">
-                {new Date(featuredPost.date + "T00:00:00").toLocaleDateString("en-US", {
-                  year: "numeric",
-                  month: "long",
-                  day: "numeric",
-                })}
-              </time>
+            <div className="relative w-full aspect-video">
+              <Image
+                src={featuredPost.coverImage ?? getPostCoverImage(featuredPost.slug, featuredPost.category)}
+                alt={featuredPost.title}
+                fill
+                className="object-cover"
+                sizes="(max-width: 768px) 100vw, 768px"
+                priority
+              />
             </div>
-            <h2 className="text-3xl md:text-4xl font-black mb-4 leading-tight group-hover:text-stone-50 transition-colors">
-              {featuredPost.title}
-            </h2>
-            <p className="text-stone-400 leading-relaxed text-base max-w-2xl">{featuredPost.excerpt}</p>
-            <span className="inline-block mt-6 text-sm font-semibold text-stone-300 group-hover:text-white">
-              Read more →
-            </span>
+            <div className="p-10">
+              <div className="flex items-center gap-3 mb-4">
+                <span className="text-[10px] font-bold tracking-[0.2em] uppercase text-stone-400 border border-stone-700 rounded-full px-3 py-1">
+                  Featured
+                </span>
+                <CategoryBadge category={featuredPost.category} />
+                <time className="text-xs text-stone-500 tracking-widest uppercase ml-auto">
+                  {new Date(featuredPost.date + "T00:00:00").toLocaleDateString("en-US", {
+                    year: "numeric",
+                    month: "long",
+                    day: "numeric",
+                  })}
+                </time>
+              </div>
+              <h2 className="text-3xl md:text-4xl font-black mb-4 leading-tight text-stone-100 group-hover:text-stone-50 transition-colors">
+                {featuredPost.title}
+              </h2>
+              <p className="text-stone-400 leading-relaxed text-base max-w-2xl">{featuredPost.excerpt}</p>
+              <span className="inline-block mt-6 text-sm font-semibold text-stone-300 group-hover:text-white">
+                Read more →
+              </span>
+            </div>
           </Link>
         )}
 
@@ -224,31 +237,44 @@ export default function BlogClientPage({ posts }: { posts: PostMeta[] }) {
               <Link
                 key={post.slug}
                 href={`/blog/${post.slug}`}
-                className="blog-card group block rounded-3xl p-8 bg-white border border-stone-200 hover:border-[#D97C5F]/50 hover:shadow-lg transition-all duration-300 hover:-translate-y-1"
+                className="blog-card group block rounded-3xl bg-white border border-stone-200 hover:border-[#D97C5F]/50 hover:shadow-lg transition-all duration-300 hover:-translate-y-1 overflow-hidden"
                 onClick={() => trackEvent("blog_card_click", { slug: post.slug })}
               >
-                <div className="flex items-center gap-3 mb-3">
-                  <time className="text-xs text-stone-400 tracking-widest uppercase">
-                    {new Date(post.date + "T00:00:00").toLocaleDateString("en-US", {
-                      year: "numeric",
-                      month: "long",
-                      day: "numeric",
-                    })}
-                  </time>
-                  <CategoryBadge category={post.category} />
-                  {(post.tags || []).slice(0, 2).map((tag) => (
-                    <span key={tag} className="text-[10px] text-stone-400 border border-stone-200 rounded-full px-2 py-0.5">
-                      #{tag}
+                <div className="flex flex-col sm:flex-row">
+                  <div className="relative w-full sm:w-48 h-48 flex-shrink-0">
+                    <Image
+                      src={post.coverImage ?? getPostCoverImage(post.slug, post.category)}
+                      alt={post.title}
+                      fill
+                      className="object-cover"
+                      sizes="(max-width: 640px) 100vw, 192px"
+                    />
+                  </div>
+                  <div className="p-8 flex-1">
+                    <div className="flex items-center gap-3 mb-3">
+                      <time className="text-xs text-stone-400 tracking-widest uppercase">
+                        {new Date(post.date + "T00:00:00").toLocaleDateString("en-US", {
+                          year: "numeric",
+                          month: "long",
+                          day: "numeric",
+                        })}
+                      </time>
+                      <CategoryBadge category={post.category} />
+                      {(post.tags || []).slice(0, 2).map((tag) => (
+                        <span key={tag} className="text-[10px] text-stone-400 border border-stone-200 rounded-full px-2 py-0.5">
+                          #{tag}
+                        </span>
+                      ))}
+                    </div>
+                    <h2 className="text-2xl font-bold text-stone-800 mb-3 group-hover:text-violet-700 transition-colors">
+                      {post.title}
+                    </h2>
+                    <p className="text-stone-500 leading-relaxed">{post.excerpt}</p>
+                    <span className="inline-block mt-4 text-sm font-semibold text-violet-600 group-hover:text-violet-700">
+                      Read more →
                     </span>
-                  ))}
+                  </div>
                 </div>
-                <h2 className="text-2xl font-bold text-stone-800 mb-3 group-hover:text-violet-700 transition-colors">
-                  {post.title}
-                </h2>
-                <p className="text-stone-500 leading-relaxed">{post.excerpt}</p>
-                <span className="inline-block mt-4 text-sm font-semibold text-violet-600 group-hover:text-violet-700">
-                  Read more →
-                </span>
               </Link>
             ))
           )}

@@ -8,6 +8,8 @@ import { SITE_URL, SITE_NAME } from "@/lib/config";
 import { CategoryBadge } from "../BlogClientPage";
 import SiteFooter from "@/components/SiteFooter";
 import ReadingProgress from "@/components/ReadingProgress";
+import BlogTOC from "@/components/BlogTOC";
+import { getPostCoverImage, getPostSectionImages } from "@/lib/postImages";
 
 export async function generateStaticParams() {
   const posts = getAllPosts();
@@ -136,6 +138,18 @@ export default async function BlogPost({ params }: { params: { slug: string } })
           </p>
         </header>
 
+        {/* Hero image */}
+        <div className="mb-10 -mx-6 overflow-hidden rounded-2xl" style={{ aspectRatio: "16/7" }}>
+          <img
+            src={post.coverImage ?? getPostCoverImage(post.slug, post.category)}
+            alt={post.title}
+            style={{ width: "100%", height: "100%", objectFit: "cover" }}
+            loading="eager"
+          />
+        </div>
+
+        <BlogTOC />
+
         {/* Body */}
         <div
           className="prose prose-stone prose-lg max-w-none
@@ -153,7 +167,16 @@ export default async function BlogPost({ params }: { params: { slug: string } })
             prose-hr:border-stone-200 prose-hr:my-10
             prose-a:text-violet-600 prose-a:no-underline hover:prose-a:underline
             prose-blockquote:border-l-4 prose-blockquote:border-stone-300 prose-blockquote:pl-4 prose-blockquote:italic prose-blockquote:text-stone-500"
-          dangerouslySetInnerHTML={{ __html: post.contentHtml }}
+          dangerouslySetInnerHTML={{ __html: (() => {
+            const sectionImgs = getPostSectionImages(post.slug, 6);
+            let hrCount = 0;
+            return post.contentHtml.replace(/<hr>/g, () => {
+              hrCount++;
+              if (hrCount === 1) return "<hr>"; // keep the first one as-is
+              const url = sectionImgs[(hrCount - 2) % sectionImgs.length];
+              return `<div style="margin:2.5rem -1.5rem;border-radius:12px;overflow:hidden;"><img src="${url}" alt="" loading="lazy" style="width:100%;height:220px;object-fit:cover;display:block;" /></div>`;
+            });
+          })() }}
         />
 
         {/* Footer */}
