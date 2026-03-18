@@ -170,12 +170,51 @@ export default async function BlogPost({ params }: { params: { slug: string } })
           dangerouslySetInnerHTML={{ __html: (() => {
             const sectionImgs = getPostSectionImages(post.slug, 6);
             let hrCount = 0;
-            return post.contentHtml.replace(/<hr>/g, () => {
+            let html = post.contentHtml;
+
+            // 1. Replace HRs with section images (skip first HR which is the Key Facts separator)
+            html = html.replace(/<hr>/g, () => {
               hrCount++;
-              if (hrCount === 1) return "<hr>"; // keep the first one as-is
+              if (hrCount === 1) return "<hr>";
               const url = sectionImgs[(hrCount - 2) % sectionImgs.length];
               return `<div style="margin:2.5rem -1.5rem;border-radius:12px;overflow:hidden;"><img src="${url}" alt="" loading="lazy" style="width:100%;height:220px;object-fit:cover;display:block;" /></div>`;
             });
+
+            // 2. Style "Key Facts at a Glance" — wrap the UL after that H3 in an amber callout
+            html = html.replace(
+              /(<h3>Key Facts at a Glance<\/h3>\s*)(<ul>[\s\S]*?<\/ul>)/,
+              `<div style="background:linear-gradient(135deg,rgba(217,124,95,0.08),rgba(242,204,143,0.12));border:1.5px solid rgba(217,124,95,0.25);border-radius:14px;padding:1.25rem 1.5rem;margin:1.5rem 0;">
+                <p style="font-size:11px;font-weight:700;letter-spacing:0.18em;text-transform:uppercase;color:#b45309;margin:0 0 0.75rem;">⚡ Key Facts at a Glance</p>
+                $2
+              </div>`
+            );
+
+            // 3. Style "What the Experts Say" — wrap each expert H3+paragraph in a card
+            const expertNames: Record<string, string> = {
+              "Andrew Huberman": "🧠",
+              "Paul Saladino": "🥩",
+              "Dave Asprey": "⚡",
+              "Joe Rogan": "🎙️",
+              "Dr. Raymond Peat": "🔬",
+            };
+            Object.entries(expertNames).forEach(([name, emoji]) => {
+              const escaped = name.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+              html = html.replace(
+                new RegExp(`<h3>${escaped}<\\/h3>\\s*(<p>[\\s\\S]*?<\\/p>)`),
+                `<div style="background:#fff;border:1px solid rgba(0,0,0,0.07);border-radius:12px;padding:1rem 1.25rem;margin:0.75rem 0;box-shadow:0 1px 3px rgba(0,0,0,0.04);">
+                  <p style="font-size:13px;font-weight:700;color:#1c1917;margin:0 0 0.5rem;">${emoji} ${name}</p>
+                  $1
+                </div>`
+              );
+            });
+
+            // 4. Wrap the entire "What the Experts Say" section in a subtle container
+            html = html.replace(
+              /(<h2>What the Experts Say<\/h2>)([\s\S]*?)(?=<h2>|$)/,
+              `$1<div style="background:rgba(245,240,232,0.6);border:1px solid rgba(0,0,0,0.06);border-radius:16px;padding:1.25rem 1.25rem 0.5rem;margin:1rem 0 2rem;">$2</div>`
+            );
+
+            return html;
           })() }}
         />
 
