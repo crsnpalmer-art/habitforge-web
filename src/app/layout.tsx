@@ -1,22 +1,7 @@
 import type { Metadata } from "next";
-import { Manrope, Playfair_Display } from "next/font/google";
 import Script from "next/script";
 import "./globals.css";
 import { SITE_URL, SITE_NAME } from "@/lib/config";
-
-const manrope = Manrope({
-  variable: "--font-sans",
-  subsets: ["latin"],
-  weight: ["400", "500", "600", "700", "800"],
-  display: "swap",
-});
-
-const playfair = Playfair_Display({
-  variable: "--font-playfair",
-  subsets: ["latin"],
-  weight: ["400", "700", "900"],
-  display: "swap",
-});
 
 export const metadata: Metadata = {
   icons: {
@@ -26,14 +11,14 @@ export const metadata: Metadata = {
     ],
     apple: [{ url: "/apple-touch-icon.png", sizes: "180x180" }],
   },
-  title: "HabitForge — Anvil-forged habits, one day at a time",
+  title: "HabitForge — Calm habit building for real life",
   description:
-    "Anvil-forged habits, one day at a time. Track Mental, Physical, Spiritual, and Financial habits with Ember AI coaching, Forge Shields, and a score that compounds with every check-in.",
+    "A calm daily habit system for Mental, Physical, Spiritual, and Financial growth, with private AI reflection and structure that holds up during real weeks.",
   metadataBase: new URL(SITE_URL),
   openGraph: {
-    title: "HabitForge — Anvil-forged habits, one day at a time",
+    title: "HabitForge — Calm habit building for real life",
     description:
-      "Build high-impact habits across four dimensions. On-device AI coaching, streak protection, and a Forge Score that compounds with consistency.",
+      "Build high-impact habits across four dimensions with daily check-ins, private AI reflection, and a recovery-friendly system.",
     url: SITE_URL,
     siteName: SITE_NAME,
     images: [{ url: "/logo.jpg", width: 800, height: 800 }],
@@ -41,9 +26,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "HabitForge — Anvil-forged habits, one day at a time",
+    title: "HabitForge — Calm habit building for real life",
     description:
-      "Build high-impact habits across four dimensions. On-device AI coaching, streak protection, and a Forge Score that compounds with consistency.",
+      "Build high-impact habits across four dimensions with daily check-ins, private AI reflection, and a recovery-friendly system.",
     creator: "@HabitForgeAI",
     images: ["/logo.jpg"],
   },
@@ -77,7 +62,7 @@ export default function RootLayout({
           strategy="beforeInteractive"
         />
       </head>
-      <body className={`${manrope.variable} ${playfair.variable} antialiased`}>
+      <body className="antialiased">
         {children}
       </body>
     </html>

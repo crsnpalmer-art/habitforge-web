@@ -16,6 +16,9 @@ export const APP_STORE_URL =
 
 export const SITE_URL = "https://habitforgeai.com";
 export const SITE_NAME = "HabitForge";
+export const PRIMARY_CTA_URL = APP_STORE_LIVE ? APP_STORE_URL : "/download";
+export const PRIMARY_CTA_LABEL = APP_STORE_LIVE ? "Download" : "Start Forging";
+export const PRIMARY_CTA_LABEL_LONG = APP_STORE_LIVE ? "Download on the App Store" : "Start Forging";
 
 /**
  * Waitlist count shown on the homepage.

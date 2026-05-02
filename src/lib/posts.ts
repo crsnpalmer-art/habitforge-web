@@ -7,6 +7,17 @@ import remarkGfm from "remark-gfm";
 
 const postsDirectory = path.join(process.cwd(), "content/posts");
 
+function resolvePostDate(rawDate: unknown, fullPath: string) {
+  if (typeof rawDate === "string" && rawDate.trim()) {
+    const parsed = new Date(rawDate);
+    if (!Number.isNaN(parsed.getTime())) {
+      return parsed.toISOString();
+    }
+  }
+
+  return fs.statSync(fullPath).mtime.toISOString();
+}
+
 export interface PostMeta {
   slug: string;
   title: string;
@@ -37,12 +48,13 @@ export function getAllPosts(): PostMeta[] {
       const { data } = matter(fileContents);
       const wordCount = fileContents.split(/\s+/).length;
       const readingTime = Math.max(1, Math.round(wordCount / 200));
+      const date = resolvePostDate(data.date, fullPath);
       return {
         slug,
         title: data.title as string,
-        date: data.date as string,
+        date,
         excerpt: data.excerpt as string,
-        category: (data.category as string) || "Uncategorized",
+        category: (data.category as string) || "Habits",
         tags: (data.tags as string[]) || [],
         readingTime,
         coverImage: data.coverImage as string | undefined,
@@ -55,7 +67,16 @@ export function getAllPosts(): PostMeta[] {
 export async function getPostBySlug(slug: string): Promise<Post> {
   const mdPath = path.join(postsDirectory, `${slug}.md`);
   const mdxPath = path.join(postsDirectory, `${slug}.mdx`);
-  const fullPath = fs.existsSync(mdPath) ? mdPath : mdxPath;
+  let fullPath: string;
+
+  if (fs.existsSync(mdPath)) {
+    fullPath = mdPath;
+  } else if (fs.existsSync(mdxPath)) {
+    fullPath = mdxPath;
+  } else {
+    throw new Error(`Post "${slug}" not found. Expected ${slug}.md or ${slug}.mdx in ${postsDirectory}.`);
+  }
+
   const fileContents = fs.readFileSync(fullPath, "utf8");
   const { data, content } = matter(fileContents);
 
@@ -64,13 +85,14 @@ export async function getPostBySlug(slug: string): Promise<Post> {
 
   const wordCount = fileContents.split(/\s+/).length;
   const readingTime = Math.max(1, Math.round(wordCount / 200));
+  const date = resolvePostDate(data.date, fullPath);
 
   return {
     slug,
     title: data.title as string,
-    date: data.date as string,
+    date,
     excerpt: data.excerpt as string,
-    category: (data.category as string) || "Uncategorized",
+    category: (data.category as string) || "Habits",
     tags: (data.tags as string[]) || [],
     readingTime,
     contentHtml,

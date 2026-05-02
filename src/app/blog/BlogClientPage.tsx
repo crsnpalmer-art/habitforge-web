@@ -2,286 +2,186 @@
 
 import Link from "next/link";
 import Image from "next/image";
-import { useState, useMemo } from "react";
+import { useMemo, useState } from "react";
 import type { PostMeta } from "@/lib/posts";
 import SiteFooter from "@/components/SiteFooter";
-import { trackEvent } from "@/lib/analytics";
+import SiteNav from "@/components/SiteNav";
 import { getPostCoverImage } from "@/lib/postImages";
 
 const CATEGORIES = ["All", "Peptides", "Supplements", "Recovery", "Lifestyle", "Habits", "Books", "Finance"] as const;
 type Category = (typeof CATEGORIES)[number];
 
-const CATEGORY_COLORS: Record<string, { bg: string; text: string }> = {
-  Peptides:    { bg: "bg-rose-100",    text: "text-rose-700"    },
-  Supplements: { bg: "bg-violet-100",  text: "text-violet-700"  },
-  Recovery:    { bg: "bg-green-100",   text: "text-green-700"   },
-  Lifestyle:   { bg: "bg-amber-100",   text: "text-amber-700"   },
-  Habits:      { bg: "bg-cyan-100",    text: "text-cyan-700"    },
-  Books:       { bg: "bg-amber-100",   text: "text-amber-800"   },
-  Finance:     { bg: "bg-emerald-100", text: "text-emerald-800" },
+const CATEGORY_COLORS: Record<string, string> = {
+  Peptides: "bg-rose-100 text-rose-700",
+  Supplements: "bg-violet-100 text-violet-700",
+  Recovery: "bg-green-100 text-green-700",
+  Lifestyle: "bg-amber-100 text-amber-700",
+  Habits: "bg-cyan-100 text-cyan-700",
+  Books: "bg-amber-100 text-amber-800",
+  Finance: "bg-emerald-100 text-emerald-800",
 };
 
 export function CategoryBadge({ category }: { category: string }) {
-  const colors = CATEGORY_COLORS[category] ?? { bg: "bg-stone-100", text: "text-stone-600" };
-  return (
-    <span className={`inline-block px-2.5 py-0.5 rounded-full text-xs font-semibold ${colors.bg} ${colors.text}`}>
-      {category}
-    </span>
-  );
+  return <span className={`inline-block rounded-full px-2.5 py-0.5 text-xs font-semibold ${CATEGORY_COLORS[category] ?? "bg-stone-100 text-stone-600"}`}>{category}</span>;
 }
 
 export default function BlogClientPage({ posts }: { posts: PostMeta[] }) {
   const [activeCategory, setActiveCategory] = useState<Category>("All");
   const [searchQuery, setSearchQuery] = useState("");
-
-  const allTags = useMemo(() => {
-    const tagSet = new Set<string>();
-    posts.forEach((p) => (p.tags || []).forEach((t) => tagSet.add(t)));
-    return Array.from(tagSet).sort();
-  }, [posts]);
-
   const [activeTag, setActiveTag] = useState<string | null>(null);
 
   const featuredPost = posts[0];
+  const allTags = useMemo(() => Array.from(new Set(posts.flatMap((p) => p.tags || []))).sort(), [posts]);
 
   const filtered = useMemo(() => {
     let list = posts;
-    if (activeCategory !== "All") {
-      list = list.filter((p) => p.category === activeCategory);
-    }
-    if (activeTag) {
-      list = list.filter((p) => (p.tags || []).includes(activeTag));
-    }
+    if (activeCategory !== "All") list = list.filter((p) => p.category === activeCategory);
+    if (activeTag) list = list.filter((p) => (p.tags || []).includes(activeTag));
     if (searchQuery.trim()) {
       const q = searchQuery.toLowerCase();
-      list = list.filter(
-        (p) =>
-          p.title.toLowerCase().includes(q) ||
-          p.excerpt.toLowerCase().includes(q) ||
-          p.category.toLowerCase().includes(q)
-      );
+      list = list.filter((p) => p.title.toLowerCase().includes(q) || p.excerpt.toLowerCase().includes(q) || p.category.toLowerCase().includes(q));
     }
-    // Hide the featured post from the grid only when All + no search/tag filter
-    if (activeCategory === "All" && !searchQuery.trim() && !activeTag) {
-      list = list.filter((p) => p.slug !== featuredPost?.slug);
-    }
+    if (activeCategory === "All" && !searchQuery.trim() && !activeTag) list = list.filter((p) => p.slug !== featuredPost?.slug);
     return list;
   }, [posts, activeCategory, activeTag, searchQuery, featuredPost]);
 
-  const showFeatured =
-    activeCategory === "All" && !searchQuery.trim() && !activeTag && featuredPost;
+  const showFeatured = activeCategory === "All" && !searchQuery.trim() && !activeTag && featuredPost;
 
   return (
-    <main className="min-h-screen bg-[#F5F0E8] font-sans">
-      {/* Nav */}
-      <nav
-        className="fixed top-0 left-0 right-0 z-50 px-4 sm:px-6 py-4"
-        style={{
-          backdropFilter: "blur(16px)",
-          WebkitBackdropFilter: "blur(16px)",
-          background: "rgba(245, 240, 232, 0.85)",
-          borderBottom: "1px solid rgba(0,0,0,0.06)",
-        }}
-      >
-        <div className="max-w-5xl mx-auto flex items-center justify-between">
-          <Link href="/" className="flex items-center gap-2.5">
-            <Image src="/logo.jpg" alt="HabitForge" width={32} height={32} className="rounded-lg" priority />
-            <span className="font-semibold text-stone-800 tracking-tight text-[15px]">HabitForge</span>
-          </Link>
-          <div className="hidden sm:flex items-center gap-8 text-sm text-stone-500 font-medium">
-            <Link href="/about" className="hover:text-stone-800 transition-colors">About</Link>
-            <Link href="/how-it-works" className="hover:text-stone-800 transition-colors">How It Works</Link>
-            <Link href="/blog" className="text-stone-900 font-semibold">Blog</Link>
-          </div>
-          <Link href="/#waitlist" className="hidden sm:inline-flex rounded-full px-4 py-2 text-[13px] font-semibold text-stone-100 bg-stone-900 hover:bg-stone-800 transition-colors">
-            Join Waitlist
-          </Link>
-        </div>
-      </nav>
-
-      <div className="max-w-3xl mx-auto px-6 pt-28 pb-16">
-        <div className="mb-8">
-          <h1 className="text-5xl font-black text-stone-800 mb-4">The Blog</h1>
-          <p className="text-stone-500 text-lg">
-            Habit science, mindset reps, and the compounding life.
-          </p>
-        </div>
-
-        {/* Search (item 3) */}
-        <div className="mb-6">
-          <div className="relative">
-            <svg
-              className="absolute left-3.5 top-1/2 -translate-y-1/2 text-stone-400 pointer-events-none"
-              width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"
-              aria-hidden="true"
-            >
-              <circle cx="11" cy="11" r="8" />
-              <path d="m21 21-4.35-4.35" />
-            </svg>
-            <input
-              type="search"
-              value={searchQuery}
-              onChange={(e) => {
-                setSearchQuery(e.target.value);
-                if (e.target.value) trackEvent("blog_search", { query: e.target.value.slice(0, 50) });
-              }}
-              placeholder="Search articles…"
-              className="w-full rounded-xl border border-stone-200 bg-white pl-10 pr-4 py-2.5 text-sm text-stone-800 placeholder:text-stone-400 outline-none focus:border-stone-400 transition-colors"
-            />
-          </div>
-        </div>
-
-        {/* Featured post */}
-        {showFeatured && (
-          <Link
-            href={`/blog/${featuredPost.slug}`}
-            className="group block mb-12 rounded-3xl bg-stone-900 overflow-hidden hover:bg-stone-800 transition-all duration-300 hover:-translate-y-1 hover:shadow-2xl"
-            onClick={() => trackEvent("blog_featured_click", { slug: featuredPost.slug })}
-          >
-            <div className="relative w-full aspect-video">
-              <Image
-                src={featuredPost.coverImage ?? getPostCoverImage(featuredPost.slug, featuredPost.category)}
-                alt={featuredPost.title}
-                fill
-                className="object-cover"
-                sizes="(max-width: 768px) 100vw, 768px"
-                priority
-              />
-            </div>
-            <div className="p-10">
-              <div className="flex items-center gap-3 mb-4">
-                <span className="text-[10px] font-bold tracking-[0.2em] uppercase text-stone-400 border border-stone-700 rounded-full px-3 py-1">
-                  Featured
-                </span>
-                <CategoryBadge category={featuredPost.category} />
-                <time className="text-xs text-stone-500 tracking-widest uppercase ml-auto">
-                  {new Date(featuredPost.date + "T00:00:00").toLocaleDateString("en-US", {
-                    year: "numeric",
-                    month: "long",
-                    day: "numeric",
-                  })}
-                </time>
-              </div>
-              <h2 className="text-3xl md:text-4xl font-black mb-4 leading-tight text-stone-100 group-hover:text-stone-50 transition-colors">
-                {featuredPost.title}
-              </h2>
-              <p className="text-stone-400 leading-relaxed text-base max-w-2xl">{featuredPost.excerpt}</p>
-              <span className="inline-block mt-6 text-sm font-semibold text-stone-300 group-hover:text-white">
-                Read more →
-              </span>
-            </div>
-          </Link>
-        )}
-
-        {/* Category filter bar (item 3) */}
-        <div className="flex flex-wrap gap-2 mb-4">
-          {CATEGORIES.map((cat) => {
-            const isActive = cat === activeCategory;
-            const colors = cat === "All" ? null : CATEGORY_COLORS[cat];
-            return (
-              <button
-                key={cat}
-                onClick={() => {
-                  setActiveCategory(cat);
-                  setActiveTag(null);
-                  trackEvent("blog_filter_category", { category: cat });
-                }}
-                className={`px-4 py-1.5 rounded-full text-sm font-semibold border transition-all ${
-                  isActive
-                    ? cat === "All"
-                      ? "bg-stone-800 text-white border-stone-800"
-                      : `${colors!.bg} ${colors!.text} border-transparent`
-                    : "bg-white text-stone-500 border-stone-200 hover:border-stone-400"
-                }`}
-              >
-                {cat}
-              </button>
-            );
-          })}
-        </div>
-
-        {/* Tag filter chips (item 3) */}
-        {allTags.length > 0 && (
-          <div className="flex flex-wrap gap-1.5 mb-8">
-            {allTags.map((tag) => (
-              <button
-                key={tag}
-                onClick={() => {
-                  setActiveTag(activeTag === tag ? null : tag);
-                  trackEvent("blog_filter_tag", { tag });
-                }}
-                className={`px-3 py-1 rounded-full text-xs font-medium border transition-all ${
-                  activeTag === tag
-                    ? "bg-stone-800 text-white border-stone-800"
-                    : "bg-white text-stone-500 border-stone-200 hover:border-stone-400"
-                }`}
-              >
-                #{tag}
-              </button>
-            ))}
-          </div>
-        )}
-
-        {/* Results count when filtering */}
-        {(searchQuery || activeTag || activeCategory !== "All") && (
-          <p className="text-xs text-stone-400 mb-6">
-            {filtered.length} article{filtered.length !== 1 ? "s" : ""} found
-          </p>
-        )}
-
-        <div className="flex flex-col gap-8">
-          {filtered.length === 0 ? (
-            <p className="text-stone-500 py-12 text-center">No articles match your search.</p>
-          ) : (
-            filtered.map((post) => (
-              <Link
-                key={post.slug}
-                href={`/blog/${post.slug}`}
-                className="blog-card group block rounded-3xl bg-white border border-stone-200 hover:border-[#D97C5F]/50 hover:shadow-lg transition-all duration-300 hover:-translate-y-1 overflow-hidden"
-                onClick={() => trackEvent("blog_card_click", { slug: post.slug })}
-              >
-                <div className="flex flex-col sm:flex-row">
-                  <div className="relative w-full sm:w-48 h-48 flex-shrink-0">
-                    <Image
-                      src={post.coverImage ?? getPostCoverImage(post.slug, post.category)}
-                      alt={post.title}
-                      fill
-                      className="object-cover"
-                      sizes="(max-width: 640px) 100vw, 192px"
-                    />
-                  </div>
-                  <div className="p-8 flex-1">
-                    <div className="flex items-center gap-3 mb-3">
-                      <time className="text-xs text-stone-400 tracking-widest uppercase">
-                        {new Date(post.date + "T00:00:00").toLocaleDateString("en-US", {
-                          year: "numeric",
-                          month: "long",
-                          day: "numeric",
-                        })}
-                      </time>
-                      <CategoryBadge category={post.category} />
-                      {(post.tags || []).slice(0, 2).map((tag) => (
-                        <span key={tag} className="text-[10px] text-stone-400 border border-stone-200 rounded-full px-2 py-0.5">
-                          #{tag}
-                        </span>
-                      ))}
-                    </div>
-                    <h2 className="text-2xl font-bold text-stone-800 mb-3 group-hover:text-violet-700 transition-colors">
-                      {post.title}
-                    </h2>
-                    <p className="text-stone-500 leading-relaxed">{post.excerpt}</p>
-                    <span className="inline-block mt-4 text-sm font-semibold text-violet-600 group-hover:text-violet-700">
-                      Read more →
-                    </span>
-                  </div>
-                </div>
-              </Link>
-            ))
-          )}
-        </div>
+    <main className="relative min-h-screen overflow-hidden bg-[#0b1520] text-white">
+      <div className="pointer-events-none absolute inset-0">
+        <video
+          className="fixed inset-0 h-full w-full object-cover opacity-26"
+          src="/homepage-hero.mp4"
+          autoPlay
+          loop
+          muted
+          playsInline
+        />
+        <div className="fixed inset-0 bg-[linear-gradient(180deg,rgba(7,12,20,0.60)_0%,rgba(7,12,20,0.92)_100%)]" />
+        <div className="fixed inset-0 bg-[radial-gradient(circle_at_top,rgba(242,204,143,0.14),transparent_32%),radial-gradient(circle_at_78%_18%,rgba(217,124,95,0.18),transparent_28%)]" />
       </div>
 
-      <SiteFooter />
+      <section className="relative z-10 overflow-hidden text-white">
+        <video
+          className="absolute inset-0 h-full w-full object-cover"
+          src="/homepage-hero.mp4"
+          autoPlay
+          loop
+          muted
+          playsInline
+        />
+        <div className="absolute inset-0 bg-[linear-gradient(180deg,rgba(10,18,28,0.34)_0%,rgba(10,18,28,0.80)_100%)]" />
+        <div className="absolute inset-0 bg-[radial-gradient(circle_at_top,rgba(242,204,143,0.18),transparent_32%),radial-gradient(circle_at_78%_20%,rgba(217,124,95,0.24),transparent_28%)]" />
+
+        <div className="relative z-10 pb-16">
+          <SiteNav activeHref="/blog" variant="dark" />
+
+          <section className="px-6 pb-12 pt-10 sm:pt-16">
+            <div className="mx-auto max-w-6xl">
+              <div className="max-w-3xl">
+                <p className="mb-4 text-[11px] font-semibold uppercase tracking-[0.28em] text-white/60">Journal</p>
+                <h1 className="font-display text-5xl tracking-tight text-white sm:text-6xl">The HabitForge journal.</h1>
+                <p className="mt-5 text-lg leading-relaxed text-white/76">Essays on habits, recovery, metabolism, money, and the systems that quietly shape a life.</p>
+              </div>
+
+              <div className="mt-10 rounded-[2rem] border border-white/12 bg-white/10 p-5 shadow-[0_18px_50px_rgba(7,12,20,0.18)] backdrop-blur-sm sm:p-6">
+                <div className="relative">
+                  <input
+                    type="search"
+                    value={searchQuery}
+                    onChange={(e) => setSearchQuery(e.target.value)}
+                    placeholder="Search articles..."
+                    className="w-full rounded-full border border-black/8 bg-[#fcfaf7] px-5 py-3 text-sm text-[#171717] outline-none transition-colors focus:border-[#d97c5f]"
+                  />
+                </div>
+
+                <div className="mt-4 flex flex-wrap gap-2">
+                  {CATEGORIES.map((cat) => {
+                    const active = cat === activeCategory;
+                    return (
+                      <button
+                        key={cat}
+                        onClick={() => {
+                          setActiveCategory(cat);
+                          setActiveTag(null);
+                        }}
+                        className={`rounded-full border px-4 py-1.5 text-sm transition-colors ${active ? "border-[#171717] bg-[#171717] text-white" : "border-black/8 bg-white text-[#5f5a54] hover:border-[#d97c5f] hover:text-[#171717]"}`}
+                      >
+                        {cat}
+                      </button>
+                    );
+                  })}
+                </div>
+
+                {allTags.length > 0 && (
+                  <div className="mt-4 flex flex-wrap gap-2">
+                    {allTags.map((tag) => (
+                      <button
+                        key={tag}
+                        onClick={() => setActiveTag(activeTag === tag ? null : tag)}
+                        className={`rounded-full border px-3 py-1 text-xs transition-colors ${activeTag === tag ? "border-[#d97c5f] bg-[#fff3ec] text-[#b9654c]" : "border-black/8 bg-white text-[#5f5a54] hover:border-[#d97c5f]"}`}
+                      >
+                        #{tag}
+                      </button>
+                    ))}
+                  </div>
+                )}
+              </div>
+            </div>
+          </section>
+        </div>
+      </section>
+
+      <section className="relative z-10 px-6 pb-16 pt-10">
+        <div className="mx-auto max-w-6xl">
+          {showFeatured && (
+            <Link href={`/blog/${featuredPost.slug}`} className="block overflow-hidden rounded-[2rem] border border-white/8 bg-white/5 shadow-[0_24px_70px_rgba(7,12,20,0.22)] transition-transform hover:-translate-y-1 backdrop-blur-sm">
+              <div className="relative aspect-[16/7] w-full">
+                <Image src={featuredPost.coverImage ?? getPostCoverImage(featuredPost.slug, featuredPost.category)} alt={featuredPost.title} fill className="object-cover opacity-80" sizes="100vw" priority />
+              </div>
+              <div className="p-8 sm:p-10">
+                <div className="flex flex-wrap items-center gap-3">
+                  <span className="rounded-full border border-white/15 px-3 py-1 text-[10px] font-bold uppercase tracking-[0.2em] text-white/70">Editor&apos;s pick</span>
+                  <CategoryBadge category={featuredPost.category} />
+                </div>
+                <h2 className="mt-5 text-3xl font-semibold leading-tight text-white sm:text-4xl">{featuredPost.title}</h2>
+                <p className="mt-4 max-w-2xl text-base leading-8 text-white/70">{featuredPost.excerpt}</p>
+              </div>
+            </Link>
+          )}
+
+          {(searchQuery || activeTag || activeCategory !== "All") && (
+            <p className="mt-8 text-sm text-white/56">{filtered.length} article{filtered.length !== 1 ? "s" : ""} found</p>
+          )}
+
+          <div className="mt-8 grid gap-5 lg:grid-cols-2">
+            {filtered.length === 0 ? (
+              <div className="rounded-[2rem] border border-white/8 bg-white/5 p-10 text-center text-white/68">No articles match your search.</div>
+            ) : (
+              filtered.map((post) => (
+                <Link key={post.slug} href={`/blog/${post.slug}`} className="group overflow-hidden rounded-[2rem] border border-white/8 bg-white/5 shadow-[0_18px_50px_rgba(7,12,20,0.18)] transition-all hover:-translate-y-1 hover:border-[#d97c5f]/50 backdrop-blur-sm">
+                  <div className="relative h-56 w-full">
+                    <Image src={post.coverImage ?? getPostCoverImage(post.slug, post.category)} alt={post.title} fill className="object-cover" sizes="(max-width: 1024px) 100vw, 50vw" />
+                  </div>
+                  <div className="p-7">
+                    <div className="flex flex-wrap items-center gap-3">
+                      <CategoryBadge category={post.category} />
+                      <span className="text-xs uppercase tracking-[0.16em] text-white/56">{new Date(post.date).toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric" })}</span>
+                    </div>
+                    <h2 className="mt-4 text-2xl font-medium text-white transition-colors group-hover:text-[#f2cc8f]">{post.title}</h2>
+                    <p className="mt-3 text-sm leading-7 text-white/68">{post.excerpt}</p>
+                  </div>
+                </Link>
+              ))
+            )}
+          </div>
+        </div>
+      </section>
+
+      <div className="relative z-10">
+        <SiteFooter variant="dark" />
+      </div>
     </main>
   );
 }

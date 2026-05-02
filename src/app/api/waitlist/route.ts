@@ -1,8 +1,26 @@
 import { NextRequest, NextResponse } from "next/server";
 import { Resend } from "resend";
+import { guardWaitlistRequest } from "@/lib/requestProtection";
 
 const resend = new Resend(process.env.RESEND_API_KEY ?? "placeholder");
 const NOTIFY_EMAIL = "crsnpalmer@gmail.com";
+
+function escapeHtml(value: string): string {
+  return value.replace(/[&<>"']/g, (char) => {
+    switch (char) {
+      case "&":
+        return "&amp;";
+      case "<":
+        return "&lt;";
+      case ">":
+        return "&gt;";
+      case '"':
+        return "&quot;";
+      default:
+        return "&#39;";
+    }
+  });
+}
 
 const GOAL_LABELS: Record<string, string> = {
   Mental: "🧠 Mental",
@@ -38,10 +56,26 @@ function buildWelcomeEmail(email: string, goal?: string): string {
 export async function POST(req: NextRequest) {
   try {
     const body = await req.json();
-    const { email, goal } = body as { email?: string; goal?: string };
+    const { email, goal, website, startedAt } = body as {
+      email?: string;
+      goal?: string;
+      website?: string;
+      startedAt?: number | string;
+    };
 
     if (!email || !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) {
       return NextResponse.json({ error: "Invalid email" }, { status: 400 });
+    }
+
+    const normalizedEmail = email.trim().toLowerCase();
+    const escapedEmail = escapeHtml(normalizedEmail);
+    const guardResult = guardWaitlistRequest(req, {
+      email: normalizedEmail,
+      honeypot: website,
+      startedAt,
+    });
+    if (guardResult) {
+      return guardResult;
     }
 
     const validGoals = ["Mental", "Physical", "Spiritual", "Financial"];
@@ -49,7 +83,7 @@ export async function POST(req: NextRequest) {
 
     const signupTime = new Date().toLocaleString("en-US", { timeZone: "America/Chicago" });
 
-    // Notify Carson — include goal + sequence trigger metadata
+    // Notify the site owner with goal + sequence trigger metadata.
     await resend.emails.send({
       from: "HabitForge <onboarding@resend.dev>",
       to: NOTIFY_EMAIL,
@@ -57,7 +91,7 @@ export async function POST(req: NextRequest) {
       html: `
         <div style="font-family: sans-serif; max-width: 480px; margin: 0 auto; padding: 24px; color: #1c1917;">
           <h2 style="margin-bottom: 8px;">New Waitlist Signup</h2>
-          <p><strong>Email:</strong> ${email}</p>
+          <p><strong>Email:</strong> ${escapedEmail}</p>
           <p><strong>Primary Goal:</strong> ${cleanGoal ? GOAL_LABELS[cleanGoal] : "Not specified"}</p>
           <p><strong>Time:</strong> ${signupTime} CST</p>
           <hr style="border:none;border-top:1px solid #e7e5e4;margin:16px 0;" />
@@ -71,9 +105,9 @@ export async function POST(req: NextRequest) {
     // Day 0: Welcome email — sent immediately
     await resend.emails.send({
       from: "HabitForge <onboarding@resend.dev>",
-      to: email,
+      to: normalizedEmail,
       subject: "You're on the HabitForge waitlist",
-      html: buildWelcomeEmail(email, cleanGoal),
+      html: buildWelcomeEmail(normalizedEmail, cleanGoal),
     });
 
     /*
@@ -86,7 +120,7 @@ export async function POST(req: NextRequest) {
      *   3. The route below sends the appropriate email for that day.
      *
      * Day 3 subject: "One habit that changes everything" — delivers a single insight
-     * Day 7 subject: "Your first week. What we noticed." — Forge Score preview + CTA
+     * Day 7 subject: "Your first week. What we noticed." — reflection preview + CTA
      *
      * Until the cron is active, these are no-ops (safe to deploy).
      */

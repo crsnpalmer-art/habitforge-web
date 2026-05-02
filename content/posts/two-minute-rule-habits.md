@@ -111,4 +111,4 @@ Dave Asprey has incorporated the concept of reducing friction and optimizing env
 
 - **Atomic Habits — James Clear** — The source of the 2-minute rule — https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299
 - **Tiny Habits — BJ Fogg** — Stanford researcher's complementary framework for micro-habits — https://www.amazon.com/Tiny-Habits-Changes-Everything/dp/0358003326
-- **HabitForge App** — Coming soon: forge habits with the DNA framework — https://habitforgeai.com/#waitlist
+- **HabitForge App** — See the HabitForge app preview — daily check-ins, Forge Score, and habit tracking in one place: https://habitforgeai.com/download

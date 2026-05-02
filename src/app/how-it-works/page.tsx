@@ -3,92 +3,62 @@
 import Image from "next/image";
 import Link from "next/link";
 import { useState } from "react";
-import MobileMenu from "@/components/MobileMenu";
 import SiteFooter from "@/components/SiteFooter";
 import ScrollAnimator from "@/components/ScrollAnimator";
-
-const NAV_LINKS = [
-  { label: "About", href: "/about" },
-  { label: "How It Works", href: "/how-it-works" },
-  { label: "Blog", href: "/blog" },
-];
+import SiteNav from "@/components/SiteNav";
+import { APP_STORE_LIVE, PRIMARY_CTA_LABEL_LONG, PRIMARY_CTA_URL } from "@/lib/config";
 
 const steps = [
   {
     num: "01",
-    title: "Create Your Account",
-    desc: "Sign in with Apple, Google, or Email — secure authentication in seconds. Your data is encrypted from the first tap.",
+    title: "Create your account",
+    desc: "Sign in with Apple, Google, or email. HabitForge gets out of your way fast and lets the real work begin.",
     screenshot: "/screenshots/01-auth.png",
   },
   {
     num: "02",
-    title: "Personalized Onboarding",
-    desc: "Enter your name, pick your first habit, and choose its dimension. HabitForge calibrates to your growth priorities from day one.",
+    title: "Choose your first habit",
+    desc: "Pick what matters first and map it to Mental, Physical, Spiritual, or Financial growth.",
     screenshot: "/screenshots/02-onboarding.png",
   },
   {
     num: "03",
-    title: "Build Your Daily Habits",
-    desc: "Check off habits across all four dimensions — Mental, Physical, Spiritual, Financial. Every completion counts toward your Forge Score.",
+    title: "Build the daily rhythm",
+    desc: "Check off habits, stack routines, and let the reps accumulate instead of resetting every week.",
     screenshot: "/screenshots/01-Dashboard.png",
   },
   {
     num: "04",
-    title: "Track Streaks & Forge Score",
-    desc: "Your Forge Score compounds with every check-in: weighted completions + (streak × 5) + (longest streak × 2). Harder habits earn more. Rise from Apprentice through Journeyman, Artisan, Blacksmith, all the way to Mythic.",
+    title: "Review progress without pressure",
+    desc: "Habit detail makes your patterns visible so you can adjust the system instead of judging the miss.",
     screenshot: "/screenshots/07-Progress.png",
   },
   {
     num: "05",
-    title: "Protect Your Streaks",
-    desc: "Earn a Forge Shield every 14-day streak. Miss a day? Use your shield to protect your streak and keep the momentum alive.",
+    title: "Recover rhythm after missed days",
+    desc: "Hard weeks happen. HabitForge helps you restart from the pattern instead of treating one miss like a collapse.",
     screenshot: "/screenshots/02-ForgeShields.png",
   },
   {
     num: "06",
-    title: "Chain Habits Into Routines",
-    desc: "Link habits together into ordered daily routines. Morning Routine, Evening Wind-Down — complete them as a sequence and track the whole chain as one.",
-    screenshot: "/screenshots/05-HabitChains.png",
-  },
-  {
-    num: "07",
-    title: "Ask Ember",
-    desc: "Ember AI analyzes your habits, streaks, mood trends, and Forge Score to deliver personalized coaching. Runs entirely on-device using Apple Intelligence — your data never leaves your phone.",
+    title: "Let Ember coach the pattern",
+    desc: "Ember AI turns your real habit data into encouragement, feedback, and accountability.",
     screenshot: "/screenshots/03-EmberAI.png",
   },
 ];
 
 const faqs = [
-  {
-    q: "When does HabitForge launch on the App Store?",
-    a: "We're in the final stages of App Store review preparation. Join the waitlist to be notified the moment it's live.",
-  },
-  {
-    q: "What iOS version do I need?",
-    a: "HabitForge requires iOS 26 or later.",
-  },
-  {
-    q: "Is my data private?",
-    a: "Yes. An account is required to use the app, but all your habit data is stored locally on your device — never uploaded to a cloud server. No third-party tracking.",
-  },
-
+  ["What does HabitForge track?", "HabitForge tracks habits across Mental, Physical, Spiritual, and Financial growth, plus check-ins, reflections, and day-to-day consistency."],
+  ["What iOS version do I need?", "HabitForge requires iOS 26 or later."],
+  ["What does Ember AI do?", "Ember looks at your actual habit history and gives reflection, encouragement, and accountability based on your real pattern — not generic push notifications."],
+  ["Is my data private?", "Yes. HabitForge is designed around calm, private ownership of your routine data rather than ad-driven tracking."],
 ];
 
 function PhoneMockup({ src, alt }: { src: string; alt: string }) {
   return (
-    <div
-      className="bg-stone-900 rounded-[2.5rem] p-2 shadow-2xl"
-      style={{ width: 300, maxWidth: "100%" }}
-    >
-      <div className="overflow-hidden rounded-[2rem] border border-stone-700">
-        <Image
-          src={src}
-          alt={alt}
-          width={296}
-          height={640}
-          className="w-full h-auto block"
-          style={{ display: "block" }}
-        />
+    <div className="rounded-[2.5rem] bg-[#171717] p-2 shadow-[0_30px_80px_rgba(7,12,20,0.28)]" style={{ width: 300, maxWidth: "100%" }}>
+      <div className="overflow-hidden rounded-[2rem] border border-white/10">
+        <Image src={src} alt={alt} width={296} height={640} className="block h-auto w-full" />
       </div>
     </div>
   );
@@ -97,211 +67,135 @@ function PhoneMockup({ src, alt }: { src: string; alt: string }) {
 function FAQItem({ q, a }: { q: string; a: string }) {
   const [open, setOpen] = useState(false);
   return (
-    <div className="border-b border-stone-200 py-5">
-      <button
-        onClick={() => setOpen(!open)}
-        className="w-full text-left flex items-center justify-between gap-4 group"
-      >
-        <span className="text-stone-800 font-medium text-[15px]">{q}</span>
-        <svg
-          className={`w-5 h-5 text-stone-400 shrink-0 transition-transform duration-200 ${open ? "rotate-180" : ""}`}
-          fill="none"
-          stroke="currentColor"
-          viewBox="0 0 24 24"
-        >
-          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M19 9l-7 7-7-7" />
-        </svg>
+    <div className="border-b border-white/10 py-5 last:border-b-0">
+      <button onClick={() => setOpen((v) => !v)} className="flex w-full items-center justify-between gap-4 text-left">
+        <span className="text-[15px] font-medium text-white">{q}</span>
+        <span className={`text-xl text-[#f2cc8f] transition-transform ${open ? "rotate-45" : "rotate-0"}`}>+</span>
       </button>
-      {open && (
-        <p className="mt-3 text-stone-500 text-sm leading-relaxed">{a}</p>
-      )}
+      {open && <p className="mt-3 text-sm leading-7 text-white/68">{a}</p>}
     </div>
   );
 }
 
 export default function HowItWorks() {
   return (
-    <main className="min-h-screen bg-[#F5F0E8] font-sans">
+    <main className="relative min-h-screen overflow-hidden bg-[#14110d] text-white">
       <ScrollAnimator />
 
-      {/* ── NAVBAR ── */}
-      <nav
-        className="fixed top-0 left-0 right-0 z-50 px-4 sm:px-6 py-4"
-        style={{
-          backdropFilter: "blur(16px)",
-          WebkitBackdropFilter: "blur(16px)",
-          background: "rgba(245, 240, 232, 0.85)",
-          borderBottom: "1px solid rgba(0,0,0,0.06)",
-        }}
-      >
-        <div className="max-w-6xl mx-auto flex items-center justify-between">
-          <Link href="/" className="flex items-center gap-2.5">
-            <Image src="/logo.jpg" alt="HabitForge" width={32} height={32} className="rounded-lg" />
-            <span className="font-semibold text-stone-800 tracking-tight text-[15px]">HabitForge</span>
-          </Link>
-          <div className="hidden sm:flex items-center gap-8 text-sm text-stone-500 font-medium">
-            <Link href="/about" className="hover:text-stone-800 transition-colors">About</Link>
-            <Link href="/how-it-works" className="text-stone-900 font-semibold hover:text-stone-800 transition-colors">How It Works</Link>
-            <Link href="/blog" className="hover:text-stone-800 transition-colors">Blog</Link>
-          </div>
-          <Link
-            href="/#waitlist"
-            className="hidden sm:inline-block px-4 py-2 rounded-full text-sm font-semibold text-white transition-opacity hover:opacity-90"
-            style={{ background: "#1c1917" }}
-          >
-            Join Waitlist
-          </Link>
-          <MobileMenu links={NAV_LINKS} activeHref="/how-it-works" />
-        </div>
-      </nav>
+      <div className="pointer-events-none absolute inset-0">
+        <video
+          className="fixed inset-0 h-full w-full object-cover opacity-30"
+          src="/homepage-hero.mp4"
+          autoPlay
+          loop
+          muted
+          playsInline
+        />
+        <div className="fixed inset-0 bg-[linear-gradient(180deg,rgba(20,17,13,0.58)_0%,rgba(20,17,13,0.92)_100%)]" />
+        <div className="fixed inset-0 bg-[linear-gradient(115deg,rgba(242,204,143,0.12),transparent_32%),linear-gradient(245deg,rgba(91,117,89,0.18),transparent_30%)]" />
+      </div>
 
-      {/* ── HERO ── */}
-      <section className="flex flex-col items-center justify-center min-h-[80vh] px-6 text-center pt-28 pb-16">
-        <div className="max-w-3xl mx-auto">
-          <p className="text-[11px] font-semibold tracking-[0.25em] text-stone-400 uppercase mb-6">
-            How It Works
-          </p>
-          <h1
-            className="text-5xl md:text-6xl lg:text-7xl font-bold text-stone-800 tracking-tight leading-[1.05] mb-6"
-            style={{ fontFamily: "var(--font-playfair)" }}
-          >
-            Build better habits with structure, momentum, and accountability.
-          </h1>
-          <p className="text-lg text-stone-500 leading-relaxed mb-10 max-w-xl mx-auto">
-            HabitForge helps you track daily actions across mental, physical, spiritual, and financial growth.
-          </p>
-          <div className="flex flex-col sm:flex-row gap-3 justify-center mb-12">
-            <a
-              href="/#waitlist"
-              className="px-7 py-3.5 rounded-full bg-stone-900 text-white font-semibold text-sm hover:bg-stone-700 transition-colors"
-            >
-              Join the Waitlist
-            </a>
-            <a
-              href="#steps"
-              className="px-7 py-3.5 rounded-full border border-stone-300 text-stone-700 font-semibold text-sm hover:border-stone-400 transition-colors"
-            >
-              See the App
-            </a>
-          </div>
+      <section className="relative z-10 overflow-hidden text-center text-white">
+        <video
+          className="absolute inset-0 h-full w-full object-cover"
+          src="/homepage-hero.mp4"
+          autoPlay
+          loop
+          muted
+          playsInline
+        />
+        <div className="absolute inset-0 bg-[linear-gradient(180deg,rgba(20,17,13,0.34)_0%,rgba(20,17,13,0.86)_100%)]" />
+        <div className="absolute inset-0 bg-[linear-gradient(115deg,rgba(242,204,143,0.18),transparent_32%),linear-gradient(245deg,rgba(91,117,89,0.22),transparent_30%)]" />
 
-          {/* Trust strip */}
-          <div className="flex flex-wrap items-center justify-center gap-6 text-[11px] font-semibold tracking-[0.18em] text-stone-400 uppercase">
-            <span>iOS 26+</span>
-            <span className="text-stone-300">·</span>
-            <span>Private by Design</span>
-            <span className="text-stone-300">·</span>
-            <span>Available Soon</span>
+        <div className="relative z-10 pb-20">
+          <SiteNav activeHref="/how-it-works" variant="dark" />
+
+          <div className="px-6 pb-10 pt-10 sm:pt-16">
+            <div className="mx-auto max-w-4xl">
+              <p className="mb-6 text-[11px] font-semibold uppercase tracking-[0.28em] text-white/60">How it works</p>
+              <h1 className="font-display mx-auto max-w-[21rem] text-4xl leading-[1.08] tracking-tight text-white sm:max-w-4xl sm:text-6xl md:text-7xl">
+                <span className="block">Structure.</span>
+                <span className="block">Momentum.</span>
+                <span className="block">Accountability.</span>
+              </h1>
+              <p className="mx-auto mt-6 max-w-[19rem] text-lg leading-relaxed text-white/78 sm:max-w-2xl">
+                HabitForge helps you build routines across mental, physical, spiritual, and financial growth without feeling like homework.
+              </p>
+              {APP_STORE_LIVE ? (
+                <a href={PRIMARY_CTA_URL} target="_blank" rel="noopener noreferrer" className="mt-10 inline-flex rounded-full bg-[#111827] px-8 py-4 text-sm text-white transition-transform hover:scale-[1.03] active:scale-[0.97]">
+                  {PRIMARY_CTA_LABEL_LONG}
+                </a>
+              ) : (
+                <Link href={PRIMARY_CTA_URL} className="mt-10 inline-flex rounded-full bg-[#111827] px-8 py-4 text-sm text-white transition-transform hover:scale-[1.03] active:scale-[0.97]">
+                  {PRIMARY_CTA_LABEL_LONG}
+                </Link>
+              )}
+            </div>
           </div>
         </div>
       </section>
 
-      {/* ── STEPS ── */}
-      <section id="steps" className="py-24 px-6 bg-white">
-        <div className="max-w-5xl mx-auto flex flex-col gap-28">
-          {steps.map((step, i) => {
-            const imageLeft = i % 2 === 1; // even index = image right, odd = image left
-            return (
-              <div
-                key={step.num}
-                className={`scroll-animate flex flex-col ${imageLeft ? "md:flex-row" : "md:flex-row-reverse"} items-center gap-12 md:gap-20`}
-              >
-                {/* Phone */}
-                <div className="shrink-0 flex justify-center">
-                  <PhoneMockup src={step.screenshot} alt={step.title} />
-                </div>
-
-                {/* Text */}
-                <div className="flex-1 relative">
-                  <span
-                    className="absolute -top-6 left-0 text-[9rem] font-black leading-none select-none pointer-events-none"
-                    style={{ fontFamily: "var(--font-playfair)", color: "rgba(0,0,0,0.04)" }}
-                  >
-                    {step.num}
-                  </span>
-                  <div className="relative z-10">
-                    <p className="text-[11px] font-semibold tracking-[0.2em] text-stone-400 uppercase mb-3">
-                      Step {step.num}
-                    </p>
-                    <h2
-                      className="text-3xl md:text-4xl font-bold text-stone-800 tracking-tight mb-4 leading-tight"
-                      style={{ fontFamily: "var(--font-playfair)" }}
-                    >
-                      {step.title}
-                    </h2>
-                    <p className="text-stone-500 text-base leading-relaxed max-w-sm">
-                      {step.desc}
-                    </p>
-                  </div>
+      <section className="relative z-10 overflow-hidden px-6 py-24" id="steps">
+        <div className="absolute inset-0 bg-[linear-gradient(180deg,rgba(20,17,13,0.68)_0%,rgba(30,27,21,0.84)_100%)]" />
+        <div className="relative mx-auto flex max-w-6xl flex-col gap-24">
+          {steps.map((step, i) => (
+            <div key={step.num} className={`scroll-animate flex flex-col items-center gap-12 rounded-[2.5rem] border border-white/8 bg-white/5 p-8 shadow-[0_22px_60px_rgba(7,12,20,0.18)] backdrop-blur-sm ${i % 2 ? "md:flex-row" : "md:flex-row-reverse"}`}>
+              <div className="flex shrink-0 justify-center">
+                <PhoneMockup src={step.screenshot} alt={step.title} />
+              </div>
+              <div className="relative flex-1">
+                <span className="pointer-events-none absolute -top-10 right-0 text-[5rem] font-semibold leading-none text-white/5 md:text-[6rem]">{step.num}</span>
+                <div className="relative z-10">
+                  <p className="mb-3 text-[11px] font-semibold uppercase tracking-[0.24em] text-[#f2cc8f]">Step {step.num}</p>
+                  <h2 className="font-display max-w-lg text-4xl leading-[1.08] tracking-tight text-white sm:text-5xl">{step.title}</h2>
+                  <p className="mt-5 max-w-md text-base leading-8 text-white/68">{step.desc}</p>
                 </div>
               </div>
-            );
-          })}
+            </div>
+          ))}
         </div>
       </section>
 
-      {/* ── HABIT DETAIL HIGHLIGHT ── */}
-      <section className="py-24 px-6 bg-[#F5F0E8]">
-        <div className="max-w-5xl mx-auto flex flex-col md:flex-row items-center gap-16">
-          <div className="flex-1 order-2 md:order-1">
-            <p className="text-[11px] font-semibold tracking-[0.2em] text-stone-400 uppercase mb-3">
-              Habit Detail
-            </p>
-            <h2
-              className="text-4xl md:text-5xl font-bold text-stone-800 tracking-tight mb-5 leading-tight"
-              style={{ fontFamily: "var(--font-playfair)" }}
-            >
-              Every streak tells a story.
-            </h2>
-            <p className="text-stone-500 text-base leading-relaxed max-w-md">
-              Inspect individual habit history and fine-tune your routine with precision. Every streak tells a story.
-            </p>
-          </div>
-          <div className="shrink-0 order-1 md:order-2 flex justify-center">
-            <PhoneMockup src="/screenshots/07-habit-detail.png" alt="Habit Detail" />
-          </div>
-        </div>
-      </section>
-
-
-
-      {/* ── FAQ ── */}
-      <section className="py-24 px-6 bg-white">
-        <div className="max-w-2xl mx-auto">
-          <div className="text-center mb-14">
-            <p className="text-[11px] font-semibold tracking-[0.25em] text-stone-400 uppercase mb-3">FAQ</p>
-            <h2
-              className="text-4xl font-bold text-stone-800 tracking-tight"
-              style={{ fontFamily: "var(--font-playfair)" }}
-            >
-              Questions answered.
-            </h2>
-          </div>
+      <section className="relative z-10 px-6 py-24">
+        <div className="mx-auto grid max-w-5xl gap-12 rounded-[2.5rem] border border-white/8 bg-white/5 p-8 shadow-[0_22px_60px_rgba(7,12,20,0.18)] backdrop-blur-sm md:grid-cols-[1fr_320px] md:items-center md:p-12">
           <div>
-            {faqs.map((faq) => (
-              <FAQItem key={faq.q} q={faq.q} a={faq.a} />
+            <p className="mb-3 text-[11px] font-semibold uppercase tracking-[0.24em] text-[#f2cc8f]">Habit detail</p>
+            <h2 className="font-display text-4xl leading-[1.08] tracking-tight text-white sm:text-5xl">Every pattern tells a story.</h2>
+            <p className="mt-5 max-w-xl text-base leading-8 text-white/68">
+              Inspect the pattern, spot the weak point, and adjust before a rough week becomes a lost month.
+            </p>
+          </div>
+          <div className="flex justify-center">
+            <PhoneMockup src="/screenshots/07-habit-detail.png" alt="Habit detail" />
+          </div>
+        </div>
+      </section>
+
+      <section className="relative z-10 px-6 py-24">
+        <div className="mx-auto max-w-3xl rounded-[2.5rem] border border-white/8 bg-white/5 p-8 shadow-[0_22px_60px_rgba(7,12,20,0.18)] backdrop-blur-sm sm:p-10">
+          <p className="mb-3 text-[11px] font-semibold uppercase tracking-[0.24em] text-[#f2cc8f]">FAQ</p>
+          <h2 className="font-display text-4xl leading-[1.08] tracking-tight text-white">What people usually want to know.</h2>
+          <div className="mt-8">
+            {faqs.map(([q, a]) => (
+              <FAQItem key={q} q={q} a={a} />
             ))}
           </div>
         </div>
       </section>
 
-      {/* ── CTA FOOTER ── */}
-      <section className="py-20 px-6 bg-[#F5F0E8] text-center">
-        <h2
-          className="text-3xl md:text-4xl font-bold text-stone-800 tracking-tight mb-6"
-          style={{ fontFamily: "var(--font-playfair)" }}
-        >
-          Ready to forge your habits?
-        </h2>
-        <a
-          href="/#waitlist"
-          className="inline-flex px-8 py-4 rounded-full bg-stone-900 text-white font-semibold text-sm hover:bg-stone-700 transition-colors"
-        >
-          Join the Waitlist
-        </a>
+      <section className="relative z-10 px-6 pb-24 pt-6 text-center text-white">
+        <div className="mx-auto max-w-2xl rounded-[2.5rem] border border-white/8 bg-[linear-gradient(135deg,rgba(217,124,95,0.18),rgba(255,255,255,0.04))] p-10 shadow-[0_22px_60px_rgba(7,12,20,0.18)] backdrop-blur-sm">
+          <h2 className="font-display text-4xl leading-[1.08] tracking-tight sm:text-5xl">See the app in context.</h2>
+          <p className="mt-5 text-base leading-relaxed text-white/72">The download page shows the product screens, release path, and what HabitForge is built to help you do every day.</p>
+          <Link href="/download" className="mt-10 inline-flex rounded-full bg-white px-8 py-4 text-sm font-medium text-[#171717] transition-transform hover:scale-[1.03] active:scale-[0.97]">
+            View the app preview
+          </Link>
+        </div>
       </section>
 
-      <SiteFooter />
+      <div className="relative z-10">
+        <SiteFooter variant="dark" />
+      </div>
     </main>
   );
 }

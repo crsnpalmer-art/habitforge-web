@@ -17,6 +17,7 @@
 
 import { NextRequest, NextResponse } from "next/server";
 import { Resend } from "resend";
+import { guardSequenceRequest, tokensMatch } from "@/lib/requestProtection";
 
 const resend = new Resend(process.env.RESEND_API_KEY ?? "placeholder");
 
@@ -40,7 +41,7 @@ function day3Email(goal?: string): { subject: string; html: string } {
         <h1 style="font-size: 24px; font-weight: bold; margin-bottom: 12px;">Day 3. The real reason habits fail.</h1>
         ${goalContext}
         <p style="font-size:15px;line-height:1.7;color:#57534e;margin-top:16px;">
-          Most people track <em>behavior</em>. HabitForge tracks <em>identity</em>. The Forge Score isn't about streaks — it's about showing you who you're becoming across four dimensions: Mental, Physical, Spiritual, Financial.
+          Most people track <em>behavior</em>. HabitForge helps you notice <em>identity</em>: the daily evidence of who you're becoming across four dimensions: Mental, Physical, Spiritual, Financial.
         </p>
         <p style="font-size:15px;line-height:1.7;color:#57534e;margin-top:16px;">
           When the app launches, you'll see this in motion. Until then — read the science behind it:
@@ -95,14 +96,23 @@ export async function POST(req: NextRequest) {
       token?: string;
     };
 
-    // Token guard
     const expectedToken = process.env.SEQUENCE_API_TOKEN;
-    if (!expectedToken || token !== expectedToken) {
+    if (!expectedToken) {
+      return NextResponse.json({ error: "Email sequence is not configured" }, { status: 503 });
+    }
+
+    if (!tokensMatch(expectedToken, token)) {
       return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
     }
 
     if (!email || !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) {
       return NextResponse.json({ error: "Invalid email" }, { status: 400 });
+    }
+
+    const normalizedEmail = email.trim().toLowerCase();
+    const rateLimitResult = guardSequenceRequest(req, normalizedEmail);
+    if (rateLimitResult) {
+      return rateLimitResult;
     }
 
     if (day !== 3 && day !== 7) {
@@ -116,7 +126,7 @@ export async function POST(req: NextRequest) {
 
     await resend.emails.send({
       from: "HabitForge <onboarding@resend.dev>",
-      to: email,
+      to: normalizedEmail,
       subject,
       html,
     });

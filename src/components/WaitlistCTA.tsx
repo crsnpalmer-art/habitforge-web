@@ -1,7 +1,7 @@
 "use client";
 
 import Link from "next/link";
-import { APP_STORE_LIVE, APP_STORE_URL } from "@/lib/config";
+import { APP_STORE_LIVE, PRIMARY_CTA_LABEL_LONG } from "@/lib/config";
 import { trackEvent } from "@/lib/analytics";
 
 interface WaitlistCTAProps {
@@ -11,8 +11,7 @@ interface WaitlistCTAProps {
 }
 
 /**
- * Globally switchable CTA: shows App Store button when APP_STORE_LIVE=true,
- * otherwise shows waitlist link.
+ * Globally switchable CTA: routes to the connected download/product flow.
  */
 export default function WaitlistCTA({
   className = "",
@@ -26,18 +25,18 @@ export default function WaitlistCTA({
         className={className}
         onClick={() => trackEvent("cta_click", { destination: "download", variant })}
       >
-        {label || "Download on the App Store"}
+        {label || PRIMARY_CTA_LABEL_LONG}
       </Link>
     );
   }
 
   return (
     <Link
-      href="/#waitlist"
+      href="/download"
       className={className}
-      onClick={() => trackEvent("cta_click", { destination: "waitlist", variant })}
+      onClick={() => trackEvent("cta_click", { destination: "download", variant })}
     >
-      {label || "Join Waitlist"}
+      {label || PRIMARY_CTA_LABEL_LONG}
     </Link>
   );
 }

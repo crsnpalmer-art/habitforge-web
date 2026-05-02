@@ -71,6 +71,6 @@ Dr. Raymond Peat has written about the relationship between lifestyle, metabolis
 
 ## Where to Buy / Find This
 
-- **HabitForge App** — Coming soon: forge your behavioral DNA with the Forge Score system — https://habitforgeai.com/#waitlist
+- **HabitForge App** — See the HabitForge app preview and Forge Score system: https://habitforgeai.com/download
 - **Atomic Habits — James Clear** — The best practical guide to building habit DNA — https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299
 - **The Power of Habit — Charles Duhigg** — Deep dive into the neuroscience of habit loops — https://www.amazon.com/Power-Habit-What-Life-Business/dp/081298160X

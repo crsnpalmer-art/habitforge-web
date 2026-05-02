@@ -25,11 +25,18 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-# local env files
-.env*.local
+# env files
+.env
+.env.*
+!.env.example
 
 # vercel
 .vercel
+
+# local-only working artifacts
+tasks/
+trailer/
+topic-bank.txt
 
 # typescript
 *.tsbuildinfo

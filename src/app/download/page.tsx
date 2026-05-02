@@ -1,162 +1,204 @@
-import Link from "next/link";
 import Image from "next/image";
 import SiteFooter from "@/components/SiteFooter";
-import { APP_STORE_LIVE, APP_STORE_URL, SITE_URL, SITE_NAME } from "@/lib/config";
-import { redirect } from "next/navigation";
+import SiteNav from "@/components/SiteNav";
+import { APP_STORE_LIVE, APP_STORE_URL, PRIMARY_CTA_LABEL_LONG, SITE_NAME, SITE_URL } from "@/lib/config";
 
 export const metadata = {
   title: "Download HabitForge — iOS App",
-  description: "Download HabitForge on the App Store. Track your Mental, Physical, Spiritual, and Financial habits in one place.",
+  description: "Download HabitForge on the App Store or preview the app before launch.",
   openGraph: {
     title: "Download HabitForge",
-    description: "Track your Mental, Physical, Spiritual, and Financial habits. Available on iOS.",
+    description: "Track your Mental, Physical, Spiritual, and Financial habits in one place.",
     url: `${SITE_URL}/download`,
     siteName: SITE_NAME,
   },
 };
 
+const shots = [
+  { src: "/screenshots/01-auth.png", alt: "HabitForge sign in" },
+  { src: "/screenshots/03-dashboard.png", alt: "HabitForge dashboard" },
+  { src: "/screenshots/04-progress.png", alt: "HabitForge progress" },
+];
+
+const benefits = [
+  {
+    title: "One daily system",
+    body: "Track the habits that matter without juggling notes, reminders, and a bunch of half-used apps.",
+  },
+  {
+    title: "Built for real life",
+    body: "HabitForge is designed for imperfect weeks, low motivation, and the messy middle where most routines die.",
+  },
+  {
+    title: "Clear accountability",
+    body: "Reflection, habit detail, and weekly patterns make your momentum visible before the results show up.",
+  },
+];
+
+const weekOne = [
+  "Choose a few habits across mind, body, spirit, or money",
+  "Check in daily instead of renegotiating the plan every morning",
+  "Use reflections and habit detail to spot where momentum starts slipping",
+  "Let Ember reflect the pattern back so you can adjust fast",
+];
+
 export default function DownloadPage() {
-  // If App Store isn't live yet, redirect to waitlist
-  if (!APP_STORE_LIVE) {
-    redirect("/#waitlist");
-  }
-
   return (
-    <main className="min-h-screen bg-[#F5F0E8] text-stone-900">
-      {/* Nav */}
-      <nav
-        className="sticky top-0 z-50 px-4 sm:px-6 py-4"
-        style={{
-          backdropFilter: "blur(16px)",
-          WebkitBackdropFilter: "blur(16px)",
-          background: "rgba(245, 240, 232, 0.92)",
-          borderBottom: "1px solid rgba(0,0,0,0.06)",
-        }}
-      >
-        <div className="max-w-4xl mx-auto flex items-center justify-between">
-          <Link href="/" className="flex items-center gap-2.5">
-            <Image src="/logo.jpg" alt="HabitForge" width={32} height={32} className="rounded-lg" />
-            <span className="font-semibold text-stone-800 tracking-tight text-[15px]">HabitForge</span>
-          </Link>
-          <Link href="/" className="text-sm font-medium text-stone-500 hover:text-stone-800 transition-colors">
-            ← Back
-          </Link>
+    <main className="relative min-h-screen overflow-hidden bg-[#14110d] text-white">
+      <div className="pointer-events-none absolute inset-0">
+        <video
+          className="fixed inset-0 h-full w-full object-cover opacity-30"
+          src="/homepage-hero.mp4"
+          autoPlay
+          loop
+          muted
+          playsInline
+        />
+        <div className="fixed inset-0 bg-[linear-gradient(180deg,rgba(20,17,13,0.58)_0%,rgba(20,17,13,0.92)_100%)]" />
+        <div className="fixed inset-0 bg-[linear-gradient(115deg,rgba(242,204,143,0.14),transparent_32%),linear-gradient(245deg,rgba(91,117,89,0.18),transparent_30%)]" />
+      </div>
+
+      <section className="relative z-10 overflow-hidden text-center text-white">
+        <video
+          className="absolute inset-0 h-full w-full object-cover"
+          src="/homepage-hero.mp4"
+          autoPlay
+          loop
+          muted
+          playsInline
+        />
+        <div className="absolute inset-0 bg-[linear-gradient(180deg,rgba(20,17,13,0.34)_0%,rgba(20,17,13,0.82)_100%)]" />
+        <div className="absolute inset-0 bg-[linear-gradient(115deg,rgba(242,204,143,0.18),transparent_32%),linear-gradient(245deg,rgba(91,117,89,0.20),transparent_30%)]" />
+
+        <div className="relative z-10 pb-16">
+          <SiteNav activeHref="/download" variant="dark" />
+
+          <section className="px-6 pb-12 pt-10 sm:pt-16">
+            <div className="mx-auto max-w-4xl">
+              <p className="mb-6 text-[11px] font-semibold uppercase tracking-[0.28em] text-white/60">
+                {APP_STORE_LIVE ? "Now available on iOS" : "App preview"}
+              </p>
+              <h1 className="font-display mx-auto max-w-[22rem] text-4xl leading-[1.08] tracking-tight text-white sm:max-w-4xl sm:text-6xl md:text-7xl">
+                <span className="block">A habit app</span>
+                <span className="block">for structure</span>
+                <span className="block">without noise.</span>
+              </h1>
+              <p className="mx-auto mt-6 max-w-[19rem] text-lg leading-relaxed text-white/78 sm:max-w-3xl">
+                HabitForge gives you one calm place to track the habits that matter, keep daily momentum visible, and recover quickly when life knocks your routine sideways.
+              </p>
+
+              {APP_STORE_LIVE ? (
+                <a
+                  href={APP_STORE_URL}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="mt-10 inline-flex cursor-pointer items-center rounded-full bg-gray-900 px-8 py-4 text-sm text-white transition-transform hover:scale-[1.03] active:scale-[0.97]"
+                >
+                  {PRIMARY_CTA_LABEL_LONG}
+                </a>
+              ) : (
+                <div className="mt-10 inline-flex rounded-full border border-white/15 bg-white/10 px-8 py-4 text-sm font-medium text-white shadow-[0_18px_50px_rgba(7,12,20,0.18)] backdrop-blur-sm">
+                  App Store release in progress
+                </div>
+              )}
+
+              <p className="mt-4 text-sm text-white/62">iOS 26+ · Daily check-ins · Weekly reflection · Ember AI</p>
+
+              <div className="mx-auto mt-8 flex max-w-[19rem] flex-col items-stretch justify-center gap-3 text-sm text-white/74 sm:max-w-3xl sm:flex-row sm:flex-wrap sm:items-center">
+                <span className="rounded-full border border-white/12 bg-white/8 px-4 py-2 text-center">Check in once a day</span>
+                <span className="rounded-full border border-white/12 bg-white/8 px-4 py-2 text-center">Track four areas of life in one place</span>
+                <span className="rounded-full border border-white/12 bg-white/8 px-4 py-2 text-center">See weak spots before the routine slips</span>
+              </div>
+            </div>
+
+            <div className="mx-auto mt-16 flex max-w-5xl items-end justify-center gap-4 overflow-hidden sm:gap-6">
+              {shots.map((shot, idx) => (
+                <div
+                  key={shot.src}
+                  className={`overflow-hidden rounded-[2.5rem] bg-[#171717] p-2 shadow-[0_28px_80px_rgba(23,23,23,0.18)] ${idx === 1 ? "z-10" : "hidden translate-y-6 scale-95 sm:block"}`}
+                  style={{ width: idx === 1 ? "min(260px, 42vw)" : "min(200px, 32vw)" }}
+                >
+                  <div className="overflow-hidden rounded-[2rem] border border-white/10">
+                    <Image src={shot.src} alt={shot.alt} width={1170} height={2532} className="block h-auto w-full" priority={idx === 1} />
+                  </div>
+                </div>
+              ))}
+            </div>
+          </section>
         </div>
-      </nav>
+      </section>
 
-      {/* Hero */}
-      <section className="max-w-3xl mx-auto px-6 py-24 text-center">
-        <p className="text-[11px] font-semibold tracking-[0.2em] uppercase text-stone-400 mb-6">
-          Now Available on iOS
-        </p>
-        <h1
-          className="text-5xl md:text-6xl font-bold tracking-tight text-stone-900 leading-tight mb-6"
-          style={{ fontFamily: "var(--font-playfair)" }}
-        >
-          Forge the person<br />you&apos;re becoming.
-        </h1>
-        <p className="text-[18px] text-stone-500 leading-relaxed max-w-xl mx-auto mb-10">
-          Track your Mental, Physical, Spiritual, and Financial habits in one place. See the system running underneath.
-        </p>
-
-        <a
-          href={APP_STORE_URL}
-          target="_blank"
-          rel="noopener noreferrer"
-          className="inline-flex items-center gap-3 rounded-2xl px-8 py-4 text-[15px] font-semibold text-white bg-stone-900 hover:bg-stone-700 transition-colors shadow-lg"
-        >
-          <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
-            <path d="M18.71 19.5c-.83 1.24-1.71 2.45-3.05 2.47-1.34.03-1.77-.79-3.29-.79-1.53 0-2 .77-3.27.82-1.31.05-2.3-1.32-3.14-2.53C4.25 17 2.94 12.45 4.7 9.39c.87-1.52 2.43-2.48 4.12-2.51 1.28-.02 2.5.87 3.29.87.78 0 2.26-1.07 3.8-.91.65.03 2.47.26 3.64 1.98-.09.06-2.17 1.28-2.15 3.81.03 3.02 2.65 4.03 2.68 4.04-.03.07-.42 1.44-1.38 2.83M13 3.5c.73-.83 1.94-1.46 2.94-1.5.13 1.17-.34 2.35-1.04 3.19-.69.85-1.83 1.51-2.95 1.42-.15-1.15.41-2.35 1.05-3.11z"/>
-          </svg>
-          Download on the App Store
-        </a>
-
-        <p className="mt-4 text-[13px] text-stone-400">iOS 26+ · Free to download</p>
-
-        {/* Screenshots */}
-        <div className="mt-20 flex items-end justify-center gap-6">
-          <div
-            className="rounded-[36px] overflow-hidden flex-shrink-0"
-            style={{
-              width: "min(180px, 42vw)",
-              boxShadow: "0 0 0 8px #1a1a1a, 0 0 0 9px #333, 0 30px 60px rgba(0,0,0,0.2)",
-              transform: "rotate(-3deg) translateY(16px)",
-            }}
-          >
-            <Image
-              src="/screenshots/01-auth.png"
-              alt="Sign in to HabitForge"
-              width={1170}
-              height={2532}
-              className="w-full h-auto block"
-              sizes="(max-width: 640px) 42vw, 180px"
-              loading="lazy"
-            />
+      <section className="relative z-10 px-6 py-24">
+        <div className="mx-auto max-w-6xl grid gap-6 lg:grid-cols-[1.15fr_0.85fr]">
+          <div className="rounded-[2.5rem] border border-white/8 bg-white/5 p-8 shadow-[0_22px_60px_rgba(7,12,20,0.18)] backdrop-blur-sm sm:p-12">
+            <p className="mb-3 text-[11px] font-semibold uppercase tracking-[0.24em] text-[#f2cc8f]">Why HabitForge works</p>
+            <h2 className="text-4xl font-medium leading-[1.08] tracking-tight text-white sm:text-5xl">It helps you protect momentum, not just log intentions.</h2>
+            <div className="mt-8 grid gap-4 sm:grid-cols-3">
+              {benefits.map((item) => (
+                <div key={item.title} className="rounded-[2rem] border border-white/8 bg-white/5 p-6">
+                  <h3 className="text-lg font-medium text-white">{item.title}</h3>
+                  <p className="mt-3 text-sm leading-7 text-white/68">{item.body}</p>
+                </div>
+              ))}
+            </div>
           </div>
-          <div
-            className="rounded-[44px] overflow-hidden flex-shrink-0 z-10"
-            style={{
-              width: "min(240px, 58vw)",
-              boxShadow: "0 0 0 10px #1a1a1a, 0 0 0 11px #444, 0 50px 100px rgba(0,0,0,0.28)",
-            }}
-          >
-            <Image
-              src="/screenshots/03-dashboard.png"
-              alt="HabitForge dashboard"
-              width={1170}
-              height={2532}
-              className="w-full h-auto block"
-              sizes="(max-width: 640px) 58vw, 240px"
-              priority
-            />
-          </div>
-          <div
-            className="rounded-[36px] overflow-hidden flex-shrink-0"
-            style={{
-              width: "min(180px, 42vw)",
-              boxShadow: "0 0 0 8px #1a1a1a, 0 0 0 9px #333, 0 30px 60px rgba(0,0,0,0.2)",
-              transform: "rotate(3deg) translateY(16px)",
-            }}
-          >
-            <Image
-              src="/screenshots/04-progress.png"
-              alt="HabitForge progress analytics"
-              width={1170}
-              height={2532}
-              className="w-full h-auto block"
-              sizes="(max-width: 640px) 42vw, 180px"
-              loading="lazy"
-            />
+
+          <div className="rounded-[2.5rem] bg-[linear-gradient(135deg,rgba(217,124,95,0.24),rgba(255,255,255,0.05))] p-8 shadow-[0_22px_60px_rgba(7,12,20,0.18)] backdrop-blur-sm sm:p-10">
+            <p className="text-[11px] font-semibold uppercase tracking-[0.24em] text-white/70">Week 1</p>
+            <h2 className="mt-3 text-3xl font-medium tracking-tight text-white">What a new user should expect</h2>
+            <ul className="mt-6 space-y-4 text-sm leading-7 text-white/78">
+              {weekOne.map((item) => (
+                <li key={item} className="flex gap-3">
+                  <span className="mt-1 text-[#f2cc8f]">•</span>
+                  <span>{item}</span>
+                </li>
+              ))}
+            </ul>
           </div>
         </div>
       </section>
 
-      {/* Features quick list */}
-      <section className="bg-white border-t border-stone-100 py-16 px-6">
-        <div className="max-w-2xl mx-auto text-center">
-          <p className="text-[11px] font-semibold tracking-[0.2em] uppercase text-stone-400 mb-8">
-            What&apos;s Inside
-          </p>
-          <div className="grid grid-cols-2 sm:grid-cols-4 gap-6">
+      <section className="relative z-10 px-6 pb-24">
+        <div className="mx-auto max-w-5xl rounded-[2.5rem] border border-white/8 bg-white/5 p-8 text-center shadow-[0_22px_60px_rgba(7,12,20,0.18)] backdrop-blur-sm sm:p-12">
+          <p className="mb-3 text-[11px] font-semibold uppercase tracking-[0.24em] text-[#f2cc8f]">What you get</p>
+          <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
             {[
-              { icon: "🧠", label: "Mental" },
-              { icon: "💪", label: "Physical" },
-              { icon: "✨", label: "Spiritual" },
-              { icon: "💰", label: "Financial" },
-            ].map((d) => (
-              <div key={d.label} className="flex flex-col items-center gap-2">
-                <span className="text-3xl">{d.icon}</span>
-                <span className="text-[13px] font-semibold text-stone-700">{d.label}</span>
+              ["Daily", "Check-ins and progress notes"],
+              ["4 areas", "Mental, Physical, Spiritual, Financial"],
+              ["Ember", "AI reflection tied to your real data"],
+              ["Recovery", "A calmer path after a missed day"],
+            ].map(([value, label]) => (
+              <div key={label} className="rounded-[2rem] border border-white/8 bg-white/5 p-8 text-center">
+                <div className="text-4xl font-light tracking-tight text-white">{value}</div>
+                <div className="mt-2 text-sm text-white/66">{label}</div>
               </div>
             ))}
           </div>
-          <p className="mt-10 text-[14px] text-stone-500 leading-relaxed max-w-lg mx-auto">
-            One Forge Score. Four dimensions. Group accountability. Streak tracking. All your data stays on your device.
-          </p>
+
+          <div className="mx-auto mt-10 max-w-2xl">
+            <h3 className="text-2xl font-medium text-white">If you like the ideas in the journal, this is the tool that helps you actually use them.</h3>
+            <p className="mt-4 text-sm leading-7 text-white/70">The blog explains the principles. HabitForge helps you apply them every day without rebuilding your system from scratch every morning.</p>
+            {APP_STORE_LIVE ? (
+              <a
+                href={APP_STORE_URL}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="mt-8 inline-flex cursor-pointer items-center rounded-full bg-white px-8 py-4 text-sm font-medium text-[#171717] transition-transform hover:scale-[1.03] active:scale-[0.97]"
+              >
+                {PRIMARY_CTA_LABEL_LONG}
+              </a>
+            ) : (
+              <div className="mt-8 inline-flex rounded-full border border-white/15 bg-white/10 px-8 py-4 text-sm font-medium text-white shadow-[0_18px_50px_rgba(7,12,20,0.18)] backdrop-blur-sm">
+                App Store release in progress
+              </div>
+            )}
+          </div>
         </div>
       </section>
 
-      <SiteFooter />
+      <div className="relative z-10">
+        <SiteFooter variant="dark" />
+      </div>
     </main>
   );
 }

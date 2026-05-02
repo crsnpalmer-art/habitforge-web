@@ -1,24 +1,32 @@
-import Link from "next/link";
-import Image from "next/image";
 import Script from "next/script";
-import { getPostBySlug, getAllPosts } from "@/lib/posts";
+import Link from "next/link";
 import { notFound } from "next/navigation";
-import { SITE_URL, SITE_NAME } from "@/lib/config";
-
+import { getAllPosts, getPostBySlug } from "@/lib/posts";
+import { SITE_NAME, SITE_URL } from "@/lib/config";
 import { CategoryBadge } from "../BlogClientPage";
 import SiteFooter from "@/components/SiteFooter";
+import SiteNav from "@/components/SiteNav";
 import ReadingProgress from "@/components/ReadingProgress";
 import BlogTOC from "@/components/BlogTOC";
+import BlogInlineCapture from "@/components/BlogInlineCapture";
 import { getPostCoverImage, getPostSectionImages } from "@/lib/postImages";
 
-export async function generateStaticParams() {
-  const posts = getAllPosts();
-  return posts.map((post) => ({ slug: post.slug }));
+type BlogPostPageProps = {
+  params: Promise<{ slug: string }>;
+};
+
+function isMissingPostError(error: unknown): error is Error {
+  return error instanceof Error && error.message.startsWith('Post "') && error.message.includes(" not found.");
 }
 
-export async function generateMetadata({ params }: { params: { slug: string } }) {
+export async function generateStaticParams() {
+  return getAllPosts().map((post) => ({ slug: post.slug }));
+}
+
+export async function generateMetadata({ params }: BlogPostPageProps) {
+  const { slug } = await params;
   try {
-    const post = await getPostBySlug(params.slug);
+    const post = await getPostBySlug(slug);
     return {
       title: `${post.title} — HabitForge`,
       description: post.excerpt,
@@ -30,36 +38,26 @@ export async function generateMetadata({ params }: { params: { slug: string } })
         publishedTime: post.date,
         siteName: SITE_NAME,
       },
-      twitter: {
-        card: "summary_large_image",
-        title: post.title,
-        description: post.excerpt,
-      },
     };
-  } catch {
+  } catch (error) {
+    if (!isMissingPostError(error)) throw error;
     return { title: "Post Not Found" };
   }
 }
 
-export default async function BlogPost({ params }: { params: { slug: string } }) {
+export default async function BlogPost({ params }: BlogPostPageProps) {
+  const { slug } = await params;
   let post;
   try {
-    post = await getPostBySlug(params.slug);
-  } catch {
-    notFound();
+    post = await getPostBySlug(slug);
+  } catch (error) {
+    if (isMissingPostError(error)) notFound();
+    throw error;
   }
 
   const allPosts = getAllPosts();
   const sameCat = allPosts.filter((p) => p.slug !== post.slug && p.category === post.category).slice(0, 3);
-  const relatedPosts =
-    sameCat.length >= 2
-      ? sameCat
-      : [
-          ...sameCat,
-          ...allPosts
-            .filter((p) => p.slug !== post.slug && p.category !== post.category)
-            .slice(0, 3 - sameCat.length),
-        ];
+  const relatedPosts = sameCat.length >= 2 ? sameCat : [...sameCat, ...allPosts.filter((p) => p.slug !== post.slug && p.category !== post.category).slice(0, 3 - sameCat.length)];
 
   const articleJsonLd = {
     "@context": "https://schema.org",
@@ -72,234 +70,91 @@ export default async function BlogPost({ params }: { params: { slug: string } })
     url: `${SITE_URL}/blog/${post.slug}`,
   };
 
-  return (
-    <main className="min-h-screen bg-[#F5F0E8] font-sans">
-      <Script
-        id="article-schema"
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(articleJsonLd) }}
-        strategy="beforeInteractive"
-      />
+  const sectionImgs = getPostSectionImages(post.slug, 6);
+  let hrCount = 0;
+  let contentHtml = post.contentHtml.replace(/<hr>/g, () => {
+    hrCount++;
+    if (hrCount === 1) return "<hr>";
+    const url = sectionImgs[(hrCount - 2) % sectionImgs.length];
+    return `<div style="margin:2.5rem -1.5rem;border-radius:18px;overflow:hidden;"><img src="${url}" alt="" loading="lazy" style="width:100%;height:240px;object-fit:cover;display:block;" /></div>`;
+  });
 
+  contentHtml = contentHtml.replace(
+    /(<h3>Key Facts at a Glance<\/h3>\s*)(<ul>[\s\S]*?<\/ul>)/,
+    `<div style="background:linear-gradient(135deg,rgba(217,124,95,0.08),rgba(242,204,143,0.16));border:1px solid rgba(217,124,95,0.18);border-radius:18px;padding:1.25rem 1.5rem;margin:1.5rem 0;"><p style="font-size:11px;font-weight:700;letter-spacing:0.18em;text-transform:uppercase;color:#b9654c;margin:0 0 .75rem;">Key Facts at a Glance</p>$2</div>`
+  );
+
+  return (
+    <main className="min-h-screen bg-[#F5F0E8] text-[#171717]">
+      <Script id="article-schema" type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(articleJsonLd) }} strategy="beforeInteractive" />
       <ReadingProgress />
 
-      {/* ── Nav ── */}
-      <nav
-        className="sticky top-0 z-50 px-4 sm:px-6 py-4"
-        style={{
-          backdropFilter: "blur(16px)",
-          WebkitBackdropFilter: "blur(16px)",
-          background: "rgba(245, 240, 232, 0.92)",
-          borderBottom: "1px solid rgba(0,0,0,0.06)",
-        }}
-      >
-        <div className="max-w-5xl mx-auto flex items-center justify-between">
-          <Link href="/" className="flex items-center gap-2.5">
-            <Image src="/logo.jpg" alt="HabitForge" width={32} height={32} className="rounded-lg" />
-            <span className="font-semibold text-stone-800 tracking-tight text-[15px]">HabitForge</span>
-          </Link>
-          <div className="hidden sm:flex items-center gap-8 text-sm text-stone-500 font-medium">
-            <Link href="/about" className="hover:text-stone-800 transition-colors">About</Link>
-            <Link href="/how-it-works" className="hover:text-stone-800 transition-colors">How It Works</Link>
-            <Link href="/blog" className="hover:text-stone-800 transition-colors">Blog</Link>
-            <Link href="/blog" className="hover:text-stone-800 transition-colors">← All Posts</Link>
-          </div>
-          <Link
-            href="/#waitlist"
-            className="hidden sm:inline-block px-4 py-2 rounded-full text-sm font-semibold text-white transition-opacity hover:opacity-90"
-            style={{ background: "#1c1917" }}
-          >
-            Join Waitlist
-          </Link>
-        </div>
-      </nav>
-
-      {/* ── Article ── */}
-      <article className="max-w-2xl mx-auto px-6 py-14">
-
-        {/* Header */}
-        <header className="mb-10">
-          <div className="flex items-center gap-3 mb-4 flex-wrap">
-            <CategoryBadge category={post.category} />
-            <span className="text-xs text-stone-400">
-              {new Date(post.date + "T00:00:00").toLocaleDateString("en-US", {
-                year: "numeric",
-                month: "long",
-                day: "numeric",
-              })}
-            </span>
-            <span className="text-xs text-stone-400">{post.readingTime} min read</span>
-          </div>
-          <h1 className="text-4xl md:text-5xl font-black text-stone-900 leading-[1.1] mb-5">
-            {post.title}
-          </h1>
-          <p className="text-xl text-stone-500 leading-relaxed border-b border-stone-200 pb-8">
-            {post.excerpt}
-          </p>
-        </header>
-
-        {/* Hero image */}
-        <div className="mb-10 -mx-6 overflow-hidden rounded-2xl" style={{ aspectRatio: "16/7" }}>
-          <img
-            src={post.coverImage ?? getPostCoverImage(post.slug, post.category)}
-            alt={post.title}
-            style={{ width: "100%", height: "100%", objectFit: "cover" }}
-            loading="eager"
-          />
-        </div>
-
-        <BlogTOC />
-
-        {/* Body */}
-        <div
-          className="prose prose-stone prose-lg max-w-none
-            prose-h2:text-stone-900 prose-h2:font-black prose-h2:text-[1.6rem] prose-h2:mt-14 prose-h2:mb-4 prose-h2:leading-tight prose-h2:tracking-tight
-            prose-h3:text-stone-800 prose-h3:font-bold prose-h3:text-xl prose-h3:mt-10 prose-h3:mb-3
-            prose-h4:text-stone-700 prose-h4:font-semibold prose-h4:text-lg prose-h4:mt-6 prose-h4:mb-2
-            prose-p:text-[17px] prose-p:text-stone-600 prose-p:leading-[1.9] prose-p:mb-5
-            prose-strong:text-stone-900 prose-strong:font-semibold
-            prose-ul:text-stone-600 prose-ul:my-5 prose-ul:space-y-1
-            prose-ol:text-stone-600 prose-ol:my-5
-            prose-li:text-[16px] prose-li:leading-relaxed
-            prose-table:text-sm prose-table:border-collapse
-            prose-th:bg-stone-100 prose-th:text-stone-700 prose-th:font-semibold prose-th:px-4 prose-th:py-2 prose-th:text-left prose-th:border prose-th:border-stone-200
-            prose-td:px-4 prose-td:py-2 prose-td:border prose-td:border-stone-200 prose-td:text-stone-600
-            prose-hr:border-stone-200 prose-hr:my-10
-            prose-a:text-violet-600 prose-a:no-underline hover:prose-a:underline
-            prose-blockquote:border-l-4 prose-blockquote:border-stone-300 prose-blockquote:pl-4 prose-blockquote:italic prose-blockquote:text-stone-500"
-          dangerouslySetInnerHTML={{ __html: (() => {
-            const sectionImgs = getPostSectionImages(post.slug, 6);
-            let hrCount = 0;
-            let html = post.contentHtml;
-
-            // 1. Replace HRs with section images (skip first HR which is the Key Facts separator)
-            html = html.replace(/<hr>/g, () => {
-              hrCount++;
-              if (hrCount === 1) return "<hr>";
-              const url = sectionImgs[(hrCount - 2) % sectionImgs.length];
-              return `<div style="margin:2.5rem -1.5rem;border-radius:12px;overflow:hidden;"><img src="${url}" alt="" loading="lazy" style="width:100%;height:220px;object-fit:cover;display:block;" /></div>`;
-            });
-
-            // 2. Style "Key Facts at a Glance" — wrap the UL after that H3 in an amber callout
-            html = html.replace(
-              /(<h3>Key Facts at a Glance<\/h3>\s*)(<ul>[\s\S]*?<\/ul>)/,
-              `<div style="background:linear-gradient(135deg,rgba(217,124,95,0.08),rgba(242,204,143,0.12));border:1.5px solid rgba(217,124,95,0.25);border-radius:14px;padding:1.25rem 1.5rem;margin:1.5rem 0;">
-                <p style="font-size:11px;font-weight:700;letter-spacing:0.18em;text-transform:uppercase;color:#b45309;margin:0 0 0.75rem;">⚡ Key Facts at a Glance</p>
-                $2
-              </div>`
-            );
-
-            // 3. Style "What the Experts Say" — wrap each expert H3+paragraph in a card
-            const expertNames: Record<string, string> = {
-              "Andrew Huberman": "🧠",
-              "Paul Saladino": "🥩",
-              "Dave Asprey": "⚡",
-              "Joe Rogan": "🎙️",
-              "Dr. Raymond Peat": "🔬",
-            };
-            Object.entries(expertNames).forEach(([name, emoji]) => {
-              const escaped = name.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
-              html = html.replace(
-                new RegExp(`<h3>${escaped}<\\/h3>\\s*(<p>[\\s\\S]*?<\\/p>)`),
-                `<div style="background:#fff;border:1px solid rgba(0,0,0,0.07);border-radius:12px;padding:1rem 1.25rem;margin:0.75rem 0;box-shadow:0 1px 3px rgba(0,0,0,0.04);">
-                  <p style="font-size:13px;font-weight:700;color:#1c1917;margin:0 0 0.5rem;">${emoji} ${name}</p>
-                  $1
-                </div>`
-              );
-            });
-
-            // 4. Wrap the entire "What the Experts Say" section in a subtle container
-            html = html.replace(
-              /(<h2>What the Experts Say<\/h2>)([\s\S]*?)(?=<h2>|$)/,
-              `$1<div style="background:rgba(245,240,232,0.6);border:1px solid rgba(0,0,0,0.06);border-radius:16px;padding:1.25rem 1.25rem 0.5rem;margin:1rem 0 2rem;">$2</div>`
-            );
-
-            return html;
-          })() }}
+      <section className="relative overflow-hidden text-white">
+        <img
+          src={post.coverImage ?? getPostCoverImage(post.slug, post.category)}
+          alt={post.title}
+          className="absolute inset-0 h-full w-full object-cover"
         />
+        <div className="absolute inset-0 bg-[linear-gradient(180deg,rgba(10,18,28,0.26)_0%,rgba(10,18,28,0.82)_100%)]" />
+        <div className="absolute inset-0 bg-[radial-gradient(circle_at_top,rgba(242,204,143,0.16),transparent_32%),radial-gradient(circle_at_78%_20%,rgba(217,124,95,0.22),transparent_28%)]" />
 
-        {/* Footer */}
-        <footer className="mt-14 pt-8 border-t border-stone-200 space-y-8">
+        <div className="relative z-10 pb-14">
+          <SiteNav activeHref="/blog" variant="dark" />
 
-          {/* Disclaimer — prominent for Supplements & Peptides */}
-          {(post.category === "Supplements" || post.category === "Peptides") ? (
-            <div
-              className="rounded-xl px-5 py-4 text-sm leading-relaxed"
-              style={{
-                background: "rgba(120, 90, 50, 0.05)",
-                border: "1px solid rgba(120, 90, 50, 0.15)",
-              }}
-            >
-              <p className="font-semibold text-stone-700 mb-1">Medical Disclaimer</p>
-              <p className="text-stone-500 text-[13px] leading-relaxed">
-                The information provided in this article is intended for educational and informational purposes only and does not constitute medical advice. It is not a substitute for professional medical consultation, diagnosis, or treatment. Always consult a qualified healthcare provider before starting any supplement, peptide, or wellness protocol — particularly if you have an existing medical condition, are pregnant or breastfeeding, or are taking prescription medications. Individual results may vary. Statements regarding supplements and peptides have not been evaluated by the Food and Drug Administration (FDA). These products are not intended to diagnose, treat, cure, or prevent any disease.
-              </p>
-            </div>
-          ) : (
-            <p className="text-xs text-stone-400">
-              This content is for educational purposes only and is not professional advice.
-            </p>
-          )}
+          <article className="mx-auto max-w-3xl px-6 pt-10 sm:pt-14">
+            <header className="rounded-[2rem] border border-white/12 bg-white/10 p-8 shadow-[0_18px_50px_rgba(7,12,20,0.18)] backdrop-blur-sm sm:p-10">
+              <div className="flex flex-wrap items-center gap-3">
+                <CategoryBadge category={post.category} />
+                <span className="text-xs uppercase tracking-[0.16em] text-white/62">{new Date(post.date).toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric" })}</span>
+                <span className="text-xs uppercase tracking-[0.16em] text-white/62">{post.readingTime} min read</span>
+              </div>
+              <h1 className="mt-5 text-4xl font-semibold leading-tight text-white sm:text-5xl">{post.title}</h1>
+              <p className="mt-5 border-b border-white/10 pb-8 text-lg leading-8 text-white/76">{post.excerpt}</p>
+            </header>
+          </article>
+        </div>
+      </section>
 
-          {/* Share */}
-          <div>
-            <p className="text-[11px] font-semibold tracking-[0.2em] text-stone-400 uppercase mb-3">Share</p>
-            <a
-              href={`https://twitter.com/intent/tweet?text=${encodeURIComponent(post.title)}&url=${encodeURIComponent(`${SITE_URL}/blog/${post.slug}`)}`}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="inline-flex items-center gap-2 rounded-xl border border-stone-300 bg-white px-4 py-2.5 text-sm font-semibold text-stone-700 hover:bg-stone-50 hover:border-stone-400 transition-colors"
-            >
-              <svg width="15" height="15" viewBox="0 0 1200 1227" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
-                <path d="M714.163 519.284L1160.89 0H1055.03L667.137 450.887L357.328 0H0L468.492 681.821L0 1226.37H105.866L515.491 750.218L842.672 1226.37H1200L714.137 519.284H714.163ZM569.165 687.828L521.697 619.934L144.011 79.6944H306.615L611.412 515.685L658.88 583.579L1055.08 1150.3H892.476L569.165 687.854V687.828Z" fill="currentColor" />
-              </svg>
-              Share on X
-            </a>
-          </div>
+      <article className="mx-auto max-w-3xl px-6 py-14">
+        <div className="overflow-hidden rounded-[2rem] shadow-[0_20px_60px_rgba(23,23,23,0.12)]" style={{ aspectRatio: "16/7" }}>
+          <img src={post.coverImage ?? getPostCoverImage(post.slug, post.category)} alt={post.title} style={{ width: "100%", height: "100%", objectFit: "cover" }} />
+        </div>
 
-          {/* CTA */}
+        <div className="mt-10 rounded-[2rem] border border-black/8 bg-white/80 p-8 shadow-[0_18px_50px_rgba(23,23,23,0.05)] sm:p-10">
+          <BlogTOC />
           <div
-            className="rounded-2xl p-8 text-center"
-            style={{
-              background: "linear-gradient(135deg, rgba(217,124,95,0.07), rgba(242,204,143,0.07))",
-              border: "1px solid rgba(217,124,95,0.15)",
-            }}
-          >
-            <p className="font-semibold text-stone-800 text-lg mb-1">Ready to forge your habits?</p>
-            <p className="text-stone-500 text-sm mb-5">HabitForge is coming soon — join the waitlist for early access.</p>
-            <Link
-              href="/#waitlist"
-              className="inline-block px-7 py-3.5 rounded-xl text-white text-sm font-semibold hover:opacity-90 transition-all"
-              style={{ background: "linear-gradient(135deg, #D97C5F 0%, #F2CC8F 100%)" }}
-            >
-              Join the Waitlist →
-            </Link>
+            className="prose prose-stone mt-8 max-w-none prose-headings:font-medium prose-headings:text-[#171717] prose-p:text-[#4f4a44] prose-p:leading-8 prose-a:text-[#b9654c] prose-strong:text-[#171717] prose-blockquote:border-l-[#d97c5f] prose-blockquote:text-[#5f5a54]"
+            dangerouslySetInnerHTML={{ __html: contentHtml }}
+          />
+
+          <BlogInlineCapture />
+
+          <div className="mt-12 border-t border-black/8 pt-8">
+            <p className="text-[11px] font-semibold uppercase tracking-[0.24em] text-[#9a6a59]">Next step</p>
+            <div className="mt-4 rounded-[1.5rem] bg-[#171717] p-7 text-white">
+              <p className="text-xl font-medium">Want to make this easier to do every day?</p>
+              <p className="mt-2 text-sm leading-7 text-white/70">HabitForge turns these ideas into a calm daily system with check-ins, reflection, and recovery cues that help you keep momentum when life gets noisy.</p>
+              <Link href="/download" className="mt-5 inline-flex rounded-full bg-white px-6 py-3 text-sm font-medium text-[#171717] transition-transform hover:scale-[1.03] active:scale-[0.97]">
+                See the app
+              </Link>
+            </div>
           </div>
-        </footer>
+        </div>
       </article>
 
-      {/* ── Related Posts ── */}
       {relatedPosts.length > 0 && (
-        <section className="bg-white border-t border-stone-100 py-14 px-6">
-          <div className="max-w-4xl mx-auto">
-            <p className="text-[11px] font-semibold tracking-[0.25em] text-stone-400 uppercase mb-7">
-              {relatedPosts[0]?.category === post.category ? `More in ${post.category}` : "Keep Reading"}
-            </p>
-            <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+        <section className="px-6 pb-20">
+          <div className="mx-auto max-w-6xl">
+            <p className="mb-6 text-[11px] font-semibold uppercase tracking-[0.24em] text-[#9a6a59]">Keep reading</p>
+            <div className="grid gap-5 md:grid-cols-3">
               {relatedPosts.map((related) => (
-                <Link
-                  key={related.slug}
-                  href={`/blog/${related.slug}`}
-                  className="group block rounded-2xl p-5 bg-[#F5F0E8] border border-stone-200 hover:border-stone-300 hover:shadow-sm transition-all duration-200 hover:-translate-y-0.5"
-                >
-                  <div className="flex items-center gap-2 mb-3">
+                <Link key={related.slug} href={`/blog/${related.slug}`} className="rounded-[2rem] border border-black/8 bg-white/85 p-6 shadow-[0_18px_50px_rgba(23,23,23,0.05)] transition-all hover:-translate-y-1 hover:border-[#d97c5f]/50">
+                  <div className="flex items-center gap-3">
                     <CategoryBadge category={related.category} />
-                    <span className="text-xs text-stone-400">{related.readingTime} min</span>
+                    <span className="text-xs text-[#7a746d]">{related.readingTime} min</span>
                   </div>
-                  <h3 className="text-[14px] font-bold text-stone-800 leading-snug mb-2 group-hover:text-violet-700 transition-colors line-clamp-2">
-                    {related.title}
-                  </h3>
-                  <p className="text-xs text-stone-500 leading-relaxed line-clamp-2">{related.excerpt}</p>
+                  <h3 className="mt-4 text-lg font-medium text-[#171717]">{related.title}</h3>
+                  <p className="mt-3 text-sm leading-7 text-[#5f5a54]">{related.excerpt}</p>
                 </Link>
               ))}
             </div>
@@ -307,7 +162,7 @@ export default async function BlogPost({ params }: { params: { slug: string } })
         </section>
       )}
 
-      <SiteFooter />
+      <SiteFooter variant="dark" />
     </main>
   );
 }

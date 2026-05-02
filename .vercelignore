@@ -1,0 +1,11 @@
+.git
+.next
+.vercel
+node_modules
+.env
+.env.*
+*.pem
+scripts
+tasks
+trailer
+*.tsbuildinfo
