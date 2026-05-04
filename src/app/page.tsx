@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image";
 import SiteFooter from "@/components/SiteFooter";
 import BrandMark from "@/components/BrandMark";
 import { APP_STORE_LIVE, APP_STORE_URL, WAITLIST_COUNT } from "@/lib/config";
@@ -41,8 +42,14 @@ const highlights = [
   },
 ];
 
+const productShots = [
+  { src: "/screenshots/01-auth.png", alt: "HabitForge sign in screen", label: "Start simple" },
+  { src: "/screenshots/03-dashboard.png", alt: "HabitForge dashboard screen", label: "Check in daily" },
+  { src: "/screenshots/04-progress.png", alt: "HabitForge progress screen", label: "Review the pattern" },
+];
+
 export default function Home() {
-  const primaryHref = APP_STORE_LIVE ? APP_STORE_URL : "#next-step";
+  const primaryHref = APP_STORE_LIVE ? APP_STORE_URL : "#product-preview";
   const primaryLabel = APP_STORE_LIVE ? "Download on the App Store" : "See the system";
   const socialProof = WAITLIST_COUNT
     ? `Join ${WAITLIST_COUNT.toLocaleString()}+ people building better habits with HabitForge.`
@@ -178,6 +185,56 @@ export default function Home() {
                 </div>
               </div>
             </div>
+          </div>
+        </div>
+      </section>
+
+      <section id="product-preview" className="bg-[#fffaf2] px-6 py-16 text-[#171717] sm:py-20">
+        <div className="mx-auto grid max-w-6xl gap-10 lg:grid-cols-[0.85fr_1.15fr] lg:items-center">
+          <div>
+            <p className="mb-4 text-xs font-medium uppercase tracking-[0.32em] text-[#9a6a59]">Product preview</p>
+            <h2 className="font-display text-4xl leading-[1.08] tracking-tight text-[#171717] sm:text-5xl">
+              The app is meant to feel quiet, clear, and useful fast.
+            </h2>
+            <p className="mt-5 text-base leading-8 text-[#5f5a54]">
+              Week one is simple: pick a few habits, check in once a day, and let the pattern tell you where to adjust.
+            </p>
+            <div className="mt-7 flex flex-wrap gap-3">
+              <Link
+                href="/download"
+                className="rounded-full bg-[#171717] px-6 py-3 text-sm font-medium text-white transition-transform hover:scale-[1.03] active:scale-[0.97]"
+              >
+                View the screens
+              </Link>
+              <a
+                href="https://acpdesigns.studio/#project-habitforge"
+                className="rounded-full border border-black/10 bg-white px-6 py-3 text-sm font-medium text-[#171717] transition-transform hover:scale-[1.03] active:scale-[0.97]"
+              >
+                Read the build note
+              </a>
+            </div>
+          </div>
+
+          <div className="grid grid-cols-3 items-end gap-3 sm:gap-5">
+            {productShots.map((shot, index) => (
+              <div
+                key={shot.src}
+                className={`rounded-[1.75rem] bg-[#171717] p-1.5 shadow-[0_22px_60px_rgba(23,23,23,0.14)] ${index === 1 ? "translate-y-0" : "translate-y-5"}`}
+              >
+                <div className="overflow-hidden rounded-[1.35rem] border border-white/10">
+                  <Image
+                    src={shot.src}
+                    alt={shot.alt}
+                    width={1170}
+                    height={2532}
+                    className="block h-auto w-full"
+                  />
+                </div>
+                <p className="px-2 py-3 text-center text-[10px] font-medium uppercase tracking-[0.18em] text-white/68">
+                  {shot.label}
+                </p>
+              </div>
+            ))}
           </div>
         </div>
       </section>

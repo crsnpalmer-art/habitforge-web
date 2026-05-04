@@ -196,6 +196,24 @@ export default function DownloadPage() {
         </div>
       </section>
 
+      <section className="relative z-10 px-6 pb-24">
+        <div className="mx-auto grid max-w-5xl gap-6 rounded-[2.5rem] border border-white/8 bg-white/5 p-8 shadow-[0_22px_60px_rgba(7,12,20,0.18)] backdrop-blur-sm sm:p-10 md:grid-cols-[1fr_auto] md:items-center">
+          <div>
+            <p className="text-[11px] font-semibold uppercase tracking-[0.24em] text-[#f2cc8f]">Build note</p>
+            <h2 className="mt-3 text-3xl font-medium tracking-tight text-white">Why this product exists</h2>
+            <p className="mt-4 max-w-2xl text-sm leading-7 text-white/70">
+              ACP Designs keeps the product thinking: the problem, the tradeoffs, and why HabitForge avoids pressure mechanics.
+            </p>
+          </div>
+          <a
+            href="https://acpdesigns.studio/#project-habitforge"
+            className="inline-flex justify-center rounded-full bg-white px-7 py-3 text-sm font-medium text-[#171717] transition-transform hover:scale-[1.03] active:scale-[0.97]"
+          >
+            Read the build note
+          </a>
+        </div>
+      </section>
+
       <div className="relative z-10">
         <SiteFooter variant="dark" />
       </div>
