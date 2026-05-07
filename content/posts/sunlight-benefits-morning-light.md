@@ -4,7 +4,8 @@ coverImage: "/blog-images/sunlight-benefits-morning-light.png"
 title: "Why Sunlight Is the Most Underrated Health Tool (And How to Use It)"
 date: "2025-02-26"
 excerpt: "Morning sunlight does more than wake you up — it calibrates your hormones, anchors your sleep cycle, and influences your mood all day long. Here's the science and a simple…"
----## The Basics
+---
+## The Basics
 
 | | |
 |---|---|

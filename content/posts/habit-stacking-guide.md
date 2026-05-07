@@ -4,7 +4,8 @@ date: "2025-02-27"
 excerpt: "One of the most reliable ways to make a new habit stick is to attach it to something you already do automatically."
 category: "Habits"
 coverImage: "/blog-images/habit-stacking-guide.png"
----## The Basics
+---
+## The Basics
 
 | | |
 |---|---|

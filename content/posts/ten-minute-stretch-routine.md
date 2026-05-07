@@ -4,7 +4,8 @@ coverImage: "/blog-images/ten-minute-stretch-routine.png"
 title: "The 10-Minute Daily Stretch Routine for Desk Workers and Athletes"
 date: "2026-02-26"
 excerpt: "Ten minutes a day is all it takes to dramatically improve mobility, prevent injury, and accelerate recovery. Here's a complete, structured stretch routine you can do anywhere —…"
----## The Basics
+---
+## The Basics
 
 | | |
 |---|---|

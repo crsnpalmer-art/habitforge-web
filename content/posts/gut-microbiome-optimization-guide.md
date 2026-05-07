@@ -4,7 +4,8 @@ date: "2026-03-13"
 excerpt: "Your gut contains trillions of microorganisms that influence everything from immunity and mood to metabolism and longevity. Here's how to feed the right ones."
 category: "Lifestyle"
 coverImage: "/blog-images/gut-microbiome-optimization-guide.png"
----## Gut Microbiome Optimization: The Foundation of Total Health
+---
+## Gut Microbiome Optimization: The Foundation of Total Health
 
 The gut microbiome — the ecosystem of trillions of bacteria, fungi, viruses, and other microorganisms living in your digestive tract — has emerged as one of the most significant frontiers in health science. Over the past two decades, research has linked gut microbiome composition to immunity, metabolic health, mental health, inflammatory diseases, and even longevity.
 

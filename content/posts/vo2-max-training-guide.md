@@ -4,7 +4,8 @@ date: "2026-03-05"
 excerpt: "VO2 max isn't just for elite athletes. Research shows it's the strongest predictor of all-cause mortality — stronger than smoking, blood pressure, or diabetes. Here's how to…"
 category: "Recovery"
 coverImage: "/blog-images/vo2-max-training-guide.png"
----## The Basics
+---
+## The Basics
 
 | | |
 |---|---|

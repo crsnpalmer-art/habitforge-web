@@ -4,7 +4,8 @@ coverImage: "/blog-images/psilocybin-microdosing-guide.png"
 title: "Psilocybin Microdosing: A Science-Based Guide to Benefits, Risks, and Protocols"
 date: "2026-02-26"
 excerpt: "What does the science actually say about psilocybin microdosing? An honest look at the evidence — including where placebo effects dominate — along with protocols, risks, and…"
----## The Basics
+---
+## The Basics
 
 | | |
 |---|---|

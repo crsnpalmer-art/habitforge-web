@@ -4,7 +4,8 @@ coverImage: "/blog-images/l-glutamine-gut-health.png"
 title: "L-Glutamine: Your Gut's Most Important Amino Acid"
 date: "2025-02-26"
 excerpt: "L-glutamine is the most abundant amino acid in your body and the primary fuel for your gut lining. Learn how it supports intestinal integrity, immune function, and recovery —…"
----## The Basics
+---
+## The Basics
 
 | | |
 |---|---|

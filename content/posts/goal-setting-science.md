@@ -4,7 +4,8 @@ date: "2025-02-27"
 excerpt: "Decades of research on goal-setting reveal a clear picture of what separates people who achieve from people who intend."
 category: "Habits"
 coverImage: "/blog-images/goal-setting-science.png"
----## The Basics
+---
+## The Basics
 
 | | |
 |---|---|

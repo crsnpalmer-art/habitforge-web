@@ -4,7 +4,8 @@ date: "2026-03-16"
 excerpt: "Heat shock proteins are one of the body's most powerful repair mechanisms. Exercise and sauna both trigger them — here's what that means for longevity and performance."
 category: "Recovery"
 coverImage: "/blog-images/heat-shock-proteins-sauna-exercise.png"
----## Stress as Medicine
+---
+## Stress as Medicine
 
 One of biology's more counterintuitive insights is that controlled stress makes you more resilient. This concept — hormesis — underlies cold plunging, high-intensity exercise, fasting, and heat exposure. The body experiences a challenge, mounts a repair response, and comes back slightly stronger.
 

@@ -4,7 +4,8 @@ date: "2026-03-03"
 excerpt: "Zinc is one of the most researched minerals for male hormonal health — yet most men are chronically deficient. Here's what the science says about zinc, testosterone, and how to…"
 category: "Supplements"
 coverImage: "/blog-images/zinc-testosterone-guide.png"
----## The Basics
+---
+## The Basics
 
 | | |
 |---|---|

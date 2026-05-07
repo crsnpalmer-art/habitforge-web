@@ -4,7 +4,8 @@ date: "2026-03-03"
 excerpt: "Zofran is one of the most widely prescribed medications for nausea and vomiting — from chemotherapy wards to emergency rooms to pregnancy clinics. Here's what you need to know…"
 category: "Lifestyle"
 coverImage: "/blog-images/zofran-ondansetron-guide.png"
----## The Basics
+---
+## The Basics
 | | |
 |---|---|
 | **What it is** | A prescription 5-HT3 serotonin receptor antagonist that blocks nausea signals in the brain and gut |

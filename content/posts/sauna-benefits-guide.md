@@ -4,7 +4,8 @@ coverImage: "/blog-images/sauna-benefits-guide.png"
 title: "The Science of Sauna: Why Heat Exposure Is One of the Best Things You Can Do for Your Health"
 date: "2025-02-26"
 excerpt: "From cardiovascular benefits to longevity, the science behind regular sauna use is surprisingly compelling. Here's what happens to your body in the heat — and how to do it right."
----## The Basics
+---
+## The Basics
 
 | | |
 |---|---|

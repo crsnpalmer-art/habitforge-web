@@ -4,7 +4,8 @@ date: "2025-02-26"
 excerpt: "Tesamorelin is an FDA-approved GHRH analog that stimulates natural growth hormone release. It's gained serious attention for visceral fat reduction, cognitive enhancement, and…"
 category: "Peptides"
 coverImage: "/blog-images/tesamorelin-guide.png"
----## The Basics
+---
+## The Basics
 
 | | |
 |---|---|

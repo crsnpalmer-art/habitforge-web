@@ -4,7 +4,8 @@ date: "2025-02-26"
 excerpt: "Net worth is the one number that tells the full story of your financial life — and most people never bother to calculate it."
 category: "Finance"
 coverImage: "/blog-images/net-worth-tracking.png"
----## The Basics
+---
+## The Basics
 
 | | |
 |---|---|

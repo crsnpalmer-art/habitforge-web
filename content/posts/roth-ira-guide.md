@@ -4,7 +4,8 @@ date: "2025-02-26"
 excerpt: "Tax-free growth, tax-free withdrawals in retirement, and more flexibility than most people realize. Here's how it works."
 category: "Finance"
 coverImage: "/blog-images/roth-ira-guide.png"
----## The Basics
+---
+## The Basics
 
 | | |
 |---|---|

@@ -4,7 +4,8 @@ date: "2026-03-01"
 excerpt: "Omega-3 fatty acids are among the most researched supplements on the planet. Here's what the science actually says about EPA, DHA, dosing, and who benefits most."
 category: "Supplements"
 coverImage: "/blog-images/omega-3-fish-oil-deep-dive.png"
----## The Basics
+---
+## The Basics
 
 | | |
 |---|---|

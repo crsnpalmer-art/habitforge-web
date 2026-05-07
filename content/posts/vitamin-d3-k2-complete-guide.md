@@ -4,7 +4,8 @@ date: "2026-02-28"
 excerpt: "Vitamin D deficiency affects over a billion people worldwide. But supplementing D3 alone can cause problems. Here's why K2 is the essential co-factor most people are missing."
 category: "Supplements"
 coverImage: "/blog-images/vitamin-d3-k2-complete-guide.png"
----## The Basics
+---
+## The Basics
 
 | | |
 |---|---|

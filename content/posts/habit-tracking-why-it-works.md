@@ -4,7 +4,8 @@ date: "2025-02-27"
 excerpt: "Tracking habits isn't just record-keeping — it's a behavior change tool. Here's the psychology behind why it works."
 category: "Habits"
 coverImage: "/blog-images/habit-tracking-why-it-works.png"
----## The Basics
+---
+## The Basics
 
 | | |
 |---|---|

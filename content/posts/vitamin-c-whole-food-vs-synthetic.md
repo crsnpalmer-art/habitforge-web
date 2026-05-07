@@ -4,7 +4,8 @@ coverImage: "/blog-images/vitamin-c-whole-food-vs-synthetic.png"
 title: "Whole Food Vitamin C vs. Synthetic: Does the Source Actually Matter?"
 date: "2025-02-26"
 excerpt: "Vitamin C is one of the most essential nutrients in the human body — but not all forms are created equal. Here's why whole food vitamin C, with its full spectrum of cofactors…"
----## The Basics
+---
+## The Basics
 
 | | |
 |---|---|

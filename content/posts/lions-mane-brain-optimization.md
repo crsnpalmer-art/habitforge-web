@@ -4,7 +4,8 @@ coverImage: "/blog-images/lions-mane-brain-optimization.png"
 title: "Lion's Mane Mushroom: The Complete Brain Optimization Guide"
 date: "2026-02-26"
 excerpt: "A deep dive into Lion's Mane mushroom — its active compounds, science-backed benefits for memory and neuroplasticity, optimal dosing protocols, and what to watch out for."
----## The Basics
+---
+## The Basics
 
 | | |
 |---|---|

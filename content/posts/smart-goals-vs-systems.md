@@ -4,7 +4,8 @@ date: "2025-02-27"
 excerpt: "Goals tell you where you want to go. Systems determine whether you actually get there — and whether you stay."
 category: "Habits"
 coverImage: "/blog-images/smart-goals-vs-systems.png"
----## The Basics
+---
+## The Basics
 
 | | |
 |---|---|

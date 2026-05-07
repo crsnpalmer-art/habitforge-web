@@ -4,7 +4,8 @@ date: "2026-03-03"
 excerpt: "Taping your mouth shut at night sounds extreme — but nasal breathing during sleep is one of the most impactful (and overlooked) things you can do for sleep quality, recovery…"
 category: "Recovery"
 coverImage: "/blog-images/mouth-taping-sleep-guide.png"
----## The Basics
+---
+## The Basics
 
 | | |
 |---|---|

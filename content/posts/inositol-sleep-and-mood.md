@@ -4,7 +4,8 @@ coverImage: "/blog-images/inositol-sleep-and-mood.png"
 title: "Inositol: The Underrated Compound for Better Sleep, Mood, and Hormonal Balance"
 date: "2025-02-26"
 excerpt: "Inositol is a naturally occurring compound that influences serotonin and dopamine signaling, supports restful sleep, eases anxiety, and may help with hormonal conditions like…"
----## The Basics
+---
+## The Basics
 
 | | |
 |---|---|

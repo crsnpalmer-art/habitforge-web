@@ -4,7 +4,8 @@ date: "2025-02-26"
 excerpt: "TB-500 is a synthetic version of Thymosin Beta-4, a peptide naturally produced throughout the body that plays a critical role in tissue repair, inflammation control, and…"
 category: "Peptides"
 coverImage: "/blog-images/tb-500-thymosin-beta-4-guide.png"
----## The Basics
+---
+## The Basics
 
 | | |
 |---|---|

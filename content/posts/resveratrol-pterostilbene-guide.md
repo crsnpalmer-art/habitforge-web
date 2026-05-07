@@ -4,7 +4,8 @@ date: "2026-03-05"
 excerpt: "Resveratrol put red wine on the longevity map. Pterostilbene is its more bioavailable cousin. Here's how these polyphenols work, what the science actually shows, and how to…"
 category: "Supplements"
 coverImage: "/blog-images/resveratrol-pterostilbene-guide.png"
----## The Basics
+---
+## The Basics
 
 | | |
 |---|---|

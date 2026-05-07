@@ -4,7 +4,8 @@ date: "2025-02-26"
 excerpt: "Ipamorelin is a selective growth hormone secretagogue and one of the most popular peptides in longevity and recovery circles — prized for its clean GH release without the…"
 category: "Peptides"
 coverImage: "/blog-images/ipamorelin-guide.png"
----## The Basics
+---
+## The Basics
 
 | | |
 |---|---|

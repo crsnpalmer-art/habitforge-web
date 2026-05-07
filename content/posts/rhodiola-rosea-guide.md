@@ -4,7 +4,8 @@ date: "2026-03-02"
 excerpt: "Rhodiola Rosea is one of the most well-researched adaptogens on the market. Here's what the science actually says about its effects on stress, energy, and cognitive performance."
 category: "Supplements"
 coverImage: "/blog-images/rhodiola-rosea-guide.png"
----## The Basics
+---
+## The Basics
 
 | | |
 |---|---|

@@ -4,7 +4,8 @@ date: "2025-02-27"
 excerpt: "Most people try to change their habits by focusing on outcomes. The most durable change starts with identity."
 category: "Habits"
 coverImage: "/blog-images/identity-based-habits.png"
----## The Basics
+---
+## The Basics
 
 | | |
 |---|---|

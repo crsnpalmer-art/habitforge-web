@@ -4,7 +4,8 @@ date: "2025-02-26"
 excerpt: "Your thyroid is the master regulator of your metabolism. When it's off, everything is off — energy, weight, mood, cognition, and more. Here's what you need to know."
 category: "Supplements"
 coverImage: "/blog-images/thyroid-hormones-guide.png"
----## The Basics
+---
+## The Basics
 
 | | |
 |---|---|

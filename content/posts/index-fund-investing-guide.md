@@ -4,7 +4,8 @@ date: "2026-02-26"
 excerpt: "You don't need to pick stocks or hire an expensive advisor to build serious wealth. Index funds offer a proven, low-cost strategy that even Warren Buffett endorses."
 category: "Finance"
 coverImage: "/blog-images/index-fund-investing-guide.png"
----## The Basics
+---
+## The Basics
 
 | | |
 |---|---|

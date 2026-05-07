@@ -4,7 +4,8 @@ date: "2025-03-01"
 excerpt: "Hormones regulate nearly every system in the body. Here's a practical primer on the key hormones, what disrupts them, and what you can do about it."
 category: "Lifestyle"
 coverImage: "/blog-images/hormone-optimization-guide.png"
----## The Basics
+---
+## The Basics
 
 | | |
 |---|---|

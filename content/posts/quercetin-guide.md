@@ -4,7 +4,8 @@ date: "2026-03-05"
 excerpt: "Quercetin is one of the most abundant antioxidants in nature — and one of the most underappreciated. Here's what the research says about its anti-inflammatory, antiviral, and…"
 category: "Supplements"
 coverImage: "/blog-images/quercetin-guide.png"
----## The Basics
+---
+## The Basics
 
 | | |
 |---|---|

@@ -4,7 +4,8 @@ date: "2026-03-01"
 excerpt: "Intermittent fasting has moved from fringe biohacking to mainstream nutrition science. Here's what the research says, which protocols work best, and how to implement one that…"
 category: "Lifestyle"
 coverImage: "/blog-images/intermittent-fasting-complete-guide.png"
----## The Basics
+---
+## The Basics
 
 | | |
 |---|---|

@@ -4,7 +4,8 @@ date: "2025-03-01"
 excerpt: "Glutamine is the most abundant amino acid in the body. Here's when it actually makes sense to supplement it — and when it doesn't."
 category: "Supplements"
 coverImage: "/blog-images/l-glutamine-guide.png"
----## The Basics
+---
+## The Basics
 
 | | |
 |---|---|

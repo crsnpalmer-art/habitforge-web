@@ -4,7 +4,8 @@ date: "2026-03-02"
 excerpt: "Heart rate variability is one of the best windows into your nervous system's readiness. Here's how it works, why it matters, and how to use it to train and recover smarter."
 category: "Recovery"
 coverImage: "/blog-images/hrv-recovery-tracking-guide.png"
----## The Basics
+---
+## The Basics
 
 | | |
 |---|---|

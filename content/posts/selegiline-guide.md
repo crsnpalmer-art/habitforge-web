@@ -4,7 +4,8 @@ date: "2025-02-26"
 excerpt: "Selegiline is a selective MAO-B inhibitor used for Parkinson's disease — but it's quietly gained attention in longevity and nootropic circles for its dopamine-preserving and…"
 category: "Peptides"
 coverImage: "/blog-images/selegiline-guide.png"
----## The Basics
+---
+## The Basics
 
 | | |
 |---|---|

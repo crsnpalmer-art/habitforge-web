@@ -4,7 +4,8 @@ date: "2026-03-16"
 excerpt: "Most productivity systems tell you what to do. Time blocking tells you when. Here's how to implement it in a way that survives contact with real life."
 category: "Habits"
 coverImage: "/blog-images/time-blocking-productivity-guide.png"
----## The Problem With To-Do Lists
+---
+## The Problem With To-Do Lists
 
 A to-do list is a wish list. It tells you what needs doing but says nothing about when or whether it will actually happen. Research on implementation intentions — a concept from psychology — shows that people who specify not just *what* they'll do but *when* and *where* are significantly more likely to follow through. A task without a time slot has no home. It drifts.
 
