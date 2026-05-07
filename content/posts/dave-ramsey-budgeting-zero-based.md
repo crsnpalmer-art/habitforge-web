@@ -3,8 +3,8 @@ title: "Zero-Based Budgeting: Dave Ramsey's Method for Telling Every Dollar Wher
 date: "2026-02-26"
 excerpt: "Zero-based budgeting means every dollar has a job before the month starts. Here's how Dave Ramsey's method works, why it's so effective, and how to build one that actually sticks."
 category: "Finance"
+coverImage: /blog-images/dave-ramsey-budgeting-zero-based.webp
 ---
-
 ## The Basics
 
 | | |

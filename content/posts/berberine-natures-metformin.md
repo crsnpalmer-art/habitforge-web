@@ -3,8 +3,8 @@ title: "Berberine: Nature's Metformin and What the Research Actually Says"
 date: "2026-02-28"
 excerpt: "Berberine is one of the most researched plant compounds for metabolic health, blood sugar regulation, and longevity. Here's what the science says and how to use it effectively."
 category: "Supplements"
+coverImage: /blog-images/berberine-natures-metformin.webp
 ---
-
 ## The Basics
 
 | | |

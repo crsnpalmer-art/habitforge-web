@@ -1,10 +1,10 @@
 ---
 category: "Supplements"
+coverImage: /blog-images/digestive-enzymes-guide.webp
 title: "Digestive Enzymes: When Your Body Needs a Little Help Breaking Things Down"
 date: "2025-02-26"
-excerpt: "Digestive enzymes are the proteins that break down your food into absorbable nutrients. When production declines — due to age, stress, or gut conditions — the result is bloating, gas, and poor nutrient absorption. Here's how enzyme supplementation helps."
+excerpt: "Digestive enzymes are the proteins that break down your food into absorbable nutrients. When production declines — due to age, stress, or gut conditions — the result is…"
 ---
-
 ## The Basics
 
 | | |

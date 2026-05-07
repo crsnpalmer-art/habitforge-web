@@ -1,10 +1,10 @@
 ---
 title: "Book of the Week: The Power of Habit by Charles Duhigg"
 date: "2026-03-24"
-excerpt: "Charles Duhigg's landmark exploration of habit science reveals the neurological loop that drives all habitual behavior — and the specific framework for changing any habit you choose."
+excerpt: "Charles Duhigg's landmark exploration of habit science reveals the neurological loop that drives all habitual behavior — and the specific framework for changing any habit you…"
 category: "Books"
+coverImage: /blog-images/book-power-of-habit-charles-duhigg.webp
 ---
-
 Before James Clear published *Atomic Habits*, before habit science became a cottage industry of podcasts and productivity frameworks, Charles Duhigg wrote *The Power of Habit* (2012). A Pulitzer Prize-winning reporter at The New York Times at the time of writing, Duhigg synthesized decades of neuroscience and behavioral psychology into a book that remains one of the clearest and most accessible explanations of why habits work the way they do.
 
 The book's durability comes from its central framework — elegant enough to remember, accurate enough to actually apply.

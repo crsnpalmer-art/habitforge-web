@@ -1,10 +1,10 @@
 ---
 title: "Temperature Cycling: How Heat and Cold Work Differently for Recovery"
+coverImage: "/blog-images/heat-cold-temperature-cycling-guide.png"
 date: "2026-04-06"
-excerpt: "Heat and cold are both recovery tools, but they do not train the body the same way. Cycling temperature can improve adaptation, sleep, and soreness control — if dosage and timing are respected."
+excerpt: "Heat and cold are both recovery tools, but they do not train the body the same way. Cycling temperature can improve adaptation, sleep, and soreness control — if dosage and…"
 category: "Recovery"
 ---
-
 Heat and cold both feel powerful because they trigger immediate physiological changes. Heat opens blood vessels, raises blood flow, and can reduce muscle soreness signals. Cold constricts vessels, slows nerve conduction, and can reduce inflammatory pain for a short window. The problem is that people often treat them as interchangeable, or stack both in the same routine without respecting adaptation logic.
 
 The strongest evidence says these are distinct signals. Used correctly, they are complementary over time; used incorrectly, they can interfere with each other and blunt training gains.

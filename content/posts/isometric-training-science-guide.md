@@ -1,11 +1,10 @@
 ---
 title: "Isometric Training: The Overlooked Modality for Strength, Pain, and Blood Pressure"
 date: "2026-04-01"
-excerpt: "Isometric contractions — pushing or pulling against immovable resistance — produce unique adaptations for strength at specific angles, tendon health, and cardiovascular function. Here's when and how to use them."
+excerpt: "Isometric contractions — pushing or pulling against immovable resistance — produce unique adaptations for strength at specific angles, tendon health, and cardiovascular…"
 category: "Recovery"
----
-
-Most strength training operates through a range of motion — weights moving, muscles lengthening and shortening. Isometric training is the outlier: contracting a muscle against resistance without any joint movement or change in muscle length. It looks like nothing is happening, which is partly why it's underutilized. The adaptations, however, are specific, meaningful, and in some applications superior to dynamic training.
+coverImage: "/blog-images/isometric-training-science-guide.png"
+---Most strength training operates through a range of motion — weights moving, muscles lengthening and shortening. Isometric training is the outlier: contracting a muscle against resistance without any joint movement or change in muscle length. It looks like nothing is happening, which is partly why it's underutilized. The adaptations, however, are specific, meaningful, and in some applications superior to dynamic training.
 
 ## What Makes Isometrics Different
 

@@ -3,8 +3,8 @@ title: "CoQ10 vs. Ubiquinol: The Cellular Energy Supplement Worth Knowing"
 date: "2026-03-02"
 excerpt: "CoQ10 is one of the most research-backed supplements for energy, heart health, and longevity. Here's what the science says and how to choose the right form."
 category: "Supplements"
+coverImage: /blog-images/coq10-ubiquinol-complete-guide.webp
 ---
-
 ## The Basics
 
 | | |
@@ -92,4 +92,3 @@ Dr. Raymond Peat has written about mitochondrial function and CoQ10 in the conte
 5. **CoQ10 in Aging and Mitochondrial Health** — Díaz-Casado ME et al. Front Physiol. 2019 — https://pubmed.ncbi.nlm.nih.gov/30846945/
 
 ## Where to Buy / Find This
-

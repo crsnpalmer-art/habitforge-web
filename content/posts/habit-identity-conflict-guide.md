@@ -1,10 +1,10 @@
 ---
 title: "Why Habit Change Fails When Your Identity Is Split"
+coverImage: "/blog-images/habit-identity-conflict-guide.png"
 date: "2026-04-04"
 excerpt: "A science-based look at identity conflict, self-concept, and behavior change that lasts."
 category: "Habits"
 ---
-
 A lot of habit advice focuses on routines, streaks, and checklists. Useful stuff. But there is a deeper problem that wrecks change faster than bad planning: identity conflict.
 
 Identity conflict happens when your desired behavior clashes with the story you believe about yourself. You may want to become consistent, healthy, disciplined, or calm, but some older part of your self-concept is still running lines like, “I’m always a mess,” “I never finish things,” or “I’m just not an exercise person.” When behavior and identity collide, identity usually wins.

@@ -1,11 +1,10 @@
 ---
 title: "Zofran (Ondansetron): The Gold Standard Prescription Antiemetic"
 date: "2026-03-03"
-excerpt: "Zofran is one of the most widely prescribed medications for nausea and vomiting — from chemotherapy wards to emergency rooms to pregnancy clinics. Here's what you need to know about how it works, when it's used, and what the evidence actually says."
+excerpt: "Zofran is one of the most widely prescribed medications for nausea and vomiting — from chemotherapy wards to emergency rooms to pregnancy clinics. Here's what you need to know…"
 category: "Lifestyle"
----
-
-## The Basics
+coverImage: "/blog-images/zofran-ondansetron-guide.png"
+---## The Basics
 | | |
 |---|---|
 | **What it is** | A prescription 5-HT3 serotonin receptor antagonist that blocks nausea signals in the brain and gut |

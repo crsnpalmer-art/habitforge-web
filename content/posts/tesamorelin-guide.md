@@ -1,10 +1,10 @@
 ---
 title: "Tesamorelin: The Growth Hormone Peptide for Fat Loss, Cognition, and Longevity"
 date: "2025-02-26"
-excerpt: "Tesamorelin is an FDA-approved GHRH analog that stimulates natural growth hormone release. It's gained serious attention for visceral fat reduction, cognitive enhancement, and anti-aging applications."
+excerpt: "Tesamorelin is an FDA-approved GHRH analog that stimulates natural growth hormone release. It's gained serious attention for visceral fat reduction, cognitive enhancement, and…"
 category: "Peptides"
----
-## The Basics
+coverImage: "/blog-images/tesamorelin-guide.png"
+---## The Basics
 
 | | |
 |---|---|
@@ -110,4 +110,3 @@ Dave Asprey has discussed tesamorelin as one of the more clinically validated pe
 3. FDA. "Egrifta (tesamorelin for injection) prescribing information." https://www.accessdata.fda.gov/drugsatfda_docs/label/2010/022505lbl.pdf
 
 ## Where to Buy / Find This
-

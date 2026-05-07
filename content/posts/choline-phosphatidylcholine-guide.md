@@ -1,10 +1,10 @@
 ---
 title: "Choline and Phosphatidylcholine: The Underrated Nutrient Your Brain and Liver Need"
 date: "2026-03-31"
-excerpt: "Choline is essential for brain development, liver function, and cellular membrane integrity — yet most people are chronically deficient. Here's what the science says and how to fix it."
+excerpt: "Choline is essential for brain development, liver function, and cellular membrane integrity — yet most people are chronically deficient. Here's what the science says and how to…"
 category: "Supplements"
+coverImage: /blog-images/choline-phosphatidylcholine-guide.webp
 ---
-
 Choline is one of the least-discussed essential nutrients in mainstream health circles, despite having a well-established role in brain function, liver health, and cellular structure. Classified as an essential nutrient by the Institute of Medicine in 1998, choline is required for processes that underpin cognition, methylation, and lipid metabolism — yet surveys consistently find that the majority of Americans consume less than the Adequate Intake (AI) levels. The deficiency is largely invisible because its effects are subtle and long-term, but the consequences accumulate.
 
 ## What Choline Is and Does

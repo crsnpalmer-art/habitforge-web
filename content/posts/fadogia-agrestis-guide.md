@@ -3,8 +3,8 @@ title: "Fadogia Agrestis: What We Know (and Don't Know) About the Testosterone H
 date: "2026-03-06"
 excerpt: "Fadogia agrestis exploded into mainstream biohacking conversations thanks to podcasts and influencers. But what does the actual research show — and should you be cautious?"
 category: "Supplements"
+coverImage: /blog-images/fadogia-agrestis-guide.webp
 ---
-
 Few supplements have gone from obscurity to mainstream supplement shelves as fast as Fadogia agrestis. A shrub native to West and Central Africa, Fadogia has been used in traditional Nigerian medicine for generations — and in recent years it's been popularized in health optimization circles as a natural testosterone booster, often stacked with Tongkat Ali.
 
 But the gap between anecdote and evidence here is worth examining carefully.

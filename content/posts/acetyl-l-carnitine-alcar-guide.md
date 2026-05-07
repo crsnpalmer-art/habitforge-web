@@ -3,8 +3,8 @@ title: "Acetyl-L-Carnitine (ALCAR): The Mitochondrial Brain Booster"
 date: "2026-03-04"
 excerpt: "Acetyl-L-Carnitine crosses the blood-brain barrier and supports everything from energy metabolism to neuroprotection. Here's what the research actually shows."
 category: "Supplements"
+coverImage: /blog-images/acetyl-l-carnitine-alcar-guide.webp
 ---
-
 ## The Basics
 
 | | |
@@ -102,7 +102,3 @@ Dr. Raymond Peat has written about carnitine's role in fatty acid transport into
 5. **Cruciani RA, Dvorkin E, Homel P, et al. (2004).** Safety, tolerability and symptom outcomes associated with L-carnitine supplementation in patients with cancer, fatigue, and carnitine deficiency. *Journal of Pain and Symptom Management*, 27(6), 505-514. https://pubmed.ncbi.nlm.nih.gov/15165648/
 
 ## Where to Buy / Find This
-
-
-
-

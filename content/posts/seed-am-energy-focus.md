@@ -1,10 +1,10 @@
 ---
 category: "Supplements"
+coverImage: "/blog-images/seed-am-energy-focus.png"
 title: "AM Energy and Focus: What to Look for in a Morning Performance Formula"
 date: "2025-02-26"
-excerpt: "Not all morning energy supplements are built the same. The best formulas go beyond caffeine to support mitochondrial function, stress resilience, and sustained mental clarity — without the crash. Here's what to look for."
----
-## The Basics
+excerpt: "Not all morning energy supplements are built the same. The best formulas go beyond caffeine to support mitochondrial function, stress resilience, and sustained mental clarity —…"
+---## The Basics
 
 | | |
 |---|---|

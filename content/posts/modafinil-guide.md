@@ -1,11 +1,10 @@
 ---
 title: "Modafinil: The Wakefulness Drug That Became a Productivity Phenomenon"
 date: "2025-02-26"
-excerpt: "Originally developed for narcolepsy, modafinil has become one of the most widely used cognitive enhancers in the world. Here's a balanced look at the science, the benefits, and the risks."
+excerpt: "Originally developed for narcolepsy, modafinil has become one of the most widely used cognitive enhancers in the world. Here's a balanced look at the science, the benefits, and…"
 category: "Lifestyle"
----
-
-## The Basics
+coverImage: "/blog-images/modafinil-guide.png"
+---## The Basics
 
 | | |
 |---|---|

@@ -1,10 +1,10 @@
 ---
 title: "Building Passive Income Streams: A Realistic Framework"
 date: "2026-03-04"
-excerpt: "Passive income is real, but it's rarely as easy as the internet makes it sound. Here's an honest breakdown of the most viable options, what they actually require, and how to get started."
+excerpt: "Passive income is real, but it's rarely as easy as the internet makes it sound. Here's an honest breakdown of the most viable options, what they actually require, and how to…"
 category: "Finance"
+coverImage: /blog-images/building-passive-income-streams.webp
 ---
-
 ## The Basics
 
 | | |

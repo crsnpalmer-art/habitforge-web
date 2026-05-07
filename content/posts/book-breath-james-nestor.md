@@ -3,8 +3,8 @@ title: "Book of the Week: Breath by James Nestor"
 date: "2026-03-04"
 excerpt: "James Nestor spent years investigating the science of breathing and found that most humans are doing it wrong — with serious consequences for health, performance, and sleep."
 category: "Books"
+coverImage: /blog-images/book-breath-james-nestor.webp
 ---
-
 ## The Basics
 
 | | |

@@ -3,9 +3,8 @@ title: "Urolithin A: The Mitophagy Activator Quietly Reshaping Longevity Science
 date: "2026-03-21"
 excerpt: "Urolithin A is one of the few compounds shown in human trials to directly activate mitophagy — the cellular recycling process that declines with age."
 category: "Supplements"
----
-
-Every few years, a compound emerges from longevity research that genuinely earns attention. Urolithin A is one of them. Unlike many supplements backed by promising animal data that fails to translate to humans, urolithin A has demonstrated meaningful effects in human clinical trials — specifically in a domain that sits at the heart of aging biology: mitophagy.
+coverImage: "/blog-images/urolithin-a-mitophagy-supplement.png"
+---Every few years, a compound emerges from longevity research that genuinely earns attention. Urolithin A is one of them. Unlike many supplements backed by promising animal data that fails to translate to humans, urolithin A has demonstrated meaningful effects in human clinical trials — specifically in a domain that sits at the heart of aging biology: mitophagy.
 
 ## What Is Urolithin A?
 

@@ -1,11 +1,10 @@
 ---
 title: "Building Your First Nootropic Stack: A Beginner's Guide"
 date: "2026-03-15"
-excerpt: "Nootropics can sharpen focus, improve memory, and reduce mental fatigue — but only if you build the stack correctly. Here's how to start without wasting money or making rookie mistakes."
+excerpt: "Nootropics can sharpen focus, improve memory, and reduce mental fatigue — but only if you build the stack correctly. Here's how to start without wasting money or making rookie…"
 category: "Supplements"
----
-
-## What Is a Nootropic Stack?
+coverImage: "/blog-images/nootropic-stack-beginners-guide.png"
+---## What Is a Nootropic Stack?
 
 A nootropic is any substance that enhances cognitive function without causing significant side effects or toxicity. A "stack" is simply a combination of nootropics that work synergistically — each doing something slightly different, with their effects reinforcing each other.
 

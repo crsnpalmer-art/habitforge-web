@@ -1,10 +1,10 @@
 ---
 title: "The 3-Automation Rule for Financial Habits That Actually Stick"
+coverImage: "/blog-images/three-automation-rules-for-financial-habits.png"
 date: "2026-04-06"
 excerpt: "Money habits fail at the same place habits fail: high-friction decisions at the exact moment people are cognitively tired."
 category: "Finance"
 ---
-
 If you only take one thing from this post, make it this: the best financial habits are boring systems, not daily heroics.
 
 People underestimate how much money behavior is decision fatigue in disguise. Budgets collapse, savings targets drift, and good intentions die not during market crashes but at 11 p.m. while scanning bills, with zero energy left to choose strategically.

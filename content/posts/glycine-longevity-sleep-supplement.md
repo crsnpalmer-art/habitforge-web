@@ -1,11 +1,10 @@
 ---
 title: "Glycine: The Underrated Amino Acid for Sleep, Longevity, and Collagen Synthesis"
 date: "2026-03-18"
-excerpt: "Glycine is one of the most abundant amino acids in the human body — yet most people are chronically deficient. Here's why it matters for sleep quality, healthy aging, and metabolic function."
+excerpt: "Glycine is one of the most abundant amino acids in the human body — yet most people are chronically deficient. Here's why it matters for sleep quality, healthy aging, and…"
 category: "Supplements"
----
-
-Glycine doesn't get the attention of flashier compounds like NAD+ or NMN, but the research on this simple amino acid is quietly impressive. It's the smallest amino acid in the human body, found in high concentrations in collagen, and plays critical roles in sleep, inflammation, blood sugar regulation, and longevity. Despite being technically "non-essential" (the body can produce it), most people produce far less than they need — and the deficit shows.
+coverImage: "/blog-images/glycine-longevity-sleep-supplement.png"
+---Glycine doesn't get the attention of flashier compounds like NAD+ or NMN, but the research on this simple amino acid is quietly impressive. It's the smallest amino acid in the human body, found in high concentrations in collagen, and plays critical roles in sleep, inflammation, blood sugar regulation, and longevity. Despite being technically "non-essential" (the body can produce it), most people produce far less than they need — and the deficit shows.
 
 ## What Is Glycine?
 

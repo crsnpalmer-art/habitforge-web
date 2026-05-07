@@ -3,8 +3,8 @@ title: "Book of the Week: The Power of Now by Eckhart Tolle"
 date: "2026-03-07"
 excerpt: "Eckhart Tolle's seminal work on presence has sold over 10 million copies worldwide. Here's what it actually argues, why it resonates so deeply, and whether the framework holds up."
 category: "Books"
+coverImage: /blog-images/book-power-of-now-eckhart-tolle.webp
 ---
-
 There are books that inform you, and books that disrupt you. *The Power of Now* by Eckhart Tolle belongs firmly in the second category. Since its publication in 1997, it has sold over 10 million copies, been translated into 33 languages, and has appeared on Oprah's recommended reading list so many times it became a cultural phenomenon. More than two decades later, its central argument remains startlingly direct: **most human suffering is self-created, and it is created in time — specifically, in the mind's obsessive dwelling on the past and future.**
 
 ## The Core Thesis

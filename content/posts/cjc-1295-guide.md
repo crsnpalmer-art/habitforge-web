@@ -1,10 +1,10 @@
 ---
 title: "CJC-1295: The Growth Hormone Peptide That Works While You Sleep"
 date: "2026-03-08"
-excerpt: "CJC-1295 is a synthetic GHRH analog that amplifies the body's natural growth hormone pulses. Here's what the research shows about its effects on body composition, recovery, and sleep quality."
+excerpt: "CJC-1295 is a synthetic GHRH analog that amplifies the body's natural growth hormone pulses. Here's what the research shows about its effects on body composition, recovery, and…"
 category: "Peptides"
+coverImage: /blog-images/cjc-1295-guide.webp
 ---
-
 Growth hormone declines by roughly 14% per decade after age 30. By the time most people hit their 40s, nighttime GH pulses are a fraction of what they were at peak. CJC-1295 is one of the more studied tools for addressing that decline — not by flooding the body with exogenous hormones, but by amplifying the pulses the body already produces.
 
 ## What Is CJC-1295?

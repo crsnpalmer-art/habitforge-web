@@ -1,10 +1,10 @@
 ---
 category: "Supplements"
+coverImage: /blog-images/daily-multivitamin-do-you-need-one.webp
 title: "Do You Actually Need a Multivitamin? A Nuanced Answer"
 date: "2025-02-26"
-excerpt: "The multivitamin debate is more complicated than either camp admits. Here's an honest look at who benefits, what most people are actually deficient in, and what to look for in a quality formula — because not all multivitamins are worth taking."
+excerpt: "The multivitamin debate is more complicated than either camp admits. Here's an honest look at who benefits, what most people are actually deficient in, and what to look for in…"
 ---
-
 ## The Basics
 
 | | |

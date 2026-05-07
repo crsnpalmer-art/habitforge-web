@@ -1,11 +1,10 @@
 ---
 category: "Peptides"
+coverImage: "/blog-images/psilocybin-microdosing-guide.png"
 title: "Psilocybin Microdosing: A Science-Based Guide to Benefits, Risks, and Protocols"
 date: "2026-02-26"
-excerpt: "What does the science actually say about psilocybin microdosing? An honest look at the evidence — including where placebo effects dominate — along with protocols, risks, and contraindications."
----
-
-## The Basics
+excerpt: "What does the science actually say about psilocybin microdosing? An honest look at the evidence — including where placebo effects dominate — along with protocols, risks, and…"
+---## The Basics
 
 | | |
 |---|---|
@@ -155,5 +154,3 @@ Joe Rogan is one of the most prominent public advocates for psychedelics includi
 5. **Nichols DE. "Psychedelics."** *Pharmacological Reviews* (2016) — https://pubmed.ncbi.nlm.nih.gov/26841800/
 
 ## Where to Buy / Find This
-
-

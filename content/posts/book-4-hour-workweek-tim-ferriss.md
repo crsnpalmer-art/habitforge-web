@@ -3,8 +3,8 @@ title: "Book of the Week: The 4-Hour Workweek by Tim Ferriss"
 date: "2026-03-16"
 excerpt: "Tim Ferriss's blueprint for escaping the 9-to-5 grind, automating income, and designing a life around experiences rather than retirement at 65."
 category: "Books"
+coverImage: /blog-images/book-4-hour-workweek-tim-ferriss.webp
 ---
-
 ## The Book That Made "Lifestyle Design" a Phrase
 
 Before Tim Ferriss published *The 4-Hour Workweek* in 2007, the dominant life script ran something like this: grind for 40 years, accumulate enough to retire, then finally enjoy your life. Ferriss called that script broken — and offered an alternative with a provocative premise: what if you didn't wait?

@@ -1,11 +1,10 @@
 ---
 title: "Semax: The Russian Nootropic Peptide Redefining Cognitive Enhancement"
 date: "2026-03-09"
-excerpt: "Semax is a synthetic peptide derived from ACTH that has been used in Russian medicine for decades to boost cognition, reduce stress, and support neurological recovery. Here's what the science says."
+excerpt: "Semax is a synthetic peptide derived from ACTH that has been used in Russian medicine for decades to boost cognition, reduce stress, and support neurological recovery. Here's…"
 category: "Peptides"
----
-
-In the world of cognitive enhancement, most compounds get their moment in the spotlight and then fade. Semax has had a quieter trajectory — developed in Russia in the 1980s, used clinically there for decades, and only recently gaining attention in Western biohacking communities. That slow burn is actually a feature: unlike many trendy nootropics, Semax has a legitimate body of research behind it.
+coverImage: "/blog-images/semax-nootropic-peptide-guide.png"
+---In the world of cognitive enhancement, most compounds get their moment in the spotlight and then fade. Semax has had a quieter trajectory — developed in Russia in the 1980s, used clinically there for decades, and only recently gaining attention in Western biohacking communities. That slow burn is actually a feature: unlike many trendy nootropics, Semax has a legitimate body of research behind it.
 
 ## What Is Semax?
 

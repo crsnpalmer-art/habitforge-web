@@ -1,11 +1,10 @@
 ---
 title: "Meal Sequencing: Can the Order You Eat Food Affect Blood Sugar and Fullness?"
 date: "2026-04-03"
-excerpt: "Some research suggests eating vegetables and protein before refined carbs may improve blood sugar control and help meals feel more satisfying. The effect is real, but it is not magic."
+excerpt: "Some research suggests eating vegetables and protein before refined carbs may improve blood sugar control and help meals feel more satisfying. The effect is real, but it is not…"
 category: "Nutrition"
----
-
-Nutrition people love turning tiny edges into religious wars. Meal sequencing is the latest example. The claim is that the order you eat food matters, especially for blood sugar control. Eat vegetables and protein first, save starches and sweets for later, and your glucose response may be smaller. Unlike a lot of nutrition nonsense, this one actually has some science behind it.
+coverImage: "/blog-images/meal-sequencing-blood-sugar-satiety-guide.png"
+---Nutrition people love turning tiny edges into religious wars. Meal sequencing is the latest example. The claim is that the order you eat food matters, especially for blood sugar control. Eat vegetables and protein first, save starches and sweets for later, and your glucose response may be smaller. Unlike a lot of nutrition nonsense, this one actually has some science behind it.
 
 Meal sequencing refers to eating the components of a meal in a deliberate order rather than all at once in random bites. The usual recommendation is fiber-rich vegetables first, then protein and fat, then carbohydrates such as rice, bread, pasta, or dessert. The theory is that fiber slows gastric emptying, protein and fat increase satiety and slow digestion, and this changes how quickly glucose enters the bloodstream.
 

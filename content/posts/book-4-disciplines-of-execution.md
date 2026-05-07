@@ -3,8 +3,8 @@ title: "Book of the Week: The 4 Disciplines of Execution by Chris McChesney, Sea
 date: "2026-03-18"
 excerpt: "Strategy means nothing without execution. This framework — used by thousands of teams — solves the gap between knowing what to do and actually doing it."
 category: "Books"
+coverImage: /blog-images/book-4-disciplines-of-execution.webp
 ---
-
 Most people know what they should do. Exercise more. Focus on high-priority work. Build better systems. The knowing isn't the problem. The gap between strategy and results — what the authors call "the strategy execution gap" — is one of the most persistent and costly problems in both business and personal performance. *The 4 Disciplines of Execution* (4DX) is a framework built specifically to close that gap.
 
 Written by Chris McChesney, Sean Covey, and Jim Huling — practitioners and consultants who developed the system through hundreds of real organizational implementations — the book presents a deceptively simple operating model that works at scale because it's rooted in behavioral psychology rather than motivational theory.

@@ -1,10 +1,10 @@
 ---
 category: "Supplements"
+coverImage: "/blog-images/thiamine-b1-cognition.png"
 title: "Thiamine (Vitamin B1): The Overlooked Nutrient Behind Cognitive Clarity and Energy"
 date: "2025-02-26"
-excerpt: "Thiamine is essential for glucose metabolism and nerve function — and many people eating high-carb, processed diets are functionally deficient without knowing it. Here's what B1 does, what TTFD is, and why high-dose thiamine is gaining attention for brain health."
----
-## The Basics
+excerpt: "Thiamine is essential for glucose metabolism and nerve function — and many people eating high-carb, processed diets are functionally deficient without knowing it. Here's what…"
+---## The Basics
 
 | | |
 |---|---|

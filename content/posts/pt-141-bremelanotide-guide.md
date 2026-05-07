@@ -1,11 +1,10 @@
 ---
 title: "PT-141 (Bremelanotide): The Peptide for Sexual Health and Libido"
 date: "2026-03-10"
-excerpt: "PT-141, also known as bremelanotide, is a melanocortin receptor agonist that works through the central nervous system to enhance sexual desire in both men and women. Here's what the science says."
+excerpt: "PT-141, also known as bremelanotide, is a melanocortin receptor agonist that works through the central nervous system to enhance sexual desire in both men and women. Here's…"
 category: "Peptides"
----
-
-# PT-141 (Bremelanotide): The Peptide for Sexual Health and Libido
+coverImage: "/blog-images/pt-141-bremelanotide-guide.png"
+---## PT-141 (Bremelanotide): The Peptide for Sexual Health and Libido
 
 Sexual health is a core pillar of overall well-being, yet it's rarely discussed with the same seriousness as cardiovascular fitness or metabolic health. PT-141, chemically known as bremelanotide, represents a unique pharmacological approach to sexual dysfunction — one that operates through the brain rather than the bloodstream.
 

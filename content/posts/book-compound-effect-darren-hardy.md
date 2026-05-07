@@ -1,10 +1,10 @@
 ---
 title: "Book of the Week: The Compound Effect by Darren Hardy"
 date: "2026-03-15"
-excerpt: "Small, consistent actions seem insignificant in the moment — but over time they produce extraordinary results. Here's why The Compound Effect is one of the most actionable books on building wealth, health, and success."
+excerpt: "Small, consistent actions seem insignificant in the moment — but over time they produce extraordinary results. Here's why The Compound Effect is one of the most actionable…"
 category: "Books"
+coverImage: /blog-images/book-compound-effect-darren-hardy.webp
 ---
-
 ## The Core Thesis
 
 Most people overestimate what they can do in a day and catastrophically underestimate what they can do in a decade. That gap is the entire premise of *The Compound Effect* by Darren Hardy, former publisher of *SUCCESS* magazine.

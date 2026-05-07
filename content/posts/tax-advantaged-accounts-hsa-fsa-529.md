@@ -1,10 +1,10 @@
 ---
 title: "Tax-Advantaged Accounts Explained: HSA, FSA, and 529"
 date: "2026-02-28"
-excerpt: "The U.S. tax code offers powerful accounts that can save you thousands of dollars per year. Here's everything you need to know about HSAs, FSAs, and 529 plans — and how to maximize each one."
+excerpt: "The U.S. tax code offers powerful accounts that can save you thousands of dollars per year. Here's everything you need to know about HSAs, FSAs, and 529 plans — and how to…"
 category: "Finance"
----
-## The Basics
+coverImage: "/blog-images/tax-advantaged-accounts-hsa-fsa-529.png"
+---## The Basics
 
 | | |
 |---|---|

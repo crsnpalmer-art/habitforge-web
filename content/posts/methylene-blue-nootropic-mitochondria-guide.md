@@ -1,11 +1,10 @@
 ---
 title: "Methylene Blue: The 130-Year-Old Compound Making a Comeback in Longevity Science"
 date: "2026-03-25"
-excerpt: "Methylene blue is one of the oldest synthetic compounds in medicine — and emerging research suggests it may be one of the most potent mitochondrial enhancers and neuroprotective agents studied."
+excerpt: "Methylene blue is one of the oldest synthetic compounds in medicine — and emerging research suggests it may be one of the most potent mitochondrial enhancers and…"
 category: "Supplements"
----
-
-Methylene blue was first synthesized in 1876 and became the first fully synthetic drug used in medicine — initially as a treatment for malaria, later for methemoglobinemia (a condition where hemoglobin can't carry oxygen). For most of the 20th century it was a staple of hospital emergency departments and a dye used to stain biological tissue for microscopy. Then researchers started looking more closely at what it does to mitochondria, and interest surged dramatically.
+coverImage: "/blog-images/methylene-blue-nootropic-mitochondria-guide.png"
+---Methylene blue was first synthesized in 1876 and became the first fully synthetic drug used in medicine — initially as a treatment for malaria, later for methemoglobinemia (a condition where hemoglobin can't carry oxygen). For most of the 20th century it was a staple of hospital emergency departments and a dye used to stain biological tissue for microscopy. Then researchers started looking more closely at what it does to mitochondria, and interest surged dramatically.
 
 ## What Is Methylene Blue?
 

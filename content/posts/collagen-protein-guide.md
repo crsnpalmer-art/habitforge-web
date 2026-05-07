@@ -1,10 +1,10 @@
 ---
 category: "Supplements"
+coverImage: /blog-images/collagen-protein-guide.webp
 title: "Collagen Protein: What It Does, What It Doesn't, and How to Take It Right"
 date: "2025-02-26"
-excerpt: "Collagen is the most abundant protein in your body — and supplementing it can support joint health, skin elasticity, gut integrity, and bone density. Here's the complete guide, including what type to take and one important caveat."
+excerpt: "Collagen is the most abundant protein in your body — and supplementing it can support joint health, skin elasticity, gut integrity, and bone density. Here's the complete guide…"
 ---
-
 ## The Basics
 
 | | |

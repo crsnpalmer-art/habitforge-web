@@ -3,8 +3,8 @@ title: "Blood Flow Restriction Training: Build Muscle With Less Weight"
 date: "2026-03-21"
 excerpt: "BFR training produces muscle hypertrophy at 20-30% of your one-rep max. Here's the science behind it and how to do it safely."
 category: "Recovery"
+coverImage: /blog-images/blood-flow-restriction-training-guide.webp
 ---
-
 Building muscle typically requires lifting heavy — progressive overload, compound movements, working close to failure with significant loads. But what if you could achieve similar hypertrophy signaling with a fraction of the weight? Blood flow restriction (BFR) training makes exactly that claim, and the research backs it up.
 
 ## What Is Blood Flow Restriction Training?

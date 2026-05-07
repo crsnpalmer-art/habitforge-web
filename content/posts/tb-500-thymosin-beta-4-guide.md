@@ -1,10 +1,10 @@
 ---
 title: "TB-500 (Thymosin Beta-4): The Systemic Healing Peptide Athletes Swear By"
 date: "2025-02-26"
-excerpt: "TB-500 is a synthetic version of Thymosin Beta-4, a peptide naturally produced throughout the body that plays a critical role in tissue repair, inflammation control, and recovery from injury."
+excerpt: "TB-500 is a synthetic version of Thymosin Beta-4, a peptide naturally produced throughout the body that plays a critical role in tissue repair, inflammation control, and…"
 category: "Peptides"
----
-## The Basics
+coverImage: "/blog-images/tb-500-thymosin-beta-4-guide.png"
+---## The Basics
 
 | | |
 |---|---|
@@ -136,4 +136,3 @@ Joe Rogan has mentioned peptides including TB-500 in the context of injury heali
 3. Huff T, et al. "Beta-thymosins, small acidic peptides with multiple functions." International Journal of Biochemistry & Cell Biology. 2001. https://pubmed.ncbi.nlm.nih.gov/11463581/
 
 ## Where to Buy / Find This
-

@@ -1,8 +1,9 @@
 ---
 title: "The Power of Dollar-Cost Averaging: How to Win by Ignoring the Market"
 date: "2026-03-05"
-excerpt: "Dollar-cost averaging is one of the most research-backed investing strategies available — and it works precisely because it removes the human element. Here's how it works and why it outperforms market timing for most investors."
+excerpt: "Dollar-cost averaging is one of the most research-backed investing strategies available — and it works precisely because it removes the human element. Here's how it works and…"
 category: "Finance"
+coverImage: /blog-images/dollar-cost-averaging-guide.webp
 ---
 ## The Basics
 

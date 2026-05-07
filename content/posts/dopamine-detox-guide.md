@@ -3,8 +3,8 @@ title: "Dopamine and Habits: Why You're Addicted to Distraction and How to Reset
 date: "2025-02-27"
 excerpt: "Understanding dopamine's role in motivation and habit formation is the key to breaking cycles of distraction and rebuilding capacity for deep work."
 category: "Habits"
+coverImage: /blog-images/dopamine-detox-guide.webp
 ---
-
 ## The Basics
 
 | | |

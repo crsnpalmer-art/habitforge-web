@@ -1,10 +1,10 @@
 ---
 title: "The 50/30/20 Budget Rule: Simple, Flexible, and It Actually Works"
 date: "2026-03-01"
-excerpt: "Most budgets fail because they're too complicated. The 50/30/20 rule strips budgeting down to three categories and makes it easy to build financial habits that stick — without tracking every coffee purchase."
+excerpt: "Most budgets fail because they're too complicated. The 50/30/20 rule strips budgeting down to three categories and makes it easy to build financial habits that stick — without…"
 category: "Finance"
+coverImage: /blog-images/50-30-20-budget-rule.webp
 ---
-
 ## The Basics
 
 | | |

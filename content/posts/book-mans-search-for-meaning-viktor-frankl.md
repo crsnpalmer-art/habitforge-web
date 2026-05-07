@@ -1,10 +1,10 @@
 ---
 title: "Book of the Week: Man's Search for Meaning by Viktor Frankl"
 date: "2026-03-09"
-excerpt: "Viktor Frankl's account of surviving the Holocaust and the psychological framework he built from it remains one of the most powerful books ever written on human resilience, suffering, and purpose."
+excerpt: "Viktor Frankl's account of surviving the Holocaust and the psychological framework he built from it remains one of the most powerful books ever written on human resilience…"
 category: "Books"
+coverImage: /blog-images/book-mans-search-for-meaning-viktor-frankl.webp
 ---
-
 There are books that are important, and then there are books that are necessary. Viktor Frankl's *Man's Search for Meaning* — first published in German in 1946 as *Ein Psycholog erlebt das Konzentrationslager* — falls firmly in the second category. It has sold over 16 million copies worldwide, been translated into more than 50 languages, and was named by the Library of Congress as one of the ten most influential books in the United States. The numbers don't capture it. You have to read it.
 
 ## The Core Thesis

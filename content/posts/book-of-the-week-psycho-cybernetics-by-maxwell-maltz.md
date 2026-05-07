@@ -3,8 +3,8 @@ title: "Book of the Week: Psycho-Cybernetics by Maxwell Maltz"
 date: "2026-04-04"
 excerpt: "A review of Psycho-Cybernetics and its ideas about self-image, behavior, and personal change."
 category: "Books"
+coverImage: /blog-images/book-of-the-week-psycho-cybernetics-by-maxwell-maltz.webp
 ---
-
 *Psycho-Cybernetics* is one of those books that should be unbearable and somehow isn’t.
 
 Published in 1960 by Maxwell Maltz, a plastic surgeon turned self-help philosopher, the book argues that self-image drives behavior more than raw intention does. Maltz noticed that changing a person’s face did not always change how they felt. Some patients became more confident after surgery. Others stayed trapped in the same insecurity, as if their minds had refused the memo. His conclusion was simple and still useful: if your internal model of yourself stays broken, external improvements only go so far.

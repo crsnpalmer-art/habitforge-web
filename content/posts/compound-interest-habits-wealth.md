@@ -3,8 +3,8 @@ title: "The Compound Effect: How Small Financial Habits Build Extraordinary Weal
 date: "2025-02-26"
 excerpt: "Compound interest is called the eighth wonder of the world for a reason. But the same principle applies to habits — small, consistent actions compound into life-changing results."
 category: "Finance"
+coverImage: /blog-images/compound-interest-habits-wealth.webp
 ---
-
 ## The Basics
 
 | | |

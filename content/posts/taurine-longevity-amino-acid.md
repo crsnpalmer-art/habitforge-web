@@ -3,9 +3,8 @@ title: "Taurine: The Longevity Amino Acid You're Probably Not Taking"
 date: "2026-03-12"
 excerpt: "A 2023 study in Science found taurine deficiency is a driver of aging. Here's what that means and how to use it."
 category: "Supplements"
----
-
-In 2023, a landmark study published in *Science* sent ripples through the longevity community. Researchers found that taurine levels decline significantly with age — and that supplementing taurine in middle-aged mice extended their healthy lifespan by up to 12%. For a molecule that most people associate with energy drinks, that's a remarkable finding.
+coverImage: "/blog-images/taurine-longevity-amino-acid.png"
+---In 2023, a landmark study published in *Science* sent ripples through the longevity community. Researchers found that taurine levels decline significantly with age — and that supplementing taurine in middle-aged mice extended their healthy lifespan by up to 12%. For a molecule that most people associate with energy drinks, that's a remarkable finding.
 
 Taurine is a conditionally essential amino acid, meaning the body can synthesize it — but often not fast enough, especially as you age. It's found in high concentrations in the heart, brain, eyes, and skeletal muscle. Unlike most amino acids, it isn't incorporated into proteins. Instead, it acts as a cellular regulator, modulating ion channels, reducing oxidative stress, and supporting mitochondrial function.
 

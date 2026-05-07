@@ -1,10 +1,10 @@
 ---
 title: "Book of the Week: The ONE Thing by Gary Keller"
 date: "2026-03-29"
-excerpt: "Gary Keller's productivity manifesto makes one relentless argument: extraordinary results come from narrowing focus to a single most-important thing, not from managing more things better."
+excerpt: "Gary Keller's productivity manifesto makes one relentless argument: extraordinary results come from narrowing focus to a single most-important thing, not from managing more…"
 category: "Books"
+coverImage: /blog-images/book-one-thing-gary-keller.webp
 ---
-
 Most productivity books teach you how to do more. *The ONE Thing* by Gary Keller (with Jay Papasan), published in 2013, makes the opposite argument: the path to extraordinary results is not better management of many tasks but the relentless identification and prioritization of the single most important task — then protecting the time to do it.
 
 Keller built one of the largest real estate companies in the world (Keller Williams) and credits the ONE Thing framework as central to that success. The book distills a philosophical and practical system around a single core idea that is easy to state and surprisingly difficult to implement.

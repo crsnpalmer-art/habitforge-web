@@ -1,10 +1,10 @@
 ---
 title: "Adaptogens and the HPA Axis: How Stress-Response Herbs Actually Work"
 date: "2026-03-28"
-excerpt: "Ashwagandha, rhodiola, and eleuthero aren't just 'stress herbs' — they modulate a specific neuroendocrine pathway called the HPA axis. Understanding the mechanism makes them far more useful."
+excerpt: "Ashwagandha, rhodiola, and eleuthero aren't just 'stress herbs' — they modulate a specific neuroendocrine pathway called the HPA axis. Understanding the mechanism makes them…"
 category: "Supplements"
+coverImage: /blog-images/cortisol-adaptogens-stress-response.webp
 ---
-
 The word "adaptogen" gets thrown around loosely in the supplement industry — applied to anything vaguely calming or energizing. But the term has a precise scientific definition: a substance that increases nonspecific resistance to stress, normalizes physiological function disrupted by stressors, and does so without causing significant side effects or dependence. The mechanism behind this definition centers on a specific neuroendocrine pathway: the hypothalamic-pituitary-adrenal (HPA) axis.
 
 ## The HPA Axis: Your Stress Hardware

@@ -3,8 +3,8 @@ title: "Financial Habits That Actually Build Wealth Over Time"
 date: "2025-02-26"
 excerpt: "Wealth isn't built on income alone — it's built on the daily behaviors and systems that determine where money goes."
 category: "Finance"
+coverImage: /blog-images/financial-habits-millionaires.webp
 ---
-
 ## The Basics
 
 | | |

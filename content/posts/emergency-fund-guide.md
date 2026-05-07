@@ -3,8 +3,8 @@ title: "Emergency Fund: How Much You Actually Need and Where to Keep It"
 date: "2025-02-26"
 excerpt: "The financial buffer that prevents one bad event from derailing your entire plan — and why most people get the math wrong."
 category: "Finance"
+coverImage: /blog-images/emergency-fund-guide.webp
 ---
-
 ## The Basics
 
 | | |

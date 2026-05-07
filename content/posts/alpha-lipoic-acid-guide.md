@@ -1,10 +1,10 @@
 ---
 title: "Alpha Lipoic Acid: The Universal Antioxidant You Should Know About"
 date: "2026-03-03"
-excerpt: "Alpha lipoic acid is one of the few antioxidants that works in both fat-soluble and water-soluble environments — and its benefits range from blood sugar regulation to neuroprotection. Here's the complete breakdown."
+excerpt: "Alpha lipoic acid is one of the few antioxidants that works in both fat-soluble and water-soluble environments — and its benefits range from blood sugar regulation to…"
 category: "Supplements"
+coverImage: /blog-images/alpha-lipoic-acid-guide.webp
 ---
-
 ## The Basics
 
 | | |
@@ -97,4 +97,3 @@ Dr. Raymond Peat has written about antioxidants including alpha lipoic acid in t
 
 
 - **Thorne Research R-Lipoic Acid** — Pure R-ALA form with high bioavailability and third-party testing (100mg capsules) — https://www.amazon.com/Thorne-Research-R-Lipoic-Acid-Capsules/dp/B0797HK8YL
-

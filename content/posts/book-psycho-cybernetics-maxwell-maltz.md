@@ -3,8 +3,8 @@ title: "Book of the Week: Psycho-Cybernetics by Maxwell Maltz"
 date: "2026-03-12"
 excerpt: "A plastic surgeon's 1960 discovery that changing the face doesn't change the self-image — and what that means for how you think, perform, and build habits."
 category: "Books"
+coverImage: /blog-images/book-psycho-cybernetics-maxwell-maltz.webp
 ---
-
 *Psycho-Cybernetics* was published in 1960 by Maxwell Maltz, a plastic surgeon who noticed something strange about his patients. After successful operations — noses reshaped, scars removed, appearances transformed — many patients continued to see themselves the same way they always had. The self-image hadn't changed. The face had. Maltz became obsessed with the question: what actually controls how we see ourselves, and can it be deliberately changed?
 
 The result was a book that sold over 30 million copies and quietly influenced nearly every major self-help and peak performance author who came after it. Tony Robbins, Zig Ziglar, and countless sports psychologists have credited it as foundational. Despite being over 60 years old, its core insights hold up well against modern neuroscience.

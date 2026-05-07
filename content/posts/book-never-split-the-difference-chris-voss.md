@@ -1,10 +1,10 @@
 ---
 title: "Book of the Week: Never Split the Difference by Chris Voss"
 date: "2026-03-26"
-excerpt: "Former FBI hostage negotiator Chris Voss dismantles the rational-actor model of negotiation and replaces it with a counterintuitive, emotion-first system that works in high-stakes situations — and everyday life."
+excerpt: "Former FBI hostage negotiator Chris Voss dismantles the rational-actor model of negotiation and replaces it with a counterintuitive, emotion-first system that works in…"
 category: "Books"
+coverImage: /blog-images/book-never-split-the-difference-chris-voss.webp
 ---
-
 Most negotiation books teach a rational framework: identify interests, find common ground, create mutual value. Chris Voss's *Never Split the Difference* (2016) argues this approach is built on a flawed premise — that humans are rational actors who make decisions through deliberate analysis. They're not. Decisions are made emotionally and justified rationally, and any negotiation system that ignores this is working against human nature.
 
 Voss spent 15 years as an FBI hostage negotiator, including work with the Crisis Negotiation Unit and the FBI's international hostage team. His book distills that experience into a set of practical techniques grounded in behavioral economics and clinical psychology rather than classical negotiation theory.

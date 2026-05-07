@@ -1,10 +1,10 @@
 ---
 title: "Book of the Week: The Obstacle Is the Way by Ryan Holiday"
 date: "2026-03-03"
-excerpt: "Ryan Holiday's modern translation of Stoic philosophy argues that the things standing in your way aren't problems to be avoided — they're the path itself. A sharp, practical guide to resilience."
+excerpt: "Ryan Holiday's modern translation of Stoic philosophy argues that the things standing in your way aren't problems to be avoided — they're the path itself. A sharp, practical…"
 category: "Books"
+coverImage: /blog-images/book-obstacle-is-the-way-ryan-holiday.webp
 ---
-
 ## The Basics
 
 | | |

@@ -1,10 +1,10 @@
 ---
 title: "Book of the Week: The 7 Habits of Highly Effective People by Stephen R. Covey"
+coverImage: "/blog-images/book-seven-habits-stephen-covey.png"
 date: "2026-04-06"
-excerpt: "Covey's framework still works because it reframes productivity as character development: the habits are less about doing more and more about becoming the person who can sustain meaningful results."
+excerpt: "Covey's framework still works because it reframes productivity as character development: the habits are less about doing more and more about becoming the person who can sustain…"
 category: "Books"
 ---
-
 Covey's *The 7 Habits of Highly Effective People* has lived in the long tail of self-improvement for decades, not because it was marketing genius, but because the structure has real staying power. Unlike tactic-heavy books, this one is a character systems model: do the right things at the right level, then external systems become easier.
 
 The core distinction in the first three habits is dependence, independence, and interdependence. Habits 1 to 3 focus on self-mastery: be proactive, begin with the end in mind, and put first things first. The message is not motivational in a shallow sense. It is behavioral architecture.

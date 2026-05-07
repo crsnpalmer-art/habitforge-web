@@ -3,8 +3,8 @@ title: "Debt Payoff Strategies: Avalanche vs. Snowball and When to Use Each"
 date: "2025-02-26"
 excerpt: "Two proven frameworks for eliminating debt — and the psychology behind choosing the right one for your situation."
 category: "Finance"
+coverImage: /blog-images/debt-payoff-strategies.webp
 ---
-
 ## The Basics
 
 | | |

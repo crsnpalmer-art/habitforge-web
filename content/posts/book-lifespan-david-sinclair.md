@@ -1,10 +1,10 @@
 ---
 title: "Book of the Week: Lifespan by David Sinclair"
 date: "2026-03-06"
-excerpt: "Harvard geneticist David Sinclair argues that aging is a disease — and that we already have the tools to slow, stop, and potentially reverse it. Here's the core thesis and what it means for how you live."
+excerpt: "Harvard geneticist David Sinclair argues that aging is a disease — and that we already have the tools to slow, stop, and potentially reverse it. Here's the core thesis and what…"
 category: "Books"
+coverImage: /blog-images/book-lifespan-david-sinclair.webp
 ---
-
 **Lifespan: Why We Age — and Why We Don't Have To** by David A. Sinclair, PhD with Matthew LaPlante (2019)
 
 If you've spent any time in longevity circles, you've encountered David Sinclair's name. A professor at Harvard Medical School and co-director of the Paul F. Glenn Center for Biology of Aging Research, Sinclair has spent three decades studying the molecular biology of aging. *Lifespan* is his attempt to synthesize that research into an accessible argument for a radical idea: **aging is not an inevitable fact of life — it's a disease, and it can be treated.**

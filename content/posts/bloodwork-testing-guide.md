@@ -3,8 +3,8 @@ title: "Bloodwork Testing: The Panels That Actually Matter for Long-Term Health"
 date: "2025-03-01"
 excerpt: "Most routine bloodwork misses the biomarkers that predict future health outcomes. Here's what to test, how often, and what the numbers mean."
 category: "Lifestyle"
+coverImage: /blog-images/bloodwork-testing-guide.webp
 ---
-
 ## The Basics
 
 | | |

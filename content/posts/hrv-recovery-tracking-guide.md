@@ -3,9 +3,8 @@ title: "HRV: The Most Useful Number You're Probably Not Tracking"
 date: "2026-03-02"
 excerpt: "Heart rate variability is one of the best windows into your nervous system's readiness. Here's how it works, why it matters, and how to use it to train and recover smarter."
 category: "Recovery"
----
-
-## The Basics
+coverImage: "/blog-images/hrv-recovery-tracking-guide.png"
+---## The Basics
 
 | | |
 |---|---|

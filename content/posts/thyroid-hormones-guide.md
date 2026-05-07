@@ -3,8 +3,8 @@ title: "Thyroid Health: How Your Thyroid Hormones Control Energy, Metabolism, an
 date: "2025-02-26"
 excerpt: "Your thyroid is the master regulator of your metabolism. When it's off, everything is off — energy, weight, mood, cognition, and more. Here's what you need to know."
 category: "Supplements"
----
-## The Basics
+coverImage: "/blog-images/thyroid-hormones-guide.png"
+---## The Basics
 
 | | |
 |---|---|

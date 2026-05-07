@@ -3,9 +3,8 @@ title: "The Magnesium Forms Guide: Glycinate vs. Malate vs. Threonate (and More)
 date: "2026-02-27"
 excerpt: "Not all magnesium supplements are created equal. The form you take determines where it works in your body — here's how to match the right form to your goal."
 category: "Supplements"
----
-
-## The Basics
+coverImage: "/blog-images/magnesium-forms-complete-guide.png"
+---## The Basics
 
 | | |
 |---|---|

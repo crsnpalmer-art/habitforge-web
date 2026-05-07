@@ -1,10 +1,10 @@
 ---
 title: "Adenosine and Sleep Pressure: The Neuroscience of Why You Need Sleep"
 date: "2026-03-29"
-excerpt: "Sleep isn't just rest — it's driven by a specific molecule that accumulates in your brain during wakefulness and is cleared only during sleep. Understanding adenosine changes how you think about caffeine, naps, and sleep debt."
+excerpt: "Sleep isn't just rest — it's driven by a specific molecule that accumulates in your brain during wakefulness and is cleared only during sleep. Understanding adenosine changes…"
 category: "Lifestyle"
+coverImage: /blog-images/adenosine-sleep-pressure-science.webp
 ---
-
 Most people think of sleepiness as the absence of energy — a vague fatigue that builds through the day and resolves with rest. The neuroscience is more specific: sleepiness is driven by the accumulation of a particular molecule called adenosine, and the story of how it builds, how it's cleared, and how caffeine hijacks this system explains much of what you experience every day.
 
 ## What Adenosine Is

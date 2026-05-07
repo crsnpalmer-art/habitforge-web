@@ -1,10 +1,10 @@
 ---
 title: "Boron: The Forgotten Mineral That Supports Testosterone, Bones, and Brain Health"
 date: "2026-03-07"
-excerpt: "Boron is a trace mineral most people have never considered supplementing. The research on its effects on testosterone, vitamin D activation, and cognitive function is quietly compelling."
+excerpt: "Boron is a trace mineral most people have never considered supplementing. The research on its effects on testosterone, vitamin D activation, and cognitive function is quietly…"
 category: "Supplements"
+coverImage: /blog-images/boron-supplement-guide.webp
 ---
-
 Boron rarely shows up on the list of "must-take supplements." It's not marketed aggressively, it doesn't have the brand recognition of magnesium or zinc, and it's not a topic in mainstream nutrition conversations. That's a shame — because the research on boron is quietly remarkable.
 
 Boron is a trace mineral found in foods like nuts, legumes, avocados, and dried fruits. Deficiency isn't commonly discussed in clinical settings, yet many people — particularly those eating low-plant diets — may be chronically under-consuming it. And the downstream effects on hormones, bone density, and brain function are significant enough to pay attention to.

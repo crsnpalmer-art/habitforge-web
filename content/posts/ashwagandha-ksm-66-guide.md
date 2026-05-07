@@ -1,10 +1,10 @@
 ---
 title: "Ashwagandha KSM-66: The Adaptogen That Actually Delivers"
 date: "2026-03-01"
-excerpt: "Ashwagandha has been used in Ayurvedic medicine for over 3,000 years. Modern clinical trials are finally catching up — and the results on stress, testosterone, and performance are legitimately impressive."
+excerpt: "Ashwagandha has been used in Ayurvedic medicine for over 3,000 years. Modern clinical trials are finally catching up — and the results on stress, testosterone, and performance…"
 category: "Supplements"
+coverImage: /blog-images/ashwagandha-ksm-66-guide.webp
 ---
-
 ## The Basics
 
 | | |

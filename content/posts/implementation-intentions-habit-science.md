@@ -3,9 +3,8 @@ title: "Implementation Intentions: The If-Then Formula That Makes Habits Actuall
 date: "2026-03-20"
 excerpt: "Most habit strategies focus on motivation. Implementation intentions focus on execution — and the research difference is dramatic."
 category: "Habits"
----
-
-You've set the goal. You've told yourself you'll do it. You believe you'll do it. And then — the day arrives, something comes up, and it doesn't happen. Again.
+coverImage: "/blog-images/implementation-intentions-habit-science.png"
+---You've set the goal. You've told yourself you'll do it. You believe you'll do it. And then — the day arrives, something comes up, and it doesn't happen. Again.
 
 This isn't a motivation problem. It's a planning problem. And there's a solution with over 30 years of peer-reviewed research behind it: **implementation intentions**.
 

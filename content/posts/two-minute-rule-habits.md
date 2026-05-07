@@ -3,8 +3,8 @@ title: "The Two-Minute Rule: How to Make Any Habit Easier to Start"
 date: "2025-02-27"
 excerpt: "The hardest part of any habit is beginning. This rule removes the resistance that keeps you from starting."
 category: "Habits"
----
-## The Basics
+coverImage: "/blog-images/two-minute-rule-habits.png"
+---## The Basics
 
 | | |
 |---|---|

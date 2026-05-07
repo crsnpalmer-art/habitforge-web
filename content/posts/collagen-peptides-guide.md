@@ -3,8 +3,8 @@ title: "Collagen Peptides: What the Research Says and Who Actually Needs Them"
 date: "2025-03-01"
 excerpt: "Collagen is the most abundant protein in the body. Here's what supplementing with hydrolyzed collagen actually does — and what it doesn't."
 category: "Supplements"
+coverImage: /blog-images/collagen-peptides-guide.webp
 ---
-
 ## The Basics
 
 | | |

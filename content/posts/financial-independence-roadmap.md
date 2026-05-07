@@ -1,10 +1,10 @@
 ---
 title: "Building a Financial Independence Roadmap: Your Step-by-Step Guide to FI"
 date: "2026-03-03"
-excerpt: "Financial independence isn't just for the ultra-wealthy or the hyper-frugal. With a clear roadmap and consistent action, most people can dramatically accelerate their path to FI. Here's how to build yours."
+excerpt: "Financial independence isn't just for the ultra-wealthy or the hyper-frugal. With a clear roadmap and consistent action, most people can dramatically accelerate their path to…"
 category: "Finance"
+coverImage: /blog-images/financial-independence-roadmap.webp
 ---
-
 ## The Basics
 
 | | |

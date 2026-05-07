@@ -1,11 +1,10 @@
 ---
 title: "Low-Dose Lithium: The Overlooked Neuroprotective Mineral"
 date: "2026-03-26"
-excerpt: "Lithium is known as a psychiatric drug at high doses — but at nutritional doses, it shows remarkable neuroprotective, mood-stabilizing, and longevity-relevant effects with a strong safety profile."
+excerpt: "Lithium is known as a psychiatric drug at high doses — but at nutritional doses, it shows remarkable neuroprotective, mood-stabilizing, and longevity-relevant effects with a…"
 category: "Supplements"
----
-
-Most people associate lithium with high-dose psychiatric medication — and for good reason. Lithium carbonate, prescribed at 600–1800mg daily for bipolar disorder, requires blood monitoring, has a narrow therapeutic window, and carries significant side effects. This association has largely obscured a more nuanced story: at low, nutritional doses (1–10mg of elemental lithium daily), lithium appears to be a neuroprotective mineral with evidence spanning epidemiology, rodent models, and emerging human trials.
+coverImage: "/blog-images/lithium-orotate-neuroprotection-guide.png"
+---Most people associate lithium with high-dose psychiatric medication — and for good reason. Lithium carbonate, prescribed at 600–1800mg daily for bipolar disorder, requires blood monitoring, has a narrow therapeutic window, and carries significant side effects. This association has largely obscured a more nuanced story: at low, nutritional doses (1–10mg of elemental lithium daily), lithium appears to be a neuroprotective mineral with evidence spanning epidemiology, rodent models, and emerging human trials.
 
 ## Lithium as a Nutritional Element
 

@@ -1,11 +1,10 @@
 ---
 title: "The Psychology of Saving: Why You Don't Save Enough and What Actually Changes It"
 date: "2026-03-31"
-excerpt: "Saving rates are chronically low despite widespread knowledge that saving matters. The barrier isn't information — it's a set of cognitive and psychological mechanisms that undermine saving intent. Here's what research shows actually works."
+excerpt: "Saving rates are chronically low despite widespread knowledge that saving matters. The barrier isn't information — it's a set of cognitive and psychological mechanisms that…"
 category: "Finance"
----
-
-Most personal finance advice treats inadequate saving as an information problem: if people knew how compound interest worked, they'd save more. The evidence disagrees. Surveys consistently find that people who understand compound interest, know their retirement savings are insufficient, and intend to save more still fail to change their behavior. The barrier isn't knowledge — it's a cluster of psychological mechanisms that systematically undermine saving intent.
+coverImage: "/blog-images/psychology-of-saving-guide.png"
+---Most personal finance advice treats inadequate saving as an information problem: if people knew how compound interest worked, they'd save more. The evidence disagrees. Surveys consistently find that people who understand compound interest, know their retirement savings are insufficient, and intend to save more still fail to change their behavior. The barrier isn't knowledge — it's a cluster of psychological mechanisms that systematically undermine saving intent.
 
 Understanding these mechanisms leads to interventions that actually work, rather than more education that doesn't.
 

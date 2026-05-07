@@ -1,10 +1,10 @@
 ---
 title: "GHK-Cu (Copper Peptide): The Skin, Hair, and Healing Peptide Explained"
 date: "2026-03-06"
-excerpt: "GHK-Cu is a naturally occurring copper-binding peptide with a growing body of research behind it. From wound healing to skin regeneration to systemic anti-aging effects — here's what the science shows."
+excerpt: "GHK-Cu is a naturally occurring copper-binding peptide with a growing body of research behind it. From wound healing to skin regeneration to systemic anti-aging effects —…"
 category: "Peptides"
+coverImage: /blog-images/ghk-cu-copper-peptide-guide.webp
 ---
-
 GHK-Cu — glycyl-L-histidyl-L-lysine bound to copper — is one of the more fascinating compounds in the peptide research space. Unlike many peptides that came from pharmaceutical labs, GHK-Cu is endogenous: your body makes it naturally. It's found in human plasma, urine, and saliva, and it plays a role in wound healing, tissue repair, and cellular signaling from birth onward.
 
 What makes it interesting from an optimization standpoint is what happens to circulating GHK-Cu levels as we age — they drop significantly — and what the research shows when those levels are restored or supplemented.

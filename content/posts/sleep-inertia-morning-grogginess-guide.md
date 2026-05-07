@@ -1,10 +1,10 @@
 ---
 title: "Sleep Inertia: Why You Feel Terrible After Waking Up"
+coverImage: "/blog-images/sleep-inertia-morning-grogginess-guide.png"
 date: "2026-04-04"
 excerpt: "The science behind morning grogginess and what actually helps you wake up faster."
 category: "Lifestyle"
 ---
-
 Some mornings you wake up feeling fine. Other mornings you feel like your soul is buffering. That fog has a name: sleep inertia.
 
 Sleep inertia is the temporary period of grogginess, reduced alertness, and impaired performance that can happen right after waking. It is not just “being bad at mornings.” Research shows that reaction time, attention, decision-making, and memory can all be worse during this window. In some cases, the effects can last a few minutes. In others, they can drag on for half an hour or more.

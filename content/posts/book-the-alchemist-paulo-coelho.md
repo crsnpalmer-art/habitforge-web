@@ -1,11 +1,11 @@
 ---
 title: "Book of the Week: The Alchemist by Paulo Coelho"
 date: "2026-03-14"
-excerpt: "Paulo Coelho's modern fable has sold over 65 million copies for a reason. Here's what it actually teaches about pursuing your Personal Legend — and why it matters for habit builders."
+excerpt: "Paulo Coelho's modern fable has sold over 65 million copies for a reason. Here's what it actually teaches about pursuing your Personal Legend — and why it matters for habit…"
 category: "Books"
+coverImage: /blog-images/book-the-alchemist-paulo-coelho.webp
 ---
-
-# Book of the Week: The Alchemist by Paulo Coelho
+## Book of the Week: The Alchemist by Paulo Coelho
 
 There are self-help books. There are philosophy books. And then there is *The Alchemist* — a 163-page parable that has sold over 65 million copies and been translated into 80 languages. It is, by any measure, one of the most widely read books of the last century. The question worth asking: why?
 

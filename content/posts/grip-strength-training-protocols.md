@@ -3,9 +3,8 @@ title: "How to Actually Train Grip Strength (And Why It Matters More Than You Th
 date: "2026-03-19"
 excerpt: "Grip strength predicts cardiovascular mortality better than blood pressure. Here's the science and a concrete protocol to build it."
 category: "Lifestyle"
----
-
-If you could measure one physical attribute today that would tell you something meaningful about how long you'll live, grip strength would be near the top of the list. This isn't folk wisdom — it's one of the more consistently replicated findings in longevity epidemiology.
+coverImage: "/blog-images/grip-strength-training-protocols.png"
+---If you could measure one physical attribute today that would tell you something meaningful about how long you'll live, grip strength would be near the top of the list. This isn't folk wisdom — it's one of the more consistently replicated findings in longevity epidemiology.
 
 A 2015 Lancet study of 140,000 adults across 17 countries found that grip strength was a stronger predictor of cardiovascular mortality than systolic blood pressure. Each 5 kg decrease in grip strength was associated with a 17% higher risk of cardiovascular death. Similar findings have appeared across independent cohorts studying cancer outcomes, cognitive decline, hospitalization rates, and all-cause mortality.
 

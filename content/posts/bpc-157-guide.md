@@ -1,10 +1,10 @@
 ---
 title: "BPC-157: The Healing Peptide for Gut, Joints, and Injury Recovery"
 date: "2025-02-26"
-excerpt: "BPC-157 is a synthetic peptide derived from a protein found in gastric juice. It's become one of the most popular recovery peptides for its remarkable tissue-healing, gut-protective, and anti-inflammatory effects."
+excerpt: "BPC-157 is a synthetic peptide derived from a protein found in gastric juice. It's become one of the most popular recovery peptides for its remarkable tissue-healing…"
 category: "Peptides"
+coverImage: /blog-images/bpc-157-guide.webp
 ---
-
 ## The Basics
 
 | | |

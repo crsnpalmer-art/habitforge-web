@@ -3,9 +3,8 @@ title: "How Much Protein Do You Actually Need? What the Science Says in 2026"
 date: "2026-03-12"
 excerpt: "The RDA for protein is based on minimum survival — not optimal health, muscle, or longevity. Here's what the evidence actually recommends."
 category: "Lifestyle"
----
-
-The official RDA for protein is 0.8 grams per kilogram of body weight per day. For a 175-pound person, that works out to about 64 grams. On paper, that meets your "requirement." In practice, it may represent the minimum needed to avoid deficiency — not the optimal intake for muscle retention, metabolic health, satiety, or longevity.
+coverImage: "/blog-images/protein-intake-longevity-muscle.png"
+---The official RDA for protein is 0.8 grams per kilogram of body weight per day. For a 175-pound person, that works out to about 64 grams. On paper, that meets your "requirement." In practice, it may represent the minimum needed to avoid deficiency — not the optimal intake for muscle retention, metabolic health, satiety, or longevity.
 
 The protein conversation has evolved substantially over the past decade. Here's where the research stands.
 

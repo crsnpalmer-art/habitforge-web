@@ -1,10 +1,10 @@
 ---
 title: "The 4 Pillars of Health: A Framework That Actually Holds Up"
 date: "2026-03-07"
-excerpt: "Most health advice is fragmented. This framework ties it all together — four non-negotiable pillars that determine your physical and cognitive performance, and how to build each one systematically."
+excerpt: "Most health advice is fragmented. This framework ties it all together — four non-negotiable pillars that determine your physical and cognitive performance, and how to build…"
 category: "Habits"
+coverImage: /blog-images/four-pillars-of-health-framework.webp
 ---
-
 Health advice is everywhere. Optimize your cortisol. Seed cycle for hormonal balance. Cold plunge every morning. Take 47 supplements. Lift heavy. Do zone 2 cardio. Meditate. Drink more water.
 
 Taken in isolation, much of this advice is well-intentioned and even evidence-backed. The problem is that it arrives as a fragmented stream of individual tips with no organizing principle beneath them. Without a framework, most people either try to do everything (and burn out) or do nothing (paralyzed by complexity).

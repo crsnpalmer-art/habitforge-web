@@ -1,11 +1,10 @@
 ---
 title: "The Omega-3 Index: The Biomarker Your Doctor Probably Isn't Testing"
 date: "2026-03-30"
-excerpt: "Standard cholesterol panels miss one of the most cardiovascular-risk-relevant biomarkers available: the Omega-3 Index. Here's what it measures, what your number means, and how to optimize it."
+excerpt: "Standard cholesterol panels miss one of the most cardiovascular-risk-relevant biomarkers available: the Omega-3 Index. Here's what it measures, what your number means, and how…"
 category: "Supplements"
----
-
-Most people who take fish oil do so with only a vague sense of whether it's working. They know omega-3s are good for inflammation and heart health, they take a capsule, and they assume they're covered. The Omega-3 Index is the biomarker that replaces assumption with measurement — and for many people, the number they get back is a wake-up call.
+coverImage: "/blog-images/omega-3-index-biomarker-guide.png"
+---Most people who take fish oil do so with only a vague sense of whether it's working. They know omega-3s are good for inflammation and heart health, they take a capsule, and they assume they're covered. The Omega-3 Index is the biomarker that replaces assumption with measurement — and for many people, the number they get back is a wake-up call.
 
 ## What the Omega-3 Index Measures
 

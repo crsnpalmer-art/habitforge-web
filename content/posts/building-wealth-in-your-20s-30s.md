@@ -1,10 +1,10 @@
 ---
 title: "Building Wealth in Your 20s and 30s: The Playbook"
 date: "2026-03-15"
-excerpt: "The decisions you make about money in your 20s and 30s will compound into your 40s and 50s in ways that feel almost unfair. Here's the playbook — prioritized, practical, and stripped of the noise."
+excerpt: "The decisions you make about money in your 20s and 30s will compound into your 40s and 50s in ways that feel almost unfair. Here's the playbook — prioritized, practical, and…"
 category: "Finance"
+coverImage: /blog-images/building-wealth-in-your-20s-30s.webp
 ---
-
 ## The Most Valuable Asset You Have Right Now
 
 It's not your salary. It's not your 401(k) balance. It's time.

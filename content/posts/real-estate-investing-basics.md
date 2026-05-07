@@ -1,11 +1,10 @@
 ---
 title: "Real Estate Investing Basics: How to Start Building Wealth Through Property"
 date: "2026-03-08"
-excerpt: "Real estate has created more millionaires than almost any other asset class. Here's a clear-eyed look at how it works, the main strategies available, and what beginners need to understand before buying their first property."
+excerpt: "Real estate has created more millionaires than almost any other asset class. Here's a clear-eyed look at how it works, the main strategies available, and what beginners need to…"
 category: "Finance"
----
-
-Real estate is one of the oldest and most proven paths to wealth. Unlike stocks, it's tangible. Unlike bonds, it generates income while appreciating. Unlike a business, it doesn't require daily management if structured correctly. But it's also not passive in the way index investing is — it demands education, capital, and judgment. Here's what you need to know before getting started.
+coverImage: "/blog-images/real-estate-investing-basics.png"
+---Real estate is one of the oldest and most proven paths to wealth. Unlike stocks, it's tangible. Unlike bonds, it generates income while appreciating. Unlike a business, it doesn't require daily management if structured correctly. But it's also not passive in the way index investing is — it demands education, capital, and judgment. Here's what you need to know before getting started.
 
 ## Why Real Estate Works
 

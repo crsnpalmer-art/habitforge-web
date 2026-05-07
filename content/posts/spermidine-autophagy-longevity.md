@@ -3,9 +3,8 @@ title: "Spermidine: The Autophagy Activator Found in Everyday Foods"
 date: "2026-03-12"
 excerpt: "Spermidine triggers cellular cleanup, slows aging markers, and is found in wheat germ and aged cheese. Here's what the science says."
 category: "Supplements"
----
-
-Autophagy — the cellular "self-cleaning" process — is one of the most exciting frontiers in longevity research. When functioning properly, autophagy removes damaged proteins and dysfunctional organelles, essentially recycling cellular junk before it accumulates into disease. The challenge: autophagy declines with age, and most interventions that boost it (fasting, caloric restriction, certain peptides) require significant lifestyle commitment.
+coverImage: "/blog-images/spermidine-autophagy-longevity.png"
+---Autophagy — the cellular "self-cleaning" process — is one of the most exciting frontiers in longevity research. When functioning properly, autophagy removes damaged proteins and dysfunctional organelles, essentially recycling cellular junk before it accumulates into disease. The challenge: autophagy declines with age, and most interventions that boost it (fasting, caloric restriction, certain peptides) require significant lifestyle commitment.
 
 Spermidine offers a different path. It's a naturally occurring polyamine compound found in a range of common foods, and emerging research suggests it can induce autophagy through an entirely distinct mechanism from fasting — without requiring food restriction.
 

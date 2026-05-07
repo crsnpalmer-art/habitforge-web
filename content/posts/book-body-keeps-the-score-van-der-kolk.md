@@ -3,9 +3,9 @@ title: "Book of the Week: The Body Keeps the Score by Bessel van der Kolk"
 date: "2026-03-13"
 excerpt: "Why trauma isn't just a memory — it's a physical experience stored in the body — and what that means for healing, performance, and long-term health."
 category: "Books"
+coverImage: /blog-images/book-body-keeps-the-score-van-der-kolk.webp
 ---
-
-# Book of the Week: *The Body Keeps the Score* by Bessel van der Kolk
+## Book of the Week: *The Body Keeps the Score* by Bessel van der Kolk
 
 If you think trauma only affects veterans or survivors of major disasters, this book will fundamentally change how you see human health. Published in 2014 by psychiatrist and researcher Bessel van der Kolk, *The Body Keeps the Score* became one of the most important medical books of the decade — not because it's sensational, but because it's true in a way that most of medicine has refused to acknowledge.
 

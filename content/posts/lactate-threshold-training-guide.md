@@ -1,11 +1,10 @@
 ---
 title: "Lactate Threshold Training: The Missing Link in Endurance Performance"
 date: "2026-03-30"
-excerpt: "VO2 max gets the headlines, but lactate threshold is often the more trainable — and more performance-predictive — metric for endurance athletes. Here's how to find yours and raise it."
+excerpt: "VO2 max gets the headlines, but lactate threshold is often the more trainable — and more performance-predictive — metric for endurance athletes. Here's how to find yours and…"
 category: "Recovery"
----
-
-Endurance performance is commonly discussed in terms of VO2 max — the maximum rate of oxygen consumption — as though it's the primary determinant of who wins races and who bonks on long efforts. It matters, but for athletes at similar fitness levels, lactate threshold is typically the stronger predictor of performance. It's also more trainable, and understanding it changes how you structure endurance work.
+coverImage: "/blog-images/lactate-threshold-training-guide.png"
+---Endurance performance is commonly discussed in terms of VO2 max — the maximum rate of oxygen consumption — as though it's the primary determinant of who wins races and who bonks on long efforts. It matters, but for athletes at similar fitness levels, lactate threshold is typically the stronger predictor of performance. It's also more trainable, and understanding it changes how you structure endurance work.
 
 ## What Lactate Threshold Is
 

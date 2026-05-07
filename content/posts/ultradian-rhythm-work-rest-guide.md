@@ -1,10 +1,10 @@
 ---
 title: "Ultradian Rhythms: Why Your Brain Works Better in 90-Minute Cycles"
+coverImage: "/blog-images/ultradian-rhythm-work-rest-guide.png"
 date: "2026-04-04"
 excerpt: "What ultradian rhythm research suggests about focus, breaks, and sustainable productivity."
 category: "Lifestyle"
 ---
-
 People love pretending they can focus at a high level for six straight hours. That fantasy needs to be euthanized.
 
 Your body does not run on a flat line. Alongside the 24-hour circadian rhythm, researchers have described shorter cycles called ultradian rhythms that repeat throughout the day. One of the best-known examples is the basic rest-activity cycle, which tends to show up in roughly 90-minute periods of higher alertness followed by a dip in energy and attention. The exact timing varies, but the broad pattern is real: effort rises, peaks, and then drops.

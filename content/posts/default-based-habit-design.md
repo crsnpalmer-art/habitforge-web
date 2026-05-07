@@ -1,10 +1,10 @@
 ---
 title: "Designing Habits That Run on Defaults"
+coverImage: "/blog-images/default-based-habit-design.png"
 date: "2026-04-06"
 excerpt: "Most habits fail before they even begin because they ask for judgment in moments when people are too tired to do it well."
 category: "Habits"
 ---
-
 You can make habits easier by building better routines, or you can make them easier by making the good option the default.
 
 That second move is less obvious and more powerful.

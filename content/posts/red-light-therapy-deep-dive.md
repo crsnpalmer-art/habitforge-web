@@ -1,11 +1,10 @@
 ---
 title: "Red Light Therapy: The Science Behind the Glow"
 date: "2026-02-28"
-excerpt: "Red light therapy has exploded in popularity — and unlike most wellness trends, it has real science behind it. Here's a deep dive into mechanisms, benefits, protocols, and what devices are actually worth buying."
+excerpt: "Red light therapy has exploded in popularity — and unlike most wellness trends, it has real science behind it. Here's a deep dive into mechanisms, benefits, protocols, and what…"
 category: "Recovery"
----
-
-Red light therapy (RLT) has gone from obscure biohacker tool to mainstream wellness staple in just a few years. Panels that once cost thousands of dollars are now available for a few hundred. Gyms, spas, and clinics have added them. And the research — while still maturing — is genuinely compelling.
+coverImage: "/blog-images/red-light-therapy-deep-dive.png"
+---Red light therapy (RLT) has gone from obscure biohacker tool to mainstream wellness staple in just a few years. Panels that once cost thousands of dollars are now available for a few hundred. Gyms, spas, and clinics have added them. And the research — while still maturing — is genuinely compelling.
 
 But with any trending intervention, it's worth cutting through the hype to understand what red light therapy actually does, what it doesn't do, and how to use it effectively.
 

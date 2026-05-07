@@ -1,11 +1,10 @@
 ---
 title: "Myo-Inositol: The Supplement Changing PCOS and Metabolic Health Treatment"
 date: "2026-04-01"
-excerpt: "Myo-inositol has accumulated an unusually strong evidence base for PCOS, insulin resistance, and egg quality — enough that several reproductive endocrinology guidelines now include it. Here's what the research shows."
+excerpt: "Myo-inositol has accumulated an unusually strong evidence base for PCOS, insulin resistance, and egg quality — enough that several reproductive endocrinology guidelines now…"
 category: "Supplements"
----
-
-Myo-inositol occupies an unusual position in the supplement landscape: it has a genuinely robust clinical evidence base — multiple randomized controlled trials, meta-analyses, and inclusion in clinical guidelines for polycystic ovary syndrome (PCOS) — yet remains largely unknown outside reproductive health circles. For anyone dealing with PCOS, insulin resistance, or fertility concerns, it's among the most evidence-supported interventions available without a prescription.
+coverImage: "/blog-images/myo-inositol-pcos-metabolic-guide.png"
+---Myo-inositol occupies an unusual position in the supplement landscape: it has a genuinely robust clinical evidence base — multiple randomized controlled trials, meta-analyses, and inclusion in clinical guidelines for polycystic ovary syndrome (PCOS) — yet remains largely unknown outside reproductive health circles. For anyone dealing with PCOS, insulin resistance, or fertility concerns, it's among the most evidence-supported interventions available without a prescription.
 
 ## What Myo-Inositol Is
 

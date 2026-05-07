@@ -3,9 +3,8 @@ title: "Sleep Architecture: Understanding REM, Deep Sleep, and Why Cycles Matter
 date: "2026-03-19"
 excerpt: "Most people think about sleep quantity. The real game is sleep architecture — understanding the stages, what each one does, and how to optimize your cycle structure."
 category: "Recovery"
----
-
-Eight hours of sleep is a useful target. But two people can both sleep eight hours and have radically different cognitive performance, hormonal profiles, and physical recovery outcomes the next day — because the architecture inside those eight hours varies enormously.
+coverImage: "/blog-images/sidereal-sleep-architecture-guide.png"
+---Eight hours of sleep is a useful target. But two people can both sleep eight hours and have radically different cognitive performance, hormonal profiles, and physical recovery outcomes the next day — because the architecture inside those eight hours varies enormously.
 
 Sleep isn't a uniform state. It's a structured sequence of biological programs that cycle through the night in a specific pattern, each stage performing functions that the others can't replicate. Understanding that architecture is the difference between sleeping and sleeping well.
 

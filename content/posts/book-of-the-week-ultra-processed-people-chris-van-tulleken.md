@@ -1,10 +1,10 @@
 ---
 title: "Book of the Week: Ultra-Processed People by Chris van Tulleken"
 date: "2026-04-03"
-excerpt: "Chris van Tulleken's Ultra-Processed People makes the case that modern food is often engineered to override fullness, increase intake, and quietly reshape habits in ways most people never notice."
+excerpt: "Chris van Tulleken's Ultra-Processed People makes the case that modern food is often engineered to override fullness, increase intake, and quietly reshape habits in ways most…"
 category: "Books"
+coverImage: /blog-images/book-of-the-week-ultra-processed-people-chris-van-tulleken.webp
 ---
-
 Chris van Tulleken's *Ultra-Processed People* is one of those books that makes you look at your pantry like it betrayed you. The core argument is blunt: the modern food environment is not just full of calories, it is full of products designed to be easy to overeat. And that matters because a huge part of health is not willpower. It is exposure.
 
 Van Tulleken, a physician and science communicator, focuses on ultra-processed foods, often shortened to UPFs. These are industrial formulations made mostly from extracted ingredients, additives, refined starches, sugars, oils, flavorings, and emulsifiers rather than intact whole foods. That definition can sound annoyingly academic, but in real life it covers a lot of the stuff people eat every day: packaged snacks, sugary cereals, protein bars, frozen meals, sodas, fast food, and plenty of foods marketed as healthy.

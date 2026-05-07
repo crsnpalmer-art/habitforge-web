@@ -3,9 +3,8 @@ title: "Why You Should Track Your Net Worth Monthly (And How to Start)"
 date: "2025-02-26"
 excerpt: "Net worth is the one number that tells the full story of your financial life — and most people never bother to calculate it."
 category: "Finance"
----
-
-## The Basics
+coverImage: "/blog-images/net-worth-tracking.png"
+---## The Basics
 
 | | |
 |---|---|

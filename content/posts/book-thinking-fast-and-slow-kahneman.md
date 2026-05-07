@@ -1,11 +1,11 @@
 ---
 title: "Book of the Week: Thinking, Fast and Slow by Daniel Kahneman"
 date: "2026-03-10"
-excerpt: "Nobel laureate Daniel Kahneman's landmark exploration of the two systems that drive how we think — one fast, intuitive, and emotional; the other slow, deliberate, and rational. A masterclass in understanding the mind's architecture and its surprising failures."
+excerpt: "Nobel laureate Daniel Kahneman's landmark exploration of the two systems that drive how we think — one fast, intuitive, and emotional; the other slow, deliberate, and rational…"
 category: "Books"
+coverImage: /blog-images/book-thinking-fast-and-slow-kahneman.webp
 ---
-
-# Book of the Week: Thinking, Fast and Slow by Daniel Kahneman
+## Book of the Week: Thinking, Fast and Slow by Daniel Kahneman
 
 There are books that change how you see a topic, and there are books that change how you see yourself. *Thinking, Fast and Slow* by Daniel Kahneman is the latter. Published in 2011, it synthesizes decades of Nobel Prize-winning research into a surprisingly accessible account of why humans think the way they do — and why we're so often wrong about it.
 

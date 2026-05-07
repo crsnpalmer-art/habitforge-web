@@ -1,11 +1,10 @@
 ---
 title: "Walking: The Most Underrated Longevity Tool You're Not Taking Seriously"
 date: "2026-03-13"
-excerpt: "Walking is dismissed as 'not real exercise' — but the epidemiology, longevity data, and metabolic research say otherwise. Here's why daily walking may be the highest-leverage health habit available."
+excerpt: "Walking is dismissed as 'not real exercise' — but the epidemiology, longevity data, and metabolic research say otherwise. Here's why daily walking may be the highest-leverage…"
 category: "Lifestyle"
----
-
-# Walking: The Most Underrated Longevity Tool You're Not Taking Seriously
+coverImage: "/blog-images/walking-longevity-underrated-exercise.png"
+---## Walking: The Most Underrated Longevity Tool You're Not Taking Seriously
 
 In a fitness culture obsessed with intensity, walking gets dismissed. It's what you do when you can't train. It's background activity, not "real exercise." This dismissal is one of the most costly errors in popular health thinking — because the science on walking's impact on all-cause mortality, metabolic health, and cognitive function is among the most consistent and robust in all of epidemiology.
 

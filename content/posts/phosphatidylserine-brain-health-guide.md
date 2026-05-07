@@ -3,9 +3,8 @@ title: "Phosphatidylserine: The Brain's Most Underrated Supplement"
 date: "2026-03-11"
 excerpt: "Phosphatidylserine is one of the few supplements with an FDA-qualified health claim for cognitive function. Here's what the science says and why it belongs in your stack."
 category: "Supplements"
----
-
-If you follow nootropics, you've probably heard of lion's mane, bacopa, and the racetam family. But phosphatidylserine (PS) is the one with an actual FDA-qualified health claim — and it still doesn't get the attention it deserves.
+coverImage: "/blog-images/phosphatidylserine-brain-health-guide.png"
+---If you follow nootropics, you've probably heard of lion's mane, bacopa, and the racetam family. But phosphatidylserine (PS) is the one with an actual FDA-qualified health claim — and it still doesn't get the attention it deserves.
 
 ## What Is Phosphatidylserine?
 

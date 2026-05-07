@@ -1,10 +1,10 @@
 ---
 title: "Book of the Week: Why Buddhism Is True by Robert Wright"
 date: "2026-03-30"
-excerpt: "Robert Wright's rigorously argued book makes the case that core Buddhist insights about the mind align with modern evolutionary psychology — and that meditation is a practical tool for seeing reality more clearly."
+excerpt: "Robert Wright's rigorously argued book makes the case that core Buddhist insights about the mind align with modern evolutionary psychology — and that meditation is a practical…"
 category: "Books"
+coverImage: /blog-images/book-why-buddhism-is-true-robert-wright.webp
 ---
-
 *Why Buddhism Is True* (2017) by Robert Wright occupies unusual territory: it's neither a Buddhist religious text nor a dismissive secular skeptic's takedown of meditation. It's an evolutionary psychologist's careful argument that the core psychological and philosophical claims of Buddhism — not the metaphysical or supernatural ones — hold up remarkably well under scrutiny from modern science.
 
 Wright is careful to scope his argument precisely. He is not claiming Buddhism's cosmological claims are true, or that karma and rebirth are real. He is claiming that Buddhism's analysis of the human mind — why it suffers, how it distorts perception, and what can be done about it — is accurate, and that evolutionary psychology explains why.

@@ -1,10 +1,10 @@
 ---
 title: "Book of the Week: Mindset by Carol Dweck"
 date: "2026-03-22"
-excerpt: "Carol Dweck's research on fixed vs. growth mindsets has influenced psychology, education, and performance science for decades — and it remains one of the most useful frameworks for understanding human potential."
+excerpt: "Carol Dweck's research on fixed vs. growth mindsets has influenced psychology, education, and performance science for decades — and it remains one of the most useful frameworks…"
 category: "Books"
+coverImage: /blog-images/book-mindset-carol-dweck.webp
 ---
-
 Few ideas in modern psychology have spread as widely or proven as durable as Carol Dweck's distinction between fixed and growth mindsets. *Mindset: The New Psychology of Success*, first published in 2006 by the Stanford psychology professor, introduced a framework so clean and applicable that it reshaped how educators, athletes, managers, and parents think about ability, effort, and achievement.
 
 The book's core insight is deceptively simple. Its implications are not.

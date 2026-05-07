@@ -3,9 +3,8 @@ title: "L-Theanine: The Calm Focus Amino Acid Found in Tea"
 date: "2026-03-11"
 excerpt: "L-theanine is the rare supplement that calms without sedating and sharpens focus without jitters. Here's the science behind why it works — and how to use it."
 category: "Supplements"
----
-
-Most supplements make a trade-off. Stimulants sharpen focus but spike anxiety. Relaxants calm the mind but blunt performance. L-theanine is unusual because it does both: it promotes alert relaxation without sedation. That combination has made it one of the most studied and broadly effective supplements on the market.
+coverImage: "/blog-images/l-theanine-focus-calm-guide.png"
+---Most supplements make a trade-off. Stimulants sharpen focus but spike anxiety. Relaxants calm the mind but blunt performance. L-theanine is unusual because it does both: it promotes alert relaxation without sedation. That combination has made it one of the most studied and broadly effective supplements on the market.
 
 ## What Is L-Theanine?
 

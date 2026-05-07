@@ -1,11 +1,11 @@
 ---
 title: "Circadian Rhythm Optimization: The Master Clock Behind Your Health"
 date: "2026-03-14"
-excerpt: "Your body runs on a 24-hour biological clock that governs everything from cortisol to metabolism. Here's how to align your lifestyle with it — and why it may be the highest-leverage health lever you're not using."
+excerpt: "Your body runs on a 24-hour biological clock that governs everything from cortisol to metabolism. Here's how to align your lifestyle with it — and why it may be the…"
 category: "Lifestyle"
+coverImage: /blog-images/circadian-rhythm-optimization-guide.webp
 ---
-
-# Circadian Rhythm Optimization: The Master Clock Behind Your Health
+## Circadian Rhythm Optimization: The Master Clock Behind Your Health
 
 Most people treat sleep as a passive activity — something that happens when you run out of energy. But sleep is just one output of a far more sophisticated system: your circadian rhythm. Get this clock right, and virtually every other health metric improves. Ignore it, and no supplement stack, training protocol, or diet will fully compensate.
 

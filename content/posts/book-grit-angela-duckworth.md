@@ -3,8 +3,8 @@ title: "Book of the Week: Grit by Angela Duckworth"
 date: "2026-03-21"
 excerpt: "Angela Duckworth's landmark research reveals why passion and perseverance — not talent — predict who achieves extraordinary things."
 category: "Books"
+coverImage: /blog-images/book-grit-angela-duckworth.webp
 ---
-
 Talent is overrated. That's the central provocation of *Grit: The Power of Passion and Perseverance* by Angela Duckworth — a University of Pennsylvania psychologist who spent years studying why some people achieve extraordinary things while others with equal or greater ability fall short.
 
 The answer, she argues, isn't intelligence, charisma, or raw talent. It's grit.

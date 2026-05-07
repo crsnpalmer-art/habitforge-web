@@ -1,11 +1,10 @@
 ---
 title: "Investment Fees and Expense Ratios: The Silent Wealth Killer"
 date: "2026-04-01"
-excerpt: "A 1% annual fee sounds trivial. Compounded over 30 years, it can consume 25% of your final portfolio value. Understanding how fees compound — and where they hide — is one of the highest-leverage financial decisions you can make."
+excerpt: "A 1% annual fee sounds trivial. Compounded over 30 years, it can consume 25% of your final portfolio value. Understanding how fees compound — and where they hide — is one of…"
 category: "Finance"
----
-
-In most consumer transactions, a 1% difference in price is negligible. In investing, a 1% annual fee compounded over a working career is anything but. The math of compounding works the same way for fees as it does for returns: small percentages applied repeatedly over decades produce enormous effects. Most investors have no idea what they're paying or what it costs them in final wealth. This is not an accident — the investment industry has a structural incentive to obscure fees.
+coverImage: "/blog-images/investment-fees-expense-ratios-guide.png"
+---In most consumer transactions, a 1% difference in price is negligible. In investing, a 1% annual fee compounded over a working career is anything but. The math of compounding works the same way for fees as it does for returns: small percentages applied repeatedly over decades produce enormous effects. Most investors have no idea what they're paying or what it costs them in final wealth. This is not an accident — the investment industry has a structural incentive to obscure fees.
 
 ## How Expense Ratios Work
 

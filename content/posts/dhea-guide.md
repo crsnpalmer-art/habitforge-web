@@ -1,10 +1,10 @@
 ---
 title: "DHEA: The Master Precursor Hormone and What the Science Actually Says"
 date: "2026-03-06"
-excerpt: "DHEA is one of the most abundant hormones in the human body — and one of the most misunderstood. Here's what research shows about its role in aging, energy, and hormone optimization."
+excerpt: "DHEA is one of the most abundant hormones in the human body — and one of the most misunderstood. Here's what research shows about its role in aging, energy, and hormone…"
 category: "Supplements"
+coverImage: /blog-images/dhea-guide.webp
 ---
-
 Dehydroepiandrosterone — thankfully abbreviated to DHEA — is a steroid hormone produced primarily by the adrenal glands, with smaller contributions from the gonads and brain. It serves as a precursor to both testosterone and estrogen, meaning the body can convert it into either sex hormone depending on what's needed. At its peak, typically in your mid-20s, DHEA is the most abundant circulating steroid in the human body. By age 70–80, levels have dropped by roughly 80–90%.
 
 That dramatic decline has made DHEA a focal point in longevity research for decades. But what does the science actually say about supplementing it?

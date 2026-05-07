@@ -1,11 +1,10 @@
 ---
 title: "Progressive Overload: The Single Principle Behind All Strength and Muscle Gains"
 date: "2026-03-29"
-excerpt: "Every effective strength training program — regardless of methodology — works through one mechanism: progressive overload. Understanding it precisely changes how you train and troubleshoot plateaus."
+excerpt: "Every effective strength training program — regardless of methodology — works through one mechanism: progressive overload. Understanding it precisely changes how you train and…"
 category: "Recovery"
----
-
-Strength training has spawned hundreds of programs, methodologies, and philosophies — linear progression, periodization, conjugate, high-frequency, low-frequency, powerlifting, bodybuilding, functional fitness. The diversity of approaches creates the impression that there are many ways training works. There's really one: progressive overload.
+coverImage: "/blog-images/progressive-overload-muscle-science.png"
+---Strength training has spawned hundreds of programs, methodologies, and philosophies — linear progression, periodization, conjugate, high-frequency, low-frequency, powerlifting, bodybuilding, functional fitness. The diversity of approaches creates the impression that there are many ways training works. There's really one: progressive overload.
 
 Every program that produces strength and muscle gains does so by applying progressive overload. Every program that fails to produce gains has failed to apply it. Understanding this principle precisely — not just as a slogan — changes how you design training, interpret plateaus, and make progress over years rather than months.
 

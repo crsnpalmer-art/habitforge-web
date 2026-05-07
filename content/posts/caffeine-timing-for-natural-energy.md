@@ -1,10 +1,10 @@
 ---
 title: "Caffeine Timing and the Science of Sustainable Energy"
+coverImage: "/blog-images/caffeine-timing-for-natural-energy.png"
 date: "2026-04-06"
 excerpt: "Caffeine is not a magic fuel, it's a timing tool. Learn how to stack dose, timing, and sleep-aware habits so your daily alertness stays steady instead of crashing."
 category: "Nutrition"
 ---
-
 Most people treat caffeine like a lever: press it harder and harder when energy dips. In practice, you are not making more energy, you are usually just shifting when you get the crash. Caffeine can absolutely help, but only if timing is designed around biology.
 
 ## Caffeine works by borrowing your arousal system

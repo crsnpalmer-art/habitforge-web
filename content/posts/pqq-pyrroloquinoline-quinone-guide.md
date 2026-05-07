@@ -3,9 +3,8 @@ title: "PQQ: The Mitochondrial Biogenesis Supplement You've Never Heard Of"
 date: "2026-03-07"
 excerpt: "PQQ is one of the most underrated compounds in the longevity toolkit. Here's what the science says about its ability to grow new mitochondria and protect your brain."
 category: "Supplements"
----
-
-If you've spent any time in the biohacking or longevity space, you've heard the phrase "mitochondrial health" thrown around constantly. Most of the conversation centers on CoQ10, NAD+ precursors, and red light therapy. But there's a lesser-known compound quietly earning serious scientific respect: **PQQ**, or pyrroloquinoline quinone.
+coverImage: "/blog-images/pqq-pyrroloquinoline-quinone-guide.png"
+---If you've spent any time in the biohacking or longevity space, you've heard the phrase "mitochondrial health" thrown around constantly. Most of the conversation centers on CoQ10, NAD+ precursors, and red light therapy. But there's a lesser-known compound quietly earning serious scientific respect: **PQQ**, or pyrroloquinoline quinone.
 
 PQQ is a naturally occurring compound found in small amounts in food — particularly fermented soybeans (natto), green peppers, kiwi, and human breast milk. What makes it stand out isn't just its antioxidant properties; it's the only compound in supplement form shown to trigger **mitochondrial biogenesis** — the creation of new mitochondria — in living cells.
 

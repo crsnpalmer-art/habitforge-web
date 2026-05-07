@@ -3,9 +3,8 @@ title: "Chronotypes Explained: Stop Fighting Your Biology for Better Sleep and P
 date: "2026-03-16"
 excerpt: "Your chronotype — whether you're an early bird or night owl — is largely genetic. Fighting it has real costs. Here's how to work with your biology instead."
 category: "Recovery"
----
-
-Most sleep advice assumes that 10pm to 6am is the correct window for everyone. Get to bed by 10, wake at 6, optimize from there. But for roughly 25% of the population, this schedule is fundamentally misaligned with their biology — and forcing it can be as harmful as chronic sleep deprivation.
+coverImage: "/blog-images/sleep-chronotype-optimization.png"
+---Most sleep advice assumes that 10pm to 6am is the correct window for everyone. Get to bed by 10, wake at 6, optimize from there. But for roughly 25% of the population, this schedule is fundamentally misaligned with their biology — and forcing it can be as harmful as chronic sleep deprivation.
 
 Understanding your chronotype isn't an excuse to stay up late. It's a tool for aligning your life with your actual biology — and the performance differences between aligned and misaligned schedules are measurable and significant.
 

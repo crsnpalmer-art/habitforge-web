@@ -1,10 +1,10 @@
 ---
 title: "Eccentric Training: Why the Lowering Phase Is Where Gains Are Made"
 date: "2026-03-31"
-excerpt: "The eccentric (lowering) phase of every lift produces more muscle damage, greater strength gains, and unique adaptation signals compared to concentric training. Most lifters leave these gains on the table."
+excerpt: "The eccentric (lowering) phase of every lift produces more muscle damage, greater strength gains, and unique adaptation signals compared to concentric training. Most lifters…"
 category: "Recovery"
+coverImage: /blog-images/eccentric-training-science-guide.webp
 ---
-
 In virtually every strength training exercise, there are two phases: the concentric (muscle shortening under load — the curl, the press, the squat going up) and the eccentric (muscle lengthening under load — the lowering phase). Most lifters focus entirely on the concentric and treat the eccentric as an afterthought, lowering the weight quickly to reset for the next rep. This is a significant mistake, because the eccentric phase produces the majority of training-induced muscle damage and drives unique adaptations that concentric training cannot replicate.
 
 ## The Biomechanics of Eccentric Contraction

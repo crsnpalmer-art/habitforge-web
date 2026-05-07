@@ -3,8 +3,8 @@ title: "The Abstinence Violation Effect: How One Missed Day Becomes a Downward S
 date: "2026-04-03"
 excerpt: "A single slip rarely ruins a habit. The real damage usually comes from what you tell yourself after the slip. The abstinence violation effect explains why lapses can snowball."
 category: "Habits"
+coverImage: /blog-images/abstinence-violation-effect-habit-lapses.webp
 ---
-
 People often think habits die because of one bad decision. One missed workout. One night of junk food. One cigarette after months without one. One weekend that goes off the rails.
 
 Usually that is not what does the damage.

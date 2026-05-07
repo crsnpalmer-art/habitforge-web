@@ -3,8 +3,8 @@ title: "Astaxanthin: The Most Powerful Antioxidant You've Never Heard Of"
 date: "2026-03-16"
 excerpt: "Astaxanthin is 6,000x more potent than Vitamin C as an antioxidant. It protects skin, eyes, brain, and muscles — and the science is surprisingly robust."
 category: "Supplements"
+coverImage: /blog-images/astaxanthin-guide.webp
 ---
-
 When researchers measure antioxidant potency, most people expect Vitamin C or Vitamin E to top the list. Instead, a bright red pigment produced by microalgae consistently blows them out of the water. Astaxanthin has an ORAC value roughly 6,000 times higher than Vitamin C and 800 times higher than CoQ10. But potency in a test tube doesn't always translate to results in the body — so what does the actual research show?
 
 ## What Is Astaxanthin?

@@ -1,11 +1,11 @@
 ---
 title: "Electrolytes and Hydration Science: What Most People Get Wrong"
 date: "2026-03-14"
-excerpt: "Drinking more water isn't the same as being well-hydrated. Here's the science of electrolytes, how they govern cellular function, and how to optimize hydration for performance and recovery."
+excerpt: "Drinking more water isn't the same as being well-hydrated. Here's the science of electrolytes, how they govern cellular function, and how to optimize hydration for performance…"
 category: "Supplements"
+coverImage: /blog-images/electrolytes-hydration-science-guide.webp
 ---
-
-# Electrolytes and Hydration Science: What Most People Get Wrong
+## Electrolytes and Hydration Science: What Most People Get Wrong
 
 The mainstream hydration message is simple: drink eight glasses of water a day. The actual science is considerably more interesting — and more actionable. Hydration isn't about water volume alone. It's about the ratio of water to electrolytes inside and outside your cells, and that ratio governs nerve conduction, muscle contraction, blood pressure, cognitive function, and a dozen other processes you care about.
 

@@ -3,8 +3,8 @@ title: "Book of the Week: Flow by Mihaly Csikszentmihalyi"
 date: "2026-03-25"
 excerpt: "Mihaly Csikszentmihalyi's landmark work on optimal experience reveals the psychology behind your best moments — and a practical framework for creating more of them."
 category: "Books"
+coverImage: /blog-images/book-flow-mihaly-csikszentmihalyi.webp
 ---
-
 There's a state most people have experienced but struggle to describe: total absorption in an activity where time disappears, self-consciousness evaporates, effort feels effortless, and performance peaks. Athletes call it being "in the zone." Musicians call it being "in the groove." Psychologist Mihaly Csikszentmihalyi spent decades studying this state and gave it a name: flow.
 
 *Flow: The Psychology of Optimal Experience* (1990) is the definitive account of this research — one of the most cited works in positive psychology and one of the few academic books to genuinely cross into popular consciousness.

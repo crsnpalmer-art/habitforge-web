@@ -3,9 +3,8 @@ title: "Saffron: The Spice With Clinically Proven Antidepressant Effects"
 date: "2026-03-23"
 excerpt: "Saffron isn't just a culinary spice — multiple clinical trials have shown it matches low-dose antidepressants for mild to moderate depression, with a favorable side effect profile."
 category: "Supplements"
----
-
-Saffron is the world's most expensive spice by weight, harvested by hand from the stigmas of *Crocus sativus* flowers. Its culinary uses are well-known — paella, biryani, risotto Milanese. Its therapeutic uses are less widely discussed, but increasingly well-supported by research: saffron is one of the few natural compounds with multiple randomized controlled trials demonstrating antidepressant efficacy comparable to pharmaceutical interventions.
+coverImage: "/blog-images/saffron-mood-antidepressant-supplement.png"
+---Saffron is the world's most expensive spice by weight, harvested by hand from the stigmas of *Crocus sativus* flowers. Its culinary uses are well-known — paella, biryani, risotto Milanese. Its therapeutic uses are less widely discussed, but increasingly well-supported by research: saffron is one of the few natural compounds with multiple randomized controlled trials demonstrating antidepressant efficacy comparable to pharmaceutical interventions.
 
 ## The Active Compounds
 

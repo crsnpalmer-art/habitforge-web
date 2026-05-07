@@ -1,10 +1,10 @@
 ---
 title: "Epithalon: The Telomere Peptide That Has Longevity Researchers Paying Attention"
 date: "2026-03-09"
-excerpt: "Epithalon is a tetrapeptide developed by Russian gerontologist Vladimir Khavinson that may activate telomerase and slow cellular aging. Here's what four decades of research actually show."
+excerpt: "Epithalon is a tetrapeptide developed by Russian gerontologist Vladimir Khavinson that may activate telomerase and slow cellular aging. Here's what four decades of research…"
 category: "Peptides"
+coverImage: /blog-images/epithalon-peptide-longevity-guide.webp
 ---
-
 If you've spent time in longevity circles, you've probably heard that telomeres — the protective caps on the ends of your chromosomes — are central to biological aging. Every time a cell divides, telomeres shorten slightly, and when they get too short, the cell enters senescence or dies. This is one of the fundamental mechanisms behind aging at the cellular level.
 
 Epithalon is a synthetic tetrapeptide that claims to address this mechanism directly. It's one of the most studied peptides in the anti-aging category, and its story begins in the Soviet Union.

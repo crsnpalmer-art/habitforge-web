@@ -1,5 +1,6 @@
 ---
 title: Continuous Glucose Monitoring for Everyday Metabolic Health
+coverImage: "/blog-images/glucose-monitoring-metabolic-health-guide.png"
 date: 2026-04-05
 excerpt: A practical, science-based guide to what continuous glucose monitors can and can’t teach healthy adults about food, energy, and metabolic health.
 category: Lifestyle

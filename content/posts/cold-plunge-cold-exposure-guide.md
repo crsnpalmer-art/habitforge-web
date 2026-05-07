@@ -1,10 +1,10 @@
 ---
 category: "Recovery"
+coverImage: /blog-images/cold-plunge-cold-exposure-guide.webp
 title: "Cold Plunge: The Science Behind Cold Exposure and Why It's Worth the Discomfort"
 date: "2025-02-26"
 excerpt: "Cold exposure triggers a cascade of physiological benefits — from a 300% norepinephrine spike to lasting dopamine elevation. Here's what the science says, and how to start safely."
 ---
-
 ## The Basics
 
 | | |

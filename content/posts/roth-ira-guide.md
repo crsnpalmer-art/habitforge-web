@@ -3,9 +3,8 @@ title: "Roth IRA Explained: Why It's One of the Best Accounts You Can Open"
 date: "2025-02-26"
 excerpt: "Tax-free growth, tax-free withdrawals in retirement, and more flexibility than most people realize. Here's how it works."
 category: "Finance"
----
-
-## The Basics
+coverImage: "/blog-images/roth-ira-guide.png"
+---## The Basics
 
 | | |
 |---|---|

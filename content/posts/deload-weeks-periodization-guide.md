@@ -1,10 +1,10 @@
 ---
 title: "Deload Weeks: Why Backing Off Makes You Stronger"
 date: "2026-03-23"
-excerpt: "Planned deloads aren't a sign of weakness — they're one of the most evidence-backed strategies for long-term strength and muscle gains. Here's the science and how to structure them."
+excerpt: "Planned deloads aren't a sign of weakness — they're one of the most evidence-backed strategies for long-term strength and muscle gains. Here's the science and how to structure…"
 category: "Recovery"
+coverImage: /blog-images/deload-weeks-periodization-guide.webp
 ---
-
 More is not always more in training. One of the most counterintuitive principles in strength and conditioning science is that deliberately reducing training load on a scheduled basis — a practice called deloading — produces better long-term results than relentless progressive overload. Understanding why requires understanding how adaptation actually works.
 
 ## What Is a Deload?

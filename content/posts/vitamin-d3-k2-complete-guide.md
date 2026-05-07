@@ -3,8 +3,8 @@ title: "Vitamin D3 + K2: Why You Should Never Take One Without the Other"
 date: "2026-02-28"
 excerpt: "Vitamin D deficiency affects over a billion people worldwide. But supplementing D3 alone can cause problems. Here's why K2 is the essential co-factor most people are missing."
 category: "Supplements"
----
-## The Basics
+coverImage: "/blog-images/vitamin-d3-k2-complete-guide.png"
+---## The Basics
 
 | | |
 |---|---|

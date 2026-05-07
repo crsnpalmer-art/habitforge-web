@@ -1,11 +1,10 @@
 ---
 title: "Nasal Breathing: The Simple Habit With Surprisingly Profound Health Effects"
 date: "2026-03-06"
-excerpt: "Most people breathe through their mouths without thinking about it. But switching to nasal breathing — during workouts, sleep, and daily life — may be one of the highest-leverage health habits available."
+excerpt: "Most people breathe through their mouths without thinking about it. But switching to nasal breathing — during workouts, sleep, and daily life — may be one of the…"
 category: "Recovery"
----
-
-Breathing is so automatic that most people never think about *how* they do it. Yet the route air takes into your body — through the nose or mouth — turns out to matter far more than intuition would suggest. A growing body of research, along with thousands of years of contemplative tradition, points to nasal breathing as the default mode the human body was designed for.
+coverImage: "/blog-images/nasal-breathing-guide.png"
+---Breathing is so automatic that most people never think about *how* they do it. Yet the route air takes into your body — through the nose or mouth — turns out to matter far more than intuition would suggest. A growing body of research, along with thousands of years of contemplative tradition, points to nasal breathing as the default mode the human body was designed for.
 
 Here's what happens when you breathe through your nose — and why it's worth making the shift.
 

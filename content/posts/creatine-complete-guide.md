@@ -1,10 +1,10 @@
 ---
 category: "Supplements"
+coverImage: /blog-images/creatine-complete-guide.webp
 title: "Creatine: The Complete Guide to the Most Researched Supplement in Sports Science"
 date: "2025-02-26"
-excerpt: "Creatine monohydrate is the most studied supplement in sports science — and one of the few with near-universal expert consensus. Here's everything you need to know about how it works, how to take it, and what the myths get wrong."
+excerpt: "Creatine monohydrate is the most studied supplement in sports science — and one of the few with near-universal expert consensus. Here's everything you need to know about how it…"
 ---
-
 ## The Basics
 
 | | |
@@ -97,4 +97,3 @@ Joe Rogan has discussed creatine as a foundational supplement on the JRE multipl
 
 
 - **Thorne Creatine** — NSF Certified for Sport, ideal for competitive athletes subject to drug testing — [https://www.amazon.com/Thorne-Research-Creatine-Strength-Performance/dp/B004HYAALOM](https://www.amazon.com/Thorne-Research-Creatine-Strength-Performance/dp/B004HYAALOM)
-

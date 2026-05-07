@@ -1,10 +1,10 @@
 ---
 title: "Book of the Week: The 4-Hour Body by Tim Ferriss"
 date: "2026-03-16"
-excerpt: "Tim Ferriss reverse-engineers the human body with the same ruthless efficiency he applied to work. The result is a dense, unconventional manual for rapid fat loss, muscle gain, and peak performance."
+excerpt: "Tim Ferriss reverse-engineers the human body with the same ruthless efficiency he applied to work. The result is a dense, unconventional manual for rapid fat loss, muscle gain…"
 category: "Books"
+coverImage: /blog-images/book-4-hour-body-tim-ferriss.webp
 ---
-
 Tim Ferriss built his reputation on a simple question: what's the minimum effective dose? In *The 4-Hour Workweek*, he applied that question to business and productivity. In *The 4-Hour Body*, published in 2010, he turned it on the human body itself — with the same obsessive data-collection, self-experimentation, and willingness to challenge conventional wisdom.
 
 The book is deliberately sprawling. Ferriss isn't writing a fitness manual with a single coherent program. He's sharing a decade of self-experimentation and research across fat loss, muscle gain, sleep, sex, and athletic performance. Think of it less as a book and more as a collection of dense, actionable research notes from someone who has tried most of it himself.

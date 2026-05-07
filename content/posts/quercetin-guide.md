@@ -1,10 +1,10 @@
 ---
 title: "Quercetin: The Anti-Inflammatory Flavonoid That Does More Than You Think"
 date: "2026-03-05"
-excerpt: "Quercetin is one of the most abundant antioxidants in nature — and one of the most underappreciated. Here's what the research says about its anti-inflammatory, antiviral, and longevity-supporting effects."
+excerpt: "Quercetin is one of the most abundant antioxidants in nature — and one of the most underappreciated. Here's what the research says about its anti-inflammatory, antiviral, and…"
 category: "Supplements"
----
-## The Basics
+coverImage: "/blog-images/quercetin-guide.png"
+---## The Basics
 
 | | |
 |---|---|

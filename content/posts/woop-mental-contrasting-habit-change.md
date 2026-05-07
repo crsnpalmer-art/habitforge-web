@@ -3,9 +3,8 @@ title: "WOOP: The Mental Contrasting Method That Beats Wishful Thinking"
 date: "2026-04-03"
 excerpt: "Positive thinking alone often feels good but changes little. WOOP combines optimism with realism, and the research behind it is stronger than most people realize."
 category: "Habits"
----
-
-If you have ever set a goal, imagined yourself succeeding, felt briefly energized, and then done almost nothing, you have run into a common self-improvement trap: fantasy without friction.
+coverImage: "/blog-images/woop-mental-contrasting-habit-change.png"
+---If you have ever set a goal, imagined yourself succeeding, felt briefly energized, and then done almost nothing, you have run into a common self-improvement trap: fantasy without friction.
 
 That is exactly the problem psychologist Gabriele Oettingen built WOOP to solve. WOOP stands for **Wish, Outcome, Obstacle, Plan**. It is a short mental exercise that helps people pursue goals by pairing motivation with a sober look at what will actually get in the way.
 

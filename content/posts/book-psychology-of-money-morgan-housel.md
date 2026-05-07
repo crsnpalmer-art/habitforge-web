@@ -3,8 +3,8 @@ title: "Book of the Week: The Psychology of Money by Morgan Housel"
 date: "2026-04-02"
 excerpt: "A sharp, memorable guide to why financial success depends less on spreadsheets and more on behavior."
 category: "Books"
+coverImage: /blog-images/book-psychology-of-money-morgan-housel.webp
 ---
-
 Most money books want to impress you with formulas. *The Psychology of Money* does something smarter: it explains why people with all the formulas still make terrible financial decisions.
 
 Morgan Housel’s core argument is simple and excellent. Money is not just math. It is behavior. People bring ego, fear, insecurity, status games, childhood experiences, and plain old randomness into every financial choice they make. That is why two people with the same income and the same information can end up in completely different places.

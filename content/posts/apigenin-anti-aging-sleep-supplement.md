@@ -3,8 +3,8 @@ title: "Apigenin: The Plant Compound That Supports Sleep, Longevity, and Brain H
 date: "2026-03-20"
 excerpt: "Apigenin is a natural flavonoid quietly earning attention in longevity research — here's what the science actually says."
 category: "Supplements"
+coverImage: /blog-images/apigenin-anti-aging-sleep-supplement.webp
 ---
-
 If you've heard David Sinclair or Andrew Huberman mention apigenin, you're already ahead of most people. This modest plant compound — found in chamomile tea, parsley, celery, and citrus fruits — has quietly moved from obscure flavonoid to longevity-stack staple, and for good reason.
 
 ## What Is Apigenin?

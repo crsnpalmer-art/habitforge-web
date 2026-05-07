@@ -1,11 +1,10 @@
 ---
 title: "SS-31: The Mitochondria-Targeting Peptide for Energy and Longevity"
 date: "2026-03-10"
-excerpt: "SS-31 (elamipretide) is a small synthetic peptide that targets the inner mitochondrial membrane, protecting cardiolipin and restoring mitochondrial function. It's one of the most promising compounds in aging and metabolic research."
+excerpt: "SS-31 (elamipretide) is a small synthetic peptide that targets the inner mitochondrial membrane, protecting cardiolipin and restoring mitochondrial function. It's one of the…"
 category: "Peptides"
----
-
-# SS-31: The Mitochondria-Targeting Peptide for Energy and Longevity
+coverImage: "/blog-images/ss-31-mitochondrial-peptide-guide.png"
+---## SS-31: The Mitochondria-Targeting Peptide for Energy and Longevity
 
 Every cell in your body runs on mitochondria. These organelles — often described as the cell's powerhouses — produce the ATP that fuels every contraction, thought, and metabolic process your body undertakes. As we age, mitochondrial function declines, and that decline is increasingly viewed not just as a consequence of aging, but as one of its primary drivers.
 

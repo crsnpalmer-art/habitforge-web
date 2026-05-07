@@ -1,11 +1,10 @@
 ---
 title: "Sleep Tracking Wearables: What They Actually Measure (And What They Miss)"
 date: "2026-03-24"
-excerpt: "Wearables have made sleep data accessible to millions — but understanding what the numbers mean, where they fail, and how to act on them is what separates useful tracking from health anxiety."
+excerpt: "Wearables have made sleep data accessible to millions — but understanding what the numbers mean, where they fail, and how to act on them is what separates useful tracking from…"
 category: "Lifestyle"
----
-
-Sleep tracking has gone mainstream. Oura rings, WHOOP straps, Apple Watches, and Garmin devices now provide nightly breakdowns of light sleep, deep sleep, REM cycles, and recovery scores. Millions of people wake up and check their sleep data before they've had coffee. The question worth asking: how much of that data is real, and what should you actually do with it?
+coverImage: "/blog-images/sleep-tracking-wearables-guide.png"
+---Sleep tracking has gone mainstream. Oura rings, WHOOP straps, Apple Watches, and Garmin devices now provide nightly breakdowns of light sleep, deep sleep, REM cycles, and recovery scores. Millions of people wake up and check their sleep data before they've had coffee. The question worth asking: how much of that data is real, and what should you actually do with it?
 
 ## How Consumer Wearables Track Sleep
 

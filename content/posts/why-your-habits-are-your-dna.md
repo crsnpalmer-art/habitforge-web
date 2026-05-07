@@ -1,10 +1,10 @@
 ---
 category: "Habits"
+coverImage: "/blog-images/why-your-habits-are-your-dna.png"
 title: "Why Your Habits Are Your DNA"
 date: "2026-02-26"
 excerpt: "Your DNA determines your biology. Your habits determine everything else. Here's why the four-strand framework is the most powerful way to build a life."
----
-## The Basics
+---## The Basics
 
 | | |
 |---|---|

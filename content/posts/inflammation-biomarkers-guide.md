@@ -3,9 +3,8 @@ title: "Inflammation Biomarkers: What Your Lab Work Is Actually Telling You"
 date: "2026-03-25"
 excerpt: "Chronic low-grade inflammation drives nearly every major disease of aging. These are the biomarkers that measure it, what the numbers mean, and what to do about them."
 category: "Lifestyle"
----
-
-Inflammation is the immune system's first response to injury, infection, and cellular stress — a necessary and life-saving mechanism in its acute form. The problem is chronic, low-grade systemic inflammation: a persistent, below-the-threshold-of-symptoms activation of the immune system that silently damages tissues over years and decades. Cardiometabolic disease, neurodegeneration, cancer, and accelerated aging all share chronic inflammation as a central mechanism.
+coverImage: "/blog-images/inflammation-biomarkers-guide.png"
+---Inflammation is the immune system's first response to injury, infection, and cellular stress — a necessary and life-saving mechanism in its acute form. The problem is chronic, low-grade systemic inflammation: a persistent, below-the-threshold-of-symptoms activation of the immune system that silently damages tissues over years and decades. Cardiometabolic disease, neurodegeneration, cancer, and accelerated aging all share chronic inflammation as a central mechanism.
 
 The good news: inflammation is measurable. Understanding these biomarkers gives you a window into one of the most important drivers of long-term health.
 

@@ -1,10 +1,10 @@
 ---
 title: "Book of the Week: The Willpower Instinct by Kelly McGonigal"
 date: "2026-03-23"
-excerpt: "Stanford psychologist Kelly McGonigal turns a decade of willpower science into a practical course on self-control — and the most surprising finding is that willpower works nothing like most people think."
+excerpt: "Stanford psychologist Kelly McGonigal turns a decade of willpower science into a practical course on self-control — and the most surprising finding is that willpower works…"
 category: "Books"
+coverImage: /blog-images/book-willpower-instinct-kelly-mcgonigal.webp
 ---
-
 Most people treat willpower like a character trait — something you either have or you don't, fixed and inherited. Kelly McGonigal's *The Willpower Instinct*, based on her wildly popular Stanford continuing education course "The Science of Willpower," dismantles this assumption systematically and replaces it with something more useful: a biological and psychological framework for understanding self-control that actually changes behavior.
 
 The book's central argument is that willpower is not a matter of moral fiber. It's a physiological capacity — one that can be measured, trained, and exhausted, and that responds to strategies most people have never tried.

@@ -3,8 +3,8 @@ title: "How to Do a Meaningful Annual Goal Review (And Actually Use It)"
 date: "2025-02-27"
 excerpt: "An annual review done right is one of the highest-leverage hours of your year. Here's a framework that produces real clarity."
 category: "Habits"
+coverImage: /blog-images/annual-goal-review.webp
 ---
-
 ## The Basics
 
 | | |

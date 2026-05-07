@@ -3,9 +3,8 @@ title: "Identity-Based Habits: Become the Person First, Then the Behavior Follow
 date: "2025-02-27"
 excerpt: "Most people try to change their habits by focusing on outcomes. The most durable change starts with identity."
 category: "Habits"
----
-
-## The Basics
+coverImage: "/blog-images/identity-based-habits.png"
+---## The Basics
 
 | | |
 |---|---|

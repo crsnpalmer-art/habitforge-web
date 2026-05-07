@@ -1,11 +1,10 @@
 ---
 title: "Sinking Funds: The Savings Strategy That Eliminates Financial Surprises"
 date: "2026-03-29"
-excerpt: "Car repairs, insurance premiums, holiday spending — predictable irregular expenses derail budgets because most people treat them as surprises. Sinking funds turn them into planned line items."
+excerpt: "Car repairs, insurance premiums, holiday spending — predictable irregular expenses derail budgets because most people treat them as surprises. Sinking funds turn them into…"
 category: "Finance"
----
-
-There's a category of expense that breaks most budgets: not the recurring monthly bills (which are easy to plan for) and not genuine emergencies (which is what an emergency fund handles), but the predictable irregular expenses that everyone knows are coming but somehow still catch people off guard. Car registration. Annual insurance premium. Holiday gifts. Vacation. Back-to-school supplies. The water heater that's been making that noise for two years.
+coverImage: "/blog-images/sinking-funds-targeted-savings.png"
+---There's a category of expense that breaks most budgets: not the recurring monthly bills (which are easy to plan for) and not genuine emergencies (which is what an emergency fund handles), but the predictable irregular expenses that everyone knows are coming but somehow still catch people off guard. Car registration. Annual insurance premium. Holiday gifts. Vacation. Back-to-school supplies. The water heater that's been making that noise for two years.
 
 These expenses aren't emergencies — they're foreseeable costs of normal life. The reason they feel like emergencies is that most budgeting systems don't account for them systematically. Sinking funds do.
 

@@ -1,10 +1,10 @@
 ---
 title: "Book of the Week: Tiny Habits by BJ Fogg"
 date: "2026-04-03"
-excerpt: "BJ Fogg's Tiny Habits argues that behavior change works best when actions start small, feel easy, and are tied to reliable prompts. It is one of the most practical habit books for real life."
+excerpt: "BJ Fogg's Tiny Habits argues that behavior change works best when actions start small, feel easy, and are tied to reliable prompts. It is one of the most practical habit books…"
 category: "Books"
+coverImage: /blog-images/book-tiny-habits-bj-fogg.webp
 ---
-
 *Tiny Habits* by BJ Fogg is one of the most useful books on behavior change because it refuses to romanticize motivation. Fogg, a Stanford behavior scientist, makes a simple case: people do not fail because they are lazy or broken. They fail because they ask for behavior that is too big, too vague, or too poorly attached to daily life.
 
 The book's core idea is that habits form more reliably when they are tiny. Not smaller than ideal. Smaller than your ego wants to admit is necessary. Instead of "I will meditate for twenty minutes every morning," Fogg would rather you start with one breath after you sit down in bed. Instead of "I will do a full workout," he suggests two push-ups after using the bathroom. The point is not that two push-ups are enough forever. The point is that tiny actions get repeated, and repetition is what makes a behavior real.

@@ -3,9 +3,8 @@ title: "L-Glutamine: Gut Health, Recovery, and What the Research Actually Shows"
 date: "2025-03-01"
 excerpt: "Glutamine is the most abundant amino acid in the body. Here's when it actually makes sense to supplement it — and when it doesn't."
 category: "Supplements"
----
-
-## The Basics
+coverImage: "/blog-images/l-glutamine-guide.png"
+---## The Basics
 
 | | |
 |---|---|

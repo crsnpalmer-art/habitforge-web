@@ -3,9 +3,8 @@ title: "Ultra-Processed Foods and Habit Loops"
 date: "2026-04-02"
 excerpt: "Why ultra-processed foods are so hard to stop eating, and how to break the loop without white-knuckling every craving."
 category: "Habits"
----
-
-Ultra-processed foods are not just convenient. They are engineered to be easy to crave, easy to overeat, and hard to quit. That does not mean they are evil, and it does not mean you need to live on boiled chicken and sadness. It means if you keep finding yourself eating far more chips, cookies, fast food, or sweet coffee drinks than you planned, you are not weak. You are running into a very modern habit loop.
+coverImage: "/blog-images/ultra-processed-foods-and-habit-loops.png"
+---Ultra-processed foods are not just convenient. They are engineered to be easy to crave, easy to overeat, and hard to quit. That does not mean they are evil, and it does not mean you need to live on boiled chicken and sadness. It means if you keep finding yourself eating far more chips, cookies, fast food, or sweet coffee drinks than you planned, you are not weak. You are running into a very modern habit loop.
 
 A habit loop usually has three parts: cue, behavior, and reward. The cue might be stress, boredom, late-night fatigue, or simply seeing food. The behavior is eating the ultra-processed snack. The reward is fast pleasure, a dopamine bump, convenience, or a temporary drop in stress. Repeat that cycle often enough, and your brain stops treating it as a decision. It becomes default behavior.
 

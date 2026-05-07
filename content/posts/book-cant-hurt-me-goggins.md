@@ -1,8 +1,9 @@
 ---
 title: "Book of the Week: Can't Hurt Me by David Goggins"
 date: "2026-03-05"
-excerpt: "David Goggins went from a cockroach-infested trailer to becoming the only person to complete Navy SEAL training, Army Ranger School, and Air Force TACP selection. His book isn't a memoir — it's a manual for confronting the untapped potential most people never touch."
+excerpt: "David Goggins went from a cockroach-infested trailer to becoming the only person to complete Navy SEAL training, Army Ranger School, and Air Force TACP selection. His book…"
 category: "Books"
+coverImage: /blog-images/book-cant-hurt-me-goggins.webp
 ---
 ## The Basics
 

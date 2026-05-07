@@ -3,8 +3,8 @@ title: "Alcohol and Longevity: What the Research Actually Says"
 date: "2026-03-24"
 excerpt: "The 'moderate drinking is healthy' narrative has been largely dismantled by newer research. Here's an honest look at what alcohol does to health, performance, and longevity."
 category: "Lifestyle"
+coverImage: /blog-images/alcohol-longevity-health-science.webp
 ---
-
 For decades, epidemiological studies appeared to show that moderate drinkers lived longer than non-drinkers, fueling the popular narrative that a glass of wine with dinner was not just acceptable but potentially beneficial. That narrative has undergone significant scientific revision in recent years. The more researchers have controlled for confounding variables and examined mechanisms, the less convincing the case for alcohol's health benefits has become.
 
 ## The Confounded Epidemiology

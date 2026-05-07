@@ -1,10 +1,10 @@
 ---
 title: "Book of the Week: The War of Art by Steven Pressfield"
 date: "2026-03-08"
-excerpt: "Steven Pressfield's cult classic names the invisible force that keeps you from doing your best work: Resistance. Here's why this short book has become required reading for creators, athletes, and anyone trying to build something meaningful."
+excerpt: "Steven Pressfield's cult classic names the invisible force that keeps you from doing your best work: Resistance. Here's why this short book has become required reading for…"
 category: "Books"
+coverImage: /blog-images/book-war-of-art-steven-pressfield.webp
 ---
-
 Every person who has ever tried to write, create, build, or change their life has met the enemy. They just didn't have a name for it. Steven Pressfield named it. He called it Resistance — and that single act of naming changed how a generation of creators think about their work.
 
 *The War of Art* (2002) is a short book. You can read it in two hours. But its ideas tend to live rent-free in your head for years.

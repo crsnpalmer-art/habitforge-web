@@ -1,11 +1,10 @@
 ---
 title: "Peptide Stacking: How to Combine Peptides for Synergistic Effects"
 date: "2026-03-28"
-excerpt: "Individual peptides target specific pathways — stacking them intelligently can produce synergistic effects for recovery, body composition, and cognitive performance. Here's a framework for doing it right."
+excerpt: "Individual peptides target specific pathways — stacking them intelligently can produce synergistic effects for recovery, body composition, and cognitive performance. Here's a…"
 category: "Peptides"
----
-
-Peptide therapy has moved from the fringes of performance medicine toward the mainstream as research has expanded and clinical interest has grown. Most people encounter individual peptides — BPC-157 for tissue repair, CJC-1295 for growth hormone release, TB-500 for healing — but sophisticated users combine them in stacks, targeting multiple pathways simultaneously for outcomes no single peptide achieves alone.
+coverImage: "/blog-images/peptide-stacking-guide.png"
+---Peptide therapy has moved from the fringes of performance medicine toward the mainstream as research has expanded and clinical interest has grown. Most people encounter individual peptides — BPC-157 for tissue repair, CJC-1295 for growth hormone release, TB-500 for healing — but sophisticated users combine them in stacks, targeting multiple pathways simultaneously for outcomes no single peptide achieves alone.
 
 Stacking requires understanding what each peptide does at a mechanistic level, which pathways they share, and where combining them creates synergy versus redundancy or conflict.
 

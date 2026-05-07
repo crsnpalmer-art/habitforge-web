@@ -3,9 +3,8 @@ title: "Turkesterone and Ecdysterone: What the Science Says About Natural Anabol
 date: "2026-03-21"
 excerpt: "Turkesterone and ecdysterone are generating serious attention as natural muscle-building compounds — here's an honest look at what research actually supports."
 category: "Supplements"
----
-
-Every few years, a "natural anabolic" compound captures the fitness community's attention. Turkesterone and its parent compound ecdysterone (also called 20-hydroxyecdysone or 20E) have earned that spotlight in recent years — and unlike many hyped supplements, the research behind them is more substantive than expected.
+coverImage: "/blog-images/turkesterone-ecdysterone-natural-anabolics.png"
+---Every few years, a "natural anabolic" compound captures the fitness community's attention. Turkesterone and its parent compound ecdysterone (also called 20-hydroxyecdysone or 20E) have earned that spotlight in recent years — and unlike many hyped supplements, the research behind them is more substantive than expected.
 
 That said, the science is still early. Here's an honest breakdown.
 

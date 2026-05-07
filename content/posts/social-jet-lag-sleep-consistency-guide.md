@@ -3,9 +3,8 @@ title: "Social Jet Lag: The Sleep Problem Weekend Catch-Up Can't Fix"
 date: "2026-04-03"
 excerpt: "Sleeping in on weekends feels harmless, but large swings in bedtime and wake time can leave your circadian rhythm out of sync. That's the science behind social jet lag."
 category: "Recovery"
----
-
-Most people understand regular jet lag. You fly across time zones, your internal clock gets confused, and for a few days your brain is operating on the wrong schedule. Social jet lag is the same basic problem, except you create it yourself without ever boarding a plane.
+coverImage: "/blog-images/social-jet-lag-sleep-consistency-guide.png"
+---Most people understand regular jet lag. You fly across time zones, your internal clock gets confused, and for a few days your brain is operating on the wrong schedule. Social jet lag is the same basic problem, except you create it yourself without ever boarding a plane.
 
 Social jet lag happens when your sleep schedule on workdays is very different from your sleep schedule on free days. A common pattern looks like this: waking at 6:30 a.m. Monday through Friday for work, then staying up late and sleeping until 10:00 a.m. on Saturday and Sunday. It feels like recovery, but from the perspective of your circadian system, you are constantly shifting time zones back and forth.
 

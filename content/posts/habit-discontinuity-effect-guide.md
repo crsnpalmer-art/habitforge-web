@@ -3,9 +3,8 @@ title: "The Habit Discontinuity Effect: Why Big Life Changes Can Make New Routin
 date: "2026-04-03"
 excerpt: "Moves, new jobs, breakups, and major schedule changes are disruptive, but they can also be ideal moments to reshape behavior. The habit discontinuity effect explains why."
 category: "Habits"
----
-
-Most advice about habits assumes your life is stable. Same home. Same commute. Same coworkers. Same gym. Same cues.
+coverImage: "/blog-images/habit-discontinuity-effect-guide.png"
+---Most advice about habits assumes your life is stable. Same home. Same commute. Same coworkers. Same gym. Same cues.
 
 But habits are not just behaviors you repeat. They are behaviors tied to context. You drink coffee when you walk into the kitchen. You reach for your phone when you sit on the couch. You snack when the 3:00 PM meeting ends. Over time, the environment starts doing a surprising amount of the behavioral work for you.
 

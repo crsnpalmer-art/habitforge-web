@@ -1,11 +1,10 @@
 ---
 title: "Sleep Debt Is Real — But Can You Actually Pay It Back?"
 date: "2026-03-18"
-excerpt: "You've felt the crash after a sleep-deprived week. But is 'catching up' on the weekend actually helping? Here's what the research says about sleep debt, recovery, and the long-term cost of chronic short sleep."
+excerpt: "You've felt the crash after a sleep-deprived week. But is 'catching up' on the weekend actually helping? Here's what the research says about sleep debt, recovery, and the…"
 category: "Recovery"
----
-
-The concept of sleep debt has become cultural shorthand for the cumulative fatigue of insufficient sleep. Work late all week, crash on the weekend, reset. It's a common operating model. But the science of whether this actually works — and what the long-term cost of chronic sleep restriction really is — is more complicated and more sobering than the "just sleep in Saturday" logic implies.
+coverImage: "/blog-images/sleep-debt-and-recovery-the-science.png"
+---The concept of sleep debt has become cultural shorthand for the cumulative fatigue of insufficient sleep. Work late all week, crash on the weekend, reset. It's a common operating model. But the science of whether this actually works — and what the long-term cost of chronic sleep restriction really is — is more complicated and more sobering than the "just sleep in Saturday" logic implies.
 
 ## What Is Sleep Debt?
 

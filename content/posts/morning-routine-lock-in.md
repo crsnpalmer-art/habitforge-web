@@ -1,11 +1,10 @@
 ---
 category: "Lifestyle"
+coverImage: "/blog-images/morning-routine-lock-in.png"
 title: "How to Lock In: Build a Morning Routine That Actually Works"
 date: "2026-02-26"
-excerpt: "Most morning routines fail because they fight biology instead of working with it. Here's how to engineer your mornings using neuroscience — covering neurochemistry, protocols, and the mental frameworks that separate high performers from everyone else."
----
-
-## The Basics
+excerpt: "Most morning routines fail because they fight biology instead of working with it. Here's how to engineer your mornings using neuroscience — covering neurochemistry, protocols…"
+---## The Basics
 
 | | |
 |---|---|

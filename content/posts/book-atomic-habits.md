@@ -3,8 +3,8 @@ title: "Book of the Week: Atomic Habits by James Clear"
 date: "2026-02-09"
 excerpt: "The definitive guide to building good habits and breaking bad ones. James Clear breaks down the science of behavior change into a practical system anyone can use."
 category: "Books"
+coverImage: /blog-images/book-atomic-habits.webp
 ---
-
 ## The Basics
 
 | | |

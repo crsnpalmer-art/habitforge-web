@@ -3,9 +3,8 @@ title: "Non-Exercise Activity Thermogenesis (NEAT) Explained"
 date: "2026-04-02"
 excerpt: "The underrated calories you burn through daily movement, and why walking, standing, and fidgeting matter more than most people think."
 category: "Lifestyle"
----
-
-When people think about energy burn, they usually imagine workouts. Running. Lifting. Cycling. Maybe a brutal interval session that makes them question every life choice. But a surprisingly large piece of daily energy expenditure comes from something less glamorous: non-exercise activity thermogenesis, or NEAT.
+coverImage: "/blog-images/non-exercise-activity-neat-guide.png"
+---When people think about energy burn, they usually imagine workouts. Running. Lifting. Cycling. Maybe a brutal interval session that makes them question every life choice. But a surprisingly large piece of daily energy expenditure comes from something less glamorous: non-exercise activity thermogenesis, or NEAT.
 
 NEAT is the energy you burn doing everything that is not sleeping, eating, or deliberate exercise. That includes walking to the kitchen, standing while working, doing laundry, taking the stairs, pacing on a phone call, carrying groceries, cleaning the house, and even some forms of fidgeting. It sounds small, but over the course of a day, it adds up.
 

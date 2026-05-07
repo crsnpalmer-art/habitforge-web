@@ -1,10 +1,10 @@
 ---
 title: "Tax-Loss Harvesting: Turning Market Losses into a Tax Advantage"
+coverImage: "/blog-images/tax-loss-harvesting-guide.png"
 date: "2026-04-06"
-excerpt: "Tax-loss harvesting is not market timing. It is a tax-anchored portfolio maintenance strategy that can improve after-tax returns by reducing taxable gains without changing your long-term asset allocation."
+excerpt: "Tax-loss harvesting is not market timing. It is a tax-anchored portfolio maintenance strategy that can improve after-tax returns by reducing taxable gains without changing your…"
 category: "Finance"
 ---
-
 Tax-loss harvesting (TLH) is one of those ideas that sounds complicated because people confuse it with active trading. In practice, it is simpler: when you realize an investment loss and then use that realized loss to offset realized gains, you lower your current tax bill.
 
 This is a mechanical advantage, not a return advantage. The investments can still perform exactly the same after fees. What changes is the tax basis of your account, which improves long-term compounding by keeping more net returns on the inside.

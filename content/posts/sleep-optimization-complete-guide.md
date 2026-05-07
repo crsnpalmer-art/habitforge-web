@@ -3,8 +3,8 @@ title: "Sleep Optimization: The Complete Science-Based Guide"
 date: "2026-02-27"
 excerpt: "Sleep is the most powerful recovery tool you have — and most people are doing it wrong. This guide covers the full stack: architecture, environment, timing, and supplementation."
 category: "Lifestyle"
----
-## The Basics
+coverImage: "/blog-images/sleep-optimization-complete-guide.png"
+---## The Basics
 
 | | |
 |---|---|

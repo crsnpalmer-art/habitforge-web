@@ -3,9 +3,8 @@ title: "Why Habit Tracking Works: The Psychology Behind Streaks and Consistency"
 date: "2025-02-27"
 excerpt: "Tracking habits isn't just record-keeping — it's a behavior change tool. Here's the psychology behind why it works."
 category: "Habits"
----
-
-## The Basics
+coverImage: "/blog-images/habit-tracking-why-it-works.png"
+---## The Basics
 
 | | |
 |---|---|

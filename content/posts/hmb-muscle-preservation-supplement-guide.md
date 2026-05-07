@@ -3,9 +3,8 @@ title: "HMB: The Muscle Preservation Supplement Backed by Decades of Research"
 date: "2026-03-24"
 excerpt: "Beta-hydroxy beta-methylbutyrate (HMB) reduces muscle breakdown during intense training and caloric deficits — here's what the research shows and who benefits most."
 category: "Supplements"
----
-
-Building muscle requires two processes working in tandem: muscle protein synthesis (building new tissue) and minimizing muscle protein breakdown. Most supplements target the first — creatine, leucine, beta-alanine all support synthesis or performance. Far fewer have meaningful evidence for reducing the second. HMB is one of the exceptions.
+coverImage: "/blog-images/hmb-muscle-preservation-supplement-guide.png"
+---Building muscle requires two processes working in tandem: muscle protein synthesis (building new tissue) and minimizing muscle protein breakdown. Most supplements target the first — creatine, leucine, beta-alanine all support synthesis or performance. Far fewer have meaningful evidence for reducing the second. HMB is one of the exceptions.
 
 ## What Is HMB?
 

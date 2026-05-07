@@ -1,11 +1,10 @@
 ---
 title: "Self-Determination Theory: The Motivation Science Behind Habits That Last"
 date: "2026-04-03"
-excerpt: "Motivation lasts longer when habits feel chosen, doable, and connected to real life. Self-determination theory explains why autonomy, competence, and connection matter more than hype."
+excerpt: "Motivation lasts longer when habits feel chosen, doable, and connected to real life. Self-determination theory explains why autonomy, competence, and connection matter more…"
 category: "Habits"
----
-
-Most habit advice is obsessed with discipline. Grind harder. Want it more. Stop making excuses. It is decent material if your goal is to sound tough on the internet, but it does not explain why some routines stick for years while others die by Thursday. Self-determination theory does a much better job.
+coverImage: "/blog-images/self-determination-theory-habits-guide.png"
+---Most habit advice is obsessed with discipline. Grind harder. Want it more. Stop making excuses. It is decent material if your goal is to sound tough on the internet, but it does not explain why some routines stick for years while others die by Thursday. Self-determination theory does a much better job.
 
 Developed by psychologists Edward Deci and Richard Ryan, self-determination theory argues that humans are more likely to sustain behavior when three core psychological needs are supported: autonomy, competence, and relatedness. In plain English, habits last better when they feel chosen, when you feel capable of doing them, and when they connect to people or values that matter.
 

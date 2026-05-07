@@ -3,9 +3,8 @@ title: "Shilajit: The Ancient Mineral Resin Backed by Modern Science"
 date: "2026-03-20"
 excerpt: "Shilajit is one of the most nutrient-dense substances in Ayurvedic medicine — and modern research is starting to explain why it works."
 category: "Supplements"
----
-
-Few supplements bridge ancient tradition and modern science as seamlessly as shilajit. Used for thousands of years in Ayurvedic medicine, this tar-like resin oozes from high-altitude mountain rocks — primarily in the Himalayas, Altai, and Caucasus ranges — as organic plant matter decompresses over centuries. What emerges is one of the most nutrient-dense substances on earth.
+coverImage: "/blog-images/shilajit-mineral-pitch-guide.png"
+---Few supplements bridge ancient tradition and modern science as seamlessly as shilajit. Used for thousands of years in Ayurvedic medicine, this tar-like resin oozes from high-altitude mountain rocks — primarily in the Himalayas, Altai, and Caucasus ranges — as organic plant matter decompresses over centuries. What emerges is one of the most nutrient-dense substances on earth.
 
 ## What Is Shilajit?
 

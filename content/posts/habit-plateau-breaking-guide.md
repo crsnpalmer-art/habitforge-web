@@ -1,11 +1,10 @@
 ---
 title: "Why Your Habits Stop Working — and How to Break Through Plateaus"
 date: "2026-03-30"
-excerpt: "Habit formation research identifies predictable stall points where routines lose their grip. Understanding why habits plateau — and the specific mechanisms to restart them — beats white-knuckling your way through."
+excerpt: "Habit formation research identifies predictable stall points where routines lose their grip. Understanding why habits plateau — and the specific mechanisms to restart them —…"
 category: "Habits"
----
-
-Building a new habit feels like progress until it doesn't. There's the honeymoon phase — the first week when novelty and motivation carry you through. Then the slog — where novelty fades but the behavior isn't yet automatic. Then, for many people, the plateau — the behavior simply stops happening, not because of a dramatic failure but a quiet drift. You meant to go, you just didn't.
+coverImage: "/blog-images/habit-plateau-breaking-guide.png"
+---Building a new habit feels like progress until it doesn't. There's the honeymoon phase — the first week when novelty and motivation carry you through. Then the slog — where novelty fades but the behavior isn't yet automatic. Then, for many people, the plateau — the behavior simply stops happening, not because of a dramatic failure but a quiet drift. You meant to go, you just didn't.
 
 Habit plateaus are predictable and well-studied. Understanding the mechanisms behind them leads to targeted interventions — not generic "get motivated" advice, but specific design changes that address the actual failure mode.
 

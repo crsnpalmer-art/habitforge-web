@@ -1,10 +1,10 @@
 ---
 category: "Supplements"
+coverImage: "/blog-images/seed-pm-sleep-restore.png"
 title: "PM Sleep and Restore: How to Actually Optimize Your Sleep with Supplements"
 date: "2025-02-26"
-excerpt: "Sleep is your most powerful recovery tool — and the right supplements can meaningfully improve the depth and quality of your rest. Here's what the evidence says about the best PM formula ingredients and how to use them."
----
-## The Basics
+excerpt: "Sleep is your most powerful recovery tool — and the right supplements can meaningfully improve the depth and quality of your rest. Here's what the evidence says about the best…"
+---## The Basics
 
 | | |
 |---|---|

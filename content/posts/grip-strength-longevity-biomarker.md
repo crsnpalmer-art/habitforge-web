@@ -3,9 +3,8 @@ title: "Grip Strength: The Simple Test That Predicts How Long You'll Live"
 date: "2026-03-12"
 excerpt: "Grip strength is one of the most powerful predictors of all-cause mortality, cognitive decline, and cardiovascular disease. Here's why it matters and how to improve it."
 category: "Lifestyle"
----
-
-If you had to pick one physical measurement to predict your risk of dying in the next decade — not your blood pressure, not your cholesterol, not even your VO2 max — the evidence increasingly points to grip strength. It sounds almost absurdly simple. But the research behind it is remarkably consistent and has accumulated across dozens of studies and hundreds of thousands of participants.
+coverImage: "/blog-images/grip-strength-longevity-biomarker.png"
+---If you had to pick one physical measurement to predict your risk of dying in the next decade — not your blood pressure, not your cholesterol, not even your VO2 max — the evidence increasingly points to grip strength. It sounds almost absurdly simple. But the research behind it is remarkably consistent and has accumulated across dozens of studies and hundreds of thousands of participants.
 
 ## What the Research Says
 

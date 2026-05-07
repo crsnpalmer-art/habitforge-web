@@ -1,10 +1,10 @@
 ---
 title: "Citrulline: The Nitric Oxide Booster That Outperforms Arginine"
 date: "2026-03-23"
-excerpt: "Citrulline is one of the most effective pre-workout supplements for endurance, muscle pumps, and cardiovascular health — and it works better than the amino acid it was originally meant to replace."
+excerpt: "Citrulline is one of the most effective pre-workout supplements for endurance, muscle pumps, and cardiovascular health — and it works better than the amino acid it was…"
 category: "Supplements"
+coverImage: /blog-images/citrulline-nitric-oxide-performance-guide.webp
 ---
-
 For years, arginine was the go-to supplement for boosting nitric oxide (NO) — the signaling molecule that dilates blood vessels, improves blood flow, and enhances exercise performance. There was just one problem: oral arginine is poorly absorbed and rapidly degraded by intestinal and liver enzymes before it reaches circulation. Enter citrulline — the amino acid that does what arginine promised, and does it better.
 
 ## What Is Citrulline?

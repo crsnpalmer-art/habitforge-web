@@ -3,8 +3,8 @@ title: "Creatine: The Most Researched Supplement You're Probably Not Taking"
 date: "2025-03-01"
 excerpt: "Creatine is backed by decades of research and has benefits that extend well beyond athletic performance. Here's what you need to know."
 category: "Supplements"
+coverImage: /blog-images/creatine-guide.webp
 ---
-
 ## The Basics
 
 | | |

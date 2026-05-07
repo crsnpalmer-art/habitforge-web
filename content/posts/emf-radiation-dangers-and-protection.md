@@ -1,10 +1,10 @@
 ---
 category: "Lifestyle"
+coverImage: /blog-images/emf-radiation-dangers-and-protection.webp
 title: "EMFs and Your Health: What the Science Actually Says"
 date: "2025-02-26"
 excerpt: "EMF concerns range from well-founded to wildly overblown. Here's how to cut through the noise with actual science — and which precautions are genuinely worth taking."
 ---
-
 ## The Basics
 
 | | |

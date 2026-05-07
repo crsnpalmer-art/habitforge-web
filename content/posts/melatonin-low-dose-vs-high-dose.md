@@ -3,9 +3,8 @@ title: "Melatonin: Why Less Is More (Low Dose vs. High Dose)"
 date: "2026-03-04"
 excerpt: "Most melatonin supplements contain 10x the dose your body naturally produces. Here's the science on why lower doses work better — and how to use melatonin correctly."
 category: "Supplements"
----
-
-## The Basics
+coverImage: "/blog-images/melatonin-low-dose-vs-high-dose.png"
+---## The Basics
 
 | | |
 |---|---|

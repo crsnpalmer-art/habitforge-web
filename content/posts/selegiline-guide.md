@@ -1,10 +1,10 @@
 ---
 title: "Selegiline: The Longevity Drug That Also Boosts Dopamine and Focus"
 date: "2025-02-26"
-excerpt: "Selegiline is a selective MAO-B inhibitor used for Parkinson's disease — but it's quietly gained attention in longevity and nootropic circles for its dopamine-preserving and neuroprotective effects."
+excerpt: "Selegiline is a selective MAO-B inhibitor used for Parkinson's disease — but it's quietly gained attention in longevity and nootropic circles for its dopamine-preserving and…"
 category: "Peptides"
----
-## The Basics
+coverImage: "/blog-images/selegiline-guide.png"
+---## The Basics
 
 | | |
 |---|---|
@@ -124,4 +124,3 @@ Joe Rogan has discussed selegiline and deprenyl in conversations about cognitive
 3. FDA. "ELDEPRYL (selegiline hydrochloride) prescribing information." https://www.accessdata.fda.gov/drugsatfda_docs/label/2008/019334s024lbl.pdf
 
 ## Where to Buy / Find This
-

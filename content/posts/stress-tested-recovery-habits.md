@@ -1,10 +1,10 @@
 ---
 title: "Consistency Under Stress: Build Recovery as a Non-Negotiable Habit"
+coverImage: "/blog-images/stress-tested-recovery-habits.png"
 date: "2026-04-06"
 excerpt: "Training harder is pointless without a recovery system that works when your stress is highest and your attention is lowest."
 category: "Recovery"
 ---
-
 You probably track effort more than recovery, because effort is visible and easy to celebrate.
 
 You check the scale, you log miles, you mark sets. Recovery is invisible. You can’t see cortisol dropping in real time. You can’t instantly feel your fascia healing. So people push and push, then wonder why they stall, get sore, lose sleep, and spiral into excuses.

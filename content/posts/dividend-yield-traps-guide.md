@@ -1,10 +1,10 @@
 ---
 title: "Dividend Yield Traps: Why High-Yield Stocks Can Hurt Long-Term Returns"
+coverImage: "/blog-images/dividend-yield-traps-guide.png"
 date: "2026-04-06"
-excerpt: "A high dividend yield can look safe, but in many cases it signals underlying risk. This guide explains how to separate sustainable yield from value traps before compounding gets derailed."
+excerpt: "A high dividend yield can look safe, but in many cases it signals underlying risk. This guide explains how to separate sustainable yield from value traps before compounding…"
 category: "Finance"
 ---
-
 Dividend investing is often sold as a lower-volatility path to wealth: get paid to wait, reinvest, and let compounding do the heavy lifting. The problem is that investors often treat yield as a one-dimensional signal. In reality, yield is a ratio of price and payout, so both numerator and denominator can lie.
 
 A stock can have a 12% yield because it is genuinely cash-flow rich and conservatively managed. It can also have a 12% yield because the price has fallen so sharply that the market now expects a cut. Same headline number, completely different underlying quality.

@@ -3,8 +3,8 @@ title: "Zone 2 Cardio: The Most Underrated Tool for Longevity and Performance"
 date: "2026-02-27"
 excerpt: "Zone 2 training is slow, unglamorous, and one of the most powerful things you can do for your long-term health. Here's the science and how to implement it."
 category: "Recovery"
----
-## The Basics
+coverImage: "/blog-images/zone-2-cardio-longevity.png"
+---## The Basics
 
 | | |
 |---|---|

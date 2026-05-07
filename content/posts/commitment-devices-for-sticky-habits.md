@@ -1,10 +1,10 @@
 ---
 title: "Commitment Devices: The Science of Habits That Run Without Motivation"
+coverImage: "/blog-images/commitment-devices-for-sticky-habits.png"
 date: "2026-04-06"
-excerpt: "Motivation flickers, but systems hold. Commitment devices use friction, defaults, and social accountability to make good behavior easier than bad behavior at the exact moment you least feel like trying."
+excerpt: "Motivation flickers, but systems hold. Commitment devices use friction, defaults, and social accountability to make good behavior easier than bad behavior at the exact moment…"
 category: "Habits"
 ---
-
 A lot of habit advice says, *try harder*. The science suggests the opposite: design behavior so trying harder is rarely needed.
 
 Most habits fail not because people are lazy, but because they are solving the wrong problem in real time. In stressful moments, the brain favors immediate relief. A commitment device shifts that calculation ahead of time, before fatigue, stress, and distraction take the wheel.

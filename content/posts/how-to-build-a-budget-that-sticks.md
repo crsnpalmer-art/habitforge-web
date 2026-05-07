@@ -3,9 +3,8 @@ title: "How to Build a Budget That Actually Sticks"
 date: "2026-03-09"
 excerpt: "Most budgets fail within a month. The problem isn't math — it's design. Here's how to build a budget that works with your psychology, not against it."
 category: "Finance"
----
-
-The statistics on budgeting are discouraging: surveys consistently show that the majority of people who create a budget abandon it within the first few months. And yet nearly everyone agrees that budgeting is foundational to financial health. So what's the disconnect?
+coverImage: "/blog-images/how-to-build-a-budget-that-sticks.png"
+---The statistics on budgeting are discouraging: surveys consistently show that the majority of people who create a budget abandon it within the first few months. And yet nearly everyone agrees that budgeting is foundational to financial health. So what's the disconnect?
 
 The answer isn't willpower or discipline. It's design. Most budgets fail because they're built on the wrong principles — rigid categories, unrealistic targets, and a setup that requires constant vigilance to maintain. A budget that actually sticks is built differently.
 

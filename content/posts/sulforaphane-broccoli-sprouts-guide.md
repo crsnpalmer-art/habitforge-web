@@ -3,9 +3,8 @@ title: "Sulforaphane: Why Broccoli Sprouts Are the Most Potent Food on the Plane
 date: "2026-03-16"
 excerpt: "Sulforaphane activates your body's own detox and antioxidant machinery through a process called Nrf2 activation. Here's why it outperforms most supplements on the market."
 category: "Supplements"
----
-
-If you could eat one food specifically to reduce cancer risk, support brain health, detox heavy metals, and reduce inflammation — all backed by over 3,000 published studies — would you? That food exists, and it's called broccoli sprouts. The active compound is sulforaphane, and the science behind it is genuinely impressive.
+coverImage: "/blog-images/sulforaphane-broccoli-sprouts-guide.png"
+---If you could eat one food specifically to reduce cancer risk, support brain health, detox heavy metals, and reduce inflammation — all backed by over 3,000 published studies — would you? That food exists, and it's called broccoli sprouts. The active compound is sulforaphane, and the science behind it is genuinely impressive.
 
 ## What Is Sulforaphane?
 

@@ -1,10 +1,10 @@
 ---
 title: "Book of the Week: Effortless by Greg McKeown"
 date: "2026-03-19"
-excerpt: "The follow-up to Essentialism tackles a question most productivity books ignore: once you know what matters, why does it still feel so hard? McKeown's answer will change how you work."
+excerpt: "The follow-up to Essentialism tackles a question most productivity books ignore: once you know what matters, why does it still feel so hard? McKeown's answer will change how…"
 category: "Books"
+coverImage: /blog-images/book-essentialism-greg-mckeown-2.webp
 ---
-
 *Essentialism* taught us to eliminate the non-essential. *Effortless*, published in 2021, asks a harder question: why does even the essential still feel like a grind?
 
 Greg McKeown spent years after *Essentialism* hearing a version of the same complaint: "I know what's important, I've cut out the noise — but it still feels exhausting." His answer, developed over years of research and refined through interviews with high performers and careful study of those who seem to achieve a lot with less friction, is the premise of *Effortless*: important things don't have to be hard.

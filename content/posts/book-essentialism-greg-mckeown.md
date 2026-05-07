@@ -3,8 +3,8 @@ title: "Book of the Week: Essentialism by Greg McKeown"
 date: "2026-03-11"
 excerpt: "Greg McKeown's Essentialism makes a radical case: doing less is the path to doing more. Here's why this book might be the most important productivity read of the decade."
 category: "Books"
+coverImage: /blog-images/book-essentialism-greg-mckeown.webp
 ---
-
 In a world that rewards busyness and glorifies hustle, Greg McKeown wrote a book that says: stop. *Essentialism: The Disciplined Pursuit of Less* isn't a productivity hack — it's a philosophical reorientation. Published in 2014, it has only grown more relevant as attention has become the scarcest resource on earth.
 
 ## The Core Thesis

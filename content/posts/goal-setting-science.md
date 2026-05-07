@@ -3,9 +3,8 @@ title: "The Science of Goal Setting: What Actually Works (And What Doesn't)"
 date: "2025-02-27"
 excerpt: "Decades of research on goal-setting reveal a clear picture of what separates people who achieve from people who intend."
 category: "Habits"
----
-
-## The Basics
+coverImage: "/blog-images/goal-setting-science.png"
+---## The Basics
 
 | | |
 |---|---|

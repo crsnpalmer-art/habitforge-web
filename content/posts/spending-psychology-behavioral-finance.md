@@ -3,9 +3,8 @@ title: "Spending Psychology: Why You Spend More Than You Plan To"
 date: "2026-03-28"
 excerpt: "Behavioral economics has identified the systematic cognitive biases that drive overspending. Understanding them is the first step to building financial habits that actually stick."
 category: "Finance"
----
-
-Personal finance advice typically treats overspending as a discipline problem — spend less, save more, track your budget. The implicit assumption is that people know what they're doing and simply choose poorly. Behavioral economics tells a different story: spending decisions are systematically distorted by predictable cognitive biases that operate largely below conscious awareness. Understanding these biases doesn't make them disappear, but it does enable the design of financial environments and habits that work with human psychology rather than against it.
+coverImage: "/blog-images/spending-psychology-behavioral-finance.png"
+---Personal finance advice typically treats overspending as a discipline problem — spend less, save more, track your budget. The implicit assumption is that people know what they're doing and simply choose poorly. Behavioral economics tells a different story: spending decisions are systematically distorted by predictable cognitive biases that operate largely below conscious awareness. Understanding these biases doesn't make them disappear, but it does enable the design of financial environments and habits that work with human psychology rather than against it.
 
 ## The Pain of Paying
 

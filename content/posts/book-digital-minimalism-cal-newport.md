@@ -1,10 +1,10 @@
 ---
 title: "Book of the Week: Digital Minimalism by Cal Newport"
 date: "2026-03-31"
-excerpt: "Cal Newport's follow-up to Deep Work argues that the problem isn't how we use technology — it's that we've never actually chosen how to use it. Digital Minimalism is the philosophy and process for making that choice deliberately."
+excerpt: "Cal Newport's follow-up to Deep Work argues that the problem isn't how we use technology — it's that we've never actually chosen how to use it. Digital Minimalism is the…"
 category: "Books"
+coverImage: /blog-images/book-digital-minimalism-cal-newport.webp
 ---
-
 Cal Newport's *Deep Work* (2016) made the case for focused, distraction-free work as the key to producing high-value output in the modern economy. *Digital Minimalism* (2019) is a companion and expansion that addresses the upstream problem: why distraction is so hard to control, and what a genuinely considered relationship with technology would look like.
 
 Where Deep Work was primarily about how to work better, Digital Minimalism is a philosophy of life — about how to spend attention deliberately across all waking hours, not just work hours.

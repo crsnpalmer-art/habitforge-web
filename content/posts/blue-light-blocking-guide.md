@@ -3,8 +3,8 @@ title: "Blue Light Blocking: What Actually Works and What Doesn't"
 date: "2026-03-04"
 excerpt: "Blue light blocking glasses are everywhere, but the science is more nuanced than the marketing. Here's what the research says about blue light, sleep, and eye health."
 category: "Recovery"
+coverImage: /blog-images/blue-light-blocking-guide.webp
 ---
-
 ## The Basics
 
 | | |

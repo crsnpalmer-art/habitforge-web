@@ -1,10 +1,10 @@
 ---
 title: "The Science of Environment Design for Better Habits"
+coverImage: "/blog-images/habit-architecture-environment-design.png"
 date: "2026-04-04"
 excerpt: "How changing your environment beats relying on willpower, with research from behavioral science."
 category: "Habits"
 ---
-
 Most people treat habit change like a motivation problem. It usually isn’t. It’s an architecture problem.
 
 Behavioral science keeps landing on the same annoying truth: we do not make decisions in a vacuum. We respond to cues, friction, defaults, and whatever is directly in front of our face. If your environment is built for distraction, convenience eating, and procrastination, your “discipline” has to fight uphill all day. That is a stupid way to live.

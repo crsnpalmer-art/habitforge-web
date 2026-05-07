@@ -1,11 +1,10 @@
 ---
 title: "Selank: The Russian Anti-Anxiety Peptide That Sharpens Your Mind"
 date: "2026-03-08"
-excerpt: "Selank is a synthetic heptapeptide developed in Russia with well-documented anxiolytic and nootropic effects. Unlike benzodiazepines, it calms without sedation or dependence — and may actually improve cognitive function."
+excerpt: "Selank is a synthetic heptapeptide developed in Russia with well-documented anxiolytic and nootropic effects. Unlike benzodiazepines, it calms without sedation or dependence —…"
 category: "Peptides"
----
-
-Anxiety and cognitive performance are usually treated as separate problems with separate solutions: therapy and SSRIs for one, nootropics and stimulants for the other. Selank challenges that assumption. Originally developed by the Institute of Molecular Genetics of the Russian Academy of Sciences, this synthetic peptide has been formally approved as an anxiolytic medication in Russia and Ukraine — while simultaneously earning a reputation as a nootropic.
+coverImage: "/blog-images/selank-nootropic-peptide-guide.png"
+---Anxiety and cognitive performance are usually treated as separate problems with separate solutions: therapy and SSRIs for one, nootropics and stimulants for the other. Selank challenges that assumption. Originally developed by the Institute of Molecular Genetics of the Russian Academy of Sciences, this synthetic peptide has been formally approved as an anxiolytic medication in Russia and Ukraine — while simultaneously earning a reputation as a nootropic.
 
 ## What Is Selank?
 

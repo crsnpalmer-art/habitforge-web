@@ -3,8 +3,8 @@ title: "Tongkat Ali: The Evidence-Backed Testosterone Booster From Southeast Asi
 date: "2026-03-02"
 excerpt: "Tongkat Ali has centuries of traditional use and a growing body of clinical evidence. Here's what it can and can't do for testosterone, stress, and performance."
 category: "Supplements"
----
-## The Basics
+coverImage: "/blog-images/tongkat-ali-testosterone-guide.png"
+---## The Basics
 
 | | |
 |---|---|

@@ -3,8 +3,8 @@ title: "Credit Score Optimization: A Practical Guide to Reaching 750+"
 date: "2026-03-02"
 excerpt: "Your credit score affects your mortgage rate, car loan, insurance premiums, and even job applications. Here's exactly how the scoring system works and how to optimize it."
 category: "Finance"
+coverImage: /blog-images/credit-score-optimization-guide.webp
 ---
-
 ## The Basics
 
 | | |

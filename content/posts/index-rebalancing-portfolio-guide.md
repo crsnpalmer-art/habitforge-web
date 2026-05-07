@@ -3,9 +3,8 @@ title: "Portfolio Rebalancing: The Discipline That Protects Your Wealth"
 date: "2026-03-16"
 excerpt: "Rebalancing is the unsexy act of selling winners and buying laggards. It sounds counterintuitive — and it's one of the most evidence-backed practices in long-term investing."
 category: "Finance"
----
-
-## Why Your Portfolio Drifts
+coverImage: "/blog-images/index-rebalancing-portfolio-guide.png"
+---## Why Your Portfolio Drifts
 
 You build a thoughtful asset allocation: 70% stocks, 20% bonds, 10% alternatives. Then markets move. After a strong equity bull run, stocks might represent 85% of your portfolio. After a correction, bonds might balloon to 35%. The allocation you designed based on your goals, timeline, and risk tolerance no longer reflects your actual position.
 

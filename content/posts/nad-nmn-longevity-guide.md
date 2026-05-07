@@ -3,9 +3,8 @@ title: "NAD+ and NMN: The Science Behind the Longevity Molecule"
 date: "2026-02-27"
 excerpt: "NAD+ is one of the most important molecules in the body — and it declines sharply with age. Here's what NMN supplementation actually does and whether it's worth taking."
 category: "Supplements"
----
-
-## The Basics
+coverImage: "/blog-images/nad-nmn-longevity-guide.png"
+---## The Basics
 
 | | |
 |---|---|

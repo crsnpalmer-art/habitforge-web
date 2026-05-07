@@ -3,8 +3,8 @@ title: "Breathwork Protocols: How to Use Your Breath to Regulate Energy, Stress,
 date: "2026-03-11"
 excerpt: "Your breath is the only autonomic function you can consciously control — and that makes it a direct dial on your nervous system. Here are the protocols that actually work."
 category: "Recovery"
+coverImage: /blog-images/breathwork-protocols-guide.webp
 ---
-
 Most people treat breathing as background noise — something the body handles automatically while they think about more important things. But breath is the only autonomic nervous system function you have conscious control over. That makes it unique: a direct, always-available interface with your physiology that doesn't require any equipment, subscription, or special conditions.
 
 The science on breathwork has exploded in the last decade. These aren't woo-woo techniques. They're mechanical interventions with measurable effects on heart rate variability, cortisol levels, blood oxygen dynamics, and sleep quality.

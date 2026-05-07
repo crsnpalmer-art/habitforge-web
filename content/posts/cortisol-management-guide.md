@@ -1,11 +1,11 @@
 ---
 title: "Cortisol: The Stress Hormone Sabotaging Your Health (And How to Fix It)"
 date: "2026-03-13"
-excerpt: "Cortisol is essential for survival — but chronically elevated levels wreck your sleep, metabolism, muscle, and immune system. Here's what the science says about getting it under control."
+excerpt: "Cortisol is essential for survival — but chronically elevated levels wreck your sleep, metabolism, muscle, and immune system. Here's what the science says about getting it…"
 category: "Lifestyle"
+coverImage: /blog-images/cortisol-management-guide.webp
 ---
-
-# Cortisol: The Stress Hormone Sabotaging Your Health (And How to Fix It)
+## Cortisol: The Stress Hormone Sabotaging Your Health (And How to Fix It)
 
 Cortisol gets a bad reputation, and mostly for good reason. This hormone — secreted by the adrenal glands in response to stress — is essential for survival. It mobilizes energy, sharpens focus, and keeps inflammation in check. But in the modern world, where stressors are chronic and unrelenting, cortisol stops being a helpful emergency signal and starts becoming a slow-burning source of systemic damage.
 

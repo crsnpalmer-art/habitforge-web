@@ -1,11 +1,10 @@
 ---
 title: "Mobility vs. Flexibility: The Science of Moving Well for Life"
 date: "2026-03-26"
-excerpt: "Flexibility and mobility are not the same thing — and training the wrong one for your goals is one of the most common mistakes in movement practice. Here's what the research actually supports."
+excerpt: "Flexibility and mobility are not the same thing — and training the wrong one for your goals is one of the most common mistakes in movement practice. Here's what the research…"
 category: "Recovery"
----
-
-Most people use "flexibility" and "mobility" interchangeably. They're related but distinct, and the difference matters significantly for training outcomes, injury prevention, and long-term movement quality. Understanding the distinction — and the mechanisms behind each — changes how you train and what you prioritize at different life stages.
+coverImage: "/blog-images/mobility-flexibility-science-guide.png"
+---Most people use "flexibility" and "mobility" interchangeably. They're related but distinct, and the difference matters significantly for training outcomes, injury prevention, and long-term movement quality. Understanding the distinction — and the mechanisms behind each — changes how you train and what you prioritize at different life stages.
 
 ## Defining the Terms
 

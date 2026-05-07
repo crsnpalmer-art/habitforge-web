@@ -1,10 +1,10 @@
 ---
 title: "Book of the Week: Deep Work by Cal Newport"
 date: "2026-02-16"
-excerpt: "Cal Newport's Deep Work makes a compelling case that focused, distraction-free concentration is the most valuable skill in the modern economy — and that most people are systematically destroying their ability to do it."
+excerpt: "Cal Newport's Deep Work makes a compelling case that focused, distraction-free concentration is the most valuable skill in the modern economy — and that most people are…"
 category: "Books"
+coverImage: /blog-images/book-deep-work-cal-newport.webp
 ---
-
 ## The Basics
 
 | | |

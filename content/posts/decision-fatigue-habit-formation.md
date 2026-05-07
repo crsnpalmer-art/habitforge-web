@@ -1,10 +1,10 @@
 ---
 title: "Decision Fatigue Is the Quiet Habit Killer"
+coverImage: "/blog-images/decision-fatigue-habit-formation.png"
 date: "2026-04-06"
 excerpt: "Willpower feels like the bottleneck, but the real limiter is usually the number of decisions you make before your next habit is due."
 category: "Habits"
 ---
-
 Most days, habits don’t fail because you hate your goals. They fail because your brain is running a budget it didn’t realize existed.
 
 You can be completely committed to a new routine — training, reading, studying, or saving money — and still miss it by 3 p.m. after five tiny choices and a stressful meeting. That pattern is decision fatigue, and it quietly sabotages consistency more than motivation does.

@@ -1,10 +1,10 @@
 ---
 title: "The Science of Subscription Creep and How to Stop Money Leaks"
+coverImage: "/blog-images/subscription-creep-budgeting-system.png"
 date: "2026-04-06"
-excerpt: "Most households do not overpay because of one bad purchase, but because small recurring subscriptions quietly erode savings. Here is a behaviorally sound way to audit and reduce them."
+excerpt: "Most households do not overpay because of one bad purchase, but because small recurring subscriptions quietly erode savings. Here is a behaviorally sound way to audit and…"
 category: "Finance"
 ---
-
 Subscriptions are the money-leak equivalent of sugar in a modern diet: small, frequent, and mostly automatic. A single forgotten subscription may be harmless, but ten forgotten subscriptions can quietly replace your emergency savings growth.
 
 Why this happens is surprisingly predictable.

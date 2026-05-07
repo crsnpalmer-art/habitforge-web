@@ -3,9 +3,8 @@ title: "MK-677 (Ibutamoren): The Growth Hormone Secretagogue Explained"
 date: "2026-03-07"
 excerpt: "MK-677 mimics ghrelin to stimulate natural growth hormone release without injections. Here's what the science actually says about its effects on muscle, sleep, and aging."
 category: "Peptides"
----
-
-MK-677, also known as ibutamoren, sits in a unique category in the performance and longevity space. It's not a peptide in the strict biochemical sense — it's a small molecule **growth hormone secretagogue** that mimics the hormone ghrelin and binds to the ghrelin receptor in the brain. The result is a potent, sustained pulse of growth hormone and IGF-1 — without needles.
+coverImage: "/blog-images/mk-677-ibutamoren-guide.png"
+---MK-677, also known as ibutamoren, sits in a unique category in the performance and longevity space. It's not a peptide in the strict biochemical sense — it's a small molecule **growth hormone secretagogue** that mimics the hormone ghrelin and binds to the ghrelin receptor in the brain. The result is a potent, sustained pulse of growth hormone and IGF-1 — without needles.
 
 Originally developed by Merck in the 1990s to treat conditions like muscle wasting, osteoporosis, and growth hormone deficiency, MK-677 has since found a significant following among athletes, biohackers, and longevity researchers. Here's an objective look at what the science actually shows.
 

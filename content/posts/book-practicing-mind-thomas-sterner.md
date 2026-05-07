@@ -3,8 +3,8 @@ title: "Book of the Week: The Practicing Mind by Thomas M. Sterner"
 date: "2026-03-28"
 excerpt: "Thomas Sterner's compact masterpiece reframes the entire experience of learning and practice — arguing that the process itself, not the goal, is where life is actually lived."
 category: "Books"
+coverImage: /blog-images/book-practicing-mind-thomas-sterner.webp
 ---
-
 Most books about skill development focus on the goal: what to achieve, how to measure progress, how to stay motivated when results are slow. Thomas Sterner's *The Practicing Mind* (2005, expanded 2012) inverts this entirely. Its central argument is that goal-orientation — the compulsive focus on outcomes and destinations — is the primary source of frustration, anxiety, and failure in any learning endeavor. The remedy is not better goal-setting but a fundamental shift in relationship to the process of practice itself.
 
 Sterner spent decades as a professional musician and piano technician before applying the insights he developed through musical practice to a broader theory of skill acquisition, performance, and daily living. The book is short (under 200 pages) and deceptively simple — but its core insight lands with unusual force.

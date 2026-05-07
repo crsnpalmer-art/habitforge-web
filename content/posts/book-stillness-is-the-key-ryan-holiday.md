@@ -1,10 +1,10 @@
 ---
 title: "Book of the Week: Stillness Is the Key by Ryan Holiday"
 date: "2026-04-01"
-excerpt: "Ryan Holiday's third Stoic trilogy entry makes the case that stillness — the capacity to be calm, present, and undistracted — is not a passive state but an active achievement, and the foundation of every kind of excellence."
+excerpt: "Ryan Holiday's third Stoic trilogy entry makes the case that stillness — the capacity to be calm, present, and undistracted — is not a passive state but an active achievement…"
 category: "Books"
+coverImage: /blog-images/book-stillness-is-the-key-ryan-holiday.webp
 ---
-
 Ryan Holiday's Stoic trilogy — *The Obstacle Is the Way*, *Ego Is the Enemy*, and *Stillness Is the Key* (2019) — addresses three distinct enemies of human flourishing: adversity, ego, and restlessness. The third book is in some ways the most personal and the most practically applicable. Where the first two books drew primarily on historical examples of dealing with external challenge and internal arrogance, *Stillness Is the Key* is about the interior condition that makes all other virtues possible.
 
 Holiday's thesis: stillness — a quiet mind, a present body, a simple soul — is not a luxury or a personality trait. It is the precondition for clear thinking, effective action, meaningful relationships, and genuine contentment. And it is increasingly rare, deliberately undermined by a culture designed to keep minds busy, anxious, and distracted.

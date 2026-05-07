@@ -3,9 +3,8 @@ title: "Rhodiola Rosea: The Adaptogen That Fights Fatigue and Stress"
 date: "2026-03-02"
 excerpt: "Rhodiola Rosea is one of the most well-researched adaptogens on the market. Here's what the science actually says about its effects on stress, energy, and cognitive performance."
 category: "Supplements"
----
-
-## The Basics
+coverImage: "/blog-images/rhodiola-rosea-guide.png"
+---## The Basics
 
 | | |
 |---|---|

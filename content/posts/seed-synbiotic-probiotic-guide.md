@@ -1,10 +1,10 @@
 ---
 title: "Synbiotics and Probiotics: How to Actually Support Your Gut Microbiome"
 date: "2025-02-26"
-excerpt: "Your gut is home to 39 trillion bacteria that influence your digestion, immune function, mood, and metabolism. Here's what separates a quality synbiotic from the sea of probiotic supplements that don't survive past your stomach."
----
-
-The gut microbiome has become one of the most researched areas in modern medicine — and for good reason. The trillions of microorganisms living in your digestive tract don't just process food. They produce neurotransmitters, regulate immune function, influence inflammation, and communicate directly with your brain via the gut-brain axis. Supporting your microbiome isn't a wellness trend. It's foundational health maintenance.
+excerpt: "Your gut is home to 39 trillion bacteria that influence your digestion, immune function, mood, and metabolism. Here's what separates a quality synbiotic from the sea of…"
+category: Supplements
+coverImage: "/blog-images/seed-synbiotic-probiotic-guide.png"
+---The gut microbiome has become one of the most researched areas in modern medicine — and for good reason. The trillions of microorganisms living in your digestive tract don't just process food. They produce neurotransmitters, regulate immune function, influence inflammation, and communicate directly with your brain via the gut-brain axis. Supporting your microbiome isn't a wellness trend. It's foundational health maintenance.
 
 ## What Is a Synbiotic?
 

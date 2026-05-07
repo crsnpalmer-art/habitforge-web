@@ -3,8 +3,8 @@ title: "Book of the Week: Meditations by Marcus Aurelius"
 date: "2026-03-02"
 excerpt: "Written by a Roman Emperor as private journal entries, Meditations is the most influential Stoic text ever written — and one of the most practically useful books on living well."
 category: "Books"
+coverImage: /blog-images/book-meditations-marcus-aurelius.webp
 ---
-
 ## The Basics
 
 | | |

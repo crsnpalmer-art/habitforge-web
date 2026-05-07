@@ -1,10 +1,10 @@
 ---
 title: "Book of the Week: Endure by Alex Hutchinson"
 date: "2026-03-15"
-excerpt: "What separates athletes who quit from those who don't? Alex Hutchinson's Endure dismantles the old models of physical limits and reveals that the brain — not the body — is the ultimate governor of performance."
+excerpt: "What separates athletes who quit from those who don't? Alex Hutchinson's Endure dismantles the old models of physical limits and reveals that the brain — not the body — is the…"
 category: "Books"
+coverImage: /blog-images/book-endure-alex-hutchinson.webp
 ---
-
 ## The Core Thesis
 
 For most of sports science history, the dominant model of fatigue was mechanical: you run out of fuel, your muscles accumulate too much lactate, your heart can't deliver enough oxygen — and you stop. The body hits a wall and the body is the problem.

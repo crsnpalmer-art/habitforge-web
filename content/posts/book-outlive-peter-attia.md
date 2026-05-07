@@ -3,8 +3,8 @@ title: "Book of the Week: Outlive by Peter Attia"
 date: "2026-03-20"
 excerpt: "Peter Attia's Outlive is the most comprehensive blueprint for longevity medicine available to a general audience — and it might change how you think about health entirely."
 category: "Books"
+coverImage: /blog-images/book-outlive-peter-attia.webp
 ---
-
 Most books about health tell you what to eat or how to exercise. *Outlive: The Science and Art of Longevity* by Peter Attia does something more ambitious: it argues that modern medicine is failing us by focusing almost exclusively on treating disease rather than preventing it — and then lays out a specific, actionable framework for doing better.
 
 ## The Core Thesis

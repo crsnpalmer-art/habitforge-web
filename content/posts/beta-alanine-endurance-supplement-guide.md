@@ -3,8 +3,8 @@ title: "Beta-Alanine: The Endurance Supplement With the Tingling Side Effect"
 date: "2026-03-22"
 excerpt: "Beta-alanine is one of the most research-supported endurance supplements available — here's how it works, who it benefits, and what the tingling actually means."
 category: "Supplements"
+coverImage: /blog-images/beta-alanine-endurance-supplement-guide.webp
 ---
-
 If you've ever taken a pre-workout and felt a strange tingling or prickling sensation across your skin, you've experienced paresthesia — the signature side effect of beta-alanine. It's harmless, temporary, and a good sign that you took an effective dose. But the more important question is whether beta-alanine actually improves performance. The evidence says yes, with meaningful specificity about who benefits most.
 
 ## What Is Beta-Alanine?

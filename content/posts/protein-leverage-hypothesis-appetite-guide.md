@@ -1,11 +1,10 @@
 ---
 title: "The Protein Leverage Hypothesis: Why Low-Protein Diets Can Make You Eat More"
 date: "2026-04-03"
-excerpt: "One theory in nutrition says humans keep eating until protein needs are met. The protein leverage hypothesis helps explain why ultra-processed, low-protein diets can quietly drive overeating."
+excerpt: "One theory in nutrition says humans keep eating until protein needs are met. The protein leverage hypothesis helps explain why ultra-processed, low-protein diets can quietly…"
 category: "Nutrition"
----
-
-A lot of nutrition advice treats hunger like a character flaw. If you are eating too much, the story goes, you just need more discipline. The protein leverage hypothesis offers a more interesting explanation. It suggests that humans have a fairly strong biological drive to get enough protein, and when the diet is diluted with low-protein foods, people may keep eating extra calories in the process.
+coverImage: "/blog-images/protein-leverage-hypothesis-appetite-guide.png"
+---A lot of nutrition advice treats hunger like a character flaw. If you are eating too much, the story goes, you just need more discipline. The protein leverage hypothesis offers a more interesting explanation. It suggests that humans have a fairly strong biological drive to get enough protein, and when the diet is diluted with low-protein foods, people may keep eating extra calories in the process.
 
 The basic idea is simple. Protein is essential for building and repairing tissue, making enzymes and hormones, supporting immune function, and preserving muscle mass. Unlike some nutrients, your body cannot just shrug and decide it no longer matters. If meals are low in protein, appetite may stay elevated longer, and total calorie intake can rise before protein needs feel satisfied.
 

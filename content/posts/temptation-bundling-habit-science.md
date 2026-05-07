@@ -3,9 +3,8 @@ title: "Temptation Bundling: The Habit Trick That Actually Works"
 date: "2026-03-26"
 excerpt: "Temptation bundling pairs behaviors you want to do with behaviors you need to do — creating a powerful motivational strategy backed by behavioral economics research."
 category: "Habits"
----
-
-Most habit advice focuses on willpower, discipline, and motivation — internal resources that are finite and unreliable. Temptation bundling takes a different approach: instead of trying to make yourself want to do hard things, it pairs hard things with things you genuinely enjoy, creating a behavioral package that's easier to start and sustain.
+coverImage: "/blog-images/temptation-bundling-habit-science.png"
+---Most habit advice focuses on willpower, discipline, and motivation — internal resources that are finite and unreliable. Temptation bundling takes a different approach: instead of trying to make yourself want to do hard things, it pairs hard things with things you genuinely enjoy, creating a behavioral package that's easier to start and sustain.
 
 The concept was formally studied and named by behavioral economist Katherine Milkman at the Wharton School, but the underlying logic is ancient — pair a cost with a benefit, and the combined package becomes more attractive than the cost alone.
 

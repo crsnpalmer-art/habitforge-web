@@ -3,8 +3,8 @@ title: "Book of the Week: Dopamine Nation by Dr. Anna Lembke"
 date: "2026-02-02"
 excerpt: "Stanford psychiatrist Dr. Anna Lembke explores our pleasure-pain balance and how modern overconsumption is rewiring our brains — and what to do about it."
 category: "Books"
+coverImage: /blog-images/book-dopamine-nation.webp
 ---
-
 ## The Basics
 
 | | |

@@ -3,9 +3,8 @@ title: "NAC (N-Acetyl Cysteine): The Master Antioxidant Hiding in Plain Sight"
 date: "2026-03-16"
 excerpt: "NAC replenishes glutathione, supports liver detox, clears brain fog, and may be one of the most underrated supplements available. Here's what the science says."
 category: "Supplements"
----
-
-N-Acetyl Cysteine, commonly called NAC, is a supplement that has been used in hospitals for decades — yet most people in the wellness world walk right past it. It's cheap, well-researched, and does things almost no other compound can claim. If you're building a longevity-focused supplement stack, NAC deserves a serious look.
+coverImage: "/blog-images/nac-n-acetyl-cysteine-guide.png"
+---N-Acetyl Cysteine, commonly called NAC, is a supplement that has been used in hospitals for decades — yet most people in the wellness world walk right past it. It's cheap, well-researched, and does things almost no other compound can claim. If you're building a longevity-focused supplement stack, NAC deserves a serious look.
 
 ## What NAC Actually Does
 

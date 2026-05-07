@@ -1,10 +1,10 @@
 ---
 title: "VO2 Max: The Single Best Predictor of How Long You'll Live"
 date: "2026-03-05"
-excerpt: "VO2 max isn't just for elite athletes. Research shows it's the strongest predictor of all-cause mortality — stronger than smoking, blood pressure, or diabetes. Here's how to measure and improve yours."
+excerpt: "VO2 max isn't just for elite athletes. Research shows it's the strongest predictor of all-cause mortality — stronger than smoking, blood pressure, or diabetes. Here's how to…"
 category: "Recovery"
----
-## The Basics
+coverImage: "/blog-images/vo2-max-training-guide.png"
+---## The Basics
 
 | | |
 |---|---|

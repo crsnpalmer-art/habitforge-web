@@ -1,11 +1,10 @@
 ---
 title: "How to Negotiate Salary and Raises: The Strategies That Actually Work"
 date: "2026-03-08"
-excerpt: "Most people leave significant money on the table in salary negotiations. These evidence-backed strategies will help you negotiate confidently — whether you're taking a new job or asking for a raise you've earned."
+excerpt: "Most people leave significant money on the table in salary negotiations. These evidence-backed strategies will help you negotiate confidently — whether you're taking a new job…"
 category: "Finance"
----
-
-A single successful salary negotiation can compound into hundreds of thousands of dollars over a career. Since most raises and bonuses are calculated as percentages of base salary, every dollar you negotiate now is a dollar that multiplies forward for decades. Despite this, the majority of employees never negotiate at all — either from discomfort, fear of rejection, or simply not knowing how.
+coverImage: "/blog-images/negotiating-salary-and-raises.png"
+---A single successful salary negotiation can compound into hundreds of thousands of dollars over a career. Since most raises and bonuses are calculated as percentages of base salary, every dollar you negotiate now is a dollar that multiplies forward for decades. Despite this, the majority of employees never negotiate at all — either from discomfort, fear of rejection, or simply not knowing how.
 
 This guide covers the research-backed strategies that work in both job offer negotiations and internal raise conversations.
 

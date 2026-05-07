@@ -1,10 +1,10 @@
 ---
 title: "The Fresh Start Effect: How Temporal Landmarks Can Reboot Your Habits"
 date: "2026-04-03"
-excerpt: "Mondays, birthdays, new jobs, and the first of the month can create a real motivational bump. The fresh start effect explains why, and how to use it without falling into endless restarting."
+excerpt: "Mondays, birthdays, new jobs, and the first of the month can create a real motivational bump. The fresh start effect explains why, and how to use it without falling into…"
 category: "Habits"
+coverImage: /blog-images/fresh-start-effect-habit-reset.webp
 ---
-
 Most people have felt it: the urge to begin again on Monday, after a birthday, at the start of a new month, or on New Year's Day. It can seem irrational. Why should a random date change your odds of going to the gym or finally cleaning up your sleep schedule?
 
 Behavioral science suggests that those moments are not random at all. Researchers call this the **fresh start effect**: temporal landmarks can make people feel psychologically separated from their past mistakes and more motivated to act like the person they want to become.

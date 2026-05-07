@@ -1,11 +1,10 @@
 ---
 title: "Pregnenolone: The Mother Hormone and What It Does for Your Brain and Body"
 date: "2026-03-16"
-excerpt: "Pregnenolone is the precursor to nearly every major steroid hormone in the body. Here's what the research says about supplementing it for cognitive function, mood, and hormone balance."
+excerpt: "Pregnenolone is the precursor to nearly every major steroid hormone in the body. Here's what the research says about supplementing it for cognitive function, mood, and hormone…"
 category: "Supplements"
----
-
-## The Hormone Behind All Hormones
+coverImage: "/blog-images/pregnenolone-neurosteroid-guide.png"
+---## The Hormone Behind All Hormones
 
 If testosterone, cortisol, DHEA, progesterone, and estrogen are characters in your endocrine story, pregnenolone is the author. It's the precursor — the raw material from which nearly every steroid hormone in the body is synthesized. Produced primarily in the adrenal glands and in smaller amounts in the brain, liver, and gonads, pregnenolone sits at the top of the hormonal cascade.
 

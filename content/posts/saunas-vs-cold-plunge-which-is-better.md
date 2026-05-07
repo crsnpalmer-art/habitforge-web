@@ -1,11 +1,10 @@
 ---
 title: "Sauna vs. Cold Plunge: Which One Is Actually Better for You?"
 date: "2026-03-18"
-excerpt: "Both sauna and cold exposure have compelling research behind them — but they work through opposite mechanisms. Here's how to decide which fits your goals, and whether combining them is worth it."
+excerpt: "Both sauna and cold exposure have compelling research behind them — but they work through opposite mechanisms. Here's how to decide which fits your goals, and whether combining…"
 category: "Recovery"
----
-
-Few wellness debates are more heated (and cooled) than the sauna versus cold plunge question. Both have passionate advocates, both have legitimate science, and both have gone mainstream in biohacker and athletic circles over the past decade. But they're not interchangeable. Understanding what each actually does — and when to do them — is more useful than picking a winner.
+coverImage: "/blog-images/saunas-vs-cold-plunge-which-is-better.png"
+---Few wellness debates are more heated (and cooled) than the sauna versus cold plunge question. Both have passionate advocates, both have legitimate science, and both have gone mainstream in biohacker and athletic circles over the past decade. But they're not interchangeable. Understanding what each actually does — and when to do them — is more useful than picking a winner.
 
 ## What Sauna Does to Your Body
 

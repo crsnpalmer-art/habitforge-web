@@ -3,8 +3,8 @@ title: "Behavioral Activation: Why Waiting to Feel Motivated Usually Fails"
 date: "2026-04-03"
 excerpt: "Many people assume action follows motivation. Behavioral activation flips that logic: in real life, meaningful action is often what creates motivation in the first place."
 category: "Habits"
+coverImage: /blog-images/behavioral-activation-motivation-guide.webp
 ---
-
 One of the most expensive myths in self-improvement is the idea that you should act when you feel ready.
 
 In practice, that logic fails constantly. People do not clean the kitchen when they feel motivated. They usually feel a little better after they start cleaning the kitchen. They do not go for a walk because energy appeared first. The walk often creates the energy.
