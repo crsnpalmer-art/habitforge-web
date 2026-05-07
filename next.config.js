@@ -16,6 +16,8 @@ const nextConfig = {
       "./public/**/*.mp4",
       "./public/**/*.png",
       "./public/**/*.jpg",
+      "./public/**/*.jpeg",
+      "./public/**/*.webp",
       "./trailer/**/*",
     ],
   },
